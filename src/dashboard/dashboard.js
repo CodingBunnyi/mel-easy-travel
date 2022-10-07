@@ -1,4 +1,4 @@
-import * as React from 'react';
+import { useState, useEffect } from 'react';
 import { styled, createTheme, ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import MuiDrawer from '@mui/material/Drawer';
@@ -6,6 +6,7 @@ import Box from '@mui/material/Box';
 import MuiAppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import List from '@mui/material/List';
+import ListItems from './components/listItems/listItems';
 import Typography from '@mui/material/Typography';
 import Divider from '@mui/material/Divider';
 import IconButton from '@mui/material/IconButton';
@@ -15,7 +16,11 @@ import Link from '@mui/material/Link';
 import MenuIcon from '@mui/icons-material/Menu';
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import NotificationsIcon from '@mui/icons-material/Notifications';
-import { mainListItems, secondaryListItems } from './components/listItems/listItems';
+import { Routes, Route, BrowserRouter, useParams } from "react-router-dom";
+import logo from'../assets/images/logo.png';
+
+import Weather from '../weather/weather';
+import Map from '../map/map';
 
 function Copyright(props) {
   return (
@@ -78,11 +83,20 @@ const Drawer = styled(MuiDrawer, { shouldForwardProp: (prop) => prop !== 'open' 
 
 const mdTheme = createTheme();
 
-function DashboardContent() {
-  const [open, setOpen] = React.useState(true);
+const Dashboard = () => {
+  const [open, setOpen] = useState(true);
   const toggleDrawer = () => {
     setOpen(!open);
   };
+
+  // let Opath = useParams();
+
+
+  const [page, setPage] = useState('');
+
+  useEffect(() => {
+    console.log(window.location.href);
+  }, []);
 
   return (
     <ThemeProvider theme={mdTheme}>
@@ -113,7 +127,7 @@ function DashboardContent() {
               noWrap
               sx={{ flexGrow: 1 }}
             >
-              Dashboard
+              {page}
             </Typography>
             <IconButton color="inherit">
               <Badge badgeContent={4} color="secondary">
@@ -122,6 +136,8 @@ function DashboardContent() {
             </IconButton>
           </Toolbar>
         </AppBar>
+
+        <BrowserRouter>
         <Drawer variant="permanent" open={open}>
           <Toolbar
             sx={{
@@ -131,39 +147,29 @@ function DashboardContent() {
               px: [1],
             }}
           >
+            <img  src={logo} style={{width: "75%", height: "64px"}} alt="logo"/>
             <IconButton onClick={toggleDrawer}>
               <ChevronLeftIcon />
             </IconButton>
           </Toolbar>
           <Divider />
-          <List component="nav">
-            {mainListItems}
-            <Divider sx={{ my: 1 }} />
-            {secondaryListItems}
-          </List>
+          <ListItems page={page} setPage={setPage} />
         </Drawer>
-        <Box
-          component="main"
-          sx={{
-            backgroundColor: (theme) =>
-              theme.palette.mode === 'light'
-                ? theme.palette.grey[100]
-                : theme.palette.grey[900],
-            flexGrow: 1,
-            height: '100vh',
-            overflow: 'auto',
-          }}
-        >
-          <Toolbar />
-          <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
-            <Copyright sx={{ pt: 4 }} />
-          </Container>
-        </Box>
+
+        <main>
+          <Routes>
+            <Route exact path="/" element={<Weather />} />
+            <Route path="/dashboard" element={<Weather />} />
+            <Route path="/weather" element={<Weather />} />
+            <Route path="/map" element={<Map />} />
+            <Route path="/tourist-attraction" render={() => <div>tourist-attraction starred</div>} />
+            <Route path="/accommodation" render={() => <div>accommodation starred</div>} />
+          </Routes>
+        </main>
+      </BrowserRouter>
       </Box>
     </ThemeProvider>
   );
 }
 
-export default function Dashboard() {
-  return <DashboardContent />;
-}
+export default Dashboard;

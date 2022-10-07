@@ -1,74 +1,63 @@
-
-
 import * as React from 'react';
 import ListItemButton from '@mui/material/ListItemButton';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import ListSubheader from '@mui/material/ListSubheader';
+import ListItem from '@mui/material/ListItem';
 import DashboardIcon from '@mui/icons-material/Dashboard';
-import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
-import PeopleIcon from '@mui/icons-material/People';
-import BarChartIcon from '@mui/icons-material/BarChart';
-import LayersIcon from '@mui/icons-material/Layers';
+import WbSunnyIcon from '@mui/icons-material/WbSunny';
+import MapIcon from '@mui/icons-material/Map';
+import AttractionsIcon from '@mui/icons-material/Attractions';
+import ApartmentIcon from '@mui/icons-material/Apartment';
 import AssignmentIcon from '@mui/icons-material/Assignment';
+import List from '@mui/material/List';
+import Divider from '@mui/material/Divider';
+import { Switch, Route, Link, BrowserRouter } from "react-router-dom";
 
-export const mainListItems = (
-  <React.Fragment>
-    <ListItemButton>
-      <ListItemIcon>
-        <DashboardIcon />
-      </ListItemIcon>
-      <ListItemText primary="Dashboard" />
-    </ListItemButton>
-    <ListItemButton>
-      <ListItemIcon>
-        <ShoppingCartIcon />
-      </ListItemIcon>
-      <ListItemText primary="Orders" />
-    </ListItemButton>
-    <ListItemButton>
-      <ListItemIcon>
-        <PeopleIcon />
-      </ListItemIcon>
-      <ListItemText primary="Customers" />
-    </ListItemButton>
-    <ListItemButton>
-      <ListItemIcon>
-        <BarChartIcon />
-      </ListItemIcon>
-      <ListItemText primary="Reports" />
-    </ListItemButton>
-    <ListItemButton>
-      <ListItemIcon>
-        <LayersIcon />
-      </ListItemIcon>
-      <ListItemText primary="Integrations" />
-    </ListItemButton>
-  </React.Fragment>
-);
+const mainListItem = [
+  {name: "Dashboard", link: "dashboard", icon: <DashboardIcon />}, 
+  {name: "Weather", link: "weather", icon: <WbSunnyIcon />}, 
+  {name: "Map", link: "map", icon: <MapIcon />}, 
+  {name: "Tourist attraction", link: "tourist-attraction", icon: <AttractionsIcon />},
+  {name: "Accommodation", link: "accommodation", icon: <ApartmentIcon />}
+];
 
-export const secondaryListItems = (
-  <React.Fragment>
+const secondaryListItem = [
+  {name: "About MelEasyTravel", link: "about-mel-easy-travel", icon: <AssignmentIcon />}, 
+  {name: "Data", link: "data", icon: <AssignmentIcon />}, 
+  {name: "Reference", link: "reference", icon: <AssignmentIcon />}
+]
+
+const listItems = (props) => {
+  const { page, setPage } = props;
+  const handleClick = (event) => {
+    setPage(event.currentTarget.getAttribute('name'));
+  };
+
+  return (
+    <List component="nav">
+    {mainListItem.map((item) => (
+          <ListItemButton selected={page === item.name} name={item.name} onClick={handleClick} key={item.name} component={Link} to={"/" + item.link}>
+            <ListItemIcon>
+              {item.icon}
+            </ListItemIcon>
+            <ListItemText primary={item.name} />
+          </ListItemButton>
+        ))}
+    <Divider sx={{ my: 1 }} />
     <ListSubheader component="div" inset>
-      Saved reports
+      About Us
     </ListSubheader>
-    <ListItemButton>
-      <ListItemIcon>
-        <AssignmentIcon />
-      </ListItemIcon>
-      <ListItemText primary="Current month" />
-    </ListItemButton>
-    <ListItemButton>
-      <ListItemIcon>
-        <AssignmentIcon />
-      </ListItemIcon>
-      <ListItemText primary="Last quarter" />
-    </ListItemButton>
-    <ListItemButton>
-      <ListItemIcon>
-        <AssignmentIcon />
-      </ListItemIcon>
-      <ListItemText primary="Year-end sale" />
-    </ListItemButton>
-  </React.Fragment>
-);
+    {secondaryListItem.map((item) => (
+          <ListItemButton selected={page === item.name} name={item.name} onClick={handleClick} key={item.name} component={Link} to={"/" + item.link}>
+            <ListItemIcon>
+              {item.icon}
+            </ListItemIcon>
+            <ListItemText primary={item.name} />
+          </ListItemButton>
+        ))}
+  </List>
+  )
+}
+
+export default listItems;
