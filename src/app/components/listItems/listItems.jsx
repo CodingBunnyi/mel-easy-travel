@@ -3,7 +3,6 @@ import ListItemButton from '@mui/material/ListItemButton';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import ListSubheader from '@mui/material/ListSubheader';
-import ListItem from '@mui/material/ListItem';
 import DashboardIcon from '@mui/icons-material/Dashboard';
 import WbSunnyIcon from '@mui/icons-material/WbSunny';
 import MapIcon from '@mui/icons-material/Map';
@@ -12,7 +11,7 @@ import ApartmentIcon from '@mui/icons-material/Apartment';
 import AssignmentIcon from '@mui/icons-material/Assignment';
 import List from '@mui/material/List';
 import Divider from '@mui/material/Divider';
-import { Switch, Route, Link, BrowserRouter } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const mainListItem = [
   {name: "Dashboard", link: "dashboard", icon: <DashboardIcon />}, 

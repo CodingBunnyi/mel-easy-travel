@@ -1,0 +1,58 @@
+{
+  "extends": [
+    "eslint:all", 
+    "plugin:react/all"
+  ],
+  "parser": "jsx",
+  "parserOptions": { 
+    "babelOptions": { 
+      "presets": [ ["babel-preset-react-app", false] ] 
+    },
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "react/jsx-indent": ["error", 2, {"checkAttributes": true, "indentLogicalExpressions": true}],
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error",
+    "linebreak-style": 0,
+    "object-curly-newline": 0,
+    "react/prop-types": 0,
+    "import/prefer-default-export": 0,
+    "react/jsx-props-no-spreading": "off",
+    "jsx-a11y/label-has-associated-control": [
+      "error",
+      {
+        "required": {
+          "some": [
+            "nesting",
+            "id"
+          ]
+        }
+      }
+    ],
+    "jsx-a11y/label-has-for": [
+      "error",
+      {
+        "required": {
+          "some": [
+            "nesting",
+            "id"
+          ]
+        }
+      }
+    ],
+    "max-len": [
+      2,
+      200,
+      4,
+      {
+        "ignoreUrls": true
+      }
+    ]
+  }
+}

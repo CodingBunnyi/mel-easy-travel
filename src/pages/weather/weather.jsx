@@ -1,12 +1,14 @@
-import * as React from 'react';
+import React from 'react';
 
 const weather = () => (
   <>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjkserwerwertewrtehslkfhjksahlfkjhdskljfhsklajdfhksahdfksjhflksahfdkljshaklfjhsklfhkjdshflkjsahdfl
+      <div>weather pageaenfjasnfkljnsakfnaskfnksanfjkserwerwertewrtehslkfhjksahlfkjhdskljfhsklajdfhksahdfksjhflksahfdkljshaklfjhsklfhkjdshflkjsahdfl
       jaskfjlhsjklhfhfjsalrwtewrtertwertewrtewrtertewrtewjkalsdkjfhkjashfjklsahjkfhskladhflksahdfkjlhsakldfhkljsahfkljshjkdfhjkshfkjlsdhkjfhsakljhfkjlhsakj
       hjgfjkashdjfklhskjafhkjlsahdkjfhskjladhfkljshalkfhkjsal
       kjsahdfjshakjdfghjksagkjfgrtewrtertwertwertertewrtewrtewrtwedanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-
+        <div> 
+            
+        </div>
   </>
 )
 
