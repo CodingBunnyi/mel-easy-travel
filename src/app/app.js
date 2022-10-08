@@ -18,9 +18,10 @@ import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import { Routes, Route, BrowserRouter, useParams } from "react-router-dom";
 import logo from'../assets/images/logo.png';
+import styles from './app.less';
 
-import Weather from '../weather/weather';
-import Map from '../map/map';
+import Weather from '../pages/weather/weather';
+import Map from '../pages/map/map';
 
 function Copyright(props) {
   return (
@@ -60,6 +61,7 @@ const Drawer = styled(MuiDrawer, { shouldForwardProp: (prop) => prop !== 'open' 
     '& .MuiDrawer-paper': {
       position: 'relative',
       whiteSpace: 'nowrap',
+      height: '100vh',
       width: drawerWidth,
       transition: theme.transitions.create('width', {
         easing: theme.transitions.easing.sharp,
@@ -68,6 +70,7 @@ const Drawer = styled(MuiDrawer, { shouldForwardProp: (prop) => prop !== 'open' 
       boxSizing: 'border-box',
       ...(!open && {
         overflowX: 'hidden',
+        height: '100vh',
         transition: theme.transitions.create('width', {
           easing: theme.transitions.easing.sharp,
           duration: theme.transitions.duration.leavingScreen,
@@ -83,7 +86,7 @@ const Drawer = styled(MuiDrawer, { shouldForwardProp: (prop) => prop !== 'open' 
 
 const mdTheme = createTheme();
 
-const Dashboard = () => {
+const App = () => {
   const [open, setOpen] = useState(true);
   const toggleDrawer = () => {
     setOpen(!open);
@@ -156,7 +159,7 @@ const Dashboard = () => {
           <ListItems page={page} setPage={setPage} />
         </Drawer>
 
-        <main>
+        <main className={styles.mainContainer}>
           <Routes>
             <Route exact path="/" element={<Weather />} />
             <Route path="/dashboard" element={<Weather />} />
@@ -172,4 +175,4 @@ const Dashboard = () => {
   );
 }
 
-export default Dashboard;
+export default App;
