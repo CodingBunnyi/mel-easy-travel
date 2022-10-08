@@ -1,4 +1,4 @@
-import { React,useState, useEffect } from 'react';
+import { React,useState } from 'react';
 import { styled, createTheme, ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import MuiDrawer from '@mui/material/Drawer';
@@ -94,43 +94,42 @@ const App = () => {
 
   const [page, setPage] = useState('');
 
-  useEffect(() => {
-    console.log(window.location.href);
-  }, []);
-
   return ( 
-    <ThemeProvider theme={mdTheme}>
-      <Box sx={{ display: 'flex' }}>
+    <ThemeProvider theme={ mdTheme }>
+      <Box sx={ { display: 'flex' } }>
         <CssBaseline />
-        <AppBar position="absolute" open={open}>
+
+        <AppBar position="absolute" open={ open }>
           <Toolbar
-            sx={{
+            sx={ {
               pr: '24px', // keep right padding when drawer closed
-            }}
+            } }
           >
             <IconButton
               edge="start"
               color="inherit"
               aria-label="open drawer"
-              onClick={toggleDrawer}
-              sx={{
+              onClick={ toggleDrawer }
+              sx={ {
                 marginRight: '36px',
                 ...(open && { display: 'none' }),
-              }}
+              } }
             >
               <MenuIcon />
             </IconButton>
+
             <Typography
               component="h1"
               variant="h6"
               color="inherit"
               noWrap
-              sx={{ flexGrow: 1 }}
+              sx={ { flexGrow: 1 } }
             >
               {page}
             </Typography>
+
             <IconButton color="inherit">
-              <Badge badgeContent={4} color="secondary">
+              <Badge badgeContent={ 4 } color="secondary">
                 <NotificationsIcon />
               </Badge>
             </IconButton>
@@ -138,35 +137,37 @@ const App = () => {
         </AppBar>
 
         <BrowserRouter>
-        <Drawer variant="permanent" open={open}>
-          <Toolbar
-            sx={{
+          <Drawer variant="permanent" open={ open }>
+            <Toolbar
+              sx={ {
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'flex-end',
               px: [1],
-            }}
-          >
-            <img  src={logo} style={{width: "75%", height: "64px"}} alt="logo"/>
-            <IconButton onClick={toggleDrawer}>
-              <ChevronLeftIcon />
-            </IconButton>
-          </Toolbar>
-          <Divider />
-          <ListItems page={page} setPage={setPage} />
-        </Drawer>
+              } }
+            >
+              <img  src={ logo } style={ {width: "75%", height: "64px"} } alt="logo"/>
 
-        <main className="main_container">
-          <Routes>
-            <Route exact path="/" element={<Weather />} />
-            <Route path="/dashboard" element={<Weather />} />
-            <Route path="/weather" element={<Weather />} />
-            <Route path="/map" element={<Map />} />
-            <Route path="/tourist-attraction" render={() => <div>tourist-attraction starred</div>} />
-            <Route path="/accommodation" render={() => <div>accommodation starred</div>} />
-          </Routes>
-        </main>
-      </BrowserRouter>
+              <IconButton onClick={ toggleDrawer }>
+                <ChevronLeftIcon />
+              </IconButton>
+            </Toolbar>
+
+            <Divider />
+            <ListItems page={ page } setPage={ setPage } />
+          </Drawer>
+
+          <main className="main-container">
+            <Routes>
+              <Route exact path="/" element={ <Weather /> } />
+              <Route path="/dashboard" element={ <Weather /> } />
+              <Route path="/weather" element={ <Weather /> } />
+              <Route path="/map" element={ <Map /> } />
+              <Route path="/tourist-attraction" render={ () => <div>tourist-attraction starred</div> } />
+              <Route path="/accommodation" render={ () => <div>accommodation starred</div> } />
+            </Routes>
+          </main>
+        </BrowserRouter>
       </Box>
     </ThemeProvider>
   );

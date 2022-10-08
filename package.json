@@ -68,12 +68,6 @@
     "build": "NODE_ENV=development BABEL_ENV=development node scripts/build.js",
     "test": "NODE_ENV=development BABEL_ENV=development node scripts/test.js"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -144,6 +138,8 @@
     "@babel/core": "^7.19.3",
     "@babel/eslint-parser": "^7.19.1",
     "eslint": "^8.25.0",
-    "eslint-plugin-react": "^7.31.8"
+    "eslint-plugin-react": "^7.31.8",
+    "stylelint": "^14.13.0",
+    "stylelint-config-standard-scss": "^5.0.0"
   }
 }

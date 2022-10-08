@@ -35,27 +35,32 @@ const listItems = (props) => {
 
   return (
     <List component="nav">
-    {mainListItem.map((item) => (
-          <ListItemButton selected={page === item.name} name={item.name} onClick={handleClick} key={item.name} component={Link} to={"/" + item.link}>
-            <ListItemIcon>
-              {item.icon}
-            </ListItemIcon>
-            <ListItemText primary={item.name} />
-          </ListItemButton>
+      {mainListItem.map((item) => (
+        <ListItemButton selected={ page === item.name } name={ item.name } onClick={ handleClick } key={ item.name } component={ Link } to={ "/" + item.link }>
+          <ListItemIcon>
+            {item.icon}
+          </ListItemIcon>
+
+          <ListItemText primary={ item.name } />
+        </ListItemButton>
         ))}
-    <Divider sx={{ my: 1 }} />
-    <ListSubheader component="div" inset>
-      About Us
-    </ListSubheader>
-    {secondaryListItem.map((item) => (
-          <ListItemButton selected={page === item.name} name={item.name} onClick={handleClick} key={item.name} component={Link} to={"/" + item.link}>
-            <ListItemIcon>
-              {item.icon}
-            </ListItemIcon>
-            <ListItemText primary={item.name} />
-          </ListItemButton>
+
+      <Divider sx={ { my: 1 } } />
+
+      <ListSubheader component="div" inset>
+        About Us
+      </ListSubheader>
+
+      {secondaryListItem.map((item) => (
+        <ListItemButton selected={ page === item.name } name={ item.name } onClick={ handleClick } key={ item.name } component={ Link } to={ "/" + item.link }>
+          <ListItemIcon>
+            {item.icon}
+          </ListItemIcon>
+
+          <ListItemText primary={ item.name } />
+        </ListItemButton>
         ))}
-  </List>
+    </List>
   )
 }
 
