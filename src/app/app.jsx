@@ -1,10 +1,11 @@
+/* eslint-disable no-unused-vars */
 import { React, useState, useEffect } from 'react';
 import { styled, createTheme, ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import MuiDrawer from '@mui/material/Drawer';
-import Box from '@mui/material/Box';
 import MuiAppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
+import Box from '@mui/material/Box';
 import ListItems from './components/ListItems/ListItems';
 import Typography from '@mui/material/Typography';
 import Divider from '@mui/material/Divider';
@@ -14,13 +15,13 @@ import MenuIcon from '@mui/icons-material/Menu';
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import { Routes, Route, BrowserRouter } from "react-router-dom";
-import logo from'../assets/images/logo.png';
-import './App.scss';
-
 import WeatherPage from '../pages/WeatherPage/WeatherPage';
 import MapPage from '../pages/MapPage/MapPage';
 import DashboardPage from '../pages/DashboardPage/DashboardPage';
 import OpenWeatherMap from '../utils/OpenWeatherMap/OpenWeatherMap'
+import logo from'../assets/images/logo.png';
+import './App.scss';
+
 
 const drawerWidth = 240;
 
@@ -74,7 +75,7 @@ const mdTheme = createTheme();
 
 const App = () => {
   const [open, setOpen] = useState(true);
-  const [page, setPage] = useState('');
+  const [page, setPage] = useState('Dashboard');
   const [weatherData, setWeatherData] = useState({
     "coord": {
       "lon": '',
@@ -196,16 +197,28 @@ const App = () => {
             <ListItems page={ page } setPage={ setPage } />
           </Drawer>
 
-          <main className="main-container">
+          <Box
+            component="main"
+            className="main-container"
+            sx={ {
+            backgroundColor: (theme) =>
+              theme.palette.mode === 'light'
+                ? theme.palette.grey[100]
+                : theme.palette.grey[900],
+            flexGrow: 1,
+            height: '100vh',
+            overflow: 'auto',
+            } }
+        >
             <Routes>
-              <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } /> } />
-              <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } /> } />
+              <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } setPage={ setPage } /> } />
+              <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } setPage={ setPage }/> } />
               <Route path="/weather" element={ <WeatherPage weatherData={ weatherData } /> } />
               <Route path="/map" element={ <MapPage /> } />
               <Route path="/tourist-attraction" render={ () => <div>tourist-attraction starred</div> } />
               <Route path="/accommodation" render={ () => <div>accommodation starred</div> } />
             </Routes>
-          </main>
+          </Box>
         </BrowserRouter>
       </Box>
     </ThemeProvider>
