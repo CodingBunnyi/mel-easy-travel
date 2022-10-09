@@ -1,4 +1,5 @@
 import * as React from 'react';
+import './Weather.scss';
 import Link from '@mui/material/Link';
 import Typography from '@mui/material/Typography';
 
@@ -6,19 +7,27 @@ function preventDefault(event) {
   event.preventDefault();
 }
 
-// eslint-disable-next-line no-unused-vars
 export default function Weather({weatherData}) {
   
   return (
     <React.Fragment>
-      <p>Temp: {weatherData.main.temp}</p>
+      <div className="city-name-container">
+        <Typography>
+          <span className="city-name">Melbourne</span>
+        </Typography>
+      </div>
 
-      <Typography component="p" variant="h4">
-        $3,024.00
-      </Typography>
+      <div className="temp-and-icon">
+        <Typography>
+          {/* <span className="temp">{weatherData.main.temp} &#176; </span> */}
+          <span className="temp">52.15 &#176; </span>
+        </Typography>
+
+        <img className="weather-icon" src={ `http://openweathermap.org/img/wn/${weatherData.weather[0].icon}.png` } alt={ weatherData.weather[0].main }/>
+      </div>
 
       <Typography color="text.secondary" sx={ { flex: 1 } }>
-        on 15 March, 2019
+        {/* {new Date().getDate()} */}
       </Typography>
 
       <div>

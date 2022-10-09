@@ -15,5 +15,3 @@ const OpenWeatherMap = axios.create({
   });
 
 export default OpenWeatherMap;
-
-//xmlhttp -> fetch -> axios

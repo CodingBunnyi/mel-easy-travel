@@ -4,6 +4,7 @@ import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
 import Paper from '@mui/material/Paper';
 import Weather from './components/Weather/Weather';
+// eslint-disable-next-line no-unused-vars
 import Map from './components/Map/Map';
 import TouristAttraction from './components/TouristAttraction/TouristAttraction';
 
@@ -58,7 +59,7 @@ const DashboardPage = ({ weatherData }) => (
 
         <Grid item xs={ 12 }>
           <Paper sx={ { p: 2, display: 'flex', flexDirection: 'column' } }>
-            <Map />
+            {/* <Map /> */}
           </Paper>
         </Grid>
       </Grid>
