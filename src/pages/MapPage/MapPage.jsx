@@ -1,6 +1,6 @@
 import React from 'react';
 
-const map = () => (
+const MapPage = () => (
   <>
     <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
     <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
@@ -17,4 +17,4 @@ const map = () => (
   </>
 )
 
-export default map;
+export default MapPage;

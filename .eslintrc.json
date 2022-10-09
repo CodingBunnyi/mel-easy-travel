@@ -15,6 +15,7 @@
 
   ],
   "rules": {
+    "react/prop-types": "off",
     "react/jsx-indent-props": [2, 2],
     "react/jsx-indent": [2, 2, {"checkAttributes": true, "indentLogicalExpressions": true}],
     "react/jsx-newline": [2, { "prevent":true, "allowMultilines": true }],

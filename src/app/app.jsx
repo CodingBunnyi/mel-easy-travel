@@ -1,11 +1,11 @@
-import { React,useState } from 'react';
+import { React, useState, useEffect } from 'react';
 import { styled, createTheme, ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import MuiDrawer from '@mui/material/Drawer';
 import Box from '@mui/material/Box';
 import MuiAppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
-import ListItems from './components/listItems/listItems';
+import ListItems from './components/ListItems/ListItems';
 import Typography from '@mui/material/Typography';
 import Divider from '@mui/material/Divider';
 import IconButton from '@mui/material/IconButton';
@@ -15,23 +15,12 @@ import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import logo from'../assets/images/logo.png';
-import './app.scss';
+import './App.scss';
 
-import Weather from '../pages/weather/weather';
-import Map from '../pages/map/map';
-
-// function Copyright(props) {
-//   return (
-//     <Typography variant="body2" color="text.secondary" align="center" {...props}>
-//       {'Copyright © '}
-//       <Link color="inherit" href="https://mui.com/">
-//         Your Website
-//       </Link>{' '}
-//       {new Date().getFullYear()}
-//       {'.'}
-//     </Typography>
-//   );
-// }
+import WeatherPage from '../pages/WeatherPage/WeatherPage';
+import MapPage from '../pages/MapPage/MapPage';
+import DashboardPage from '../pages/DashboardPage/DashboardPage';
+import OpenWeatherMap from '../utils/OpenWeatherMap/OpenWeatherMap'
 
 const drawerWidth = 240;
 
@@ -85,14 +74,64 @@ const mdTheme = createTheme();
 
 const App = () => {
   const [open, setOpen] = useState(true);
+  const [page, setPage] = useState('');
+  const [weatherData, setWeatherData] = useState({
+    "coord": {
+      "lon": '',
+      "lat": '',
+    },
+    "weather": [
+      {
+        "id": '',
+        "main": '',
+        "description": '',
+        "icon": ''
+      }
+    ],
+    "base": "",
+    "main": {
+      "temp": '',
+      "feels_like": '',
+      "temp_min": '',
+      "temp_max": '',
+      "pressure": '',
+      "humidity": ''
+    },
+    "visibility": '',
+    "wind": {
+      "speed": '',
+      "deg": ''
+    },
+    "clouds": {
+      "all": ''
+    },
+    "dt": '',
+    "sys": {
+      "type": '',
+      "id": '',
+      "country": '',
+      "sunrise": '',
+      "sunset": ''
+    },
+    "timezone": '',
+    "id": '',
+    "name": '',
+    "cod": ''
+  });
+
   const toggleDrawer = () => {
     setOpen(!open);
   };
 
-  // let Opath = useParams();
-
-
-  const [page, setPage] = useState('');
+  useEffect(() => {
+    const getCurrentCityWeather = async () => {
+      const {status, data} = await OpenWeatherMap('weather');
+      if (status === 200) {
+        setWeatherData(data)
+      }
+    }
+    getCurrentCityWeather();
+  }, []);
 
   return ( 
     <ThemeProvider theme={ mdTheme }>
@@ -159,10 +198,10 @@ const App = () => {
 
           <main className="main-container">
             <Routes>
-              <Route exact path="/" element={ <Weather /> } />
-              <Route path="/dashboard" element={ <Weather /> } />
-              <Route path="/weather" element={ <Weather /> } />
-              <Route path="/map" element={ <Map /> } />
+              <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } /> } />
+              <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } /> } />
+              <Route path="/weather" element={ <WeatherPage weatherData={ weatherData } /> } />
+              <Route path="/map" element={ <MapPage /> } />
               <Route path="/tourist-attraction" render={ () => <div>tourist-attraction starred</div> } />
               <Route path="/accommodation" render={ () => <div>accommodation starred</div> } />
             </Routes>

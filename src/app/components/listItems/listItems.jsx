@@ -27,7 +27,7 @@ const secondaryListItem = [
   {name: "Reference", link: "reference", icon: <AssignmentIcon />}
 ]
 
-const listItems = (props) => {
+const ListItems = (props) => {
   const { page, setPage } = props;
   const handleClick = (event) => {
     setPage(event.currentTarget.getAttribute('name'));
@@ -64,4 +64,4 @@ const listItems = (props) => {
   )
 }
 
-export default listItems;
+export default ListItems;
