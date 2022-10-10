@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import { React, useState, useEffect } from 'react';
 import { styled, createTheme, ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
@@ -20,6 +19,7 @@ import MapPage from '../pages/MapPage/MapPage';
 import DashboardPage from '../pages/DashboardPage/DashboardPage';
 import OpenWeatherMap from '../utils/OpenWeatherMap/OpenWeatherMap'
 import logo from'../assets/images/logo.png';
+import { listItem } from './components/ListItemTable/ListItemTable';
 import './App.scss';
 
 
@@ -76,6 +76,18 @@ const mdTheme = createTheme();
 const App = () => {
   const [open, setOpen] = useState(true);
   const [page, setPage] = useState('Dashboard');
+
+  const updatePageName = () => {
+    // eslint-disable-next-line no-undef
+    const urlElements = window.location.href.split('/')
+    listItem.forEach((element) => {
+      if (element.link === urlElements[urlElements.length - 1]) {
+        setPage(element.name);
+        return;
+      }
+    })
+  }
+
   const [weatherData, setWeatherData] = useState({
     "coord": {
       "lon": '',
@@ -134,49 +146,53 @@ const App = () => {
     getCurrentCityWeather();
   }, []);
 
+  useEffect(() => {
+    updatePageName();
+  }, []);
+
   return ( 
     <ThemeProvider theme={ mdTheme }>
       <Box sx={ { display: 'flex' } }>
         <CssBaseline />
 
-        <AppBar position="absolute" open={ open }>
-          <Toolbar
-            sx={ {
-              pr: '24px', // keep right padding when drawer closed
-            } }
-          >
-            <IconButton
-              edge="start"
-              color="inherit"
-              aria-label="open drawer"
-              onClick={ toggleDrawer }
+        <BrowserRouter>
+          <AppBar position="absolute" open={ open }>
+            <Toolbar
               sx={ {
+              pr: '24px', // keep right padding when drawer closed
+              } }
+          >
+              <IconButton
+                edge="start"
+                color="inherit"
+                aria-label="open drawer"
+                onClick={ toggleDrawer }
+                sx={ {
                 marginRight: '36px',
                 ...(open && { display: 'none' }),
-              } }
+                } }
             >
-              <MenuIcon />
-            </IconButton>
+                <MenuIcon />
+              </IconButton>
 
-            <Typography
-              component="h1"
-              variant="h6"
-              color="inherit"
-              noWrap
-              sx={ { flexGrow: 1 } }
+              <Typography
+                component="h1"
+                variant="h6"
+                color="inherit"
+                noWrap
+                sx={ { flexGrow: 1 } }
             >
-              {page}
-            </Typography>
+                {page}
+              </Typography>
 
-            <IconButton color="inherit">
-              <Badge badgeContent={ 4 } color="secondary">
-                <NotificationsIcon />
-              </Badge>
-            </IconButton>
-          </Toolbar>
-        </AppBar>
+              <IconButton color="inherit">
+                <Badge badgeContent={ 4 } color="secondary">
+                  <NotificationsIcon />
+                </Badge>
+              </IconButton>
+            </Toolbar>
+          </AppBar>
 
-        <BrowserRouter>
           <Drawer variant="permanent" open={ open }>
             <Toolbar
               sx={ {
