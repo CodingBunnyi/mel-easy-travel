@@ -17,11 +17,13 @@ import { Routes, Route, BrowserRouter } from "react-router-dom";
 import WeatherPage from '../pages/WeatherPage/WeatherPage';
 import MapPage from '../pages/MapPage/MapPage';
 import DashboardPage from '../pages/DashboardPage/DashboardPage';
-import OpenWeatherMap from '../utils/OpenWeatherMap/OpenWeatherMap'
+import AccommodationPage from '../pages/AccommodationPage/AccomondationPage';
+import TouristAttractionPage from '../pages/TouristAttractionPage/TouristAttractionPage';
+import { getOneCallWeatherData } from '../utils/OpenWeatherApi/OpenWeatherApi'
 import logo from'../assets/images/logo.png';
 import { listItem } from './components/ListItemTable/ListItemTable';
 import './App.scss';
-
+import initialWeatherData from './initialWeatherData.json';
 
 const drawerWidth = 240;
 
@@ -88,49 +90,7 @@ const App = () => {
     })
   }
 
-  const [weatherData, setWeatherData] = useState({
-    "coord": {
-      "lon": '',
-      "lat": '',
-    },
-    "weather": [
-      {
-        "id": '',
-        "main": '',
-        "description": '',
-        "icon": ''
-      }
-    ],
-    "base": "",
-    "main": {
-      "temp": '',
-      "feels_like": '',
-      "temp_min": '',
-      "temp_max": '',
-      "pressure": '',
-      "humidity": ''
-    },
-    "visibility": '',
-    "wind": {
-      "speed": '',
-      "deg": ''
-    },
-    "clouds": {
-      "all": ''
-    },
-    "dt": '',
-    "sys": {
-      "type": '',
-      "id": '',
-      "country": '',
-      "sunrise": '',
-      "sunset": ''
-    },
-    "timezone": '',
-    "id": '',
-    "name": '',
-    "cod": ''
-  });
+  const [weatherData, setWeatherData] = useState(initialWeatherData);
 
   const toggleDrawer = () => {
     setOpen(!open);
@@ -138,7 +98,7 @@ const App = () => {
 
   useEffect(() => {
     const getCurrentCityWeather = async () => {
-      const {status, data} = await OpenWeatherMap('weather');
+      const {status, data} = await getOneCallWeatherData();
       if (status === 200) {
         setWeatherData(data)
       }
@@ -231,8 +191,8 @@ const App = () => {
               <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } setPage={ setPage }/> } />
               <Route path="/weather" element={ <WeatherPage weatherData={ weatherData } /> } />
               <Route path="/map" element={ <MapPage /> } />
-              <Route path="/tourist-attraction" render={ () => <div>tourist-attraction starred</div> } />
-              <Route path="/accommodation" render={ () => <div>accommodation starred</div> } />
+              <Route path="/tourist-attraction" element={ <AccommodationPage /> } />
+              <Route path="/accommodation" element={ <TouristAttractionPage /> } />
             </Routes>
           </Box>
         </BrowserRouter>

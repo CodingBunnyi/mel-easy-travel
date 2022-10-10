@@ -1,0 +1,102 @@
+{
+  "lat": "",
+  "lon": "",
+  "timezone": "",
+  "timezone_offset": "",
+  "current": {
+      "dt": "",
+      "sunrise": "",
+      "sunset": "",
+      "temp": "",
+      "feels_like": "",
+      "pressure": "",
+      "humidity": "",
+      "dew_point": "",
+      "uvi": "",
+      "clouds": "",
+      "visibility": "",
+      "wind_speed": "",
+      "wind_deg": "",
+      "wind_gust": "",
+      "weather": [
+          {
+              "id": "",
+              "main": "",
+              "description": "",
+              "icon": ""
+          }
+      ]
+  },
+  "minutely": [
+      {
+          "dt": "",
+          "precipitation": ""
+      }
+  ],
+  "hourly": [
+      {
+          "dt": "",
+          "temp": "",
+          "feels_like": "",
+          "pressure": "",
+          "humidity": "",
+          "dew_point": "",
+          "uvi": "",
+          "clouds": "",
+          "visibility": "",
+          "wind_speed": "",
+          "wind_deg": "",
+          "wind_gust": "",
+          "weather": [
+              {
+                  "id": "",
+                  "main": "",
+                  "description": "",
+                  "icon": ""
+              }
+          ],
+          "pop": ""
+      }
+  ],
+  "daily": [
+      {
+          "dt": "",
+          "sunrise": "",
+          "sunset": "",
+          "moonrise": "",
+          "moonset": "",
+          "moon_phase": "",
+          "temp": {
+              "day": "",
+              "min": "",
+              "max": "",
+              "night": "",
+              "eve": "",
+              "morn": ""
+          },
+          "feels_like": {
+              "day": "",
+              "night": "",
+              "eve": "",
+              "morn": ""
+          },
+          "pressure": "",
+          "humidity": "",
+          "dew_point": "",
+          "wind_speed": "",
+          "wind_deg": "",
+          "wind_gust": "",
+          "weather": [
+              {
+                  "id": "",
+                  "main": "",
+                  "description": "",
+                  "icon": ""
+              }
+          ],
+          "clouds": "",
+          "pop": "",
+          "uvi": ""
+      }
+  ]
+}

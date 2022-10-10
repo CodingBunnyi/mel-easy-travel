@@ -7,7 +7,6 @@ import Typography from '@mui/material/Typography';
 
 export default function Weather({weatherData, setPage}) {
   const [time, setTime] = useState(new Date().toLocaleTimeString());
-  
   const handleClick = () => {
     setPage('Weather');
   }
@@ -24,7 +23,7 @@ export default function Weather({weatherData, setPage}) {
   return (
     <React.Fragment>
       <Typography color="text.secondary" sx={ { flex: 1 } }>
-        {new Date().toDateString()} {time}
+        <span className="time">{new Date().toDateString()} {time}</span>
       </Typography>
 
       <Typography>
@@ -33,23 +32,27 @@ export default function Weather({weatherData, setPage}) {
 
       <div className="temp-and-icon">
         <Typography>
-          <span className="temp">{weatherData.main.temp} &#176; </span>
+          <span className="temp">{weatherData.current.temp} °C </span>
         </Typography>
 
-        <img className="weather-icon" src={ `http://openweathermap.org/img/wn/${weatherData.weather[0].icon}.png` } alt={ weatherData.weather[0].main }/>
+        <img className="weather-icon" src={ `http://openweathermap.org/img/wn/${weatherData.current.weather[0].icon}.png` } alt={ weatherData.current.weather[0].main }/>
       </div>
 
-      <Typography  sx={ { flex: 1 } }>
-        Humidity: {weatherData.main.humidity}
+      <Typography sx={ { flex: 1 } }>
+        <span className="description">Feels like {weatherData.current.feels_like}°C. {weatherData.current.weather[0].main}.</span>
       </Typography>
 
       <Typography  sx={ { flex: 1 } }>
-        Wind: {weatherData.wind.speed}
+        <span className="addition-info">Humidity: {weatherData.current.humidity}%</span>
+      </Typography>
+
+      <Typography  sx={ { flex: 1 } }>
+        <span className="addition-info">Wind: {weatherData.current.wind_speed}m/s</span>
       </Typography>
 
       <div>
         <Link color="primary" to="/weather" onClick={ handleClick }>
-          View details
+          View weather details
         </Link>
       </div>
     </React.Fragment>

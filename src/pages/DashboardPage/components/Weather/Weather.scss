@@ -1,5 +1,6 @@
 .city-name {
   font-size: 22px;
+  font-weight: bold;
 }
 
 .temp {
@@ -15,6 +16,14 @@
   display: flex;
 }
 
-.temp-typography {
+.description {
+  font-weight: bold;
+}
 
+.time {
+  font-size:14px;
+}
+
+.addition-info {
+  font-size: 14px;
 }

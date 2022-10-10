@@ -1,20 +1,7 @@
 import React from 'react';
 
 const MapPage = () => (
-  <>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-    <div>weather pageaenfjasnfkljnsakfnaskfnksanfjksdanfkjnsakfnksajnfdkjsanfkjsanfkanslfnsafjnafkjdnasflksan</div>
-  </>
+  <div>This is map page</div>
 )
 
 export default MapPage;
