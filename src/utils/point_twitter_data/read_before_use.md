@@ -93,7 +93,7 @@ print("test finished")
 test finished
 ```  
   
-#### Sample JSON
+#### Sample JSON output:
 ```JSON
 [
     {
