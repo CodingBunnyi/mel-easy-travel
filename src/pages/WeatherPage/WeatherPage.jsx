@@ -1,6 +1,7 @@
 import { Typography } from '@mui/material';
 import React from 'react';
 import timeConverter from '../../utils/timeConverter';
+import WeatherLineChart from '../DashboardPage/components/Weather/components/WeatherChart';
 
 const WeatherPage = ({weatherData}) => {
 
@@ -12,7 +13,8 @@ const WeatherPage = ({weatherData}) => {
         </Typography>
 
         {weatherData.daily.map((item, index) => {
-          const time = timeConverter(item.dt);
+          const { day, date, month } = timeConverter(item.dt);
+          const  time =  day + ', ' + date + ' ' + month;
           return(
             <div key={ index }>
               <span>{time}</span>
@@ -22,6 +24,8 @@ const WeatherPage = ({weatherData}) => {
             </div>
           )
         })}
+
+        <WeatherLineChart weatherData={ weatherData }/>
       </div>   
     </>
 )}
