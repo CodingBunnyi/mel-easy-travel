@@ -19,6 +19,7 @@ import MapPage from '../pages/MapPage/MapPage';
 import DashboardPage from '../pages/DashboardPage/DashboardPage';
 import AccommodationPage from '../pages/AccommodationPage/AccomondationPage';
 import TouristAttractionPage from '../pages/TouristAttractionPage/TouristAttractionPage';
+import AboutMelEasyTravelPage from '../pages/AboutMelEasyTravelPage/AboutMelEasyTravelPage';
 import { getOneCallWeatherData } from '../utils/OpenWeatherApi/OpenWeatherApi'
 import logo from'../assets/images/logo.png';
 import { listItem } from './components/ListItemTable/ListItemTable';
@@ -193,6 +194,7 @@ const App = () => {
               <Route path="/map" element={ <MapPage /> } />
               <Route path="/tourist-attraction" element={ <AccommodationPage /> } />
               <Route path="/accommodation" element={ <TouristAttractionPage /> } />
+              <Route path="/about-mel-easy-travel" element={ <AboutMelEasyTravelPage /> } />
             </Routes>
           </Box>
         </BrowserRouter>
