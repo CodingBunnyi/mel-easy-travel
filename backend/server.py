@@ -2,7 +2,8 @@
 from flask import Flask, request
 
 import datetime
-  
+
+
 x = datetime.datetime.now()
   
 # Initializing flask app
@@ -15,9 +16,12 @@ def get_time():
     # Returning an api for showing in  reactj
     hello = request.args.get('hello', None)
     world = request.args.get('world', None)
+
+
     return f'{hello}...{world}'
   
       
 # Running app
 if __name__ == '__main__':
     app.run(debug=True)
+
