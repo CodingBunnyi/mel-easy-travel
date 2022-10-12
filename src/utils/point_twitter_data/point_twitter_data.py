@@ -12,6 +12,7 @@ import json
 CLIENT = tweepy.Client(
     'AAAAAAAAAAAAAAAAAAAAABrRgQEAAAAApgWpwtfUugKLiKVuISXvrDAT2lY%3DuvaZHF5og05xFjeOCDx6rICuPl0OU75PSPi7J0luqAi3OrIJmR')
 
+
 # Convert a point coordinate to a radius search query
 # You won't need this
 def generate_query(long: float, lat: float, radius: float):
@@ -64,7 +65,6 @@ def generate_paginator(query: str, hours: float, days: float):
 # Search tweets
 # See example in main()
 def search_tweet(long: float, lat: float, radius: float, hours: float = None, days: float = None, save: bool = False):
-
     if hours is None and days is None:
         hours = 1.0
         days = 0.0
@@ -92,29 +92,22 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
         try:
             users = page.includes['users']
             username_dict = {user.id: user.name for user in users}
-        except (KeyError, TypeError) as e:
+        except (KeyError, TypeError):
             username_dict = {}
 
         # Create place dictionary
         try:
             places = page.includes['places']
             place_dict = {place.id: place for place in places}
-        except (KeyError, TypeError) as e:
+        except (KeyError, TypeError):
             place_dict = {}
 
         # Create media dictionary
         try:
             medias = page.includes['media']
             media_dict = {media.media_key: media for media in medias}
-        except (KeyError, TypeError) as e:
+        except (KeyError, TypeError):
             media_dict = {}
-
-        # media_dict = {}
-        # for media in medias:
-        #     try:
-        #         media_dict[media['media_key']] = media['url']
-        #     except KeyError as e:
-        #         media_dict[media['media_key']] = media['preview_image_url']
 
         # Collect tweet data
         # In case there is no tweets in the give time period
@@ -173,7 +166,7 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
                     longitude, latitude = tweet.geo['coordinates']['coordinates']
                     temp_result['longitude'] = longitude
                     temp_result['latitude'] = latitude
-                except KeyError as e:
+                except KeyError:
                     bbox = place_dict[tweet.geo['place_id']].geo['bbox']
                     longitude = (bbox[0] + bbox[2]) / 2
                     latitude = (bbox[1] + bbox[3]) / 2
@@ -184,9 +177,9 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
                         or temp_result['place_type'] is None or temp_result['place_type'] == '':
                     continue
 
-            except (KeyError, TypeError) as e1:
+            except (KeyError, TypeError):
                 continue
-            except IndexError as e2:
+            except IndexError:
                 print("unknown type of coordinate")
                 continue
 
@@ -274,7 +267,7 @@ def count_7_days_tweet(long: float, lat: float, radius: float, granularity: str 
 
 # Save a dictionary to JSON file
 # You won't need this
-def save_dict_json(dictionary: dict, filename: str):
+def save_dict_json(dictionary, filename: str):
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(dictionary, f, ensure_ascii=False, indent=4)
