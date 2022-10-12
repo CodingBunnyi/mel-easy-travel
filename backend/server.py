@@ -1,5 +1,5 @@
 # Import flask and datetime module for showing date and time
-from flask import Flask
+from flask import Flask, request
 
 import datetime
   
@@ -10,16 +10,12 @@ app = Flask(__name__)
   
   
 # Route for seeing a data
-@app.route('/data')
+@app.route('/data', methods=['get'])
 def get_time():
-  
-    # Returning an api for showing in  reactjs
-    return {
-        'Name':"geek", 
-        "Age":"22",
-        "Date":x, 
-        "programming":"python"
-        }
+    # Returning an api for showing in  reactj
+    hello = request.args.get('hello', None)
+    world = request.args.get('world', None)
+    return f'{hello}...{world}'
   
       
 # Running app
