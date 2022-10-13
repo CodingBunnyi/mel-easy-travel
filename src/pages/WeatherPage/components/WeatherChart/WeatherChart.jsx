@@ -1,6 +1,6 @@
 import React from 'react';
-import timeConverter from '../../../../../utils/timeConverter';
-import timeConverter24To12 from '../../../../../utils/timeConverter24To12';
+import timeConverter from '../../../../utils/timeConverter';
+import timeConverter24To12 from '../../../../utils/timeConverter24To12';
 import { CartesianGrid, Legend, Line, ComposedChart, Tooltip, XAxis, YAxis, Bar, Area } from 'recharts';
 import { useTheme } from '@mui/material/styles';
 import './WeatherChart.scss';

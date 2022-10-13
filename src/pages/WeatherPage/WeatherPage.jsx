@@ -1,7 +1,9 @@
 import { Typography } from '@mui/material';
 import React from 'react';
+// import 'leaflet/dist/leaflet.css';
 import timeConverter from '../../utils/timeConverter';
-import WeatherLineChart from '../DashboardPage/components/Weather/components/WeatherChart';
+import WeatherLineChart from './components/WeatherChart/WeatherChart';
+import WeatherMap from './components/WeatherMap/WeatherMap';
 
 const WeatherPage = ({weatherData}) => {
 
@@ -26,6 +28,10 @@ const WeatherPage = ({weatherData}) => {
         })}
 
         <WeatherLineChart weatherData={ weatherData }/>
+        
+        <div>
+          <WeatherMap />
+        </div>
       </div>   
     </>
 )}

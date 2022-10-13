@@ -1,7 +1,8 @@
 import React from 'react';
+import WeatherMap from '../WeatherPage/components/WeatherMap/WeatherMap';
 
 const MapPage = () => (
-  <div>This is map page</div>
+  <WeatherMap />
 )
 
 export default MapPage;
