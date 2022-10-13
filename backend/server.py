@@ -8,17 +8,27 @@ import history
 import realtime
 
 
+# DEFAULT VALUES
+DEFAULT_LOCATION = 'UniversityOfMelbourne'
+DEFAULT_LONG = 144.9610
+DEFAULT_LAT = -37.7983
+DEFAULT_RADIUS = 1.5
+DEFAULT_DAYS = 0
+DEFAULT_HOURS = 1
+
+
 # Initializing flask app
-app = Flask(__name__)
+def initialize():
+    # Update stopwords list
+    nltk.download('stopwords')
 
-
-# Update data and stopwords before start app
-def before_start_call():
     # Update Data
     print(f'Data updates: {updater.update_all_data()}')
 
-    # Update stopwords list
-    nltk.download('stopwords')
+    return Flask(__name__)
+
+
+app = initialize()
 
 
 # Update all cached data
@@ -36,7 +46,7 @@ def update_all():
 # Not for normal use. USE WITH CAUTION.
 @app.route('/update-location-data', methods=['get'])
 def update_location():
-    location = request.args.get('location', None)
+    location = request.args.get('location', default=DEFAULT_LOCATION)
 
     return updater.update_location_data(location)
 
@@ -46,20 +56,23 @@ def update_location():
 # Need location name.
 @app.route('/word-cloud-data', methods=['get'])
 def get_word_cloud():
-    location = request.args.get('location', None)
+    location = request.args.get('location', default=DEFAULT_LOCATION)
 
     return wordcloud.word_cloud_data(location)
 
 
 # Get cached history twitter data of a predefined location within a given time period
 # Need location name, days, hours.
-# Default days and hours are 0 if not passed
+# Default days is 0 and hours is 1 if not passed
 # Max 7 days. > 7 days will return all cached data.
 @app.route('/history-location-data', methods=['get'])
 def get_history_location():
-    location = request.args.get('location', None)
-    days = float(request.args.get('days', None))
-    hours = float(request.args.get('hours', None))
+    location = request.args.get('location', default=DEFAULT_LOCATION)
+    try:
+        days = float(request.args.get('days', default=DEFAULT_DAYS))
+        hours = float(request.args.get('hours', default=DEFAULT_HOURS))
+    except (TypeError, ValueError, NameError):
+        return 'Parameter Value Error'
 
     return history.history_location_data(location, days, hours)
 
@@ -70,10 +83,13 @@ def get_history_location():
 # Max hour is 24!!! > 24 hours will return 24 hours data.
 @app.route('/realtime-point-data', methods=['get'])
 def get_realtime_point():
-    long = float(request.args.get('long', None))
-    lat = float(request.args.get('lat', None))
-    radius = float(request.args.get('radius', None))
-    hours = float(request.args.get('hours', None))
+    try:
+        long = float(request.args.get('long', default=DEFAULT_LONG))
+        lat = float(request.args.get('lat', default=DEFAULT_LAT))
+        radius = float(request.args.get('radius', default=DEFAULT_RADIUS))
+        hours = float(request.args.get('hours', default=DEFAULT_HOURS))
+    except (TypeError, ValueError, NameError):
+        return 'Parameter Value Error'
 
     return realtime.realtime_point_data(long, lat, radius, hours)
 
@@ -84,14 +100,16 @@ def get_realtime_point():
 # Max hour is 24!!! > 24 hours will return 24 hours data.
 @app.route('/realtime-location-data', methods=['get'])
 def get_realtime_location():
-    location = request.args.get('location', None)
-    radius = float(request.args.get('radius', None))
-    hours = float(request.args.get('hours', None))
+    location = request.args.get('location', default=DEFAULT_LOCATION)
+    try:
+        radius = float(request.args.get('radius', default=DEFAULT_RADIUS))
+        hours = float(request.args.get('hours', default=DEFAULT_HOURS))
+    except (TypeError, ValueError, NameError):
+        return 'Parameter Value Error'
 
     return realtime.realtime_location_data(location, radius, hours)
 
 
 # Running app
 if __name__ == '__main__':
-    # before_start_call()
     app.run(debug=True)

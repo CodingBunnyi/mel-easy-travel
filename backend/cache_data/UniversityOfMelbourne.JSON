@@ -1,6 +1,204 @@
 {
-    "count": 187,
+    "count": 189,
     "data": [
+        {
+            "tid": 1580539884783423489,
+            "uid": 1532834563512487936,
+            "author": "Dr Matthew Prendergast",
+            "time": "2022-10-13 12:44:08 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "From a recent visit to Melbourne. Ceratopsia are my favourite. https://t.co/97kxKtwXpE",
+            "clean_text": "From a recent visit to Melbourne Ceratopsia are my favourite",
+            "place_name": "Melbourne Museum",
+            "place_type": "poi",
+            "longitude": 144.9716967344284,
+            "latitude": -37.80348577825057,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe80lG6aAAEimm4.jpg"
+            ]
+        },
+        {
+            "tid": 1580498093187149831,
+            "uid": 1571392668306898947,
+            "author": "TheNewsAlerts",
+            "time": "2022-10-13 09:58:04 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "#MarriedSightsEllaDingshocksfansrevealingSHAVEDhead Married At First Sight's Ella Ding shocks fans by revealing her SHAVED head - Daily Mail https://t.co/hwIz8uxsIF https://t.co/OsbUlhjQab",
+            "clean_text": "Married At First Sight's Ella Ding shocks fans by revealing her SHAVED head Daily Mail",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96342325,
+            "latitude": -37.81166365,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe8Oo9bagAEjNur.jpg"
+            ]
+        },
+        {
+            "tid": 1580496088381165568,
+            "uid": 1571392668306898947,
+            "author": "TheNewsAlerts",
+            "time": "2022-10-13 09:50:06 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "A Current Affair: Chris O'Keefe emerges as 'hot favourite' to replace Tracy Grimshaw - Daily Mail https://t.co/8Cb4xJj1rj https://t.co/22ruxKFUMg",
+            "clean_text": "A Current Affair Chris O'Keefe emerges as 'hot favourite' to replace Tracy Grimshaw Daily Mail",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96342325,
+            "latitude": -37.81166365,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe8M0ShagAYSg4C.jpg"
+            ]
+        },
+        {
+            "tid": 1580496079032045568,
+            "uid": 1571392668306898947,
+            "author": "TheNewsAlerts",
+            "time": "2022-10-13 09:50:04 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Iconic Australian director Bruce Beresford on his little-known military background - Sydney Morning Herald https://t.co/5HgLEzFZDE https://t.co/0CRLNfwppk",
+            "clean_text": "Iconic Australian director Bruce Beresford on his little known military background Sydney Morning Herald",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96342325,
+            "latitude": -37.81166365,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe8MzuVaAAA_I_3.jpg"
+            ]
+        },
+        {
+            "tid": 1580494832916893696,
+            "uid": 1571392668306898947,
+            "author": "TheNewsAlerts",
+            "time": "2022-10-13 09:45:06 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Apparel, footwear purchases rise in Australia's Aug household spending - https://t.co/hIQd43wX6Z https://t.co/6qUIilNApL https://t.co/sECYpBrgIY",
+            "clean_text": "Apparel footwear purchases rise in Australia's Aug household spending",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96704668,
+            "latitude": -37.81082184,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe8LrLhaUAA7-7n.jpg"
+            ]
+        },
+        {
+            "tid": 1580484208446779393,
+            "uid": 22737337,
+            "author": "Rob Escudero",
+            "time": "2022-10-13 09:02:53 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Can I have an extra serving of attitude please? @ Carlton, Victoria, Australia https://t.co/dekCDdC2tc",
+            "clean_text": "Can I have an extra serving of attitude please Carlton Victoria Australia",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9684,
+            "latitude": -37.8007,
+            "photo_urls": []
+        },
+        {
+            "tid": 1580472435018981376,
+            "uid": 1008332544893317120,
+            "author": "Yarra City Driving School",
+            "time": "2022-10-13 08:16:06 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Carlton, Victoria, Australia https://t.co/lTtykUy5Mm",
+            "clean_text": "Just posted a photo Carlton Victoria Australia",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9684,
+            "latitude": -37.8007,
+            "photo_urls": []
+        },
+        {
+            "tid": 1580465252717580288,
+            "uid": 911430326,
+            "author": "Melbourne Law School",
+            "time": "2022-10-13 07:47:34 +0000",
+            "like_no": 6,
+            "language": "en",
+            "text": "Thank you, @MarkDreyfusKCMP for delivering an insightful presentation on the rule of law in Australia and internationally at tonight’s Seabrook Chambers Public Lecture. https://t.co/wNgKP8YvHG",
+            "clean_text": "Thank you for delivering an insightful presentation on the rule of law in Australia and internationally at tonight s Seabrook Chambers Public Lecture",
+            "place_name": "Law Building GM-15 - Melbourne University",
+            "place_type": "poi",
+            "longitude": 144.95959117881173,
+            "latitude": -37.80245502035752,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe7wxA2UcAA51_l.jpg"
+            ]
+        },
+        {
+            "tid": 1580462097325924352,
+            "uid": 793416191184207872,
+            "author": "Luna Joy",
+            "time": "2022-10-13 07:35:02 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "Rescued a Blåhaj today, returned them to their natural habitat ☺️💜 https://t.co/h1KbcSCzqM",
+            "clean_text": "Rescued a Bl haj today returned them to their natural habitat",
+            "place_name": "Melbourne Museum",
+            "place_type": "poi",
+            "longitude": 144.9716967344284,
+            "latitude": -37.80348577825057,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe7t3EHVEAAsoXf.jpg"
+            ]
+        },
+        {
+            "tid": 1580460179812143104,
+            "uid": 22700231,
+            "author": "James Nolen",
+            "time": "2022-10-13 07:27:25 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Well that’s a first for me! Goblin pumpkins at the Vegetable Connection, Fitzroy. #jfn_fitzroyalty #thevegetableconnection #victoriastreet #fitzroy #goblinpumkin @ Fitzroy, Victoria https://t.co/fIzqKGZrUo",
+            "clean_text": "Well that s a first for me Goblin pumpkins at the Vegetable Connection Fitzroy Fitzroy Victoria",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9793,
+            "latitude": -37.8023,
+            "photo_urls": []
+        },
+        {
+            "tid": 1580457877633847296,
+            "uid": 911430326,
+            "author": "Melbourne Law School",
+            "time": "2022-10-13 07:18:16 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "@MarkDreyfusKCMP discusses the latest findings of the Australian Law Commission Report on judicial bias, Without Fear or Favour: Judicial Impartiality and the Law on Bias.\n \n“As Attorney General, I have an important role to play in safeguarding and promoting the rule of law.” https://t.co/7whDMFdzh5",
+            "clean_text": "discusses the latest findings of the Australian Law Commission Report on judicial bias Without Fear or Favour Judicial Impartiality and the Law on Bias As Attorney General I have an important role to play in safeguarding and promoting the rule of law",
+            "place_name": "Law Building GM-15 - Melbourne University",
+            "place_type": "poi",
+            "longitude": 144.95959117881173,
+            "latitude": -37.80245502035752,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe7qDu_VQAExgf2.jpg"
+            ]
+        },
+        {
+            "tid": 1580457865982095362,
+            "uid": 911430326,
+            "author": "Melbourne Law School",
+            "time": "2022-10-13 07:18:13 +0000",
+            "like_no": 55,
+            "language": "en",
+            "text": "We’re delighted to welcome the Attorney-General of Australia Mark Dreyfus KC MP to present the 2022 Seabrook Chambers Public Lecture at Melbourne Law School tonight.\n \n@MarkDreyfusKCMP will share his thoughts on the need to strengthen the rule of law in this country. https://t.co/9d529BIpzP",
+            "clean_text": "We re delighted to welcome the Attorney General of Australia Mark Dreyfus KC MP to present the 2022 Seabrook Chambers Public Lecture at Melbourne Law School tonight will share his thoughts on the need to strengthen the rule of law in this country",
+            "place_name": "Law Building GM-15 - Melbourne University",
+            "place_type": "poi",
+            "longitude": 144.95959117881173,
+            "latitude": -37.80245502035752,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe7qDCaVUAAMkBp.jpg"
+            ]
+        },
         {
             "tid": 1580431195372154882,
             "uid": 1571392668306898947,
@@ -23,7 +221,7 @@
             "uid": 3949609943,
             "author": "友人圆",
             "time": "2022-10-13 05:08:07 +0000",
-            "like_no": 2,
+            "like_no": 3,
             "language": "en",
             "text": "I'm at The Oxford Scholar Hotel in Melbourne, Victoria https://t.co/gTSyEKRK2g https://t.co/QQ3oqP02cG",
             "clean_text": "I'm at The Oxford Scholar Hotel in Melbourne Victoria",
@@ -40,7 +238,7 @@
             "uid": 1075628220,
             "author": "Krule",
             "time": "2022-10-13 03:29:52 +0000",
-            "like_no": 1,
+            "like_no": 4,
             "language": "en",
             "text": "Hey @PlanetFitness Hey @CrunchGym \nMelbourne is calling yall out.",
             "clean_text": "Hey Hey Melbourne is calling yall out",
@@ -219,7 +417,7 @@
             "uid": 1121798587,
             "author": "James Banal",
             "time": "2022-10-12 23:29:46 +0000",
-            "like_no": 4,
+            "like_no": 7,
             "language": "en",
             "text": "Back in the old stomping grounds! https://t.co/4QO1BWMUcR",
             "clean_text": "Back in the old stomping grounds",
@@ -441,7 +639,7 @@
             "uid": 155525846,
             "author": "Yumi Uchizono",
             "time": "2022-10-12 08:42:38 +0000",
-            "like_no": 11,
+            "like_no": 12,
             "language": "ja",
             "text": "Wifiタイム⚡︎⚡︎ https://t.co/lzOrFXtGIC",
             "clean_text": "Wifi",
@@ -803,7 +1001,7 @@
             "uid": 814303195,
             "author": "Melbourne Connect",
             "time": "2022-10-12 00:38:45 +0000",
-            "like_no": 2,
+            "like_no": 3,
             "language": "en",
             "text": "The @MEIunimelb &amp; @MCFunimelb recently hosted a book launch of The Superpower Transformation: Making Australia’s Zero-Carbon Future by renowned economist, Prof. Ross Garnaut. It was inspiring hearing his visions for Australia in a post-carbon world.\n\n#melbconnect #sustainability https://t.co/4xlD2BirrI",
             "clean_text": "The amp recently hosted a book launch of The Superpower Transformation Making Australia s Zero Carbon Future by renowned economist Prof Ross Garnaut It was inspiring hearing his visions for Australia in a post carbon world",
@@ -1078,7 +1276,7 @@
             "uid": 835983110688788480,
             "author": "Janet Maccora",
             "time": "2022-10-11 07:40:41 +0000",
-            "like_no": 11,
+            "like_no": 12,
             "language": "en",
             "text": "Panel sharing opportunities and challenges using creative tech in ageing research and practice. Encouraging engagement is a big barrier. @gerontologyau https://t.co/0wodua7Kqd",
             "clean_text": "Panel sharing opportunities and challenges using creative tech in ageing research and practice Encouraging engagement is a big barrier",
@@ -1178,7 +1376,7 @@
             "uid": 814303195,
             "author": "Melbourne Connect",
             "time": "2022-10-11 05:17:55 +0000",
-            "like_no": 2,
+            "like_no": 3,
             "language": "en",
             "text": "It was incredible to hear from a range of inspiring voices from policy makers and industry, to First Nations’ peoples and the wider community as part of   @MCFunimelb Summit last week. Ideas were shared on action towards a positive climate future and the successes of MCF. https://t.co/ljEYTQlBcu",
             "clean_text": "It was incredible to hear from a range of inspiring voices from policy makers and industry to First Nations peoples and the wider community as part of Summit last week Ideas were shared on action towards a positive climate future and the successes of MCF",
@@ -1213,7 +1411,7 @@
         {
             "tid": 1579682396525715456,
             "uid": 2979588467,
-            "author": "Danford",
+            "author": "Danford 🔜🇬🇧",
             "time": "2022-10-11 03:56:47 +0000",
             "like_no": 4,
             "language": "en",
@@ -1850,7 +2048,7 @@
             "uid": 4206502468,
             "author": "Khalid Amiri - خالد امیري",
             "time": "2022-10-09 13:57:43 +0000",
-            "like_no": 1282,
+            "like_no": 1285,
             "language": "ps",
             "text": "تعلیم به مو د سیالانو سیال کړي🌸\nزما خورکۍ چې په میلبورن پوهنتون کې مې ټولګي والا هم ده، نن د خدای په فضل او خپل محنت د اسټرالیا په یو دولتي کالج کې د استادې په صفت مقرره شوه. دا زموږ لپاره د ستر ویاړ او خوشالۍ خبره ده. 1/2 https://t.co/VVcUbihENT",
             "clean_text": "1 2",
@@ -2961,170 +3159,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/Feat9shUYAATLwF.jpg"
             ]
-        },
-        {
-            "tid": 1578017896454062086,
-            "uid": 1571392668306898947,
-            "author": "TheNewsAlerts",
-            "time": "2022-10-06 13:42:39 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "JK Rowling takes thinly-veiled swipe at Emma Watson for backing trans charity Mermaids - 9Honey Celebrity https://t.co/Q180D0CjyQ https://t.co/i6PyT7Ao91",
-            "clean_text": "JK Rowling takes thinly veiled swipe at Emma Watson for backing trans charity Mermaids 9Honey Celebrity",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.96342325,
-            "latitude": -37.81166365,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FeY-6blaUAAw0Qb.jpg"
-            ]
-        },
-        {
-            "tid": 1578013282929356800,
-            "uid": 1917449797,
-            "author": "David “Assassin” Thompson @ MIGW",
-            "time": "2022-10-06 13:24:19 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Awesome indie games tonight at @free_play Parallels! Amazing developers working on delightful, joyful games! I loved tonights presentations! Reminded me if what i love bout #gamedev #MIGW22 Huge turnout thanks for a great night! https://t.co/GH5xRP199M",
-            "clean_text": "Awesome indie games tonight at Parallels Amazing developers working on delightful joyful games I loved tonights presentations Reminded me if what i love bout Huge turnout thanks for a great night",
-            "place_name": "RMIT Building 80: Swanston Academic Building (SAB)",
-            "place_type": "poi",
-            "longitude": 144.96300190930313,
-            "latitude": -37.80804711155413,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FeY6to5akAAw3Yf.jpg"
-            ]
-        },
-        {
-            "tid": 1577969408244592640,
-            "uid": 1313658527458549763,
-            "author": "Jarrod Farquhar-Nicol",
-            "time": "2022-10-06 10:29:58 +0000",
-            "like_no": 37,
-            "language": "en",
-            "text": "So great to see @rhythmevan and @RoseDrawsThings from @TempoLabGames on the @free_play #parallels22 stage sharing how they handled the beautiful art and music for #BitsAndBops 🎵🎨 https://t.co/1SiOrInHUb",
-            "clean_text": "So great to see and from on the stage sharing how they handled the beautiful art and music for",
-            "place_name": "RMIT Building 80: Swanston Academic Building (SAB)",
-            "place_type": "poi",
-            "longitude": 144.96300190930313,
-            "latitude": -37.80804711155413,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FeYSyZNaEAInd25.jpg"
-            ]
-        },
-        {
-            "tid": 1577964252572553217,
-            "uid": 1313658527458549763,
-            "author": "Jarrod Farquhar-Nicol",
-            "time": "2022-10-06 10:09:29 +0000",
-            "like_no": 15,
-            "language": "en",
-            "text": "I missed taking a photo of the last slide, but can confirm:\n\nI want to pat the isopod.\n\n@sbuggames @free_play #parallels22 https://t.co/cwgd2cc7BI",
-            "clean_text": "I missed taking a photo of the last slide but can confirm I want to pat the isopod",
-            "place_name": "RMIT Building 80: Swanston Academic Building (SAB)",
-            "place_type": "poi",
-            "longitude": 144.96300190930313,
-            "latitude": -37.80804711155413,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FeYODOcaAAAdGXb.jpg"
-            ]
-        },
-        {
-            "tid": 1577943049178472449,
-            "uid": 538099349,
-            "author": "Natalie Heslop",
-            "time": "2022-10-06 08:45:14 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Tonight at Cinema Nova, Carlton, Victoria, former Australian Army lawyer, David McBride said after the screening of his documentary, Declassified,“Momentum is everything…we’re going to win this”. Continued in comments.. #declassified https://t.co/yfUpEgkmQS",
-            "clean_text": "Tonight at Cinema Nova Carlton Victoria former Australian Army lawyer David McBride said after the screening of his documentary Declassified Momentum is everything we re going to win this Continued in comments",
-            "place_name": "Cinema Nova",
-            "place_type": "poi",
-            "longitude": 144.96793,
-            "latitude": -37.797993,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FeX61hxUcAAUC7k.jpg"
-            ]
-        },
-        {
-            "tid": 1577942937639403521,
-            "uid": 3072020888,
-            "author": "mae | 9 DAYS 🎂🎉",
-            "time": "2022-10-06 08:44:47 +0000",
-            "like_no": 42,
-            "language": "en",
-            "text": "Hehe Tess burped while I took a photo and they laughed about it for 5 minutes https://t.co/6js5dYIUqD",
-            "clean_text": "Hehe Tess burped while I took a photo and they laughed about it for 5 minutes",
-            "place_name": "The Pancake Parlour",
-            "place_type": "poi",
-            "longitude": 144.96312843642002,
-            "latitude": -37.81028442731092,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FeX6vGhUAAA9LQ4.jpg"
-            ]
-        },
-        {
-            "tid": 1577936952699269120,
-            "uid": 1313658527458549763,
-            "author": "Jarrod Farquhar-Nicol",
-            "time": "2022-10-06 08:21:00 +0000",
-            "like_no": 10,
-            "language": "en",
-            "text": "🐨 So keen for @free_play #Parallels22 in person at #MIGW22 https://t.co/bzJNjMI21w",
-            "clean_text": "So keen for in person at",
-            "place_name": "RMIT Building 80: Swanston Academic Building (SAB)",
-            "place_type": "poi",
-            "longitude": 144.96300190930313,
-            "latitude": -37.80804711155413,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FeX1Ia9akAAYs3z.jpg"
-            ]
-        },
-        {
-            "tid": 1577928693997076480,
-            "uid": 65760852,
-            "author": "Timothy Treasure",
-            "time": "2022-10-06 07:48:11 +0000",
-            "like_no": 0,
-            "language": "et",
-            "text": "Bedroom euphoria moment 💙💞 @ North Melbourne, Victoria https://t.co/QndjdvXsEd",
-            "clean_text": "Bedroom euphoria moment North Melbourne Victoria",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9497,
-            "latitude": -37.8031,
-            "photo_urls": []
-        },
-        {
-            "tid": 1577914795147554816,
-            "uid": 1660342730,
-            "author": "Birurinal 🇦🇺 🔜 Gear’d",
-            "time": "2022-10-06 06:52:58 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "@ManedStripes @NeliakFox Lucrezia &amp; De Sade in Melbourne :) their Sydney store is SAX",
-            "clean_text": "Lucrezia amp De Sade in Melbourne their Sydney store is SAX",
-            "place_name": "Lucrezia & De Sade",
-            "place_type": "poi",
-            "longitude": 144.97901,
-            "latitude": -37.79382,
-            "photo_urls": []
-        },
-        {
-            "tid": 1577905247326208002,
-            "uid": 1086844897586339840,
-            "author": "adeeb",
-            "time": "2022-10-06 06:15:01 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Gotta pee so bad rn",
-            "clean_text": "Gotta pee so bad rn",
-            "place_name": "Melbourne Central Station",
-            "place_type": "poi",
-            "longitude": 144.96297447622638,
-            "latitude": -37.81029379973877,
-            "photo_urls": []
         }
     ]
 }

@@ -88,9 +88,15 @@ def update_location_data(location_name: str):
 
 # Update all locations in the LOCATIONS dictionary
 def update_all_data():
-    flag = 'success'
-    for location in locator.get_locations().keys():
-        flag = update_location_data(location)
-        if flag == 'fail' or flag == 'unknown':
-            return flag
-    return flag
+    try:
+        for location in locator.get_locations().keys():
+            flag = update_location_data(location)
+            if flag == 'fail' or flag == 'unknown':
+                return flag
+        flag = 'success'
+        return flag
+    except:
+        flag = 'connection error'
+        return flag
+
+

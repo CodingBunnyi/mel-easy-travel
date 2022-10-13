@@ -12,7 +12,7 @@ def update_word_cloud_data(json_dict: dict):
     for record in json_dict['data']:
         if len(record['clean_text']) > 0 and record['language'] == 'en':
             for word in record['clean_text'].split():
-                if word not in CACHED_STOPWORDS:
+                if word.lower() not in CACHED_STOPWORDS:
                     try:
                         word_freq_dict[word] += 1
                     except KeyError:
