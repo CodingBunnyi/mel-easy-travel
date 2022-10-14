@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Map, { Marker, Popup } from 'react-map-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import Mel_POIs_Data from '../../../data/Melbourne_POIs_MGA.json'
@@ -10,6 +10,9 @@ export default function MelCityMap() {
 
   const [selected, setSelected] = useState(null);
 
+  useEffect(() => {
+    
+  }, [selected]);
   return (
     <Map
       initialViewState={ {
@@ -22,15 +25,15 @@ export default function MelCityMap() {
       mapboxAccessToken = { MAPBOX_TOKEN }
     >
       {Mel_POIs_Data.map(poi => (
-        // eslint-disable-next-line react/jsx-key
         <Marker 
           longitude= { poi.longitude }
           latitude= { poi.latitude }
           color= 'red'
+          key = { poi.ID }
         >
           <button onClick= { e => {
-            e.preventDefault();
-            setSelected(poi)
+            e.stopPropagation();
+            setSelected({latitude: poi.latitude, longitude: poi.longitude})
           } }  >
             Click me
           </button>
@@ -48,7 +51,7 @@ export default function MelCityMap() {
           llllllllllllll
           This is my popup
         </Popup>
-         ) :null }
+         ) : null}
 
     </Map>
 
