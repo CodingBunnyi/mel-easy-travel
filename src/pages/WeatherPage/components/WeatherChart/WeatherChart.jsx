@@ -3,9 +3,10 @@ import timeConverter from '../../../../utils/timeConverter';
 import timeConverter24To12 from '../../../../utils/timeConverter24To12';
 import { CartesianGrid, Legend, Line, ComposedChart, Tooltip, XAxis, YAxis, Bar, Area } from 'recharts';
 import { useTheme } from '@mui/material/styles';
+import Paper from '@mui/material/Paper';
 import './WeatherChart.scss';
 
-const WeatherLineChart = ({ weatherData }) => {
+const WeatherChart = ({ weatherData }) => {
   const theme = useTheme();
 
   const createData = (time, temp, rain, windSpeed) => {
@@ -17,10 +18,10 @@ const WeatherLineChart = ({ weatherData }) => {
     const data =[];
     weatherData.hourly.forEach(hourlyData => {
       let { hour } = timeConverter(hourlyData.dt);
-      hour = timeConverter24To12(hour);
+      const { newHour , time } = timeConverter24To12(hour);
       const rain = hourlyData.rain ? hourlyData.rain['1h'] : 0;
       
-      data.push(createData(hour, hourlyData.temp, rain, hourlyData.wind_speed));
+      data.push(createData(newHour + time, hourlyData.temp, rain, hourlyData.wind_speed));
 
 
     });
@@ -46,7 +47,13 @@ const WeatherLineChart = ({ weatherData }) => {
   };
   
   return(
-    <div>
+    <Paper
+      sx={ {
+        p: 2,
+        display: 'flex',
+        flexDirection: 'column',
+      } }
+          >
       <ComposedChart width={ 1100 } height={ 250 } data={ getData() }
         margin={ { top: 5, right: 30, left: 20, bottom: 5 } }>
         <CartesianGrid strokeDasharray="3 3" />
@@ -105,8 +112,8 @@ const WeatherLineChart = ({ weatherData }) => {
           dot={ false }
         />
       </ComposedChart>
-    </div>
+    </Paper>
   )
 }
 
-export default WeatherLineChart
+export default WeatherChart

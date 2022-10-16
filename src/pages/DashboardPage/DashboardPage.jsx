@@ -13,28 +13,28 @@ const DashboardPage = ({ weatherData }) => (
 
       {/* Weather */}
 
-      <Grid item xs={ 12 } md={ 4 } lg={ 3 }>
+      <Grid item xs={ 12 } md={ 5 } lg={ 4 }>
         <Paper
           sx={ {
-                    p: 2,
-                    display: 'flex',
-                    flexDirection: 'column',
-                    height: 240,
+            p: 2,
+            display: 'flex',
+            flexDirection: 'column',
+            height: 300,
           } }
-                >
+        >
           <Weather weatherData={ weatherData }/>
         </Paper>
       </Grid>
 
       {/* Chart */}
 
-      <Grid item xs={ 12 } md={ 8 } lg={ 9 }>
+      <Grid item xs={ 12 } md={ 7 } lg={ 8 }>
         <Paper
           sx={ {
-                    p: 2,
-                    display: 'flex',
-                    flexDirection: 'column',
-                    height: 240,
+            p: 2,
+            display: 'flex',
+            flexDirection: 'column',
+            height: 300,
           } }
                 >
           <TouristAttraction />

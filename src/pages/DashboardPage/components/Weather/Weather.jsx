@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './Weather.scss';
 import { Link } from "react-router-dom";
 import Typography from '@mui/material/Typography';
+import Title from '../Title/Title';
 
 
 
@@ -22,11 +23,13 @@ export default function Weather({weatherData, setPage}) {
 
   return (
     <React.Fragment>
+      <Title>Weather</Title>
+
       <Typography color="text.secondary" sx={ { flex: 1 } }>
         <span className="time">{new Date().toDateString()} {time}</span>
       </Typography>
 
-      <Typography>
+      <Typography variant="h6">
         <span className="city-name">Melbourne</span>
       </Typography>
 
