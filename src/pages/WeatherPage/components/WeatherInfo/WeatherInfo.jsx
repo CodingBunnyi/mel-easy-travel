@@ -7,9 +7,10 @@ import CompressIcon from '@mui/icons-material/Compress';
 import NearMeIcon from '@mui/icons-material/NearMe';
 import timeConverter24To12 from '../../../../utils/timeConverter24To12';
 import timeConverter from'../../../../utils/timeConverter';
+import capitalizeFirstLetter from '../../../../utils/capitalizeFirstLetter';
+import getWindSpeedDescription from '../../../../utils/getWindSpeedDescription';
 import './WeatherInfo.scss';
 
-// eslint-disable-next-line no-unused-vars
 const WeatherInfo = ({ weatherData }) => {
   const [time, setTime] = useState(new Date().toLocaleTimeString());
   const windDirection = degToCompass(weatherData.current.wind_deg)
@@ -32,11 +33,12 @@ const WeatherInfo = ({ weatherData }) => {
   return(
     <Paper
       sx={ {
-      p: 2,
-      display: 'flex',
-      flexDirection: 'column',
-      height: 550,
+        p: 2,
+        display: 'flex',
+        flexDirection: 'column',
+        height: 550,
       } }
+      className="weather-info-paper"
     >
       <div className="current-info-container">
         <Typography color="text.secondary" sx={ { flex: 1 } }>
@@ -56,16 +58,20 @@ const WeatherInfo = ({ weatherData }) => {
         </div>
 
         <Typography sx={ { flex: 1 } }>
-          <span className="description">Feels like {weatherData.current.feels_like}°C. {weatherData.current.weather[0].main}.</span>
+          <span className="description">
+            {`Feels like ${weatherData.current.feels_like}°C. `}
+            {`${capitalizeFirstLetter(weatherData.current.weather[0].description)}. `}
+            {`${getWindSpeedDescription(weatherData.current.wind_speed)}.`}
+          </span>
         </Typography>
 
         <div className="addition-info-container">
           <Typography  className="addition-info" sx={ { flex: 1 } }>
-            <span><NearMeIcon /> {weatherData.current.wind_speed}m/s {windDirection}</span>
+            <span><NearMeIcon fontSize="inherit"/> {weatherData.current.wind_speed}m/s {windDirection}</span>
           </Typography>
 
           <Typography  className="addition-info" sx={ { flex: 1 } }>
-            <span><CompressIcon /> {weatherData.current.pressure}hPa</span>
+            <span><CompressIcon fontSize="inherit"/> {weatherData.current.pressure}hPa</span>
           </Typography>
 
           <Typography className="addition-info" sx={ { flex: 1 } }>
