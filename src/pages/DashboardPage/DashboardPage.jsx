@@ -19,7 +19,7 @@ const DashboardPage = ({ weatherData }) => (
             p: 2,
             display: 'flex',
             flexDirection: 'column',
-            height: 300,
+            height: 330,
           } }
         >
           <Weather weatherData={ weatherData }/>
@@ -34,7 +34,7 @@ const DashboardPage = ({ weatherData }) => (
             p: 2,
             display: 'flex',
             flexDirection: 'column',
-            height: 300,
+            height: 330,
           } }
                 >
           <TouristAttraction />

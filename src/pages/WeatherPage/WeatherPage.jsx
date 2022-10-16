@@ -13,11 +13,11 @@ const WeatherPage = ({weatherData}) => {
   return(
     <Container sx={ { mt: 4, mb: 4 } }>
       <Grid container spacing={ 3 }>
-        <Grid item xs={ 12 } md={ 6 } lg={ 6 }>
+        <Grid item xs={ 12 } md={ 6 } lg={ 5 }>
           <WeatherInfo weatherData={ weatherData } />
         </Grid>
 
-        <Grid item xs={ 12 } md={ 6 } lg={ 6 }>
+        <Grid item xs={ 12 } md={ 6 } lg={ 7 }>
           <Forecast weatherData={ weatherData } />
         </Grid>
 

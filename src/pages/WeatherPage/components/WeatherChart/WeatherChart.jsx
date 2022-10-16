@@ -4,6 +4,7 @@ import timeConverter24To12 from '../../../../utils/timeConverter24To12';
 import { CartesianGrid, Legend, Line, ComposedChart, Tooltip, XAxis, YAxis, Bar, Area } from 'recharts';
 import { useTheme } from '@mui/material/styles';
 import Paper from '@mui/material/Paper';
+import { Typography } from '@mui/material';
 import './WeatherChart.scss';
 
 const WeatherChart = ({ weatherData }) => {
@@ -13,7 +14,6 @@ const WeatherChart = ({ weatherData }) => {
     return {time, temp, rain, windSpeed}
   }
 
-  // eslint-disable-next-line no-unused-vars
   const getData = () => {
     const data =[];
     weatherData.hourly.forEach(hourlyData => {
@@ -27,9 +27,6 @@ const WeatherChart = ({ weatherData }) => {
     });
     return data;
   }
-
-  // const fateData = [{time: 2, temp: -5, rain: 0.2, windSpeed: 5}, {time: 17, temp: 5, rain: 20, windSpeed: 2}]
-
 
   const CustomTooltip = ({ active, payload, label }) => {
     if (active && payload && payload.length) {
@@ -53,7 +50,12 @@ const WeatherChart = ({ weatherData }) => {
         display: 'flex',
         flexDirection: 'column',
       } }
-          >
+      className="weather-chart-paper"
+    >
+      <Typography variant="h6" className="title">
+        Hourly forecast
+      </Typography>
+
       <ComposedChart width={ 1100 } height={ 250 } data={ getData() }
         margin={ { top: 5, right: 30, left: 20, bottom: 5 } }>
         <CartesianGrid strokeDasharray="3 3" />

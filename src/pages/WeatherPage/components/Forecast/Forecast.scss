@@ -1,8 +1,53 @@
-.title {
-  font-weight: bold;
+.forecast-paper {
+  .MuiTableCell-root {
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+
+  .MuiTypography-root{
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .title {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .forecast-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .addition-info {
+    font-size: 14px;
+  }
+  
+  .temp-description {
+    display: inline-block;
+    margin: 5px 0 16px 0;
+  }
+  
+  .addition-info-container {
+    border-left: 1px solid #1976d2;
+    margin-bottom: 16px;
+  }
+  
+  .temp-left-cell {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 10px;
+  }
+
+  .sunrise-sunset-table {
+    .sunrise-sunset {
+      color: rgba(0, 0, 0, 0.6);
+      font-size: 8px;
+      font-weight: bold;
+    }
+  }
+
+  .temp-table {
+    margin: 16px 0;
+  }
 }
 
-.forecast-item {
-  display: flex;
-  align-items: center;
-}

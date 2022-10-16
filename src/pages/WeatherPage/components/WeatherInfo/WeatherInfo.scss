@@ -1,5 +1,6 @@
 .addition-info-container {
-  padding-top: 10px;
+  border-left: 1px solid #1976d2;
+  margin: 16px 0;
 }
 
 .addition-info {
@@ -7,4 +8,24 @@
   width: 50%;
   display: inline-block;
   padding-bottom: 10px;
+  font-size: 14px !important;
+  padding-left: 20px;
+}
+
+.weather-info-paper {
+  .MuiTypography-root {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .temp {
+    font-size: 36px;
+  }
+
+  .city-name {
+    font-size: 25px;
+  }
+
+  .temp-and-icon {
+    align-items: center;
+  }
 }
