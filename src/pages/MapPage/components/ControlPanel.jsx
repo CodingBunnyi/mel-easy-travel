@@ -1,32 +1,53 @@
-import * as React from 'react';
+import React, { useState, useEffect } from 'react';
+import { makeStyles } from '@material-ui/core/styles'
+import Checkbox from '@mui/material/Checkbox';
+import FormGroup from '@mui/material/FormGroup';
+import FormControlLabel from '@mui/material/FormControlLabel';
 
-function ControlPanel() {
+const useStyles = makeStyles(() => ({
+  controlPanel: {
+    position: 'absolute',
+    top: 0,
+    right: 0,
+    maxWidth: 300,
+    background: '#fff',
+    padding: 12,
+    margin: 10,
+    color: '#6b6b76',
+  },
+}))
+
+function ControlPanel(props) {
+  const classes = useStyles()
+
+  const [checkStatus, setcheckStatus] = useState(false);
+
+  function handleChangeCheck (e) {
+    const status= e.target.checked
+    setcheckStatus(status)
+    props.getValue(status)
+
+  } 
+  useEffect(() => {
+    
+  }, [checkStatus]);
+  
   return (
-    <div className="control-panel">
-      <h3>Marker, Popup, NavigationControl and FullscreenControl </h3>
+    <div className= { classes.controlPanel } >
+      <h3>Melbourne CBD Tourist Guide</h3>
 
-      <p>
-        Map showing top 20 most populated cities of the United States. Click on a marker to learn
-        more.
-      </p>
+      <FormGroup>
+        <FormControlLabel 
+          control= { <Checkbox defaultChecked onChange= { handleChangeCheck } /> } 
+          label="Point of Interest" 
+          
+          />
 
-      <p>
-        Data source:{' '}
-
-        <a href="https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population">
-          Wikipedia
-        </a>
-      </p>
-
-      <div className="source-link">
-        <a
-          href="https://github.com/visgl/react-map-gl/tree/7.0-release/examples/controls"
-          target="_new"
-        >
-          View Code ↗
-        </a>
-      </div>
+        <FormControlLabel control= { <Checkbox /> } label="Restaurant" />
+      </FormGroup>
     </div>
+
+    
   );
 }
 
