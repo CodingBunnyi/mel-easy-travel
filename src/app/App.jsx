@@ -20,7 +20,9 @@ import DashboardPage from '../pages/DashboardPage/DashboardPage';
 import AccommodationPage from '../pages/AccommodationPage/AccomondationPage';
 import TouristAttractionPage from '../pages/TouristAttractionPage/TouristAttractionPage';
 import AboutMelEasyTravelPage from '../pages/AboutMelEasyTravelPage/AboutMelEasyTravelPage';
-import { getOneCallWeatherData } from '../utils/OpenWeatherApi/OpenWeatherApi'
+import { getOneCallWeatherData } from '../utils/OpenWeatherApi/OpenWeatherApi';
+// eslint-disable-next-line no-unused-vars
+import { getTwitterData } from '../utils/twitterDataApi';
 import logo from'../assets/images/logo.png';
 import { listItem } from './components/ListItemTable/ListItemTable';
 import './App.scss';
@@ -107,6 +109,16 @@ const App = () => {
 
   useEffect(() => {
     updatePageName();
+  }, []);
+
+  useEffect(() => {
+    const getCurrentTwitterData= async () => {
+      const {status, data} = await getTwitterData();
+      if (status === 200) {
+        console.log(data)
+      }
+    }
+    getCurrentTwitterData();
   }, []);
 
   return ( 
