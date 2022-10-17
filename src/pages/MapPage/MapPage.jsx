@@ -1,9 +1,11 @@
 import React from 'react';
+import MelCityMap from './components/MelCityMap'
 
 const MapPage = () => (
   <div>
-    this is map page
+    <MelCityMap />
   </div>
+
 )
 
 export default MapPage;
