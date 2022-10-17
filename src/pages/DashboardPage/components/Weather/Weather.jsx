@@ -2,6 +2,9 @@ import React, { useState, useEffect } from 'react';
 import './Weather.scss';
 import { Link } from "react-router-dom";
 import Typography from '@mui/material/Typography';
+import capitalizeFirstLetter from '../../../../utils/capitalizeFirstLetter';
+import getWindSpeedDescription from '../../../../utils/getWindSpeedDescription';
+import Title from '../Title/Title';
 
 
 
@@ -22,12 +25,14 @@ export default function Weather({weatherData, setPage}) {
 
   return (
     <React.Fragment>
+      <Title>Weather</Title>
+
       <Typography color="text.secondary" sx={ { flex: 1 } }>
         <span className="time">{new Date().toDateString()} {time}</span>
       </Typography>
 
-      <Typography>
-        <span className="city-name">Melbourne</span>
+      <Typography variant="h6">
+        <span className="city-name">Melbourne, AU</span>
       </Typography>
 
       <div className="temp-and-icon">
@@ -39,16 +44,22 @@ export default function Weather({weatherData, setPage}) {
       </div>
 
       <Typography sx={ { flex: 1 } }>
-        <span className="description">Feels like {weatherData.current.feels_like}°C. {weatherData.current.weather[0].main}.</span>
+        <span className="description">
+          {`Feels like ${weatherData.current.feels_like}°C. `}
+          {`${capitalizeFirstLetter(weatherData.current.weather[0].description)}. `}
+          {`${getWindSpeedDescription(weatherData.current.wind_speed)}.`}
+        </span>
       </Typography>
 
-      <Typography  sx={ { flex: 1 } }>
-        <span className="addition-info">Humidity: {weatherData.current.humidity}%</span>
-      </Typography>
+      <div className="weather-addition-container">
+        <Typography className="weather-addition" sx={ { flex: 1 } }>
+          <span>Humidity: {weatherData.current.humidity}%</span>
+        </Typography>
 
-      <Typography  sx={ { flex: 1 } }>
-        <span className="addition-info">Wind: {weatherData.current.wind_speed}m/s</span>
-      </Typography>
+        <Typography className="weather-addition" sx={ { flex: 1 } }>
+          <span>Wind: {weatherData.current.wind_speed}m/s</span>
+        </Typography>
+      </div>
 
       <div>
         <Link color="primary" to="/weather" onClick={ handleClick }>

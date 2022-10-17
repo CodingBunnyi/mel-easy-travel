@@ -1,29 +1,31 @@
-import { Typography } from '@mui/material';
 import React from 'react';
-import timeConverter from '../../utils/timeConverter';
+// import 'leaflet/dist/leaflet.css';
+import Container from '@mui/material/Container';
+import Grid from '@mui/material/Grid';
+import WeatherChart from './components/WeatherChart/WeatherChart';
+import WeatherInfo from './components/WeatherInfo/WeatherInfo';
+import Forecast from './components/Forecast/Forecast';
+
+import './WeatherPage.scss';
 
 const WeatherPage = ({weatherData}) => {
 
   return(
-    <>
-      <div>
-        <Typography>
-          <span>8-day forecast</span>
-        </Typography>
+    <Container sx={ { mt: 4, mb: 4 } }>
+      <Grid container spacing={ 3 }>
+        <Grid item xs={ 12 } md={ 6 } lg={ 5 }>
+          <WeatherInfo weatherData={ weatherData } />
+        </Grid>
 
-        {weatherData.daily.map((item, index) => {
-          const time = timeConverter(item.dt);
-          return(
-            <div key={ index }>
-              <span>{time}</span>
-              <img src={ `http://openweathermap.org/img/wn/${item.weather[0].icon}.png` } alt={ item.weather[0].main }/>
-              <span>{item.temp.min} / {item.temp.max}°C </span>
-              <span>{item.weather[0].description}</span>
-            </div>
-          )
-        })}
-      </div>   
-    </>
+        <Grid item xs={ 12 } md={ 6 } lg={ 7 }>
+          <Forecast weatherData={ weatherData } />
+        </Grid>
+
+        <Grid item xs={ 12 } md={ 12 } lg={ 12 }>
+          <WeatherChart weatherData={ weatherData }/>
+        </Grid>
+      </Grid>
+    </Container>   
 )}
 
 export default WeatherPage;

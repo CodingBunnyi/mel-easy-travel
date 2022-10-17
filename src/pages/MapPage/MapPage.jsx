@@ -5,7 +5,7 @@ const MapPage = () => (
   <div>
     <MelCityMap />
   </div>
-  
+
 )
 
 export default MapPage;

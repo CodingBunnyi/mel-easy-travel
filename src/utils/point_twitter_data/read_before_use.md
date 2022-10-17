@@ -1,5 +1,9 @@
 ### Read before use:  
 
+> It seems that we need a method to build a python environment contains the library tweepy.  
+> I found some instructions about implementation, but I don't have the knowledge to implement it.  
+> https://stackoverflow.com/questions/13175510/call-python-function-from-javascript-code  
+
 You will get twitter data within a certain radius (km) of a given point (long, lat)  
 
 There are three functions you can call:  
