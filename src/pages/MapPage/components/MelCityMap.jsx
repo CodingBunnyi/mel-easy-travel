@@ -8,6 +8,7 @@ import Map, {
 } from 'react-map-gl';
 
 import 'mapbox-gl/dist/mapbox-gl.css';
+import { getTwitterData } from '../../../utils/twitterDataApi';
 import Mel_POIs_Data from '../../../data/Melbourne_POIs_MGA.json'
 import ChurchPin from './ChurchPin';
 import {createRoot} from 'react-dom/client';
@@ -22,11 +23,12 @@ export default function MelCityMap() {
   "pk.eyJ1Ijoib25lbm5pbmUiLCJhIjoiY2w5NDd2OHFtMDFyYzN2dGJlN3hqb29uciJ9.adU0kBOA9mvrm5lkSpcHvQ"
 
   const [selected, setSelected] = useState(null); //onClick status of Mel_POIs_Data
-  const [checkStatus, setcheckStatus] = useState(false); //checkBox status of Mel_POIs_Data
-
+  const [checkStatus, setcheckStatus] = useState(true); //checkBox status of Mel_POIs_Data
+  // eslint-disable-next-line no-unused-vars
+  const [selectedTwitterInfo, setSelectedTwitterInfo] = useState({});
   useEffect(() => {
     
-  }, [selected, checkStatus]);
+  }, [selected, checkStatus, selectedTwitterInfo]);
 
   //pass & reveive data from ControlPanel
   const getChiledrenValue = (val) => {
@@ -41,9 +43,14 @@ export default function MelCityMap() {
           latitude= { poi.latitude }
           color= 'red'
           key = { poi.ID }
-          onClick= { e => {
+          onClick= { async (e) => {
             e.originalEvent.stopPropagation();
             setSelected(poi)
+            const {status, data} = await getTwitterData(poi.longitude, poi.latitude, 0.5, 10)
+            if (status === 200) {
+              setSelectedTwitterInfo(data)
+              console.log(data)
+            }
           } }
         >
           <ChurchPin />
@@ -89,6 +96,8 @@ export default function MelCityMap() {
             <Typography variant="subtitle1" >
               Subtheme: {selected.SubTheme}
             </Typography>
+
+            {(selectedTwitterInfo.data !== undefined && selectedTwitterInfo.data[0] !== undefined) ? selectedTwitterInfo.data[0].author : null}
 
           </Box>
         </Popup>

@@ -1,9 +1,23 @@
+/* eslint-disable no-undef */
 import axios from 'axios';
 
-export const getTwitterData = axios.create({
-  baseURL: 'http://localhost:3000/data',
-  params: {
-    hello:'1',
-    world:'2'
-  }
-});
+// export const getTwitterData = axios.create({
+//   baseURL: 'http://localhost:3000/realtime-point-data',
+//   // params: {
+//   //   long,
+//   //   lat,
+//   // }
+// });
+
+
+export const getTwitterData = (long, lat, radius, hours) =>
+  axios({
+    method: 'get',
+    url: 'http://localhost:3000/realtime-point-data',
+    params: {
+      long,
+      lat,
+      radius,
+      hours,
+    },
+  });
