@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useEffect, useState, useMemo } from 'react';
 import Map, { 
   Marker, 
@@ -8,11 +9,12 @@ import Map, {
 } from 'react-map-gl';
 
 import 'mapbox-gl/dist/mapbox-gl.css';
-import { getTwitterData } from '../../../utils/twitterDataApi';
-import Mel_POIs_Data from '../../../data/Melbourne_POIs_MGA.json'
-import ChurchPin from './ChurchPin';
+import { getTwitterData, getWordCloudData } from '../../../../utils/twitterDataApi';
+import Mel_POIs_Data from '../../../../data/Melbourne_POIs_MGA.json'
+import ChurchPin from './components/ChurchPin';
 import {createRoot} from 'react-dom/client';
-import ControlPanel from './ControlPanel';
+import ControlPanel from './components/ControlPanel';
+import WordCloudContent from './components/WordCloudContent';
 //import TabTwitter from './TabTwitter';
 
 
@@ -115,7 +117,8 @@ export default function MelCityMap() {
   const [selected, setSelected] = useState(null); //onClick status of Mel_POIs_Data
   const [checkStatus, setcheckStatus] = useState(true); //checkBox status of Mel_POIs_Data
   // eslint-disable-next-line no-unused-vars
-  const [selectedTwitterInfo, setSelectedTwitterInfo] = useState({});
+  const [selectedTwitterInfo, setSelectedTwitterInfo] = useState({count: 0, data: []});
+  const [wordCloud, setWordCould] = useState([]);
 
   const [value, setValue] = React.useState(0); //Tab
 
@@ -123,6 +126,21 @@ export default function MelCityMap() {
   const handleChange = (event, newValue) => {
     setValue(newValue);
   };
+
+  const handleClickPOI = async (e, poi) => {
+    e.originalEvent.stopPropagation();
+    setSelected(poi)
+
+    const twitterResponse = await getTwitterData(poi.longitude, poi.latitude, 0.5, 10)
+    if (twitterResponse.status === 200) {
+      setSelectedTwitterInfo(twitterResponse.data)
+    }
+
+    const wordCloudResponse = await getWordCloudData('UniversityOfMelbourne')
+    if (wordCloudResponse.status === 200) {
+      setWordCould(wordCloudResponse.data.word_freq)
+    }
+  }
 
   useEffect(() => {
     
@@ -141,23 +159,13 @@ export default function MelCityMap() {
           latitude= { poi.latitude }
           color= 'red'
           key = { poi.ID }
-          onClick= { async (e) => {
-            e.originalEvent.stopPropagation();
-            setSelected(poi)
-            const {status, data} = await getTwitterData(poi.longitude, poi.latitude, 0.5, 10)
-            if (status === 200) {
-              setSelectedTwitterInfo(data)
-              console.log(data)
-            }
-          } }
+          onClick= { (e) => handleClickPOI(e, poi) }
         >
           <ChurchPin />
         </Marker>
       )),
     []
   );
-
-  
 
   return (
     
@@ -169,14 +177,14 @@ export default function MelCityMap() {
         bearing: 0,
         pitch: 0
       } }
-      style = { {width: Window.width, height: 500} }
+      style = { {width: '100vw' , height: '100vh'} }
       mapStyle="mapbox://styles/mapbox/outdoors-v11"
       mapboxAccessToken = { MAPBOX_TOKEN }
     >
       <FullscreenControl position="top-left" />
       <ScaleControl position="bottom-left" />
       <NavigationControl position="top-left" />
-      <ControlPanel position="top-right" getValue={ getChiledrenValue } />
+      <ControlPanel position="top-left" getValue={ getChiledrenValue } />
 
       {checkStatus ? (
         [pins]
@@ -189,7 +197,7 @@ export default function MelCityMap() {
           onClose= { () => {
             setSelected(null);
           } }
-          maxWidth= { '450px' }  
+          maxWidth= { '600px' }  
           style= { { height:250 } }        
           >
           <Box>
@@ -206,8 +214,7 @@ export default function MelCityMap() {
             </Tabs>
           </Box>
 
-          <Box sx={ { width: '100%' , height: 250 } } >
-
+          <Box sx={ { width: '100%' } } >
 
             <TabPanel 
               value={ value } 
@@ -264,8 +271,8 @@ export default function MelCityMap() {
              
             </TabPanel>
 
-            <TabPanel value={ value } index={ 1 } height={ 100 }>
-              Tab222222
+            <TabPanel value={ value } index={ 1 } height={ 100 } style={ {padding: 0} }>
+              <WordCloudContent wordCloud={ wordCloud }/>
             </TabPanel>
 
           </Box>

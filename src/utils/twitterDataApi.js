@@ -21,3 +21,12 @@ export const getTwitterData = (long, lat, radius, hours) =>
       hours,
     },
   });
+
+export const getWordCloudData = (location) =>
+  axios({
+    method: 'get',
+    url: 'http://localhost:3000/word-cloud-data',
+    params: {
+      location,
+    },
+  });

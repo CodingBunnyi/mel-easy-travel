@@ -8,7 +8,7 @@ const useStyles = makeStyles(() => ({
   controlPanel: {
     position: 'absolute',
     top: 0,
-    right: 0,
+    left: 50,
     maxWidth: 300,
     background: '#fff',
     padding: 12,
