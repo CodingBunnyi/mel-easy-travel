@@ -13,9 +13,91 @@ import Mel_POIs_Data from '../../../data/Melbourne_POIs_MGA.json'
 import ChurchPin from './ChurchPin';
 import {createRoot} from 'react-dom/client';
 import ControlPanel from './ControlPanel';
+//import TabTwitter from './TabTwitter';
 
 import Box from '@mui/material/Box';
+import Tabs from '@mui/material/Tabs';
+import Tab from '@mui/material/Tab';
+import Avatar from '@mui/material/Avatar';
+
 import Typography from '@mui/material/Typography';
+import PropTypes from 'prop-types';
+
+import List from '@mui/material/List';
+import ListItem from '@mui/material/ListItem';
+import ListItemText from '@mui/material/ListItemText';
+import ListItemAvatar from '@mui/material/ListItemAvatar';
+import Divider from '@mui/material/Divider';
+
+
+// Tab
+function TabPanel(props) {
+  const { children, value, index, ...other } = props;
+
+  return (
+    <div
+      role="tabpanel"
+      hidden={ value !== index }
+      id={ `simple-tabpanel-${index}` }
+      aria-labelledby={ `simple-tab-${index}` }
+      { ...other }
+    >
+      {value === index && (
+        <Box sx={ { p: 3 } }>
+          <Typography>{children}</Typography>
+        </Box>
+      )}
+    </div>
+  );
+}
+
+// Tab
+TabPanel.propTypes = {
+  children: PropTypes.node,
+  index: PropTypes.number.isRequired,
+  value: PropTypes.number.isRequired,
+};
+
+// Tab
+function a11yProps(index) {
+  return {
+    id: `simple-tab-${ index }`,
+    'aria-controls': `simple-tabpanel-${ index }`,
+  };
+}
+
+//Avatar
+function stringAvatar(name) {
+  return {
+    sx: {
+      bgcolor: stringToColor(name),
+      width: 40, 
+      height: 40
+    },
+    children: `${ name.split(' ')[0][0] }`,
+  };
+}
+
+//Avatar Color
+function stringToColor(string) {
+  let hash = 0;
+  let i;
+
+  /* eslint-disable no-bitwise */
+  for (i = 0; i < string.length; i += 1) {
+    hash = string.charCodeAt(i) + ((hash << 5) - hash);
+  }
+
+  let color = '#';
+
+  for (i = 0; i < 3; i += 1) {
+    const value = (hash >> (i * 8)) & 0xff;
+    color += `00${value.toString(16)}`.slice(-2);
+  }
+  /* eslint-enable no-bitwise */
+
+  return color;
+}
 
 export default function MelCityMap() {
     
@@ -26,6 +108,14 @@ export default function MelCityMap() {
   const [checkStatus, setcheckStatus] = useState(true); //checkBox status of Mel_POIs_Data
   // eslint-disable-next-line no-unused-vars
   const [selectedTwitterInfo, setSelectedTwitterInfo] = useState({});
+
+  const [value, setValue] = React.useState(0); //Tab
+
+  // Tab
+  const handleChange = (event, newValue) => {
+    setValue(newValue);
+  };
+
   useEffect(() => {
     
   }, [selected, checkStatus, selectedTwitterInfo]);
@@ -37,7 +127,7 @@ export default function MelCityMap() {
 
   const pins = useMemo(
     () =>
-      Mel_POIs_Data.map(poi => (
+      Mel_POIs_Data?.map(poi => (
         <Marker 
           longitude= { poi.longitude }
           latitude= { poi.latitude }
@@ -58,7 +148,9 @@ export default function MelCityMap() {
       )),
     []
   );
+
   return (
+    
     <Map
       initialViewState={ {
         latitude: -37.810454,
@@ -87,17 +179,88 @@ export default function MelCityMap() {
           onClose= { () => {
             setSelected(null);
           } }
+          maxWidth= { '450px' }  
+          style= { { height:250 } }        
           >
           <Box>
             <Typography variant="h6" >
-              Theme: {selected.Theme}
+              {selected.FeatureName}
             </Typography>
+          </Box>
 
-            <Typography variant="subtitle1" >
-              Subtheme: {selected.SubTheme}
-            </Typography>
+          <Box sx={ { borderBottom: 1, borderColor: 'divider' } }>
+            
+            <Tabs value={ value } onChange={ handleChange } >
+              <Tab label="Twitter" { ...a11yProps(0) } />
+              <Tab label="Word Cloud" { ...a11yProps(1) } />
+            </Tabs>
+          </Box>
 
-            {(selectedTwitterInfo.data !== undefined && selectedTwitterInfo.data[0] !== undefined) ? selectedTwitterInfo.data[0].author : null}
+          <Box sx={ { width: '100%' , height: 250 , overflow: 'scroll'} } >
+
+            <TabPanel 
+              value={ value } 
+              index={ 0 } 
+              sx={ { width: '100%' } }
+              >
+              
+              <scroll-view scroll-y="true">  
+                <List sx={ { width: '100%',  bgcolor: 'background.paper' } }  >
+                
+                  {(selectedTwitterInfo.count == 0  ) ? (
+                    
+                    <Box>
+                      <Typography variant="body2" >
+                        No Recent Twitter in 8 hours.
+                      </Typography>
+                    </Box>
+                
+                  ) : null }
+
+                  {selectedTwitterInfo.data?.map(tweet => (
+                    <>
+                      <ListItem 
+                        key={ tweet.tid }
+                      >
+                        <ListItemAvatar>
+                          <Avatar { ...stringAvatar(tweet.author) } />
+                        </ListItemAvatar>
+
+                        <ListItemText
+                          primary={ tweet.author }
+                          secondary={ 
+                            <React.Fragment>
+                              <Typography
+                                sx={ { display: 'inline' } }
+                                component="span"
+                                variant="body2"
+                                color="text.primary"
+                              >
+
+                              </Typography>
+
+                              {tweet.clean_text}
+
+                            </React.Fragment>
+                          }
+                        />
+
+                      </ListItem>
+                    
+                      <Divider variant="inset" component="li" />
+                    </>
+
+                    
+
+                    )) }
+
+                </List>
+              </scroll-view>
+            </TabPanel>
+
+            <TabPanel value={ value } index={ 1 } height={ 100 }>
+              Tab222222
+            </TabPanel>
 
           </Box>
         </Popup>
