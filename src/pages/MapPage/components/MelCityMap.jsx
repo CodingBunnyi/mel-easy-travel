@@ -15,18 +15,19 @@ import {createRoot} from 'react-dom/client';
 import ControlPanel from './ControlPanel';
 //import TabTwitter from './TabTwitter';
 
-
 import Box from '@mui/material/Box';
 import Tabs from '@mui/material/Tabs';
 import Tab from '@mui/material/Tab';
-import Stack from '@mui/material/Stack';
-import Paper from '@mui/material/Paper';
 import Avatar from '@mui/material/Avatar';
 
-import { styled } from '@mui/material/styles';
 import Typography from '@mui/material/Typography';
 import PropTypes from 'prop-types';
-//import ReactIScroll from 'react-iscroll';
+
+import List from '@mui/material/List';
+import ListItem from '@mui/material/ListItem';
+import ListItemText from '@mui/material/ListItemText';
+import ListItemAvatar from '@mui/material/ListItemAvatar';
+import Divider from '@mui/material/Divider';
 
 
 // Tab
@@ -65,24 +66,15 @@ function a11yProps(index) {
   };
 }
 
-// Stack
-const Item = styled(Paper)(({ theme }) => ({
-  backgroundColor: theme.palette.mode === 'dark' ? '#1A2027' : '#fff',
-  ...theme.typography.body2,
-  padding: theme.spacing(1),
-  textAlign: 'left',
-  color: theme.palette.text.secondary,
-}));
-
 //Avatar
 function stringAvatar(name) {
   return {
     sx: {
       bgcolor: stringToColor(name),
-      width: 30, 
-      height: 30
+      width: 40, 
+      height: 40
     },
-    children: `${ name.split(' ')[0][0] }${ name.split(' ')[1][0] }`,
+    children: `${ name.split(' ')[0][0] }`,
   };
 }
 
@@ -135,7 +127,7 @@ export default function MelCityMap() {
 
   const pins = useMemo(
     () =>
-      Mel_POIs_Data.map(poi => (
+      Mel_POIs_Data?.map(poi => (
         <Marker 
           longitude= { poi.longitude }
           latitude= { poi.latitude }
@@ -156,8 +148,6 @@ export default function MelCityMap() {
       )),
     []
   );
-
-  
 
   return (
     
@@ -206,8 +196,7 @@ export default function MelCityMap() {
             </Tabs>
           </Box>
 
-          <Box sx={ { width: '100%' , height: 250 } } >
-
+          <Box sx={ { width: '100%' , height: 250 , overflow: 'scroll'} } >
 
             <TabPanel 
               value={ value } 
@@ -216,52 +205,57 @@ export default function MelCityMap() {
               >
               
               <scroll-view scroll-y="true">  
-                <Stack spacing={ 1 }  sx={ { width: '100%'} }  >
+                <List sx={ { width: '100%',  bgcolor: 'background.paper' } }  >
+                
+                  {(selectedTwitterInfo.count == 0  ) ? (
                     
-                  <Item>
-                    {(selectedTwitterInfo.data !== undefined && selectedTwitterInfo.data[0] !== undefined) ? (
-                      <Box>
-                        <Avatar { ...stringAvatar( selectedTwitterInfo.data[0].author ) } />
-                        
-                        <Typography variant="body2" >
-                          {selectedTwitterInfo.data[0].author } :{selectedTwitterInfo.data[0].clean_text }
-                        </Typography>
-                      </Box>
-                      
-                      ) : null }
+                    <Box>
+                      <Typography variant="body2" >
+                        No Recent Twitter in 8 hours.
+                      </Typography>
+                    </Box>
+                
+                  ) : null }
 
-                  </Item>
+                  {selectedTwitterInfo.data?.map(tweet => (
+                    <>
+                      <ListItem 
+                        key={ tweet.tid }
+                      >
+                        <ListItemAvatar>
+                          <Avatar { ...stringAvatar(tweet.author) } />
+                        </ListItemAvatar>
 
-                  <Item>
-                    {(selectedTwitterInfo.data !== undefined && selectedTwitterInfo.data[1] !== undefined) ? (
-                      <Box>
-                        <Avatar { ...stringAvatar( selectedTwitterInfo.data[1].author ) } />
-                        
-                        <Typography variant="body2" >
-                          {selectedTwitterInfo.data[1].author } :{selectedTwitterInfo.data[1].clean_text }
-                        </Typography>
-                      </Box>
-                      
-                      ) : null }
+                        <ListItemText
+                          primary={ tweet.author }
+                          secondary={ 
+                            <React.Fragment>
+                              <Typography
+                                sx={ { display: 'inline' } }
+                                component="span"
+                                variant="body2"
+                                color="text.primary"
+                              >
 
-                  </Item>
+                              </Typography>
 
-                  <Item>
-                    {(selectedTwitterInfo.data !== undefined && selectedTwitterInfo.data[2] !== undefined) ? (
-                      <Box>
-                        <Avatar { ...stringAvatar( selectedTwitterInfo.data[2].author ) } />
-                        
-                        <Typography variant="body2" >
-                          {selectedTwitterInfo.data[2].author } :{selectedTwitterInfo.data[2].clean_text }
-                        </Typography>
-                      </Box>
-                      
-                      ) : null }
+                              {tweet.clean_text}
 
-                  </Item>
-                </Stack>
+                            </React.Fragment>
+                          }
+                        />
+
+                      </ListItem>
+                    
+                      <Divider variant="inset" component="li" />
+                    </>
+
+                    
+
+                    )) }
+
+                </List>
               </scroll-view>
-             
             </TabPanel>
 
             <TabPanel value={ value } index={ 1 } height={ 100 }>
