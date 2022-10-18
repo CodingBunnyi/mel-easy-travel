@@ -1,0 +1,512 @@
+{
+    "word_freq": [
+        {
+            "text": "Exploring",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 2
+        },
+        {
+            "text": "today",
+            "value": 2
+        },
+        {
+            "text": "soaking",
+            "value": 1
+        },
+        {
+            "text": "glorious",
+            "value": 1
+        },
+        {
+            "text": "weather",
+            "value": 1
+        },
+        {
+            "text": "space",
+            "value": 1
+        },
+        {
+            "text": "Botanical",
+            "value": 1
+        },
+        {
+            "text": "Gardens",
+            "value": 1
+        },
+        {
+            "text": "everything",
+            "value": 1
+        },
+        {
+            "text": "Instead",
+            "value": 1
+        },
+        {
+            "text": "removing",
+            "value": 1
+        },
+        {
+            "text": "ancient",
+            "value": 1
+        },
+        {
+            "text": "tree",
+            "value": 3
+        },
+        {
+            "text": "died",
+            "value": 1
+        },
+        {
+            "text": "limbs",
+            "value": 1
+        },
+        {
+            "text": "left",
+            "value": 2
+        },
+        {
+            "text": "fell",
+            "value": 1
+        },
+        {
+            "text": "reshaped",
+            "value": 1
+        },
+        {
+            "text": "seats",
+            "value": 1
+        },
+        {
+            "text": "Victorian",
+            "value": 1
+        },
+        {
+            "text": "Governor",
+            "value": 2
+        },
+        {
+            "text": "home",
+            "value": 1
+        },
+        {
+            "text": "yellow",
+            "value": 1
+        },
+        {
+            "text": "flag",
+            "value": 1
+        },
+        {
+            "text": "flying",
+            "value": 1
+        },
+        {
+            "text": "lucky",
+            "value": 1
+        },
+        {
+            "text": "able",
+            "value": 1
+        },
+        {
+            "text": "look",
+            "value": 1
+        },
+        {
+            "text": "upon",
+            "value": 1
+        },
+        {
+            "text": "two",
+            "value": 1
+        },
+        {
+            "text": "large",
+            "value": 1
+        },
+        {
+            "text": "Bunya",
+            "value": 1
+        },
+        {
+            "text": "Pines",
+            "value": 1
+        },
+        {
+            "text": "morning",
+            "value": 1
+        },
+        {
+            "text": "Microseris",
+            "value": 4
+        },
+        {
+            "text": "scapigera",
+            "value": 2
+        },
+        {
+            "text": "looking",
+            "value": 1
+        },
+        {
+            "text": "thick",
+            "value": 1
+        },
+        {
+            "text": "flower",
+            "value": 1
+        },
+        {
+            "text": "summer",
+            "value": 1
+        },
+        {
+            "text": "picture",
+            "value": 1
+        },
+        {
+            "text": "Murnong",
+            "value": 2
+        },
+        {
+            "text": "sign",
+            "value": 1
+        },
+        {
+            "text": "walteri",
+            "value": 1
+        },
+        {
+            "text": "actually",
+            "value": 2
+        },
+        {
+            "text": "planted",
+            "value": 1
+        },
+        {
+            "text": "plants",
+            "value": 1
+        },
+        {
+            "text": "sold",
+            "value": 1
+        },
+        {
+            "text": "TuckerBush",
+            "value": 1
+        },
+        {
+            "text": "lanceolata",
+            "value": 1
+        },
+        {
+            "text": "list",
+            "value": 1
+        },
+        {
+            "text": "quite",
+            "value": 1
+        },
+        {
+            "text": "dramatic",
+            "value": 1
+        },
+        {
+            "text": "Go",
+            "value": 1
+        },
+        {
+            "text": "away",
+            "value": 1
+        },
+        {
+            "text": "cannot",
+            "value": 1
+        },
+        {
+            "text": "croissant",
+            "value": 1
+        },
+        {
+            "text": "pond",
+            "value": 1
+        },
+        {
+            "text": "used",
+            "value": 1
+        },
+        {
+            "text": "full",
+            "value": 1
+        },
+        {
+            "text": "eels",
+            "value": 1
+        },
+        {
+            "text": "Separation",
+            "value": 1
+        },
+        {
+            "text": "Tree",
+            "value": 1
+        },
+        {
+            "text": "15th",
+            "value": 1
+        },
+        {
+            "text": "November",
+            "value": 1
+        },
+        {
+            "text": "1850",
+            "value": 1
+        },
+        {
+            "text": "citizens",
+            "value": 1
+        },
+        {
+            "text": "rejoiced",
+            "value": 1
+        },
+        {
+            "text": "receipt",
+            "value": 1
+        },
+        {
+            "text": "news",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 1
+        },
+        {
+            "text": "become",
+            "value": 1
+        },
+        {
+            "text": "seperate",
+            "value": 1
+        },
+        {
+            "text": "colony",
+            "value": 1
+        },
+        {
+            "text": "Cabbage",
+            "value": 1
+        },
+        {
+            "text": "Palms",
+            "value": 1
+        },
+        {
+            "text": "Livistona",
+            "value": 1
+        },
+        {
+            "text": "australis",
+            "value": 1
+        },
+        {
+            "text": "juvenile",
+            "value": 1
+        },
+        {
+            "text": "period",
+            "value": 1
+        },
+        {
+            "text": "30",
+            "value": 1
+        },
+        {
+            "text": "years",
+            "value": 2
+        },
+        {
+            "text": "start",
+            "value": 1
+        },
+        {
+            "text": "grow",
+            "value": 1
+        },
+        {
+            "text": "trunk",
+            "value": 1
+        },
+        {
+            "text": "rate",
+            "value": 1
+        },
+        {
+            "text": "1",
+            "value": 1
+        },
+        {
+            "text": "metre",
+            "value": 1
+        },
+        {
+            "text": "per",
+            "value": 1
+        },
+        {
+            "text": "25",
+            "value": 1
+        },
+        {
+            "text": "pretty",
+            "value": 1
+        },
+        {
+            "text": "tall",
+            "value": 1
+        },
+        {
+            "text": "Inconsistent",
+            "value": 1
+        },
+        {
+            "text": "common",
+            "value": 1
+        },
+        {
+            "text": "names",
+            "value": 1
+        },
+        {
+            "text": "breadfruit",
+            "value": 1
+        },
+        {
+            "text": "edible",
+            "value": 1
+        },
+        {
+            "text": "rarely",
+            "value": 1
+        },
+        {
+            "text": "eaten",
+            "value": 1
+        },
+        {
+            "text": "except",
+            "value": 1
+        },
+        {
+            "text": "emergency",
+            "value": 1
+        },
+        {
+            "text": "food",
+            "value": 1
+        },
+        {
+            "text": "flood",
+            "value": 1
+        },
+        {
+            "text": "across",
+            "value": 1
+        },
+        {
+            "text": "path",
+            "value": 1
+        },
+        {
+            "text": "stopping",
+            "value": 1
+        },
+        {
+            "text": "runner",
+            "value": 1
+        },
+        {
+            "text": "Horse",
+            "value": 1
+        },
+        {
+            "text": "Chestnut",
+            "value": 1
+        },
+        {
+            "text": "flowers",
+            "value": 1
+        },
+        {
+            "text": "Giant",
+            "value": 1
+        },
+        {
+            "text": "Spear",
+            "value": 1
+        },
+        {
+            "text": "Lily",
+            "value": 1
+        },
+        {
+            "text": "Doryanthes",
+            "value": 1
+        },
+        {
+            "text": "palmeri",
+            "value": 1
+        },
+        {
+            "text": "heavy",
+            "value": 1
+        },
+        {
+            "text": "Punt",
+            "value": 2
+        },
+        {
+            "text": "Rd",
+            "value": 2
+        },
+        {
+            "text": "Cremorne",
+            "value": 2
+        },
+        {
+            "text": "lanes",
+            "value": 3
+        },
+        {
+            "text": "closed",
+            "value": 4
+        },
+        {
+            "text": "southbound",
+            "value": 4
+        },
+        {
+            "text": "lane",
+            "value": 1
+        },
+        {
+            "text": "approaching",
+            "value": 2
+        },
+        {
+            "text": "Two",
+            "value": 1
+        },
+        {
+            "text": "Monash",
+            "value": 1
+        }
+    ]
+}

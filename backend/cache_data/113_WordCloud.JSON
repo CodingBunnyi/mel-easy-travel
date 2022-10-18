@@ -1,0 +1,48 @@
+{
+    "word_freq": [
+        {
+            "text": "Playing",
+            "value": 1
+        },
+        {
+            "text": "funky",
+            "value": 1
+        },
+        {
+            "text": "tunes",
+            "value": 1
+        },
+        {
+            "text": "Doutta",
+            "value": 3
+        },
+        {
+            "text": "Galla",
+            "value": 3
+        },
+        {
+            "text": "Flemington",
+            "value": 1
+        },
+        {
+            "text": "Come",
+            "value": 2
+        },
+        {
+            "text": "say",
+            "value": 2
+        },
+        {
+            "text": "hi",
+            "value": 2
+        },
+        {
+            "text": "Hotel",
+            "value": 2
+        },
+        {
+            "text": "area",
+            "value": 1
+        }
+    ]
+}

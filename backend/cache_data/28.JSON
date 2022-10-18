@@ -1,0 +1,42 @@
+{
+    "count": 2,
+    "data": [
+        {
+            "tid": 1581326193843838976,
+            "uid": 1510249801761562628,
+            "author": "Sam Khodr",
+            "time": "2022-10-15 16:48:38 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Bathroom transformation in Kensington for one of our Gold card DVA Clients. Bathroom was level from all trip hazards. Our team once again delivered in full satisfaction 👍🏻 https://t.co/3pKQnRhvxI",
+            "clean_text": "Bathroom transformation in Kensington for one of our Gold card DVA Clients Bathroom was level from all trip hazards Our team once again delivered in full satisfaction",
+            "place_name": "Kensington, Melbourne",
+            "place_type": "neighborhood",
+            "longitude": 144.92538702000002,
+            "latitude": -37.79488197,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1581326101615235073/pu/img/6L_9dLx1W1TVJrmQ.jpg"
+            ]
+        },
+        {
+            "tid": 1580764740267429888,
+            "uid": 18355295,
+            "author": "Eliza Sum",
+            "time": "2022-10-14 03:37:37 +0000",
+            "like_no": 17,
+            "language": "en",
+            "text": "Surreal scenes on Hobsons and Kensington roads in Kensington. #vicfloods #melbourneweather https://t.co/1x1gW7aaie",
+            "clean_text": "Surreal scenes on Hobsons and Kensington roads in Kensington",
+            "place_name": "Kensington, Melbourne",
+            "place_type": "neighborhood",
+            "longitude": 144.92538702000002,
+            "latitude": -37.79488197,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfABJi6aMAcDdm8.jpg",
+                "https://pbs.twimg.com/media/FfABJi9aEAEC07M.jpg",
+                "https://pbs.twimg.com/media/FfABJi8aAAEV9Jc.jpg",
+                "https://pbs.twimg.com/media/FfABJi6aYAAXEJI.jpg"
+            ]
+        }
+    ]
+}

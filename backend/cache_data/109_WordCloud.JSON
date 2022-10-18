@@ -1,0 +1,40 @@
+{
+    "word_freq": [
+        {
+            "text": "Hello",
+            "value": 1
+        },
+        {
+            "text": "May",
+            "value": 1
+        },
+        {
+            "text": "introduce",
+            "value": 1
+        },
+        {
+            "text": "Ready",
+            "value": 1
+        },
+        {
+            "text": "WAR",
+            "value": 1
+        },
+        {
+            "text": "double",
+            "value": 1
+        },
+        {
+            "text": "donation",
+            "value": 1
+        },
+        {
+            "text": "reads",
+            "value": 1
+        },
+        {
+            "text": "air",
+            "value": 1
+        }
+    ]
+}

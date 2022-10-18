@@ -1,0 +1,52 @@
+{
+    "word_freq": [
+        {
+            "text": "Queens",
+            "value": 1
+        },
+        {
+            "text": "Rd",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "lanes",
+            "value": 1
+        },
+        {
+            "text": "closed",
+            "value": 2
+        },
+        {
+            "text": "inbound",
+            "value": 2
+        },
+        {
+            "text": "Right",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 1
+        },
+        {
+            "text": "near",
+            "value": 1
+        },
+        {
+            "text": "Arthur",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 1
+        },
+        {
+            "text": "due",
+            "value": 1
+        }
+    ]
+}

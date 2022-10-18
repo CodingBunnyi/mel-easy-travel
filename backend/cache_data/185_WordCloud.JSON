@@ -1,0 +1,956 @@
+{
+    "word_freq": [
+        {
+            "text": "good",
+            "value": 3
+        },
+        {
+            "text": "home",
+            "value": 3
+        },
+        {
+            "text": "Melbourne",
+            "value": 4
+        },
+        {
+            "text": "Skydeck",
+            "value": 1
+        },
+        {
+            "text": "Working",
+            "value": 1
+        },
+        {
+            "text": "teams",
+            "value": 2
+        },
+        {
+            "text": "Maurice",
+            "value": 1
+        },
+        {
+            "text": "Blackburn",
+            "value": 1
+        },
+        {
+            "text": "watch",
+            "value": 1
+        },
+        {
+            "text": "firm",
+            "value": 1
+        },
+        {
+            "text": "Bruh",
+            "value": 1
+        },
+        {
+            "text": "Help",
+            "value": 1
+        },
+        {
+            "text": "stuck",
+            "value": 1
+        },
+        {
+            "text": "Crown",
+            "value": 1
+        },
+        {
+            "text": "Caught",
+            "value": 1
+        },
+        {
+            "text": "surprise",
+            "value": 1
+        },
+        {
+            "text": "'short'",
+            "value": 2
+        },
+        {
+            "text": "interview",
+            "value": 1
+        },
+        {
+            "text": "today's",
+            "value": 1
+        },
+        {
+            "text": "event",
+            "value": 1
+        },
+        {
+            "text": "role",
+            "value": 1
+        },
+        {
+            "text": "leadership",
+            "value": 2
+        },
+        {
+            "text": "program",
+            "value": 1
+        },
+        {
+            "text": "certification",
+            "value": 1
+        },
+        {
+            "text": "message",
+            "value": 1
+        },
+        {
+            "text": "HCPs",
+            "value": 1
+        },
+        {
+            "text": "really",
+            "value": 1
+        },
+        {
+            "text": "let's",
+            "value": 1
+        },
+        {
+            "text": "see",
+            "value": 2
+        },
+        {
+            "text": "passes",
+            "value": 1
+        },
+        {
+            "text": "broadcast",
+            "value": 1
+        },
+        {
+            "text": "blood",
+            "value": 1
+        },
+        {
+            "text": "donor",
+            "value": 1
+        },
+        {
+            "text": "time",
+            "value": 2
+        },
+        {
+            "text": "posted",
+            "value": 8
+        },
+        {
+            "text": "photo",
+            "value": 8
+        },
+        {
+            "text": "Reservoir",
+            "value": 5
+        },
+        {
+            "text": "flashbacks",
+            "value": 1
+        },
+        {
+            "text": "walked",
+            "value": 1
+        },
+        {
+            "text": "past",
+            "value": 1
+        },
+        {
+            "text": "Helmut",
+            "value": 1
+        },
+        {
+            "text": "Morning",
+            "value": 1
+        },
+        {
+            "text": "Workout",
+            "value": 1
+        },
+        {
+            "text": "Mob",
+            "value": 1
+        },
+        {
+            "text": "ties",
+            "value": 1
+        },
+        {
+            "text": "Hey",
+            "value": 1
+        },
+        {
+            "text": "waiting",
+            "value": 1
+        },
+        {
+            "text": "interesting",
+            "value": 1
+        },
+        {
+            "text": "discussion",
+            "value": 1
+        },
+        {
+            "text": "regional",
+            "value": 1
+        },
+        {
+            "text": "obesity",
+            "value": 1
+        },
+        {
+            "text": "medicine",
+            "value": 1
+        },
+        {
+            "text": "landscape",
+            "value": 1
+        },
+        {
+            "text": "UK's",
+            "value": 1
+        },
+        {
+            "text": "geography",
+            "value": 1
+        },
+        {
+            "text": "experience",
+            "value": 1
+        },
+        {
+            "text": "Cleveland",
+            "value": 1
+        },
+        {
+            "text": "Clinic",
+            "value": 1
+        },
+        {
+            "text": "Lovely",
+            "value": 1
+        },
+        {
+            "text": "dinner",
+            "value": 1
+        },
+        {
+            "text": "hotel's",
+            "value": 1
+        },
+        {
+            "text": "restaurant",
+            "value": 1
+        },
+        {
+            "text": "cohort",
+            "value": 1
+        },
+        {
+            "text": "Swipe",
+            "value": 1
+        },
+        {
+            "text": "prize",
+            "value": 1
+        },
+        {
+            "text": "Kingpin",
+            "value": 1
+        },
+        {
+            "text": "New",
+            "value": 1
+        },
+        {
+            "text": "Brew",
+            "value": 1
+        },
+        {
+            "text": "Saturday",
+            "value": 2
+        },
+        {
+            "text": "Cheers",
+            "value": 1
+        },
+        {
+            "text": "Drinking",
+            "value": 1
+        },
+        {
+            "text": "Brookvale",
+            "value": 1
+        },
+        {
+            "text": "Union",
+            "value": 1
+        },
+        {
+            "text": "Citrusy",
+            "value": 1
+        },
+        {
+            "text": "Yuzu",
+            "value": 1
+        },
+        {
+            "text": "Ginger",
+            "value": 1
+        },
+        {
+            "text": "Beer",
+            "value": 2
+        },
+        {
+            "text": "Ging",
+            "value": 1
+        },
+        {
+            "text": "Thai",
+            "value": 1
+        },
+        {
+            "text": "night",
+            "value": 3
+        },
+        {
+            "text": "like",
+            "value": 2
+        },
+        {
+            "text": "I'm",
+            "value": 1
+        },
+        {
+            "text": "Gochi",
+            "value": 1
+        },
+        {
+            "text": "Caulfield",
+            "value": 1
+        },
+        {
+            "text": "Cup",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 1
+        },
+        {
+            "text": "Everest",
+            "value": 1
+        },
+        {
+            "text": "Day",
+            "value": 1
+        },
+        {
+            "text": "Small",
+            "value": 1
+        },
+        {
+            "text": "Businesses",
+            "value": 1
+        },
+        {
+            "text": "Chaired",
+            "value": 1
+        },
+        {
+            "text": "presented",
+            "value": 1
+        },
+        {
+            "text": "group",
+            "value": 2
+        },
+        {
+            "text": "amazing",
+            "value": 1
+        },
+        {
+            "text": "researchers",
+            "value": 1
+        },
+        {
+            "text": "Even",
+            "value": 1
+        },
+        {
+            "text": "managed",
+            "value": 1
+        },
+        {
+            "text": "talk",
+            "value": 2
+        },
+        {
+            "text": "celebrity",
+            "value": 1
+        },
+        {
+            "text": "crush",
+            "value": 1
+        },
+        {
+            "text": "Amazing",
+            "value": 1
+        },
+        {
+            "text": "food",
+            "value": 1
+        },
+        {
+            "text": "great",
+            "value": 3
+        },
+        {
+            "text": "catch",
+            "value": 1
+        },
+        {
+            "text": "ups",
+            "value": 1
+        },
+        {
+            "text": "soooo",
+            "value": 1
+        },
+        {
+            "text": "full",
+            "value": 1
+        },
+        {
+            "text": "Asado",
+            "value": 1
+        },
+        {
+            "text": "Friday",
+            "value": 1
+        },
+        {
+            "text": "drinks",
+            "value": 1
+        },
+        {
+            "text": "Dagwood",
+            "value": 1
+        },
+        {
+            "text": "Deli",
+            "value": 1
+        },
+        {
+            "text": "beer",
+            "value": 1
+        },
+        {
+            "text": "Come",
+            "value": 1
+        },
+        {
+            "text": "Belgian",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 2
+        },
+        {
+            "text": "HELLOOO",
+            "value": 1
+        },
+        {
+            "text": "FLAMINGO",
+            "value": 1
+        },
+        {
+            "text": "missed",
+            "value": 1
+        },
+        {
+            "text": "excited",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 2
+        },
+        {
+            "text": "tonight",
+            "value": 1
+        },
+        {
+            "text": "throw",
+            "value": 1
+        },
+        {
+            "text": "HEAVIES",
+            "value": 1
+        },
+        {
+            "text": "Aviary",
+            "value": 1
+        },
+        {
+            "text": "1",
+            "value": 1
+        },
+        {
+            "text": "2am",
+            "value": 1
+        },
+        {
+            "text": "gt",
+            "value": 6
+        },
+        {
+            "text": "swipe",
+            "value": 1
+        },
+        {
+            "text": "clips",
+            "value": 1
+        },
+        {
+            "text": "2019",
+            "value": 1
+        },
+        {
+            "text": "Flamingo",
+            "value": 1
+        },
+        {
+            "text": "Club",
+            "value": 1
+        },
+        {
+            "text": "Southern",
+            "value": 2
+        },
+        {
+            "text": "Cross",
+            "value": 2
+        },
+        {
+            "text": "Station",
+            "value": 2
+        },
+        {
+            "text": "another",
+            "value": 1
+        },
+        {
+            "text": "train",
+            "value": 1
+        },
+        {
+            "text": "trip",
+            "value": 1
+        },
+        {
+            "text": "828km",
+            "value": 1
+        },
+        {
+            "text": "Adelaide",
+            "value": 1
+        },
+        {
+            "text": "Overland",
+            "value": 1
+        },
+        {
+            "text": "journeybeyondrail",
+            "value": 1
+        },
+        {
+            "text": "Staff",
+            "value": 1
+        },
+        {
+            "text": "sent",
+            "value": 1
+        },
+        {
+            "text": "early",
+            "value": 1
+        },
+        {
+            "text": "avoid",
+            "value": 1
+        },
+        {
+            "text": "risk",
+            "value": 1
+        },
+        {
+            "text": "drenching",
+            "value": 1
+        },
+        {
+            "text": "rain",
+            "value": 2
+        },
+        {
+            "text": "poor",
+            "value": 1
+        },
+        {
+            "text": "visibility",
+            "value": 1
+        },
+        {
+            "text": "even",
+            "value": 1
+        },
+        {
+            "text": "flood",
+            "value": 1
+        },
+        {
+            "text": "Many",
+            "value": 1
+        },
+        {
+            "text": "outer",
+            "value": 1
+        },
+        {
+            "text": "north",
+            "value": 1
+        },
+        {
+            "text": "contingencies",
+            "value": 1
+        },
+        {
+            "text": "safety",
+            "value": 1
+        },
+        {
+            "text": "late",
+            "value": 1
+        },
+        {
+            "text": "AOD",
+            "value": 1
+        },
+        {
+            "text": "street",
+            "value": 1
+        },
+        {
+            "text": "outreach",
+            "value": 1
+        },
+        {
+            "text": "ppl",
+            "value": 1
+        },
+        {
+            "text": "best",
+            "value": 2
+        },
+        {
+            "text": "C",
+            "value": 1
+        },
+        {
+            "text": "People",
+            "value": 1
+        },
+        {
+            "text": "hesitate",
+            "value": 1
+        },
+        {
+            "text": "share",
+            "value": 1
+        },
+        {
+            "text": "kind",
+            "value": 2
+        },
+        {
+            "text": "word",
+            "value": 1
+        },
+        {
+            "text": "deed",
+            "value": 1
+        },
+        {
+            "text": "brighten",
+            "value": 1
+        },
+        {
+            "text": "someone",
+            "value": 1
+        },
+        {
+            "text": "else's",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "people",
+            "value": 2
+        },
+        {
+            "text": "Den",
+            "value": 5
+        },
+        {
+            "text": "expect",
+            "value": 1
+        },
+        {
+            "text": "taste",
+            "value": 2
+        },
+        {
+            "text": "water",
+            "value": 1
+        },
+        {
+            "text": "refreshing",
+            "value": 1
+        },
+        {
+            "text": "Expectations",
+            "value": 1
+        },
+        {
+            "text": "change",
+            "value": 1
+        },
+        {
+            "text": "everything",
+            "value": 1
+        },
+        {
+            "text": "Balcony",
+            "value": 1
+        },
+        {
+            "text": "view",
+            "value": 1
+        },
+        {
+            "text": "Southbank",
+            "value": 2
+        },
+        {
+            "text": "Grand",
+            "value": 1
+        },
+        {
+            "text": "Dinner",
+            "value": 1
+        },
+        {
+            "text": "Uncle",
+            "value": 1
+        },
+        {
+            "text": "David's",
+            "value": 1
+        },
+        {
+            "text": "little",
+            "value": 1
+        },
+        {
+            "text": "Collins",
+            "value": 1
+        },
+        {
+            "text": "pretty",
+            "value": 1
+        },
+        {
+            "text": "mean",
+            "value": 1
+        },
+        {
+            "text": "rendang",
+            "value": 1
+        },
+        {
+            "text": "Pandan",
+            "value": 1
+        },
+        {
+            "text": "brownie",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 1
+        },
+        {
+            "text": "Great",
+            "value": 1
+        },
+        {
+            "text": "meeting",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 1
+        },
+        {
+            "text": "incredible",
+            "value": 1
+        },
+        {
+            "text": "intelligent",
+            "value": 1
+        },
+        {
+            "text": "women",
+            "value": 1
+        },
+        {
+            "text": "develop",
+            "value": 1
+        },
+        {
+            "text": "consensus",
+            "value": 1
+        },
+        {
+            "text": "improving",
+            "value": 1
+        },
+        {
+            "text": "outcomes",
+            "value": 1
+        },
+        {
+            "text": "teens",
+            "value": 1
+        },
+        {
+            "text": "anxiety",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "4",
+            "value": 1
+        },
+        {
+            "text": "inspiration",
+            "value": 1
+        },
+        {
+            "text": "one",
+            "value": 2
+        },
+        {
+            "text": "call",
+            "value": 1
+        },
+        {
+            "text": "waited",
+            "value": 1
+        },
+        {
+            "text": "lifetime",
+            "value": 1
+        },
+        {
+            "text": "could",
+            "value": 1
+        },
+        {
+            "text": "wait",
+            "value": 1
+        },
+        {
+            "text": "life",
+            "value": 1
+        },
+        {
+            "text": "changes",
+            "value": 1
+        },
+        {
+            "text": "might",
+            "value": 1
+        },
+        {
+            "text": "circle",
+            "value": 1
+        },
+        {
+            "text": "lot",
+            "value": 1
+        },
+        {
+            "text": "problems",
+            "value": 1
+        },
+        {
+            "text": "would",
+            "value": 1
+        },
+        {
+            "text": "disappear",
+            "value": 1
+        },
+        {
+            "text": "instead",
+            "value": 1
+        },
+        {
+            "text": "Despite",
+            "value": 1
+        },
+        {
+            "text": "got",
+            "value": 1
+        },
+        {
+            "text": "turnout",
+            "value": 1
+        },
+        {
+            "text": "asking",
+            "value": 1
+        },
+        {
+            "text": "3pm",
+            "value": 1
+        },
+        {
+            "text": "Learn",
+            "value": 1
+        },
+        {
+            "text": "attend",
+            "value": 1
+        }
+    ]
+}

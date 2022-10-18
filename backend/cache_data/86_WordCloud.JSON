@@ -1,0 +1,652 @@
+{
+    "word_freq": [
+        {
+            "text": "Much",
+            "value": 1
+        },
+        {
+            "text": "awaited",
+            "value": 1
+        },
+        {
+            "text": "house",
+            "value": 2
+        },
+        {
+            "text": "full",
+            "value": 1
+        },
+        {
+            "text": "Pak",
+            "value": 1
+        },
+        {
+            "text": "vs",
+            "value": 1
+        },
+        {
+            "text": "Ind",
+            "value": 1
+        },
+        {
+            "text": "match",
+            "value": 2
+        },
+        {
+            "text": "washed",
+            "value": 1
+        },
+        {
+            "text": "rain",
+            "value": 2
+        },
+        {
+            "text": "Oct",
+            "value": 1
+        },
+        {
+            "text": "23",
+            "value": 1
+        },
+        {
+            "text": "two",
+            "value": 1
+        },
+        {
+            "text": "days",
+            "value": 1
+        },
+        {
+            "text": "Fucking",
+            "value": 1
+        },
+        {
+            "text": "get",
+            "value": 2
+        },
+        {
+            "text": "bed",
+            "value": 1
+        },
+        {
+            "text": "DEBI",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 1
+        },
+        {
+            "text": "Welcome",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 5
+        },
+        {
+            "text": "Australia",
+            "value": 3
+        },
+        {
+            "text": "Art",
+            "value": 1
+        },
+        {
+            "text": "Fighting",
+            "value": 1
+        },
+        {
+            "text": "Recital",
+            "value": 1
+        },
+        {
+            "text": "Centre",
+            "value": 1
+        },
+        {
+            "text": "Day",
+            "value": 1
+        },
+        {
+            "text": "2",
+            "value": 1
+        },
+        {
+            "text": "presenting",
+            "value": 1
+        },
+        {
+            "text": "Yesterday",
+            "value": 1
+        },
+        {
+            "text": "creating",
+            "value": 1
+        },
+        {
+            "text": "mixed",
+            "value": 1
+        },
+        {
+            "text": "culture",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 3
+        },
+        {
+            "text": "today",
+            "value": 2
+        },
+        {
+            "text": "balanced",
+            "value": 1
+        },
+        {
+            "text": "complexity",
+            "value": 1
+        },
+        {
+            "text": "Tasted",
+            "value": 1
+        },
+        {
+            "text": "5",
+            "value": 1
+        },
+        {
+            "text": "different",
+            "value": 1
+        },
+        {
+            "text": "beers",
+            "value": 2
+        },
+        {
+            "text": "using",
+            "value": 1
+        },
+        {
+            "text": "ETF",
+            "value": 1
+        },
+        {
+            "text": "blend",
+            "value": 1
+        },
+        {
+            "text": "engaging",
+            "value": 1
+        },
+        {
+            "text": "delightful",
+            "value": 1
+        },
+        {
+            "text": "crowd",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "wonderful",
+            "value": 1
+        },
+        {
+            "text": "time",
+            "value": 1
+        },
+        {
+            "text": "Finally",
+            "value": 1
+        },
+        {
+            "text": "joy",
+            "value": 1
+        },
+        {
+            "text": "seeing",
+            "value": 1
+        },
+        {
+            "text": "Cyrano",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "night",
+            "value": 1
+        },
+        {
+            "text": "I'm",
+            "value": 1
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "trying",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 2
+        },
+        {
+            "text": "say",
+            "value": 1
+        },
+        {
+            "text": "WOW",
+            "value": 1
+        },
+        {
+            "text": "eloquent",
+            "value": 1
+        },
+        {
+            "text": "way",
+            "value": 1
+        },
+        {
+            "text": "laughed",
+            "value": 1
+        },
+        {
+            "text": "sobbed",
+            "value": 1
+        },
+        {
+            "text": "despaired",
+            "value": 1
+        },
+        {
+            "text": "hoped",
+            "value": 1
+        },
+        {
+            "text": "felt",
+            "value": 2
+        },
+        {
+            "text": "seen",
+            "value": 1
+        },
+        {
+            "text": "triumph",
+            "value": 1
+        },
+        {
+            "text": "privilege",
+            "value": 1
+        },
+        {
+            "text": "experience",
+            "value": 1
+        },
+        {
+            "text": "darkness",
+            "value": 1
+        },
+        {
+            "text": "Flash",
+            "value": 1
+        },
+        {
+            "text": "floods",
+            "value": 1
+        },
+        {
+            "text": "room",
+            "value": 2
+        },
+        {
+            "text": "drained",
+            "value": 1
+        },
+        {
+            "text": "find",
+            "value": 1
+        },
+        {
+            "text": "Xbox",
+            "value": 1
+        },
+        {
+            "text": "rig",
+            "value": 2
+        },
+        {
+            "text": "capture",
+            "value": 1
+        },
+        {
+            "text": "card",
+            "value": 1
+        },
+        {
+            "text": "monitor",
+            "value": 1
+        },
+        {
+            "text": "destroyed",
+            "value": 1
+        },
+        {
+            "text": "sure",
+            "value": 1
+        },
+        {
+            "text": "long",
+            "value": 1
+        },
+        {
+            "text": "renovated",
+            "value": 1
+        },
+        {
+            "text": "repurchased",
+            "value": 1
+        },
+        {
+            "text": "looks",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 2
+        },
+        {
+            "text": "racing",
+            "value": 1
+        },
+        {
+            "text": "foreseeable",
+            "value": 1
+        },
+        {
+            "text": "future",
+            "value": 1
+        },
+        {
+            "text": "Bye",
+            "value": 1
+        },
+        {
+            "text": "Kicking",
+            "value": 1
+        },
+        {
+            "text": "Australian",
+            "value": 1
+        },
+        {
+            "text": "National",
+            "value": 1
+        },
+        {
+            "text": "Homebrew",
+            "value": 1
+        },
+        {
+            "text": "Conference",
+            "value": 1
+        },
+        {
+            "text": "breakfast",
+            "value": 1
+        },
+        {
+            "text": "great",
+            "value": 1
+        },
+        {
+            "text": "talks",
+            "value": 1
+        },
+        {
+            "text": "Go",
+            "value": 1
+        },
+        {
+            "text": "watch",
+            "value": 1
+        },
+        {
+            "text": "movie",
+            "value": 1
+        },
+        {
+            "text": "Legend",
+            "value": 1
+        },
+        {
+            "text": "Mola",
+            "value": 1
+        },
+        {
+            "text": "Jutt",
+            "value": 1
+        },
+        {
+            "text": "invite",
+            "value": 1
+        },
+        {
+            "text": "look",
+            "value": 1
+        },
+        {
+            "text": "inside",
+            "value": 1
+        },
+        {
+            "text": "amazing",
+            "value": 1
+        },
+        {
+            "text": "Roman",
+            "value": 1
+        },
+        {
+            "text": "Newell",
+            "value": 1
+        },
+        {
+            "text": "website",
+            "value": 1
+        },
+        {
+            "text": "Amazon",
+            "value": 1
+        },
+        {
+            "text": "page",
+            "value": 1
+        },
+        {
+            "text": "22",
+            "value": 2
+        },
+        {
+            "text": "yrs",
+            "value": 1
+        },
+        {
+            "text": "ago",
+            "value": 1
+        },
+        {
+            "text": "act",
+            "value": 1
+        },
+        {
+            "text": "terror",
+            "value": 1
+        },
+        {
+            "text": "tore",
+            "value": 1
+        },
+        {
+            "text": "away",
+            "value": 1
+        },
+        {
+            "text": "lives",
+            "value": 1
+        },
+        {
+            "text": "202",
+            "value": 1
+        },
+        {
+            "text": "people",
+            "value": 1
+        },
+        {
+            "text": "including",
+            "value": 1
+        },
+        {
+            "text": "88",
+            "value": 1
+        },
+        {
+            "text": "Australians",
+            "value": 1
+        },
+        {
+            "text": "stand",
+            "value": 1
+        },
+        {
+            "text": "solidarity",
+            "value": 1
+        },
+        {
+            "text": "family",
+            "value": 1
+        },
+        {
+            "text": "friends",
+            "value": 1
+        },
+        {
+            "text": "longer",
+            "value": 1
+        },
+        {
+            "text": "us",
+            "value": 1
+        },
+        {
+            "text": "12OCT",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "fountains",
+            "value": 1
+        },
+        {
+            "text": "lights",
+            "value": 1
+        },
+        {
+            "text": "reflective",
+            "value": 1
+        },
+        {
+            "text": "pool",
+            "value": 1
+        },
+        {
+            "text": "Lincoln",
+            "value": 1
+        },
+        {
+            "text": "Square",
+            "value": 1
+        },
+        {
+            "text": "turned",
+            "value": 1
+        },
+        {
+            "text": "thing",
+            "value": 1
+        },
+        {
+            "text": "Sydney",
+            "value": 1
+        },
+        {
+            "text": "weather",
+            "value": 1
+        },
+        {
+            "text": "please",
+            "value": 1
+        },
+        {
+            "text": "stop",
+            "value": 1
+        },
+        {
+            "text": "raining",
+            "value": 1
+        },
+        {
+            "text": "dom",
+            "value": 1
+        },
+        {
+            "text": "tops",
+            "value": 1
+        },
+        {
+            "text": "wanna",
+            "value": 1
+        },
+        {
+            "text": "use",
+            "value": 1
+        },
+        {
+            "text": "Straight",
+            "value": 1
+        },
+        {
+            "text": "preferred",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 1
+        },
+        {
+            "text": "photo",
+            "value": 1
+        },
+        {
+            "text": "Southbank",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 1
+        }
+    ]
+}

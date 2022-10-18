@@ -1,0 +1,56 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "tid": 1581063393062301696,
+            "uid": 861446515717308416,
+            "author": "Kushal K C",
+            "time": "2022-10-14 23:24:22 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Hello, May I introduce myself? https://t.co/5h5YaPamIB",
+            "clean_text": "Hello May I introduce myself",
+            "place_name": "Docklands Victoria Harbour",
+            "place_type": "poi",
+            "longitude": 144.94322136013523,
+            "latitude": -37.816627191769776,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1581063260807524352/pu/img/bIvmhnQi2aMkssVV.jpg"
+            ]
+        },
+        {
+            "tid": 1580380088654184449,
+            "uid": 3877413253,
+            "author": "Zeus",
+            "time": "2022-10-13 02:09:09 +0000",
+            "like_no": 10,
+            "language": "en",
+            "text": "Ready for WAR 🇬🇷⚔️🇦🇺👊 https://t.co/Pive46x985",
+            "clean_text": "Ready for WAR",
+            "place_name": "Docklands, Melbourne",
+            "place_type": "neighborhood",
+            "longitude": 144.93802392,
+            "latitude": -37.818136034999995,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1580379997151248385/pu/img/X5eJ164RwKhW5g56.jpg"
+            ]
+        },
+        {
+            "tid": 1580055053507104770,
+            "uid": 17618222,
+            "author": "Ashley Browne",
+            "time": "2022-10-12 04:37:35 +0000",
+            "like_no": 9,
+            "language": "en",
+            "text": "“I’ll double my donation if ⁦@CalTwomey⁩ reads it out on the air.” #afltrades https://t.co/xGRsmet8wD",
+            "clean_text": "I ll double my donation if reads it out on the air",
+            "place_name": "Etihad Stadium",
+            "place_type": "poi",
+            "longitude": 144.94802273684812,
+            "latitude": -37.816571971219936,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe17sSzagAEDoQF.jpg"
+            ]
+        }
+    ]
+}

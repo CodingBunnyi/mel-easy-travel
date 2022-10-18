@@ -1,0 +1,286 @@
+{
+    "count": 17,
+    "data": [
+        {
+            "tid": 1582490543514210304,
+            "uid": 763619558867558402,
+            "author": "Claire Jessup",
+            "time": "2022-10-18 21:55:21 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Prof Clare Scott 🤩\nChair of @anzgog \nJoint Division Head @WEHI_research \nMember of the Order of Australia\nSuperstar clinician/scientist\n\nStarstruck+emotional to meet this living legend in person yesterday. So, so impressive. Also a warm, caring person who smiles with her eyes 🤗 https://t.co/6toKKtna91",
+            "clean_text": "Prof Clare Scott Chair of Joint Division Head Member of the Order of Australia Superstar clinician scientist Starstruck emotional to meet this living legend in person yesterday So so impressive Also a warm caring person who smiles with her eyes",
+            "place_name": "Peter MacCallum Cancer Centre",
+            "place_type": "poi",
+            "longitude": 144.97763818594302,
+            "latitude": -37.81192622596572,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfYiwXzVsAAIJhz.jpg"
+            ]
+        },
+        {
+            "tid": 1582306692158484480,
+            "uid": 900530772502650880,
+            "author": "Harry Millward",
+            "time": "2022-10-18 09:44:47 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Anyone coming to tell #springst that #therentistoohigh with @RAHUnion ?\n\nHope to see y’all there ✊ https://t.co/WOZUCx5O4n",
+            "clean_text": "Anyone coming to tell that with Hope to see y all there",
+            "place_name": "Parliament House of Victoria",
+            "place_type": "poi",
+            "longitude": 144.9738210439682,
+            "latitude": -37.8110469139749,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfV7i6uUAAM2Dmz.jpg",
+                "https://pbs.twimg.com/media/FfV7i6uUcAAnV--.jpg"
+            ]
+        },
+        {
+            "tid": 1581792605087891456,
+            "uid": 35631919,
+            "author": "Chloé Zuel",
+            "time": "2022-10-16 23:41:59 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Her Majesty's Theatre Melbourne https://t.co/aBlrQn3bcD",
+            "clean_text": "Just posted a photo Her Majesty's Theatre Melbourne",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96976,
+            "latitude": -37.81092,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581581103919378432,
+            "uid": 152191873,
+            "author": "BB 💫 ,,",
+            "time": "2022-10-16 09:41:34 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Harry Potter and the Cursed Child ,, Expecto Patronum! https://t.co/oI1I1zGo1T",
+            "clean_text": "Harry Potter and the Cursed Child Expecto Patronum",
+            "place_name": "Princess Theatre",
+            "place_type": "poi",
+            "longitude": 144.97254546919052,
+            "latitude": -37.810636721140575,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1581556116567166976/pu/img/6urhPX-6U9VNuiY8.jpg"
+            ]
+        },
+        {
+            "tid": 1581508667270082560,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-16 04:53:43 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "Bags made from ring-pulls by Delata. Genius. 😲 #FindersKeepers https://t.co/MSJE0Vk78c",
+            "clean_text": "Bags made from ring pulls by Delata Genius",
+            "place_name": "Royal Exhibition Building",
+            "place_type": "poi",
+            "longitude": 144.97125925453452,
+            "latitude": -37.80512534016568,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfKlvsJUUAAhWkc.jpg"
+            ]
+        },
+        {
+            "tid": 1581460324754296832,
+            "uid": 14820495,
+            "author": "Chris Rodda",
+            "time": "2022-10-16 01:41:38 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ The Terrace on Exhibition st https://t.co/13gDfnFhfB",
+            "clean_text": "Just posted a photo The Terrace on Exhibition st",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96886456,
+            "latitude": -37.80766611,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581459367924097027,
+            "uid": 14820495,
+            "author": "Chris Rodda",
+            "time": "2022-10-16 01:37:50 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Bennetts Lane Jazz Club https://t.co/klz6QF9grJ",
+            "clean_text": "Just posted a photo Bennetts Lane Jazz Club",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96756,
+            "latitude": -37.80889,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581253122735083520,
+            "uid": 395736670,
+            "author": "Tanya",
+            "time": "2022-10-15 11:58:17 +0000",
+            "like_no": 17,
+            "language": "en",
+            "text": "Finishing off a most excellent day in a most excellent way... https://t.co/DLD5AUssVI",
+            "clean_text": "Finishing off a most excellent day in a most excellent way",
+            "place_name": "Coopers Inn",
+            "place_type": "poi",
+            "longitude": 144.9692251454118,
+            "latitude": -37.809152585758795,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfG9U2waEAEYZlb.jpg"
+            ]
+        },
+        {
+            "tid": 1581192382921396226,
+            "uid": 173006367,
+            "author": "the bendingone 🐉",
+            "time": "2022-10-15 07:56:55 +0000",
+            "like_no": 40,
+            "language": "en",
+            "text": "arrived this morning from Singapore, saw @essendonfcw Win, and now it’s the spaghetti of victory at Pellegrinis! https://t.co/CY9F5XNmET",
+            "clean_text": "arrived this morning from Singapore saw Win and now it s the spaghetti of victory at Pellegrinis",
+            "place_name": "Pellegrini's",
+            "place_type": "poi",
+            "longitude": 144.97125304011647,
+            "latitude": -37.81183797528363,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfGGFPSUYAEEvrm.jpg"
+            ]
+        },
+        {
+            "tid": 1581155597902180352,
+            "uid": 823334198937161728,
+            "author": "Dr Sharon Jay",
+            "time": "2022-10-15 05:30:45 +0000",
+            "like_no": 33,
+            "language": "en",
+            "text": "First face to face #RACSTA meeting since Feb 2019- my last as chair and cool to finally be in the @RACSurgeons council room…. complete with gavel! Very grateful and proud of the mahi/work the Trainee reps have done the year and excited for next years exec!! https://t.co/IRzTKBQzJB",
+            "clean_text": "First face to face meeting since Feb 2019 my last as chair and cool to finally be in the council room complete with gavel Very grateful and proud of the mahi work the Trainee reps have done the year and excited for next years exec",
+            "place_name": "Royal Australasian College of Surgeons",
+            "place_type": "poi",
+            "longitude": 144.97268452188123,
+            "latitude": -37.80888403933435,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfFkoEKVEAUvJuz.jpg"
+            ]
+        },
+        {
+            "tid": 1581119569468723200,
+            "uid": 1079643560838758405,
+            "author": "Samran Daneshfar",
+            "time": "2022-10-15 03:07:35 +0000",
+            "like_no": 13,
+            "language": "en",
+            "text": "From #Melbourne for #WomanLifeFreedom, for #HumanRights, we all fight for #Iran\n\n#مهسا_امینی https://t.co/VZ9AwVlu7u",
+            "clean_text": "From for for we all fight for",
+            "place_name": "Parliament House of Victoria",
+            "place_type": "poi",
+            "longitude": 144.9738210439682,
+            "latitude": -37.8110469139749,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfFD24OaMAA_Y7a.jpg"
+            ]
+        },
+        {
+            "tid": 1581118280890470401,
+            "uid": 326793122,
+            "author": "Moana Leilua🇼🇸🇳🇿",
+            "time": "2022-10-15 03:02:28 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "HAMILTON MUSICAL✌🏾✌🏾 b'day treat for #3 https://t.co/yH2gd1JGad",
+            "clean_text": "HAMILTON MUSICAL b'day treat for 3",
+            "place_name": "Her Majesty's Theatre",
+            "place_type": "poi",
+            "longitude": 144.97001206735413,
+            "latitude": -37.810971034643615,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfFCsMDaUAAZxiV.jpg"
+            ]
+        },
+        {
+            "tid": 1581062186017095680,
+            "uid": 1081115773785931777,
+            "author": "Ashlea Bechaz",
+            "time": "2022-10-14 23:19:34 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "Oh hi it’s day 2 of @finders_keepers Melbourne and things are very orange and gold here 😂 I’m stall J13, along the wall near the Nicholson St entry ❤️\n\n#finderskeepers #finderskeepersmarket #melbourne #melbournemarket #handmade #handcrafted #artist #illustrator #art https://t.co/5eiESp1JDu",
+            "clean_text": "Oh hi it s day 2 of Melbourne and things are very orange and gold here I m stall J13 along the wall near the Nicholson St entry",
+            "place_name": "Royal Exhibition Building",
+            "place_type": "poi",
+            "longitude": 144.97125925453452,
+            "latitude": -37.80512534016568,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfEPq_7akAAj4He.jpg"
+            ]
+        },
+        {
+            "tid": 1580770964861702144,
+            "uid": 1130062562,
+            "author": ".YTR",
+            "time": "2022-10-14 04:02:21 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at St. Vincents &amp; Mercy Private in Fitzroy, Victoria https://t.co/d72MHXB85z",
+            "clean_text": "I'm at St Vincents amp Mercy Private in Fitzroy Victoria",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97596851,
+            "latitude": -37.80814973,
+            "photo_urls": []
+        },
+        {
+            "tid": 1580759004841926658,
+            "uid": 256493931,
+            "author": "เจ้าตัวไหน .",
+            "time": "2022-10-14 03:14:50 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at Ohgam Korean Restaurant &amp; Bar in Melbourne, Victoria https://t.co/vUcV9tDNq3",
+            "clean_text": "I'm at Ohgam Korean Restaurant amp Bar in Melbourne Victoria",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96811,
+            "latitude": -37.81069,
+            "photo_urls": []
+        },
+        {
+            "tid": 1580205252196069376,
+            "uid": 28734216,
+            "author": "Hugh Sheridan",
+            "time": "2022-10-12 14:34:25 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Cinderella the 2nd. Art never waits. @oliviamollyrogers @_paulversace @angelmusicbar @hugh_sheridan 📸 dress by @cappellazzocouture @ Angel Music Bar https://t.co/fV1KR23fNL",
+            "clean_text": "Cinderella the 2nd Art never waits oliviamollyrogers paulversace angelmusicbar dress by cappellazzocouture Angel Music Bar",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97253,
+            "latitude": -37.8113,
+            "photo_urls": []
+        },
+        {
+            "tid": 1580099182073118725,
+            "uid": 830824554,
+            "author": "Natalie Suleyman MP",
+            "time": "2022-10-12 07:32:56 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "Celebrating Youth -Parliament Express - State of the Future - Welcome to Parliament.\n\nThx to everyone involved these programs are produced by young people for young people🎥\n\n@VicParliament is committed to connecting, engaging &amp; supporting young people🎬 \n\nThe future is bright!✨ https://t.co/ffmBcZVa95",
+            "clean_text": "Celebrating Youth Parliament Express State of the Future Welcome to Parliament Thx to everyone involved these programs are produced by young people for young people is committed to connecting engaging amp supporting young people The future is bright",
+            "place_name": "Parliament House of Victoria",
+            "place_type": "poi",
+            "longitude": 144.9738210439682,
+            "latitude": -37.8110469139749,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe2j0xoaUAIzMtO.jpg",
+                "https://pbs.twimg.com/media/Fe2j0xoaUAAslRM.jpg",
+                "https://pbs.twimg.com/media/Fe2j0xqacAA_guz.jpg",
+                "https://pbs.twimg.com/media/Fe2j0xpaMAI4ArQ.jpg"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "count": 13,
+    "data": [
+        {
+            "tid": 1581848405122637826,
+            "uid": 1182212842172407808,
+            "author": "Anna Boath",
+            "time": "2022-10-17 03:23:43 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Exploring Melbourne today and soaking up the glorious weather https://t.co/mSPHOmCp9w",
+            "clean_text": "Exploring Melbourne today and soaking up the glorious weather",
+            "place_name": "Royal Botanic Gardens",
+            "place_type": "poi",
+            "longitude": 144.97987747192383,
+            "latitude": -37.83093781796033,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfPau7zacAAo5jL.jpg",
+                "https://pbs.twimg.com/media/FfPau7zaYAElOuh.jpg"
+            ]
+        },
+        {
+            "tid": 1580879960214212612,
+            "uid": 2819770981,
+            "author": "Vanessa Wiggenraad",
+            "time": "2022-10-14 11:15:28 +0000",
+            "like_no": 12,
+            "language": "en",
+            "text": "This space at the Botanical Gardens is everything. Instead of removing this ancient tree after it died, the limbs were left where they fell and were reshaped as seats. #gardenscapes @RBG_Victoria https://t.co/BOrumdAjLk",
+            "clean_text": "This space at the Botanical Gardens is everything Instead of removing this ancient tree after it died the limbs were left where they fell and were reshaped as seats",
+            "place_name": "Royal Botanic Gardens",
+            "place_type": "poi",
+            "longitude": 144.97987747192383,
+            "latitude": -37.83093781796033,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfBp72YagAAS8gX.jpg",
+                "https://pbs.twimg.com/media/FfBp72YaAAAzTJV.jpg"
+            ]
+        },
+        {
+            "tid": 1580719326830567426,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-14 00:37:10 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "The Victorian Governor is not home as the yellow flag is not flying today. The Governor is lucky to be able to look out upon two large Bunya Pines each morning. https://t.co/0fpizaeGCl",
+            "clean_text": "The Victorian Governor is not home as the yellow flag is not flying today The Governor is lucky to be able to look out upon two large Bunya Pines each morning",
+            "place_name": "Royal Botanic Gardens",
+            "place_type": "poi",
+            "longitude": 144.97987747192383,
+            "latitude": -37.83093781796033,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe_X2KsVQAAdqmR.jpg"
+            ]
+        },
+        {
+            "tid": 1580717825173254146,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-14 00:31:12 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Microseris scapigera is looking thick. It will flower in summer. The picture of the Murnong on the sign is Microseris walteri, which is not actually planted here. The plants sold by TuckerBush as Murnong Microseris lanceolata are actually Microseris scapigera, the same as these. https://t.co/VJBhHlsNAv",
+            "clean_text": "Microseris scapigera is looking thick It will flower in summer The picture of the Murnong on the sign is Microseris walteri which is not actually planted here The plants sold by TuckerBush as Murnong Microseris lanceolata are actually Microseris scapigera the same as these",
+            "place_name": "Royal Botanic Gardens",
+            "place_type": "poi",
+            "longitude": 144.97987747192383,
+            "latitude": -37.83093781796033,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe_WeOoUYAERV-h.jpg",
+                "https://pbs.twimg.com/media/Fe_WeOpUYAAj4ZA.jpg",
+                "https://pbs.twimg.com/media/Fe_WeOnUcAEP5qc.jpg",
+                "https://pbs.twimg.com/media/Fe_WeOnVsAENHKY.jpg"
+            ]
+        },
+        {
+            "tid": 1580715468528025600,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-14 00:21:50 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "This list is quite dramatic. 😮 https://t.co/da3er0lTx9",
+            "clean_text": "This list is quite dramatic",
+            "place_name": "Royal Botanic Gardens",
+            "place_type": "poi",
+            "longitude": 144.97987747192383,
+            "latitude": -37.83093781796033,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe_UVd9VQAAOqlK.jpg"
+            ]
+        },
+        {
+            "tid": 1580704788034961409,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-13 23:39:24 +0000",
+            "like_no": 6,
+            "language": "en",
+            "text": "Go away, you cannot have my croissant! 🥐 https://t.co/37iUiY8FHa",
+            "clean_text": "Go away you cannot have my croissant",
+            "place_name": "The Terrace Tea Rooms",
+            "place_type": "poi",
+            "longitude": 144.9826921494649,
+            "latitude": -37.8293055605595,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe_KnefUYAAA1pb.jpg"
+            ]
+        },
+        {
+            "tid": 1580704603145838592,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-13 23:38:40 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "This pond used to be full of eels. https://t.co/EVeyfY8KuZ",
+            "clean_text": "This pond used to be full of eels",
+            "place_name": "The Terrace Tea Rooms",
+            "place_type": "poi",
+            "longitude": 144.9826921494649,
+            "latitude": -37.8293055605595,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe_KcwYVQAABgRf.jpg"
+            ]
+        },
+        {
+            "tid": 1580702302792318976,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-13 23:29:31 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "The Separation Tree: Under this tree, on 15th November 1850, the citizens of Melbourne rejoiced on receipt of the news that Victoria was to become a seperate colony. 🎉 https://t.co/JpxKXudmDB",
+            "clean_text": "The Separation Tree Under this tree on 15th November 1850 the citizens of Melbourne rejoiced on receipt of the news that Victoria was to become a seperate colony",
+            "place_name": "Royal Botanic Gardens",
+            "place_type": "poi",
+            "longitude": 144.97987747192383,
+            "latitude": -37.83093781796033,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe_IXDWVIAAL5wb.jpg",
+                "https://pbs.twimg.com/media/Fe_IXDVVsAAWvzN.jpg"
+            ]
+        },
+        {
+            "tid": 1580701127829356544,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-13 23:24:51 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "The Cabbage-tree Palms (Livistona australis) have a juvenile period of 30 years and then start to grow this trunk at a rate of 1 metre per 25 years. These are pretty tall. (Inconsistent common names.) https://t.co/SmxkDEGrzp",
+            "clean_text": "The Cabbage tree Palms Livistona australis have a juvenile period of 30 years and then start to grow this trunk at a rate of 1 metre per 25 years These are pretty tall Inconsistent common names",
+            "place_name": "Royal Botanic Gardens",
+            "place_type": "poi",
+            "longitude": 144.97987747192383,
+            "latitude": -37.83093781796033,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe_HSYdVIAAb6Xl.jpg",
+                "https://pbs.twimg.com/media/Fe_HSYhUAAACsrZ.jpg",
+                "https://pbs.twimg.com/media/Fe_HSYcUUAAT-mp.jpg",
+                "https://pbs.twimg.com/media/Fe_HSYgVEAEiKVg.jpg"
+            ]
+        },
+        {
+            "tid": 1580695952972578817,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-13 23:04:17 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "The breadfruit are edible but rarely eaten except as an emergency food. https://t.co/H5qt1dSlZV",
+            "clean_text": "The breadfruit are edible but rarely eaten except as an emergency food",
+            "place_name": "Royal Botanic Gardens",
+            "place_type": "poi",
+            "longitude": 144.97987747192383,
+            "latitude": -37.83093781796033,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe_ClWmUcAAE_BZ.jpg",
+                "https://pbs.twimg.com/media/Fe_ClWmVEAEvT72.jpg",
+                "https://pbs.twimg.com/media/Fe_ClWoUoAAbnEB.jpg",
+                "https://pbs.twimg.com/media/Fe_ClWoUcAACCtc.jpg"
+            ]
+        },
+        {
+            "tid": 1580692464020598784,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-13 22:50:25 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "The flood across the path is not stopping this runner. 🏃‍♀️ https://t.co/FPOIiV0Qzo",
+            "clean_text": "The flood across the path is not stopping this runner",
+            "place_name": "Main Yarra Trail",
+            "place_type": "poi",
+            "longitude": 144.9852,
+            "latitude": -37.828136,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe-_ahrVIAAEdxJ.jpg"
+            ]
+        },
+        {
+            "tid": 1580692000419954688,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-13 22:48:35 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Horse Chestnut 😲🐎 https://t.co/Xbzfxe70f4",
+            "clean_text": "Horse Chestnut",
+            "place_name": "Morell Bridge",
+            "place_type": "poi",
+            "longitude": 144.98496294021606,
+            "latitude": -37.827755803034,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe--_ZuUcAA--wN.jpg",
+                "https://pbs.twimg.com/media/Fe--_ZvUcAA6eOd.jpg",
+                "https://pbs.twimg.com/media/Fe--_ZwUUAEQIAU.jpg",
+                "https://pbs.twimg.com/media/Fe--_ZtUAAA67FF.jpg"
+            ]
+        },
+        {
+            "tid": 1580690710843359232,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-13 22:43:27 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "The flowers of the Giant Spear Lily (Doryanthes palmeri) are very heavy. https://t.co/68V83u6DnL",
+            "clean_text": "The flowers of the Giant Spear Lily Doryanthes palmeri are very heavy",
+            "place_name": "Morell Bridge",
+            "place_type": "poi",
+            "longitude": 144.98496294021606,
+            "latitude": -37.827755803034,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe-90aIVsAE63Cr.jpg",
+                "https://pbs.twimg.com/media/Fe-90aGUUAIYnWQ.jpg",
+                "https://pbs.twimg.com/media/Fe-90aKVUAAYM30.jpg",
+                "https://pbs.twimg.com/media/Fe-90aRVQAAF39J.jpg"
+            ]
+        }
+    ]
+}

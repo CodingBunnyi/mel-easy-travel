@@ -1,0 +1,52 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "tid": 1581537189577388032,
+            "uid": 16806737,
+            "author": "Andrew Wrathall",
+            "time": "2022-10-16 06:47:04 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Thailand’s MK-brand suki sauce costs $22 for a small bottle in Australia. Non-branded suki sauce costs around $7. https://t.co/DNSYgmo5zk",
+            "clean_text": "Thailand s MK brand suki sauce costs 22 for a small bottle in Australia Non branded suki sauce costs around 7",
+            "place_name": "Talad Thai",
+            "place_type": "poi",
+            "longitude": 144.992267,
+            "latitude": -37.80923,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfK_sGTUoAAkcSZ.jpg"
+            ]
+        },
+        {
+            "tid": 1581488545859895297,
+            "uid": 1130062562,
+            "author": ".YTR",
+            "time": "2022-10-16 03:33:46 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at Talad Thai in Abbotsford, VIC https://t.co/WHcMjDUutd",
+            "clean_text": "I'm at Talad Thai in Abbotsford VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.992267,
+            "latitude": -37.80923,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581462836517052416,
+            "uid": 14820495,
+            "author": "Chris Rodda",
+            "time": "2022-10-16 01:51:37 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Some lowlights of my slow “back recovery” at #TheStrongZone gym. Also I appear to be pregnant 😬 @ The Strong Zone https://t.co/vjYMayEzai",
+            "clean_text": "Some lowlights of my slow back recovery at gym Also I appear to be pregnant The Strong Zone",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98559,
+            "latitude": -37.80823,
+            "photo_urls": []
+        }
+    ]
+}

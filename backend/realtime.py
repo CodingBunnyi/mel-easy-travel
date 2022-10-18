@@ -4,37 +4,30 @@
 import locator
 from tweet import tweet
 
-# Default 1 hour
-DEFAULT_HOURS = 1.0
-
-# Default 1.5 km radius
-DEFAULT_RADIUS = 1.5
+# Default 0.5 km radius
+DEFAULT_RADIUS = 0.5
 
 
-# Get real time twitter data within a circular (radius) area of point (long, lat)
-# Need long, lat, radius, hours.
-# Default hour is 1 hour, default radius is 1.5 km if not passed
-def realtime_point_data(long: float, lat: float, radius: float, hours: float):
+# Get real time recent 10 tweets within a circular (radius) area of point (long, lat)
+# Need long, lat, radius.
+# Default radius is 0.5 km if not passed
+def realtime_point_data(long: float, lat: float, radius: float):
     if radius is None:
         radius = DEFAULT_RADIUS
 
-    if hours is None:
-        hours = DEFAULT_HOURS
-
-    result = tweet.search_tweet(long, lat, radius, hours)
+    result = tweet.search_tweet(long, lat, radius)
     return result
 
 
-# Get real time twitter data of a predefined location
+# Get real time recent max 10 tweets within a certain radius of a predefined location
 # Need location name, radius.
-# Default hour is 1 hour, default radius is 1.5 km if not passed
-def realtime_location_data(location_name: str, radius: float, hours: float):
+def realtime_location_data(loc_id: str, radius: float):
     if radius is None:
         radius = DEFAULT_RADIUS
 
-    if hours is None:
-        hours = DEFAULT_HOURS
+    location = locator.get_coord_radius(loc_id)
 
-    long, lat, _ = locator.get_coord_radius(location_name)
-    result = tweet.search_tweet(long, lat, radius, hours)
-    return result
+    if location:
+        return tweet.search_tweet(location[0], location[1], radius)
+    else:
+        return 'No such location'

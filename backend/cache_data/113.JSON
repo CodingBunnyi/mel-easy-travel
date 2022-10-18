@@ -1,0 +1,35 @@
+{
+    "count": 2,
+    "data": [
+        {
+            "tid": 1580871759829827584,
+            "uid": 564422768,
+            "author": "djmykeyb",
+            "time": "2022-10-14 10:42:53 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Playing funky tunes here at Doutta Galla in Flemington. Come say hi!! @ Doutta Galla Hotel https://t.co/oo2N8jpxqF",
+            "clean_text": "Playing funky tunes here at Doutta Galla in Flemington Come say hi Doutta Galla Hotel",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.92973,
+            "latitude": -37.7884,
+            "photo_urls": []
+        },
+        {
+            "tid": 1580413819037581312,
+            "uid": 564422768,
+            "author": "djmykeyb",
+            "time": "2022-10-13 04:23:11 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Come say hi if you’re in the area @ Doutta Galla Hotel https://t.co/ohXwkJH5kE",
+            "clean_text": "Come say hi if you re in the area Doutta Galla Hotel",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.92973,
+            "latitude": -37.7884,
+            "photo_urls": []
+        }
+    ]
+}

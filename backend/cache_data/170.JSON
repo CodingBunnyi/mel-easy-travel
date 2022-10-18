@@ -1,0 +1,42 @@
+{
+    "count": 2,
+    "data": [
+        {
+            "tid": 1582314115804303360,
+            "uid": 3191941531,
+            "author": "Crisdion Krstevski",
+            "time": "2022-10-18 10:14:17 +0000",
+            "like_no": 31,
+            "language": "en",
+            "text": "A day in the @pinto_lab 👨‍🔬🧪running a rather large immunofluorescence stain of an entire study at once 😅🤯 to validate findings from our exciting single-cell data! 📌📊Can’t wait to see what we see under the microscope 🔬 @BakerResearchAu @MAPP_latrobe @gab_farrugia https://t.co/YUvC1IqQtx",
+            "clean_text": "A day in the running a rather large immunofluorescence stain of an entire study at once to validate findings from our exciting single cell data Can t wait to see what we see under the microscope",
+            "place_name": "Baker Heart and Diabetes Institute",
+            "place_type": "poi",
+            "longitude": 144.98358210078663,
+            "latitude": -37.84558643155641,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1582314006890840065/pu/img/BHGTLuqI6nxEw46H.jpg"
+            ]
+        },
+        {
+            "tid": 1580110449311625216,
+            "uid": 1253620573,
+            "author": "Luke Phillips",
+            "time": "2022-10-12 08:17:42 +0000",
+            "like_no": 32,
+            "language": "en",
+            "text": "Great day of #pocus teaching with our ED registrars @EmergEdu - serratus anterior plane blocks and peripheral nerve blocks followed by US jeopardy (🇦🇺edit) quiz #gamification #blocktober @AlfredHealth https://t.co/T1Z0y25uxN",
+            "clean_text": "Great day of teaching with our ED registrars serratus anterior plane blocks and peripheral nerve blocks followed by US jeopardy edit quiz",
+            "place_name": "The Alfred Hospital",
+            "place_type": "poi",
+            "longitude": 144.98220485110528,
+            "latitude": -37.84591174295989,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fe2uE28aAAIW_AV.jpg",
+                "https://pbs.twimg.com/media/Fe2uE2-aYAEUAxq.jpg",
+                "https://pbs.twimg.com/media/Fe2uE27aEAM1D4h.jpg",
+                "https://pbs.twimg.com/media/Fe2uE2_aYAIkVxw.jpg"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,916 @@
+{
+    "word_freq": [
+        {
+            "text": "Prof",
+            "value": 1
+        },
+        {
+            "text": "Clare",
+            "value": 1
+        },
+        {
+            "text": "Scott",
+            "value": 1
+        },
+        {
+            "text": "Chair",
+            "value": 1
+        },
+        {
+            "text": "Joint",
+            "value": 1
+        },
+        {
+            "text": "Division",
+            "value": 1
+        },
+        {
+            "text": "Head",
+            "value": 1
+        },
+        {
+            "text": "Member",
+            "value": 1
+        },
+        {
+            "text": "Order",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 2
+        },
+        {
+            "text": "Superstar",
+            "value": 1
+        },
+        {
+            "text": "clinician",
+            "value": 1
+        },
+        {
+            "text": "scientist",
+            "value": 1
+        },
+        {
+            "text": "Starstruck",
+            "value": 1
+        },
+        {
+            "text": "emotional",
+            "value": 1
+        },
+        {
+            "text": "meet",
+            "value": 1
+        },
+        {
+            "text": "living",
+            "value": 1
+        },
+        {
+            "text": "legend",
+            "value": 1
+        },
+        {
+            "text": "person",
+            "value": 2
+        },
+        {
+            "text": "yesterday",
+            "value": 1
+        },
+        {
+            "text": "impressive",
+            "value": 1
+        },
+        {
+            "text": "Also",
+            "value": 1
+        },
+        {
+            "text": "warm",
+            "value": 1
+        },
+        {
+            "text": "caring",
+            "value": 1
+        },
+        {
+            "text": "smiles",
+            "value": 1
+        },
+        {
+            "text": "eyes",
+            "value": 1
+        },
+        {
+            "text": "Anyone",
+            "value": 1
+        },
+        {
+            "text": "coming",
+            "value": 1
+        },
+        {
+            "text": "tell",
+            "value": 1
+        },
+        {
+            "text": "Hope",
+            "value": 1
+        },
+        {
+            "text": "see",
+            "value": 1
+        },
+        {
+            "text": "I'm",
+            "value": 6
+        },
+        {
+            "text": "Daiso",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 9
+        },
+        {
+            "text": "VIC",
+            "value": 3
+        },
+        {
+            "text": "posted",
+            "value": 5
+        },
+        {
+            "text": "photo",
+            "value": 5
+        },
+        {
+            "text": "Majesty's",
+            "value": 1
+        },
+        {
+            "text": "Theatre",
+            "value": 1
+        },
+        {
+            "text": "Harry",
+            "value": 1
+        },
+        {
+            "text": "Potter",
+            "value": 1
+        },
+        {
+            "text": "Cursed",
+            "value": 1
+        },
+        {
+            "text": "Child",
+            "value": 1
+        },
+        {
+            "text": "Expecto",
+            "value": 1
+        },
+        {
+            "text": "Patronum",
+            "value": 1
+        },
+        {
+            "text": "Terrace",
+            "value": 1
+        },
+        {
+            "text": "Exhibition",
+            "value": 1
+        },
+        {
+            "text": "st",
+            "value": 1
+        },
+        {
+            "text": "Bennetts",
+            "value": 1
+        },
+        {
+            "text": "Lane",
+            "value": 1
+        },
+        {
+            "text": "Jazz",
+            "value": 1
+        },
+        {
+            "text": "Club",
+            "value": 1
+        },
+        {
+            "text": "Finishing",
+            "value": 1
+        },
+        {
+            "text": "excellent",
+            "value": 2
+        },
+        {
+            "text": "day",
+            "value": 2
+        },
+        {
+            "text": "way",
+            "value": 1
+        },
+        {
+            "text": "little",
+            "value": 1
+        },
+        {
+            "text": "post",
+            "value": 1
+        },
+        {
+            "text": "dinner",
+            "value": 2
+        },
+        {
+            "text": "treat",
+            "value": 2
+        },
+        {
+            "text": "noods",
+            "value": 1
+        },
+        {
+            "text": "arrived",
+            "value": 1
+        },
+        {
+            "text": "morning",
+            "value": 1
+        },
+        {
+            "text": "Singapore",
+            "value": 1
+        },
+        {
+            "text": "saw",
+            "value": 1
+        },
+        {
+            "text": "Win",
+            "value": 1
+        },
+        {
+            "text": "spaghetti",
+            "value": 1
+        },
+        {
+            "text": "victory",
+            "value": 1
+        },
+        {
+            "text": "Pellegrinis",
+            "value": 1
+        },
+        {
+            "text": "Kpop",
+            "value": 1
+        },
+        {
+            "text": "kinda",
+            "value": 1
+        },
+        {
+            "text": "birthday",
+            "value": 1
+        },
+        {
+            "text": "event",
+            "value": 2
+        },
+        {
+            "text": "prettiest",
+            "value": 1
+        },
+        {
+            "text": "winged",
+            "value": 1
+        },
+        {
+            "text": "cupsleeve",
+            "value": 1
+        },
+        {
+            "text": "Cool",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 6
+        },
+        {
+            "text": "funny",
+            "value": 1
+        },
+        {
+            "text": "freebie",
+            "value": 1
+        },
+        {
+            "text": "lenticular",
+            "value": 1
+        },
+        {
+            "text": "pc",
+            "value": 2
+        },
+        {
+            "text": "Best",
+            "value": 1
+        },
+        {
+            "text": "part",
+            "value": 1
+        },
+        {
+            "text": "picking",
+            "value": 1
+        },
+        {
+            "text": "album",
+            "value": 1
+        },
+        {
+            "text": "getting",
+            "value": 1
+        },
+        {
+            "text": "prepare",
+            "value": 1
+        },
+        {
+            "text": "concert",
+            "value": 1
+        },
+        {
+            "text": "Fire",
+            "value": 1
+        },
+        {
+            "text": "spinners",
+            "value": 1
+        },
+        {
+            "text": "bring",
+            "value": 1
+        },
+        {
+            "text": "spark",
+            "value": 1
+        },
+        {
+            "text": "events",
+            "value": 1
+        },
+        {
+            "text": "one",
+            "value": 1
+        },
+        {
+            "text": "moto",
+            "value": 1
+        },
+        {
+            "text": "GP",
+            "value": 2
+        },
+        {
+            "text": "Phillip",
+            "value": 2
+        },
+        {
+            "text": "Island",
+            "value": 2
+        },
+        {
+            "text": "thanks",
+            "value": 1
+        },
+        {
+            "text": "Top",
+            "value": 1
+        },
+        {
+            "text": "Dog",
+            "value": 1
+        },
+        {
+            "text": "race",
+            "value": 1
+        },
+        {
+            "text": "Circuit",
+            "value": 1
+        },
+        {
+            "text": "First",
+            "value": 1
+        },
+        {
+            "text": "face",
+            "value": 2
+        },
+        {
+            "text": "meeting",
+            "value": 1
+        },
+        {
+            "text": "since",
+            "value": 1
+        },
+        {
+            "text": "Feb",
+            "value": 1
+        },
+        {
+            "text": "2019",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "chair",
+            "value": 1
+        },
+        {
+            "text": "cool",
+            "value": 1
+        },
+        {
+            "text": "finally",
+            "value": 1
+        },
+        {
+            "text": "council",
+            "value": 1
+        },
+        {
+            "text": "room",
+            "value": 1
+        },
+        {
+            "text": "complete",
+            "value": 1
+        },
+        {
+            "text": "gavel",
+            "value": 1
+        },
+        {
+            "text": "grateful",
+            "value": 1
+        },
+        {
+            "text": "proud",
+            "value": 1
+        },
+        {
+            "text": "mahi",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
+            "text": "Trainee",
+            "value": 1
+        },
+        {
+            "text": "reps",
+            "value": 1
+        },
+        {
+            "text": "done",
+            "value": 1
+        },
+        {
+            "text": "year",
+            "value": 1
+        },
+        {
+            "text": "excited",
+            "value": 1
+        },
+        {
+            "text": "next",
+            "value": 1
+        },
+        {
+            "text": "years",
+            "value": 1
+        },
+        {
+            "text": "exec",
+            "value": 1
+        },
+        {
+            "text": "Thai",
+            "value": 1
+        },
+        {
+            "text": "Town",
+            "value": 1
+        },
+        {
+            "text": "PappaRich",
+            "value": 1
+        },
+        {
+            "text": "Vic",
+            "value": 2
+        },
+        {
+            "text": "fight",
+            "value": 1
+        },
+        {
+            "text": "HAMILTON",
+            "value": 1
+        },
+        {
+            "text": "MUSICAL",
+            "value": 1
+        },
+        {
+            "text": "b'day",
+            "value": 1
+        },
+        {
+            "text": "3",
+            "value": 1
+        },
+        {
+            "text": "Nick",
+            "value": 1
+        },
+        {
+            "text": "Nora's",
+            "value": 1
+        },
+        {
+            "text": "Udon",
+            "value": 1
+        },
+        {
+            "text": "Yasan",
+            "value": 1
+        },
+        {
+            "text": "w",
+            "value": 1
+        },
+        {
+            "text": "St",
+            "value": 1
+        },
+        {
+            "text": "Vincents",
+            "value": 1
+        },
+        {
+            "text": "Mercy",
+            "value": 1
+        },
+        {
+            "text": "Private",
+            "value": 1
+        },
+        {
+            "text": "Fitzroy",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 3
+        },
+        {
+            "text": "Ohgam",
+            "value": 1
+        },
+        {
+            "text": "Korean",
+            "value": 1
+        },
+        {
+            "text": "Restaurant",
+            "value": 1
+        },
+        {
+            "text": "Bar",
+            "value": 2
+        },
+        {
+            "text": "Emotional",
+            "value": 1
+        },
+        {
+            "text": "World",
+            "value": 1
+        },
+        {
+            "text": "NEW",
+            "value": 1
+        },
+        {
+            "text": "Available",
+            "value": 1
+        },
+        {
+            "text": "store",
+            "value": 2
+        },
+        {
+            "text": "website",
+            "value": 1
+        },
+        {
+            "text": "OPENING",
+            "value": 1
+        },
+        {
+            "text": "HOUR",
+            "value": 1
+        },
+        {
+            "text": "1PM",
+            "value": 1
+        },
+        {
+            "text": "8PM",
+            "value": 1
+        },
+        {
+            "text": "MON",
+            "value": 1
+        },
+        {
+            "text": "SUN",
+            "value": 1
+        },
+        {
+            "text": "Shop",
+            "value": 2
+        },
+        {
+            "text": "11",
+            "value": 2
+        },
+        {
+            "text": "200",
+            "value": 2
+        },
+        {
+            "text": "Bourke",
+            "value": 2
+        },
+        {
+            "text": "Street",
+            "value": 2
+        },
+        {
+            "text": "Worldwide",
+            "value": 1
+        },
+        {
+            "text": "Shipping",
+            "value": 1
+        },
+        {
+            "text": "ATTENTION",
+            "value": 1
+        },
+        {
+            "text": "Mars",
+            "value": 1
+        },
+        {
+            "text": "King",
+            "value": 1
+        },
+        {
+            "text": "Pop",
+            "value": 1
+        },
+        {
+            "text": "Store",
+            "value": 1
+        },
+        {
+            "text": "Lukcy",
+            "value": 1
+        },
+        {
+            "text": "Draw",
+            "value": 1
+        },
+        {
+            "text": "Event",
+            "value": 1
+        },
+        {
+            "text": "participate",
+            "value": 1
+        },
+        {
+            "text": "Purchasing",
+            "value": 1
+        },
+        {
+            "text": "500",
+            "value": 1
+        },
+        {
+            "text": "get",
+            "value": 2
+        },
+        {
+            "text": "chance",
+            "value": 1
+        },
+        {
+            "text": "join",
+            "value": 2
+        },
+        {
+            "text": "purchasing",
+            "value": 1
+        },
+        {
+            "text": "1000",
+            "value": 1
+        },
+        {
+            "text": "two",
+            "value": 1
+        },
+        {
+            "text": "chances",
+            "value": 1
+        },
+        {
+            "text": "Come",
+            "value": 1
+        },
+        {
+            "text": "us",
+            "value": 1
+        },
+        {
+            "text": "3000",
+            "value": 1
+        },
+        {
+            "text": "Cinderella",
+            "value": 1
+        },
+        {
+            "text": "2nd",
+            "value": 1
+        },
+        {
+            "text": "Art",
+            "value": 1
+        },
+        {
+            "text": "never",
+            "value": 1
+        },
+        {
+            "text": "waits",
+            "value": 1
+        },
+        {
+            "text": "oliviamollyrogers",
+            "value": 1
+        },
+        {
+            "text": "paulversace",
+            "value": 1
+        },
+        {
+            "text": "angelmusicbar",
+            "value": 1
+        },
+        {
+            "text": "dress",
+            "value": 1
+        },
+        {
+            "text": "cappellazzocouture",
+            "value": 1
+        },
+        {
+            "text": "Angel",
+            "value": 1
+        },
+        {
+            "text": "Music",
+            "value": 1
+        },
+        {
+            "text": "Ballers",
+            "value": 1
+        },
+        {
+            "text": "Clubhouse",
+            "value": 1
+        },
+        {
+            "text": "Celebrating",
+            "value": 1
+        },
+        {
+            "text": "Youth",
+            "value": 1
+        },
+        {
+            "text": "Parliament",
+            "value": 2
+        },
+        {
+            "text": "Express",
+            "value": 1
+        },
+        {
+            "text": "State",
+            "value": 1
+        },
+        {
+            "text": "Future",
+            "value": 1
+        },
+        {
+            "text": "Welcome",
+            "value": 1
+        },
+        {
+            "text": "Thx",
+            "value": 1
+        },
+        {
+            "text": "everyone",
+            "value": 1
+        },
+        {
+            "text": "involved",
+            "value": 1
+        },
+        {
+            "text": "programs",
+            "value": 1
+        },
+        {
+            "text": "produced",
+            "value": 1
+        },
+        {
+            "text": "young",
+            "value": 3
+        },
+        {
+            "text": "people",
+            "value": 3
+        },
+        {
+            "text": "committed",
+            "value": 1
+        },
+        {
+            "text": "connecting",
+            "value": 1
+        },
+        {
+            "text": "engaging",
+            "value": 1
+        },
+        {
+            "text": "supporting",
+            "value": 1
+        },
+        {
+            "text": "future",
+            "value": 1
+        },
+        {
+            "text": "bright",
+            "value": 1
+        }
+    ]
+}

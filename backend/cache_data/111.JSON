@@ -1,0 +1,50 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "tid": 1582243339390156801,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-10-18 05:33:03 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "West Gate Fwy  (M1), Docklands - lanes closed outbound, The right lane is closed outbound near… https://t.co/1yiUOYIixJ #victraffic",
+            "clean_text": "West Gate Fwy M1 Docklands lanes closed outbound The right lane is closed outbound near",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9426903,
+            "latitude": -37.82577817,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582235039479103488,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-10-18 05:00:04 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "West Gate Fwy  (M1), Docklands - lanes closed outbound, Two right lanes are closed outbound near… https://t.co/1yiUOYIixJ #victraffic",
+            "clean_text": "West Gate Fwy M1 Docklands lanes closed outbound Two right lanes are closed outbound near",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9426903,
+            "latitude": -37.82577817,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582230508146024449,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-10-18 04:42:04 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "West Gate Fwy  (M1), Docklands - lanes closed outbound, The left lane and right lane are closed… https://t.co/1yiUOYIixJ #victraffic",
+            "clean_text": "West Gate Fwy M1 Docklands lanes closed outbound The left lane and right lane are closed",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9426903,
+            "latitude": -37.82577817,
+            "photo_urls": []
+        }
+    ]
+}

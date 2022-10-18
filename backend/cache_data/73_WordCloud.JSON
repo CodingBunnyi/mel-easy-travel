@@ -1,0 +1,376 @@
+{
+    "word_freq": [
+        {
+            "text": "posted",
+            "value": 4
+        },
+        {
+            "text": "photo",
+            "value": 4
+        },
+        {
+            "text": "Melbourne",
+            "value": 19
+        },
+        {
+            "text": "Australia",
+            "value": 4
+        },
+        {
+            "text": "Espresso",
+            "value": 1
+        },
+        {
+            "text": "bar",
+            "value": 1
+        },
+        {
+            "text": "best",
+            "value": 2
+        },
+        {
+            "text": "coffe",
+            "value": 1
+        },
+        {
+            "text": "Impresso",
+            "value": 1
+        },
+        {
+            "text": "Coffee",
+            "value": 1
+        },
+        {
+            "text": "Bar",
+            "value": 2
+        },
+        {
+            "text": "I'm",
+            "value": 13
+        },
+        {
+            "text": "Commonwealth",
+            "value": 1
+        },
+        {
+            "text": "Bank",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 7
+        },
+        {
+            "text": "Schmucks",
+            "value": 2
+        },
+        {
+            "text": "Bagels",
+            "value": 2
+        },
+        {
+            "text": "300",
+            "value": 1
+        },
+        {
+            "text": "King",
+            "value": 1
+        },
+        {
+            "text": "St",
+            "value": 3
+        },
+        {
+            "text": "Gooness",
+            "value": 1
+        },
+        {
+            "text": "Tori's",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 4
+        },
+        {
+            "text": "w",
+            "value": 1
+        },
+        {
+            "text": "Another",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "another",
+            "value": 1
+        },
+        {
+            "text": "coffee",
+            "value": 1
+        },
+        {
+            "text": "Last",
+            "value": 1
+        },
+        {
+            "text": "night",
+            "value": 2
+        },
+        {
+            "text": "people",
+            "value": 1
+        },
+        {
+            "text": "Madison",
+            "value": 2
+        },
+        {
+            "text": "Tower",
+            "value": 2
+        },
+        {
+            "text": "Upper",
+            "value": 2
+        },
+        {
+            "text": "West",
+            "value": 2
+        },
+        {
+            "text": "Side",
+            "value": 2
+        },
+        {
+            "text": "vic",
+            "value": 2
+        },
+        {
+            "text": "Docklands",
+            "value": 1
+        },
+        {
+            "text": "39",
+            "value": 1
+        },
+        {
+            "text": "Pizzeria",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 1
+        },
+        {
+            "text": "Degustation",
+            "value": 1
+        },
+        {
+            "text": "Whitehart",
+            "value": 1
+        },
+        {
+            "text": "CBD",
+            "value": 1
+        },
+        {
+            "text": "find",
+            "value": 1
+        },
+        {
+            "text": "interesting",
+            "value": 1
+        },
+        {
+            "text": "Melb",
+            "value": 1
+        },
+        {
+            "text": "Syd",
+            "value": 1
+        },
+        {
+            "text": "days",
+            "value": 1
+        },
+        {
+            "text": "fine",
+            "value": 2
+        },
+        {
+            "text": "brunch",
+            "value": 1
+        },
+        {
+            "text": "replacing",
+            "value": 1
+        },
+        {
+            "text": "dining",
+            "value": 1
+        },
+        {
+            "text": "dinner",
+            "value": 1
+        },
+        {
+            "text": "gt",
+            "value": 1
+        },
+        {
+            "text": "rideshare",
+            "value": 1
+        },
+        {
+            "text": "cannot",
+            "value": 1
+        },
+        {
+            "text": "control",
+            "value": 2
+        },
+        {
+            "text": "past",
+            "value": 1
+        },
+        {
+            "text": "go",
+            "value": 1
+        },
+        {
+            "text": "next",
+            "value": 1
+        },
+        {
+            "text": "Post",
+            "value": 1
+        },
+        {
+            "text": "McDonald's",
+            "value": 1
+        },
+        {
+            "text": "Playing",
+            "value": 1
+        },
+        {
+            "text": "pools",
+            "value": 1
+        },
+        {
+            "text": "final",
+            "value": 1
+        },
+        {
+            "text": "brother",
+            "value": 1
+        },
+        {
+            "text": "Sir",
+            "value": 1
+        },
+        {
+            "text": "lying",
+            "value": 1
+        },
+        {
+            "text": "bout",
+            "value": 1
+        },
+        {
+            "text": "rusty",
+            "value": 1
+        },
+        {
+            "text": "pool",
+            "value": 1
+        },
+        {
+            "text": "Uncle",
+            "value": 1
+        },
+        {
+            "text": "David's",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "little",
+            "value": 1
+        },
+        {
+            "text": "Collins",
+            "value": 1
+        },
+        {
+            "text": "pretty",
+            "value": 1
+        },
+        {
+            "text": "mean",
+            "value": 1
+        },
+        {
+            "text": "rendang",
+            "value": 1
+        },
+        {
+            "text": "good",
+            "value": 1
+        },
+        {
+            "text": "Pandan",
+            "value": 1
+        },
+        {
+            "text": "brownie",
+            "value": 1
+        },
+        {
+            "text": "Lonsdale",
+            "value": 2
+        },
+        {
+            "text": "lanes",
+            "value": 4
+        },
+        {
+            "text": "closed",
+            "value": 4
+        },
+        {
+            "text": "westbound",
+            "value": 2
+        },
+        {
+            "text": "Two",
+            "value": 1
+        },
+        {
+            "text": "Elizabeth",
+            "value": 2
+        },
+        {
+            "text": "Street",
+            "value": 2
+        },
+        {
+            "text": "southbound",
+            "value": 2
+        },
+        {
+            "text": "wanna",
+            "value": 1
+        },
+        {
+            "text": "live",
+            "value": 1
+        }
+    ]
+}

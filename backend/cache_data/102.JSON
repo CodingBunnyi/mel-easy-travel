@@ -1,0 +1,86 @@
+{
+    "count": 5,
+    "data": [
+        {
+            "tid": 1581861332059848704,
+            "uid": 264031593,
+            "author": "Tim Phillipps",
+            "time": "2022-10-17 04:15:05 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Awesome to make it over for the @justincassin #justincassinMFW show. So good to head along with me old buddy @martincopping @ The District Docklands https://t.co/xVpJkCRYNI",
+            "clean_text": "Awesome to make it over for the show So good to head along with me old buddy The District Docklands",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.93811999,
+            "latitude": -37.81293007,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581630505027792897,
+            "uid": 401126669,
+            "author": "Hazie",
+            "time": "2022-10-16 12:57:52 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Khadijah’s birthday 🥳 (@ Archie Brothers Cirque Electriq in Docklands, VIC) https://t.co/5V7apbPbWI https://t.co/VrU2u3wHdT",
+            "clean_text": "Khadijah s birthday Archie Brothers Cirque Electriq in Docklands VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.936563,
+            "latitude": -37.811836,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfMUj_zaAAQWwGQ.jpg"
+            ]
+        },
+        {
+            "tid": 1581514306864439296,
+            "uid": 401126669,
+            "author": "Hazie",
+            "time": "2022-10-16 05:16:08 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Thai for late lunch (@ Miss Ping’s in Docklands, VIC) https://t.co/7a05YcXrAN https://t.co/4KybFZ2Czp",
+            "clean_text": "Thai for late lunch Miss Ping s in Docklands VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.937654,
+            "latitude": -37.812522,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfKq4Y8aYAAFZzv.jpg"
+            ]
+        },
+        {
+            "tid": 1580487085089517570,
+            "uid": 40197038,
+            "author": "Mitch",
+            "time": "2022-10-13 09:14:19 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I can't tell which one is @dandylion_21 and which one is a cookie from @bake_nerd_oz @ The District Docklands https://t.co/V8cmcKisIB",
+            "clean_text": "I can't tell which one is dandylion 21 and which one is a cookie from bake nerd oz The District Docklands",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.93811999,
+            "latitude": -37.81293007,
+            "photo_urls": []
+        },
+        {
+            "tid": 1580380088654184449,
+            "uid": 3877413253,
+            "author": "Zeus",
+            "time": "2022-10-13 02:09:09 +0000",
+            "like_no": 10,
+            "language": "en",
+            "text": "Ready for WAR 🇬🇷⚔️🇦🇺👊 https://t.co/Pive46x985",
+            "clean_text": "Ready for WAR",
+            "place_name": "Docklands, Melbourne",
+            "place_type": "neighborhood",
+            "longitude": 144.93802392,
+            "latitude": -37.818136034999995,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1580379997151248385/pu/img/X5eJ164RwKhW5g56.jpg"
+            ]
+        }
+    ]
+}

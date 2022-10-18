@@ -1,0 +1,652 @@
+{
+    "word_freq": [
+        {
+            "text": "Prof",
+            "value": 1
+        },
+        {
+            "text": "Clare",
+            "value": 1
+        },
+        {
+            "text": "Scott",
+            "value": 1
+        },
+        {
+            "text": "Chair",
+            "value": 1
+        },
+        {
+            "text": "Joint",
+            "value": 1
+        },
+        {
+            "text": "Division",
+            "value": 1
+        },
+        {
+            "text": "Head",
+            "value": 1
+        },
+        {
+            "text": "Member",
+            "value": 1
+        },
+        {
+            "text": "Order",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 1
+        },
+        {
+            "text": "Superstar",
+            "value": 1
+        },
+        {
+            "text": "clinician",
+            "value": 1
+        },
+        {
+            "text": "scientist",
+            "value": 1
+        },
+        {
+            "text": "Starstruck",
+            "value": 1
+        },
+        {
+            "text": "emotional",
+            "value": 1
+        },
+        {
+            "text": "meet",
+            "value": 1
+        },
+        {
+            "text": "living",
+            "value": 1
+        },
+        {
+            "text": "legend",
+            "value": 1
+        },
+        {
+            "text": "person",
+            "value": 2
+        },
+        {
+            "text": "yesterday",
+            "value": 1
+        },
+        {
+            "text": "impressive",
+            "value": 1
+        },
+        {
+            "text": "Also",
+            "value": 1
+        },
+        {
+            "text": "warm",
+            "value": 1
+        },
+        {
+            "text": "caring",
+            "value": 1
+        },
+        {
+            "text": "smiles",
+            "value": 1
+        },
+        {
+            "text": "eyes",
+            "value": 1
+        },
+        {
+            "text": "Anyone",
+            "value": 1
+        },
+        {
+            "text": "coming",
+            "value": 1
+        },
+        {
+            "text": "tell",
+            "value": 1
+        },
+        {
+            "text": "Hope",
+            "value": 1
+        },
+        {
+            "text": "see",
+            "value": 1
+        },
+        {
+            "text": "Sunday",
+            "value": 1
+        },
+        {
+            "text": "night",
+            "value": 1
+        },
+        {
+            "text": "treat",
+            "value": 1
+        },
+        {
+            "text": "Japanese",
+            "value": 1
+        },
+        {
+            "text": "Tokushima",
+            "value": 1
+        },
+        {
+            "text": "Frankly",
+            "value": 1
+        },
+        {
+            "text": "chorizo",
+            "value": 1
+        },
+        {
+            "text": "necessary",
+            "value": 1
+        },
+        {
+            "text": "superb",
+            "value": 1
+        },
+        {
+            "text": "Shakshuka",
+            "value": 1
+        },
+        {
+            "text": "brunch",
+            "value": 1
+        },
+        {
+            "text": "Archie's",
+            "value": 1
+        },
+        {
+            "text": "Day",
+            "value": 1
+        },
+        {
+            "text": "Gardens",
+            "value": 2
+        },
+        {
+            "text": "essay",
+            "value": 2
+        },
+        {
+            "text": "Ellie",
+            "value": 2
+        },
+        {
+            "text": "Stathaki",
+            "value": 2
+        },
+        {
+            "text": "DIA",
+            "value": 2
+        },
+        {
+            "text": "fabulous",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "rounded",
+            "value": 1
+        },
+        {
+            "text": "perfect",
+            "value": 1
+        },
+        {
+            "text": "couple",
+            "value": 1
+        },
+        {
+            "text": "cocktails",
+            "value": 1
+        },
+        {
+            "text": "one",
+            "value": 1
+        },
+        {
+            "text": "favourite",
+            "value": 1
+        },
+        {
+            "text": "bars",
+            "value": 1
+        },
+        {
+            "text": "world",
+            "value": 1
+        },
+        {
+            "text": "Harry",
+            "value": 1
+        },
+        {
+            "text": "Potter",
+            "value": 1
+        },
+        {
+            "text": "Cursed",
+            "value": 1
+        },
+        {
+            "text": "Child",
+            "value": 1
+        },
+        {
+            "text": "Expecto",
+            "value": 1
+        },
+        {
+            "text": "Patronum",
+            "value": 1
+        },
+        {
+            "text": "Robot",
+            "value": 1
+        },
+        {
+            "text": "head",
+            "value": 1
+        },
+        {
+            "text": "paste",
+            "value": 1
+        },
+        {
+            "text": "attractive",
+            "value": 1
+        },
+        {
+            "text": "artist",
+            "value": 1
+        },
+        {
+            "text": "prolific",
+            "value": 1
+        },
+        {
+            "text": "sometimes",
+            "value": 1
+        },
+        {
+            "text": "insensitive",
+            "value": 1
+        },
+        {
+            "text": "placement",
+            "value": 1
+        },
+        {
+            "text": "reduces",
+            "value": 1
+        },
+        {
+            "text": "effectiveness",
+            "value": 1
+        },
+        {
+            "text": "9",
+            "value": 2
+        },
+        {
+            "text": "Little",
+            "value": 2
+        },
+        {
+            "text": "Oxford",
+            "value": 2
+        },
+        {
+            "text": "St",
+            "value": 3
+        },
+        {
+            "text": "Collingwood",
+            "value": 2
+        },
+        {
+            "text": "Mmmm",
+            "value": 1
+        },
+        {
+            "text": "two",
+            "value": 1
+        },
+        {
+            "text": "straight",
+            "value": 1
+        },
+        {
+            "text": "couples",
+            "value": 1
+        },
+        {
+            "text": "dancing",
+            "value": 1
+        },
+        {
+            "text": "stage",
+            "value": 1
+        },
+        {
+            "text": "Mollies",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 3
+        },
+        {
+            "text": "photo",
+            "value": 3
+        },
+        {
+            "text": "Northside",
+            "value": 3
+        },
+        {
+            "text": "Records",
+            "value": 3
+        },
+        {
+            "text": "First",
+            "value": 1
+        },
+        {
+            "text": "face",
+            "value": 2
+        },
+        {
+            "text": "meeting",
+            "value": 1
+        },
+        {
+            "text": "since",
+            "value": 1
+        },
+        {
+            "text": "Feb",
+            "value": 1
+        },
+        {
+            "text": "2019",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "chair",
+            "value": 1
+        },
+        {
+            "text": "cool",
+            "value": 1
+        },
+        {
+            "text": "finally",
+            "value": 1
+        },
+        {
+            "text": "council",
+            "value": 1
+        },
+        {
+            "text": "room",
+            "value": 1
+        },
+        {
+            "text": "complete",
+            "value": 1
+        },
+        {
+            "text": "gavel",
+            "value": 1
+        },
+        {
+            "text": "grateful",
+            "value": 1
+        },
+        {
+            "text": "proud",
+            "value": 1
+        },
+        {
+            "text": "mahi",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
+            "text": "Trainee",
+            "value": 1
+        },
+        {
+            "text": "reps",
+            "value": 1
+        },
+        {
+            "text": "done",
+            "value": 1
+        },
+        {
+            "text": "year",
+            "value": 1
+        },
+        {
+            "text": "excited",
+            "value": 1
+        },
+        {
+            "text": "next",
+            "value": 1
+        },
+        {
+            "text": "years",
+            "value": 1
+        },
+        {
+            "text": "exec",
+            "value": 1
+        },
+        {
+            "text": "fight",
+            "value": 1
+        },
+        {
+            "text": "Arabic",
+            "value": 1
+        },
+        {
+            "text": "Waiting",
+            "value": 1
+        },
+        {
+            "text": "followers",
+            "value": 1
+        },
+        {
+            "text": "arrive",
+            "value": 1
+        },
+        {
+            "text": "I'm",
+            "value": 1
+        },
+        {
+            "text": "Vincents",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 2
+        },
+        {
+            "text": "Mercy",
+            "value": 1
+        },
+        {
+            "text": "Private",
+            "value": 1
+        },
+        {
+            "text": "Fitzroy",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 1
+        },
+        {
+            "text": "Thursday",
+            "value": 1
+        },
+        {
+            "text": "Hills",
+            "value": 1
+        },
+        {
+            "text": "3x4x150m",
+            "value": 1
+        },
+        {
+            "text": "jog",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 2
+        },
+        {
+            "text": "rec",
+            "value": 1
+        },
+        {
+            "text": "walk",
+            "value": 1
+        },
+        {
+            "text": "sets",
+            "value": 1
+        },
+        {
+            "text": "22",
+            "value": 1
+        },
+        {
+            "text": "23sec",
+            "value": 1
+        },
+        {
+            "text": "Celebrating",
+            "value": 1
+        },
+        {
+            "text": "Youth",
+            "value": 1
+        },
+        {
+            "text": "Parliament",
+            "value": 2
+        },
+        {
+            "text": "Express",
+            "value": 1
+        },
+        {
+            "text": "State",
+            "value": 1
+        },
+        {
+            "text": "Future",
+            "value": 1
+        },
+        {
+            "text": "Welcome",
+            "value": 1
+        },
+        {
+            "text": "Thx",
+            "value": 1
+        },
+        {
+            "text": "everyone",
+            "value": 1
+        },
+        {
+            "text": "involved",
+            "value": 1
+        },
+        {
+            "text": "programs",
+            "value": 1
+        },
+        {
+            "text": "produced",
+            "value": 1
+        },
+        {
+            "text": "young",
+            "value": 3
+        },
+        {
+            "text": "people",
+            "value": 3
+        },
+        {
+            "text": "committed",
+            "value": 1
+        },
+        {
+            "text": "connecting",
+            "value": 1
+        },
+        {
+            "text": "engaging",
+            "value": 1
+        },
+        {
+            "text": "supporting",
+            "value": 1
+        },
+        {
+            "text": "future",
+            "value": 1
+        },
+        {
+            "text": "bright",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,932 @@
+{
+    "word_freq": [
+        {
+            "text": "Still",
+            "value": 1
+        },
+        {
+            "text": "buzzing",
+            "value": 1
+        },
+        {
+            "text": "launch",
+            "value": 2
+        },
+        {
+            "text": "Learning",
+            "value": 2
+        },
+        {
+            "text": "Whiteness",
+            "value": 3
+        },
+        {
+            "text": "Education",
+            "value": 2
+        },
+        {
+            "text": "amp",
+            "value": 4
+        },
+        {
+            "text": "Settler",
+            "value": 2
+        },
+        {
+            "text": "Colonial",
+            "value": 2
+        },
+        {
+            "text": "State",
+            "value": 2
+        },
+        {
+            "text": "key",
+            "value": 1
+        },
+        {
+            "text": "exploration",
+            "value": 1
+        },
+        {
+            "text": "whiteness",
+            "value": 1
+        },
+        {
+            "text": "taught",
+            "value": 1
+        },
+        {
+            "text": "Lovely",
+            "value": 1
+        },
+        {
+            "text": "meet",
+            "value": 3
+        },
+        {
+            "text": "F2F",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 4
+        },
+        {
+            "text": "photo",
+            "value": 4
+        },
+        {
+            "text": "QV",
+            "value": 1
+        },
+        {
+            "text": "AquaS",
+            "value": 1
+        },
+        {
+            "text": "learned",
+            "value": 1
+        },
+        {
+            "text": "Let",
+            "value": 1
+        },
+        {
+            "text": "talk",
+            "value": 1
+        },
+        {
+            "text": "unlearn",
+            "value": 1
+        },
+        {
+            "text": "Also",
+            "value": 1
+        },
+        {
+            "text": "panel",
+            "value": 1
+        },
+        {
+            "text": "Emma",
+            "value": 1
+        },
+        {
+            "text": "Kefford",
+            "value": 1
+        },
+        {
+            "text": "Gianluca",
+            "value": 1
+        },
+        {
+            "text": "via",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 17
+        },
+        {
+            "text": "Victorian",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 1
+        },
+        {
+            "text": "tripod",
+            "value": 1
+        },
+        {
+            "text": "Last",
+            "value": 1
+        },
+        {
+            "text": "week",
+            "value": 1
+        },
+        {
+            "text": "Arts",
+            "value": 1
+        },
+        {
+            "text": "Awards",
+            "value": 1
+        },
+        {
+            "text": "Celebration",
+            "value": 1
+        },
+        {
+            "text": "I'm",
+            "value": 12
+        },
+        {
+            "text": "Argyle",
+            "value": 2
+        },
+        {
+            "text": "Square",
+            "value": 2
+        },
+        {
+            "text": "Swimming",
+            "value": 1
+        },
+        {
+            "text": "short",
+            "value": 1
+        },
+        {
+            "text": "course",
+            "value": 1
+        },
+        {
+            "text": "pool",
+            "value": 1
+        },
+        {
+            "text": "makes",
+            "value": 1
+        },
+        {
+            "text": "feel",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 2
+        },
+        {
+            "text": "absolute",
+            "value": 1
+        },
+        {
+            "text": "hero",
+            "value": 1
+        },
+        {
+            "text": "20",
+            "value": 1
+        },
+        {
+            "text": "second",
+            "value": 1
+        },
+        {
+            "text": "laps",
+            "value": 1
+        },
+        {
+            "text": "pure",
+            "value": 1
+        },
+        {
+            "text": "Olympian",
+            "value": 1
+        },
+        {
+            "text": "stuff",
+            "value": 1
+        },
+        {
+            "text": "7",
+            "value": 1
+        },
+        {
+            "text": "Internal",
+            "value": 1
+        },
+        {
+            "text": "Flux",
+            "value": 1
+        },
+        {
+            "text": "Studios",
+            "value": 1
+        },
+        {
+            "text": "City",
+            "value": 5
+        },
+        {
+            "text": "Mart",
+            "value": 1
+        },
+        {
+            "text": "Asian",
+            "value": 1
+        },
+        {
+            "text": "Grocery",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 8
+        },
+        {
+            "text": "Daiso",
+            "value": 1
+        },
+        {
+            "text": "Sunday",
+            "value": 1
+        },
+        {
+            "text": "night",
+            "value": 2
+        },
+        {
+            "text": "dinners",
+            "value": 1
+        },
+        {
+            "text": "ice",
+            "value": 1
+        },
+        {
+            "text": "creams",
+            "value": 1
+        },
+        {
+            "text": "Post",
+            "value": 1
+        },
+        {
+            "text": "show",
+            "value": 1
+        },
+        {
+            "text": "feed",
+            "value": 1
+        },
+        {
+            "text": "Queen",
+            "value": 2
+        },
+        {
+            "text": "Vic",
+            "value": 2
+        },
+        {
+            "text": "Pet",
+            "value": 1
+        },
+        {
+            "text": "Shop",
+            "value": 1
+        },
+        {
+            "text": "Terrace",
+            "value": 1
+        },
+        {
+            "text": "Exhibition",
+            "value": 1
+        },
+        {
+            "text": "st",
+            "value": 1
+        },
+        {
+            "text": "Bennetts",
+            "value": 1
+        },
+        {
+            "text": "Lane",
+            "value": 1
+        },
+        {
+            "text": "Jazz",
+            "value": 1
+        },
+        {
+            "text": "Club",
+            "value": 1
+        },
+        {
+            "text": "opening",
+            "value": 1
+        },
+        {
+            "text": "Brunswick",
+            "value": 1
+        },
+        {
+            "text": "visited",
+            "value": 1
+        },
+        {
+            "text": "new",
+            "value": 1
+        },
+        {
+            "text": "city",
+            "value": 1
+        },
+        {
+            "text": "one",
+            "value": 1
+        },
+        {
+            "text": "final",
+            "value": 1
+        },
+        {
+            "text": "stages",
+            "value": 1
+        },
+        {
+            "text": "set",
+            "value": 1
+        },
+        {
+            "text": "much",
+            "value": 1
+        },
+        {
+            "text": "decal",
+            "value": 1
+        },
+        {
+            "text": "RMIT",
+            "value": 4
+        },
+        {
+            "text": "campus",
+            "value": 4
+        },
+        {
+            "text": "Dirty",
+            "value": 1
+        },
+        {
+            "text": "Laundry",
+            "value": 1
+        },
+        {
+            "text": "display",
+            "value": 1
+        },
+        {
+            "text": "WIP",
+            "value": 1
+        },
+        {
+            "text": "particularly",
+            "value": 1
+        },
+        {
+            "text": "cyanotype",
+            "value": 1
+        },
+        {
+            "text": "photogram",
+            "value": 1
+        },
+        {
+            "text": "title",
+            "value": 1
+        },
+        {
+            "text": "flags",
+            "value": 1
+        },
+        {
+            "text": "amazing",
+            "value": 1
+        },
+        {
+            "text": "Saturday",
+            "value": 1
+        },
+        {
+            "text": "Finishing",
+            "value": 1
+        },
+        {
+            "text": "excellent",
+            "value": 2
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "way",
+            "value": 1
+        },
+        {
+            "text": "people",
+            "value": 1
+        },
+        {
+            "text": "fun",
+            "value": 1
+        },
+        {
+            "text": "little",
+            "value": 1
+        },
+        {
+            "text": "post",
+            "value": 1
+        },
+        {
+            "text": "dinner",
+            "value": 2
+        },
+        {
+            "text": "treat",
+            "value": 1
+        },
+        {
+            "text": "TIME",
+            "value": 1
+        },
+        {
+            "text": "BEREAL",
+            "value": 1
+        },
+        {
+            "text": "w",
+            "value": 1
+        },
+        {
+            "text": "noods",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 3
+        },
+        {
+            "text": "Market",
+            "value": 1
+        },
+        {
+            "text": "Tram",
+            "value": 1
+        },
+        {
+            "text": "Stop",
+            "value": 1
+        },
+        {
+            "text": "6",
+            "value": 1
+        },
+        {
+            "text": "30",
+            "value": 1
+        },
+        {
+            "text": "Circle",
+            "value": 1
+        },
+        {
+            "text": "Thai",
+            "value": 1
+        },
+        {
+            "text": "Town",
+            "value": 1
+        },
+        {
+            "text": "PappaRich",
+            "value": 1
+        },
+        {
+            "text": "Celebrating",
+            "value": 1
+        },
+        {
+            "text": "great",
+            "value": 2
+        },
+        {
+            "text": "leadership",
+            "value": 1
+        },
+        {
+            "text": "Stand",
+            "value": 1
+        },
+        {
+            "text": "contributions",
+            "value": 1
+        },
+        {
+            "text": "adventures",
+            "value": 1
+        },
+        {
+            "text": "Discipline",
+            "value": 1
+        },
+        {
+            "text": "Coffee",
+            "value": 1
+        },
+        {
+            "text": "croissant",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "workshop",
+            "value": 1
+        },
+        {
+            "text": "friendly",
+            "value": 1
+        },
+        {
+            "text": "right",
+            "value": 2
+        },
+        {
+            "text": "guys",
+            "value": 1
+        },
+        {
+            "text": "Woodside",
+            "value": 1
+        },
+        {
+            "text": "Green",
+            "value": 1
+        },
+        {
+            "text": "Les",
+            "value": 1
+        },
+        {
+            "text": "go",
+            "value": 1
+        },
+        {
+            "text": "example",
+            "value": 1
+        },
+        {
+            "text": "exciting",
+            "value": 1
+        },
+        {
+            "text": "life",
+            "value": 1
+        },
+        {
+            "text": "Nice",
+            "value": 1
+        },
+        {
+            "text": "finally",
+            "value": 1
+        },
+        {
+            "text": "try",
+            "value": 1
+        },
+        {
+            "text": "famous",
+            "value": 1
+        },
+        {
+            "text": "nice",
+            "value": 1
+        },
+        {
+            "text": "indeed",
+            "value": 1
+        },
+        {
+            "text": "burger",
+            "value": 1
+        },
+        {
+            "text": "since",
+            "value": 1
+        },
+        {
+            "text": "opened",
+            "value": 1
+        },
+        {
+            "text": "outlet",
+            "value": 1
+        },
+        {
+            "text": "pics",
+            "value": 1
+        },
+        {
+            "text": "penguins",
+            "value": 1
+        },
+        {
+            "text": "Strictly",
+            "value": 1
+        },
+        {
+            "text": "allowed",
+            "value": 1
+        },
+        {
+            "text": "Phillip",
+            "value": 1
+        },
+        {
+            "text": "Island",
+            "value": 1
+        },
+        {
+            "text": "Penguin",
+            "value": 1
+        },
+        {
+            "text": "Parade",
+            "value": 1
+        },
+        {
+            "text": "Travel",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "force",
+            "value": 1
+        },
+        {
+            "text": "good",
+            "value": 1
+        },
+        {
+            "text": "done",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 3
+        },
+        {
+            "text": "reminder",
+            "value": 1
+        },
+        {
+            "text": "Oxford",
+            "value": 1
+        },
+        {
+            "text": "Scholar",
+            "value": 1
+        },
+        {
+            "text": "Hotel",
+            "value": 1
+        },
+        {
+            "text": "Hey",
+            "value": 2
+        },
+        {
+            "text": "calling",
+            "value": 1
+        },
+        {
+            "text": "yall",
+            "value": 1
+        },
+        {
+            "text": "landslide",
+            "value": 1
+        },
+        {
+            "text": "reported",
+            "value": 1
+        },
+        {
+            "text": "near",
+            "value": 1
+        },
+        {
+            "text": "Lorne",
+            "value": 1
+        },
+        {
+            "text": "Great",
+            "value": 1
+        },
+        {
+            "text": "Ocean",
+            "value": 1
+        },
+        {
+            "text": "Road",
+            "value": 1
+        },
+        {
+            "text": "issued",
+            "value": 1
+        },
+        {
+            "text": "advice",
+            "value": 1
+        },
+        {
+            "text": "warning",
+            "value": 1
+        },
+        {
+            "text": "stay",
+            "value": 1
+        },
+        {
+            "text": "away",
+            "value": 1
+        },
+        {
+            "text": "area",
+            "value": 1
+        },
+        {
+            "text": "may",
+            "value": 1
+        },
+        {
+            "text": "continue",
+            "value": 1
+        },
+        {
+            "text": "move",
+            "value": 1
+        },
+        {
+            "text": "hours",
+            "value": 1
+        },
+        {
+            "text": "days",
+            "value": 1
+        },
+        {
+            "text": "Shanty",
+            "value": 1
+        },
+        {
+            "text": "Gal",
+            "value": 1
+        },
+        {
+            "text": "bath",
+            "value": 1
+        },
+        {
+            "text": "water",
+            "value": 1
+        },
+        {
+            "text": "Get",
+            "value": 1
+        },
+        {
+            "text": "sparkly",
+            "value": 1
+        },
+        {
+            "text": "writes",
+            "value": 2
+        },
+        {
+            "text": "published",
+            "value": 2
+        },
+        {
+            "text": "4",
+            "value": 2
+        },
+        {
+            "text": "coming",
+            "value": 2
+        },
+        {
+            "text": "2",
+            "value": 2
+        },
+        {
+            "text": "U",
+            "value": 4
+        },
+        {
+            "text": "2nite",
+            "value": 4
+        },
+        {
+            "text": "gr8",
+            "value": 2
+        },
+        {
+            "text": "meeting",
+            "value": 2
+        },
+        {
+            "text": "Union",
+            "value": 1
+        },
+        {
+            "text": "Bloody",
+            "value": 1
+        },
+        {
+            "text": "hell",
+            "value": 1
+        },
+        {
+            "text": "yeah",
+            "value": 1
+        },
+        {
+            "text": "Supporting",
+            "value": 1
+        },
+        {
+            "text": "startup",
+            "value": 1
+        },
+        {
+            "text": "Soundsmith",
+            "value": 1
+        },
+        {
+            "text": "Demo",
+            "value": 1
+        },
+        {
+            "text": "Day",
+            "value": 1
+        },
+        {
+            "text": "tonight",
+            "value": 1
+        },
+        {
+            "text": "2nd",
+            "value": 1
+        },
+        {
+            "text": "Actually",
+            "value": 1
+        }
+    ]
+}

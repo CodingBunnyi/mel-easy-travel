@@ -1,0 +1,492 @@
+{
+    "word_freq": [
+        {
+            "text": "good",
+            "value": 2
+        },
+        {
+            "text": "home",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 7
+        },
+        {
+            "text": "Skydeck",
+            "value": 1
+        },
+        {
+            "text": "best",
+            "value": 1
+        },
+        {
+            "text": "time",
+            "value": 2
+        },
+        {
+            "text": "celebrating",
+            "value": 1
+        },
+        {
+            "text": "Vanguard",
+            "value": 1
+        },
+        {
+            "text": "Grant",
+            "value": 1
+        },
+        {
+            "text": "success",
+            "value": 1
+        },
+        {
+            "text": "Veg4Me",
+            "value": 1
+        },
+        {
+            "text": "team",
+            "value": 1
+        },
+        {
+            "text": "catch",
+            "value": 2
+        },
+        {
+            "text": "person",
+            "value": 1
+        },
+        {
+            "text": "sun",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 3
+        },
+        {
+            "text": "photo",
+            "value": 3
+        },
+        {
+            "text": "Arbory",
+            "value": 2
+        },
+        {
+            "text": "Afloat",
+            "value": 3
+        },
+        {
+            "text": "Starting",
+            "value": 1
+        },
+        {
+            "text": "moving",
+            "value": 1
+        },
+        {
+            "text": "Reflections",
+            "value": 1
+        },
+        {
+            "text": "beautiful",
+            "value": 1
+        },
+        {
+            "text": "cloudless",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "Queen",
+            "value": 2
+        },
+        {
+            "text": "Victoria",
+            "value": 2
+        },
+        {
+            "text": "Gardens",
+            "value": 2
+        },
+        {
+            "text": "late",
+            "value": 1
+        },
+        {
+            "text": "winter",
+            "value": 1
+        },
+        {
+            "text": "2022",
+            "value": 1
+        },
+        {
+            "text": "fatfreddysdropnz",
+            "value": 1
+        },
+        {
+            "text": "Rocking",
+            "value": 1
+        },
+        {
+            "text": "Bowl",
+            "value": 4
+        },
+        {
+            "text": "Sidney",
+            "value": 2
+        },
+        {
+            "text": "Myer",
+            "value": 2
+        },
+        {
+            "text": "Music",
+            "value": 2
+        },
+        {
+            "text": "Art",
+            "value": 1
+        },
+        {
+            "text": "Fighting",
+            "value": 1
+        },
+        {
+            "text": "Recital",
+            "value": 1
+        },
+        {
+            "text": "Centre",
+            "value": 2
+        },
+        {
+            "text": "Nice",
+            "value": 2
+        },
+        {
+            "text": "drop",
+            "value": 2
+        },
+        {
+            "text": "Fat",
+            "value": 2
+        },
+        {
+            "text": "Freddy",
+            "value": 2
+        },
+        {
+            "text": "Drinking",
+            "value": 1
+        },
+        {
+            "text": "Pale",
+            "value": 1
+        },
+        {
+            "text": "Ale",
+            "value": 1
+        },
+        {
+            "text": "come",
+            "value": 1
+        },
+        {
+            "text": "One",
+            "value": 1
+        },
+        {
+            "text": "enjoy",
+            "value": 1
+        },
+        {
+            "text": "ballet",
+            "value": 1
+        },
+        {
+            "text": "Big",
+            "value": 1
+        },
+        {
+            "text": "Saturday",
+            "value": 1
+        },
+        {
+            "text": "Back",
+            "value": 1
+        },
+        {
+            "text": "bowl",
+            "value": 1
+        },
+        {
+            "text": "Clear",
+            "value": 1
+        },
+        {
+            "text": "skies",
+            "value": 1
+        },
+        {
+            "text": "Opening",
+            "value": 1
+        },
+        {
+            "text": "Finally",
+            "value": 1
+        },
+        {
+            "text": "joy",
+            "value": 1
+        },
+        {
+            "text": "seeing",
+            "value": 1
+        },
+        {
+            "text": "Cyrano",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "night",
+            "value": 2
+        },
+        {
+            "text": "I'm",
+            "value": 1
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "trying",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
+            "text": "say",
+            "value": 1
+        },
+        {
+            "text": "WOW",
+            "value": 1
+        },
+        {
+            "text": "eloquent",
+            "value": 1
+        },
+        {
+            "text": "way",
+            "value": 1
+        },
+        {
+            "text": "laughed",
+            "value": 1
+        },
+        {
+            "text": "sobbed",
+            "value": 1
+        },
+        {
+            "text": "despaired",
+            "value": 1
+        },
+        {
+            "text": "hoped",
+            "value": 1
+        },
+        {
+            "text": "felt",
+            "value": 1
+        },
+        {
+            "text": "seen",
+            "value": 1
+        },
+        {
+            "text": "triumph",
+            "value": 1
+        },
+        {
+            "text": "privilege",
+            "value": 1
+        },
+        {
+            "text": "experience",
+            "value": 1
+        },
+        {
+            "text": "Amazing",
+            "value": 1
+        },
+        {
+            "text": "food",
+            "value": 1
+        },
+        {
+            "text": "great",
+            "value": 2
+        },
+        {
+            "text": "ups",
+            "value": 1
+        },
+        {
+            "text": "soooo",
+            "value": 1
+        },
+        {
+            "text": "full",
+            "value": 1
+        },
+        {
+            "text": "Asado",
+            "value": 1
+        },
+        {
+            "text": "State",
+            "value": 1
+        },
+        {
+            "text": "Theatre",
+            "value": 1
+        },
+        {
+            "text": "Arts",
+            "value": 1
+        },
+        {
+            "text": "Friday",
+            "value": 1
+        },
+        {
+            "text": "drinks",
+            "value": 1
+        },
+        {
+            "text": "Dagwood",
+            "value": 1
+        },
+        {
+            "text": "Deli",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 1
+        },
+        {
+            "text": "beer",
+            "value": 1
+        },
+        {
+            "text": "Come",
+            "value": 1
+        },
+        {
+            "text": "Belgian",
+            "value": 1
+        },
+        {
+            "text": "Beer",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "kind",
+            "value": 1
+        },
+        {
+            "text": "sad",
+            "value": 1
+        },
+        {
+            "text": "water",
+            "value": 1
+        },
+        {
+            "text": "fountain",
+            "value": 1
+        },
+        {
+            "text": "memorial",
+            "value": 1
+        },
+        {
+            "text": "black",
+            "value": 1
+        },
+        {
+            "text": "swan",
+            "value": 1
+        },
+        {
+            "text": "called",
+            "value": 1
+        },
+        {
+            "text": "Cookie",
+            "value": 1
+        },
+        {
+            "text": "lived",
+            "value": 1
+        },
+        {
+            "text": "50",
+            "value": 1
+        },
+        {
+            "text": "years",
+            "value": 1
+        },
+        {
+            "text": "ago",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "La",
+            "value": 1
+        },
+        {
+            "text": "Camera",
+            "value": 1
+        },
+        {
+            "text": "Southgate",
+            "value": 1
+        },
+        {
+            "text": "one",
+            "value": 1
+        },
+        {
+            "text": "favourite",
+            "value": 1
+        },
+        {
+            "text": "paintings",
+            "value": 1
+        }
+    ]
+}

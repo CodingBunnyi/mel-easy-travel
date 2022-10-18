@@ -1,0 +1,20 @@
+{
+    "count": 1,
+    "data": [
+        {
+            "tid": 1581414372827488256,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-10-15 22:39:02 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Kensington Rd , West Melbourne - Road Closed, Closed in both directions for a stretch between Dynon… https://t.co/k8OZnnJqgy #victraffic",
+            "clean_text": "Kensington Rd West Melbourne Road Closed Closed in both directions for a stretch between Dynon",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.92012507,
+            "latitude": -37.79848508,
+            "photo_urls": []
+        }
+    ]
+}

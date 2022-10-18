@@ -1,0 +1,56 @@
+{
+    "word_freq": [
+        {
+            "text": "Ballarat",
+            "value": 6
+        },
+        {
+            "text": "Rd",
+            "value": 3
+        },
+        {
+            "text": "Footscray",
+            "value": 2
+        },
+        {
+            "text": "lanes",
+            "value": 1
+        },
+        {
+            "text": "closed",
+            "value": 4
+        },
+        {
+            "text": "inbound",
+            "value": 1
+        },
+        {
+            "text": "Smithfield",
+            "value": 3
+        },
+        {
+            "text": "Road",
+            "value": 6
+        },
+        {
+            "text": "citybound",
+            "value": 1
+        },
+        {
+            "text": "Closed",
+            "value": 2
+        },
+        {
+            "text": "directions",
+            "value": 1
+        },
+        {
+            "text": "Kensington",
+            "value": 1
+        },
+        {
+            "text": "Maribyrnong",
+            "value": 1
+        }
+    ]
+}

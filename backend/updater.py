@@ -17,9 +17,8 @@ from tweet import tweet
 # Save a dictionary to JSON file
 # You won't need this
 def save_dict_json(dictionary, filename: str):
-    filename_json = f'{filename}.JSON'
-    os.makedirs(os.path.dirname(filename_json), exist_ok=True)
-    with open(filename_json, 'w', encoding='utf-8') as f:
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    with open(filename, 'w', encoding='utf-8') as f:
         json.dump(dictionary, f, ensure_ascii=False, indent=4)
 
 
@@ -30,13 +29,15 @@ def str_to_datetime(date_time_string: str):
 
 
 # Update data for one location
-def update_location_data(location_name: str):
+def update_location_data(loc_id: str):
     keep_days = 7
 
-    coord_radius = locator.get_coord_radius(location_name)
+    coord_radius = locator.get_coord_radius(loc_id)
 
     if coord_radius:
-        path = f'./cache_data/{location_name}'
+        path = f'./cache_data/{loc_id}.JSON'
+        wordcloud_path = f'./cache_data/{loc_id}_WordCloud.JSON'
+
         try:
 
             try:
@@ -55,7 +56,7 @@ def update_location_data(location_name: str):
                 if time_gap < max_time_range:
                     days = (time_gap.total_seconds() - 11) / 86400
                     new_dict = json.loads(
-                        tweet.search_tweet(coord_radius[0], coord_radius[1], coord_radius[2], days=days))
+                        tweet.search_tweet(coord_radius[0], coord_radius[1], coord_radius[2], days=days, recent10=False))
 
                     until_data_time = current_date_time - max_time_range
                     for record in old_dict['data']:
@@ -66,22 +67,22 @@ def update_location_data(location_name: str):
                             break
                 else:
                     new_dict = json.loads(
-                        tweet.search_tweet(coord_radius[0], coord_radius[1], coord_radius[2], days=keep_days))
+                        tweet.search_tweet(coord_radius[0], coord_radius[1], coord_radius[2], days=keep_days, recent10=False))
             else:
                 new_dict = json.loads(
-                    tweet.search_tweet(coord_radius[0], coord_radius[1], coord_radius[2], days=keep_days))
+                    tweet.search_tweet(coord_radius[0], coord_radius[1], coord_radius[2], days=keep_days, recent10=False))
 
             save_dict_json(new_dict, path)
 
             # Update word cloud
             wordcloud_dict = wordcloud.update_word_cloud_data(new_dict)
 
-            save_dict_json(wordcloud_dict, f'{path}WordCloud')
+            save_dict_json(wordcloud_dict, wordcloud_path)
 
             return 'success'
 
-        except tweepy.errors.TweepyException:
-            return 'fail'
+        except tweepy.errors.TweepyException as e:
+            return e.__class__.__name__
     else:
         return 'unknown'
 
@@ -89,14 +90,18 @@ def update_location_data(location_name: str):
 # Update all locations in the LOCATIONS dictionary
 def update_all_data():
     try:
-        for location in locator.get_locations().keys():
-            flag = update_location_data(location)
-            if flag == 'fail' or flag == 'unknown':
+        locations = locator.get_locations()
+        for loc_id in locations.keys():
+            flag = update_location_data(loc_id)
+            print(f'Updating data for id: {loc_id} [{locations[loc_id][3]}]...{flag}')
+
+            if flag != 'success':
                 return flag
+
         flag = 'success'
+
         return flag
+
     except:
         flag = 'connection error'
         return flag
-
-

@@ -9,7 +9,7 @@ import updater
 # Need location name, days, hours.
 # Default days and hours are 0 if not passed
 # Max 7 days. > 7 days will return all cached data.
-def history_location_data(location_name: str, days: float, hours: float):
+def history_location_data(loc_id: str, days: float, hours: float):
     if days is None:
         days = 0
 
@@ -18,7 +18,7 @@ def history_location_data(location_name: str, days: float, hours: float):
 
     result_dict = {'count': 0, 'data': []}
 
-    path = f'./cache_data/{location_name}.JSON'
+    path = f'./cache_data/{loc_id}.JSON'
 
     try:
         with open(path, 'r', encoding='utf-8') as file:

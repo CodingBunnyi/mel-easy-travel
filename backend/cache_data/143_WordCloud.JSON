@@ -1,0 +1,40 @@
+{
+    "word_freq": [
+        {
+            "text": "Kensington",
+            "value": 1
+        },
+        {
+            "text": "Rd",
+            "value": 1
+        },
+        {
+            "text": "West",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "Road",
+            "value": 1
+        },
+        {
+            "text": "Closed",
+            "value": 2
+        },
+        {
+            "text": "directions",
+            "value": 1
+        },
+        {
+            "text": "stretch",
+            "value": 1
+        },
+        {
+            "text": "Dynon",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "count": 1,
+    "data": [
+        {
+            "tid": 1581461189888184320,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-10-16 01:45:04 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "West Gate Fwy  (M1), Port Melbourne - lanes closed inbound, Two left lanes are closed citybound after… https://t.co/4UbwuDpYwv #victraffic",
+            "clean_text": "West Gate Fwy M1 Port Melbourne lanes closed inbound Two left lanes are closed citybound after",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91849737,
+            "latitude": -37.83013666,
+            "photo_urls": []
+        }
+    ]
+}

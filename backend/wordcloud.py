@@ -1,8 +1,9 @@
 import json
+import nltk
 
-from nltk.corpus import stopwords
-
-CACHED_STOPWORDS = stopwords.words("english")
+# Update stopwords list
+nltk.download('stopwords')
+CACHED_STOPWORDS = nltk.corpus.stopwords.words("english")
 
 
 # Update word cloud data when updating cached data
@@ -26,15 +27,14 @@ def update_word_cloud_data(json_dict: dict):
 
 
 # Get word cloud data ([{word: str, freq: int}]) based on cached twitter data
-# Also cached in file for speed.
-# Need location name.
-def word_cloud_data(location_name: str):
-    path = f'./cache_data/{location_name}WordCloud.JSON'
+# Need location id.
+def word_cloud_data(loc_id: str):
+    path = f'./cache_data/{loc_id}_WordCloud.JSON'
 
     try:
         with open(path, 'r', encoding='utf-8') as file:
             cache_dict = json.load(file)
     except FileNotFoundError:
-        cache_dict = {'word_freq': []}
+        return 'No such location'
 
     return json.dumps(cache_dict, indent=4, ensure_ascii=False).encode('utf8')

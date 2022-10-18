@@ -17,7 +17,7 @@ CLIENT = tweepy.Client(
 # Convert a point coordinate to a radius search query
 # You won't need this
 def generate_query(long: float, lat: float, radius: float):
-    query = 'has:geo point_radius:[long lat radius_in_km]'
+    query = 'has:geo lang:en point_radius:[long lat radius_in_km]'
 
     query = query.replace('long', str(long))
     query = query.replace('lat', str(lat))
@@ -28,39 +28,63 @@ def generate_query(long: float, lat: float, radius: float):
 
 # Generate a paginator for twitter search
 # You won't need this
-def generate_paginator(query: str, time_range: datetime.timedelta):
-    # A threshold to separate recent search and wide-range search due to rate limitation
-    day_thresh = 1
-
+def generate_paginator(query: str, time_range: datetime.timedelta, recent10: bool):
     buffer_time = 10  # Fresh posted tweets need at least 10 seconds to be available for search
     end = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(seconds=buffer_time)
     start = end - time_range
 
-    # Default recent search
-    if time_range.days <= day_thresh:
+    if recent10:    # Recent mode: get paginator generate 10 tweets a time
         search_method = CLIENT.search_recent_tweets
-        result_limit = 100  # 100 results per response
+        result_limit = 10  # 100 results per response
         all_search = False
-    # Recent days search: used for word cloud and gallery
-    else:
-        search_method = CLIENT.search_all_tweets
-        result_limit = 500  # 500 results per response
-        all_search = True
+        paginator = tweepy.Paginator(search_method, query=query,
+                                     end_time=end, max_results=result_limit,
+                                     tweet_fields=['id', 'author_id', 'created_at', 'public_metrics',
+                                                   'lang', 'text', 'entities', 'geo'],
+                                     user_fields=['username'],
+                                     place_fields=['full_name', 'place_type', 'geo'],
+                                     media_fields=['url', 'preview_image_url'],
+                                     expansions=['author_id', 'geo.place_id', 'attachments.media_keys'])
 
-    paginator = tweepy.Paginator(search_method, query=query,
-                                 start_time=start, end_time=end, max_results=result_limit,
-                                 tweet_fields=['id', 'author_id', 'created_at', 'public_metrics',
-                                               'lang', 'text', 'entities', 'geo'],
-                                 user_fields=['username'],
-                                 place_fields=['full_name', 'place_type', 'geo'],
-                                 media_fields=['url', 'preview_image_url'],
-                                 expansions=['author_id', 'geo.place_id', 'attachments.media_keys'])
+    else:          # Update mode: get paginator for right time range
+        # A threshold to separate recent search and wide-range search due to rate limitation
+        day_thresh = 1
+
+        # Default recent search
+        if time_range.days <= day_thresh:
+            search_method = CLIENT.search_recent_tweets
+            result_limit = 100  # 100 results per response
+            all_search = False
+        # Recent days search: used for word cloud and gallery
+        else:
+            search_method = CLIENT.search_all_tweets
+            result_limit = 500  # 500 results per response
+            all_search = True        
+
+        paginator = tweepy.Paginator(search_method, query=query,
+                                     start_time=start, end_time=end, max_results=result_limit,
+                                     tweet_fields=['id', 'author_id', 'created_at', 'public_metrics',
+                                                   'lang', 'text', 'entities', 'geo'],
+                                     user_fields=['username'],
+                                     place_fields=['full_name', 'place_type', 'geo'],
+                                     media_fields=['url', 'preview_image_url'],
+                                     expansions=['author_id', 'geo.place_id', 'attachments.media_keys'])
 
     return all_search, paginator
 
 
+def rate_sleep(start_timer: float, request_time: float):
+    # Deal with rate limit
+    elapse_time = time.time() - start_timer
+
+    sleep_time = request_time - elapse_time
+
+    if sleep_time > 0:
+        time.sleep(sleep_time)
+
+
 # Search tweets
-def search_tweet(long: float, lat: float, radius: float, hours: float = None, days: float = None):
+def search_tweet(long: float, lat: float, radius: float, hours: float = None, days: float = None, recent10: bool = True):
     if hours is None and days is None:
         hours = 1.0
         days = 0.0
@@ -76,13 +100,13 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
 
     query = generate_query(long, lat, radius)
 
-    all_search, paginator = generate_paginator(query, time_range)
+    all_search, paginator = generate_paginator(query, time_range, recent10=recent10)
 
     # Deal with rate limit
     if all_search:
-        request_time = 0
-    else:
         request_time = 1
+    else:
+        request_time = 0
 
     # Information to collect
     columns = ['tid', 'uid', 'author', 'time', 'like_no', 'language', 'text', 'clean_text',
@@ -121,6 +145,7 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
         # Collect tweet data
         # In case there is no tweets in the give time period
         if data is None:
+            rate_sleep(start_timer, request_time)
             continue
 
         for tweet in data:
@@ -214,13 +239,10 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
             # Append temp result to result list
             result_dict_list.append(temp_result)
 
-            # Deal with rate limit
-            elapse_time = time.time() - start_timer
+        rate_sleep(start_timer, request_time)
 
-            sleep_time = request_time - elapse_time
-
-            if sleep_time > 0:
-                time.sleep(sleep_time)
+        if recent10:
+            break
 
     count = len(result_dict_list)
 

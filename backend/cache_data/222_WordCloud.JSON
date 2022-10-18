@@ -1,0 +1,400 @@
+{
+    "word_freq": [
+        {
+            "text": "Late",
+            "value": 1
+        },
+        {
+            "text": "check",
+            "value": 1
+        },
+        {
+            "text": "snooze",
+            "value": 1
+        },
+        {
+            "text": "good",
+            "value": 2
+        },
+        {
+            "text": "tonight",
+            "value": 1
+        },
+        {
+            "text": "Drinking",
+            "value": 9
+        },
+        {
+            "text": "LAYER",
+            "value": 2
+        },
+        {
+            "text": "UPON",
+            "value": 1
+        },
+        {
+            "text": "Banks",
+            "value": 1
+        },
+        {
+            "text": "Brewing",
+            "value": 3
+        },
+        {
+            "text": "Travelodge",
+            "value": 9
+        },
+        {
+            "text": "Docklands",
+            "value": 10
+        },
+        {
+            "text": "lot",
+            "value": 1
+        },
+        {
+            "text": "sediment",
+            "value": 1
+        },
+        {
+            "text": "one",
+            "value": 1
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "tastes",
+            "value": 1
+        },
+        {
+            "text": "Straight",
+            "value": 1
+        },
+        {
+            "text": "Shooter",
+            "value": 1
+        },
+        {
+            "text": "Fox",
+            "value": 1
+        },
+        {
+            "text": "Friday",
+            "value": 1
+        },
+        {
+            "text": "Craft",
+            "value": 1
+        },
+        {
+            "text": "Brewery",
+            "value": 2
+        },
+        {
+            "text": "Riwaka",
+            "value": 1
+        },
+        {
+            "text": "Wai",
+            "value": 1
+        },
+        {
+            "text": "iti",
+            "value": 1
+        },
+        {
+            "text": "NEIPA",
+            "value": 2
+        },
+        {
+            "text": "Lost",
+            "value": 1
+        },
+        {
+            "text": "Palms",
+            "value": 1
+        },
+        {
+            "text": "Co",
+            "value": 5
+        },
+        {
+            "text": "Happy",
+            "value": 1
+        },
+        {
+            "text": "Tuesday",
+            "value": 1
+        },
+        {
+            "text": "Sitting",
+            "value": 1
+        },
+        {
+            "text": "Hill",
+            "value": 1
+        },
+        {
+            "text": "Deeds",
+            "value": 1
+        },
+        {
+            "text": "Yo",
+            "value": 1
+        },
+        {
+            "text": "goober",
+            "value": 1
+        },
+        {
+            "text": "lime",
+            "value": 2
+        },
+        {
+            "text": "subtle",
+            "value": 1
+        },
+        {
+            "text": "hoping",
+            "value": 1
+        },
+        {
+            "text": "would",
+            "value": 1
+        },
+        {
+            "text": "prominent",
+            "value": 1
+        },
+        {
+            "text": "Freaky",
+            "value": 1
+        },
+        {
+            "text": "Dreams",
+            "value": 1
+        },
+        {
+            "text": "Mountain",
+            "value": 4
+        },
+        {
+            "text": "Culture",
+            "value": 4
+        },
+        {
+            "text": "Beer",
+            "value": 4
+        },
+        {
+            "text": "Mind",
+            "value": 1
+        },
+        {
+            "text": "Bender",
+            "value": 1
+        },
+        {
+            "text": "Thirst",
+            "value": 1
+        },
+        {
+            "text": "Trap",
+            "value": 1
+        },
+        {
+            "text": "Dimension",
+            "value": 1
+        },
+        {
+            "text": "X",
+            "value": 1
+        },
+        {
+            "text": "Never",
+            "value": 1
+        },
+        {
+            "text": "heard",
+            "value": 1
+        },
+        {
+            "text": "guys",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 1
+        },
+        {
+            "text": "beer",
+            "value": 1
+        },
+        {
+            "text": "Annie",
+            "value": 1
+        },
+        {
+            "text": "Cornella",
+            "value": 1
+        },
+        {
+            "text": "I'm",
+            "value": 2
+        },
+        {
+            "text": "Gooness",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 2
+        },
+        {
+            "text": "Another",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "another",
+            "value": 1
+        },
+        {
+            "text": "coffee",
+            "value": 1
+        },
+        {
+            "text": "big",
+            "value": 1
+        },
+        {
+            "text": "couple",
+            "value": 1
+        },
+        {
+            "text": "weeks",
+            "value": 1
+        },
+        {
+            "text": "Almost",
+            "value": 1
+        },
+        {
+            "text": "home",
+            "value": 2
+        },
+        {
+            "text": "find",
+            "value": 1
+        },
+        {
+            "text": "interesting",
+            "value": 1
+        },
+        {
+            "text": "Melb",
+            "value": 1
+        },
+        {
+            "text": "Syd",
+            "value": 1
+        },
+        {
+            "text": "days",
+            "value": 1
+        },
+        {
+            "text": "fine",
+            "value": 2
+        },
+        {
+            "text": "brunch",
+            "value": 1
+        },
+        {
+            "text": "replacing",
+            "value": 1
+        },
+        {
+            "text": "dining",
+            "value": 1
+        },
+        {
+            "text": "dinner",
+            "value": 1
+        },
+        {
+            "text": "Hello",
+            "value": 1
+        },
+        {
+            "text": "May",
+            "value": 1
+        },
+        {
+            "text": "introduce",
+            "value": 1
+        },
+        {
+            "text": "Cucumber",
+            "value": 1
+        },
+        {
+            "text": "flavour",
+            "value": 1
+        },
+        {
+            "text": "Farewell",
+            "value": 1
+        },
+        {
+            "text": "calorie",
+            "value": 2
+        },
+        {
+            "text": "deficit",
+            "value": 2
+        },
+        {
+            "text": "enough",
+            "value": 1
+        },
+        {
+            "text": "steps",
+            "value": 1
+        },
+        {
+            "text": "Time",
+            "value": 1
+        },
+        {
+            "text": "go",
+            "value": 1
+        },
+        {
+            "text": "double",
+            "value": 1
+        },
+        {
+            "text": "donation",
+            "value": 1
+        },
+        {
+            "text": "reads",
+            "value": 1
+        },
+        {
+            "text": "air",
+            "value": 1
+        }
+    ]
+}

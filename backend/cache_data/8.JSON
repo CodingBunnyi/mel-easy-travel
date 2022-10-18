@@ -1,0 +1,68 @@
+{
+    "count": 4,
+    "data": [
+        {
+            "tid": 1582215855446061056,
+            "uid": 132983938,
+            "author": "Peck",
+            "time": "2022-10-18 03:43:50 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "#impresso Espresso bar, the best coffe in Melbourne #cafelatte @ Impresso Coffee Bar https://t.co/LIs0dHmsWa",
+            "clean_text": "Espresso bar the best coffe in Melbourne Impresso Coffee Bar",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.95358,
+            "latitude": -37.8123,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581846615379562496,
+            "uid": 1130062562,
+            "author": ".YTR",
+            "time": "2022-10-17 03:16:37 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at 300 King St in Melbourne, VIC https://t.co/H58xFxenGH",
+            "clean_text": "I'm at 300 King St in Melbourne VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9549222,
+            "latitude": -37.81354734,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581502226006044672,
+            "uid": 1130062562,
+            "author": ".YTR",
+            "time": "2022-10-16 04:28:08 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at Queen Vic Pet Shop in Melbourne, VIC https://t.co/p5TCAwHC1t",
+            "clean_text": "I'm at Queen Vic Pet Shop in Melbourne VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.95705631,
+            "latitude": -37.80690644,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581068080691572736,
+            "uid": 1287357516,
+            "author": "Jac Jac",
+            "time": "2022-10-14 23:42:59 +0000",
+            "like_no": 12,
+            "language": "en",
+            "text": "Breakfast was divine 😍\n\nNow off to explore…\n\nBut first I’m sitting barefoot as my shoe just broke, waiting for it to get fixed 😂 https://t.co/vlof3l6hL5",
+            "clean_text": "Breakfast was divine Now off to explore But first I m sitting barefoot as my shoe just broke waiting for it to get fixed",
+            "place_name": "Fuumi Fuumi",
+            "place_type": "poi",
+            "longitude": 144.950361,
+            "latitude": -37.808743,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfEVCN5UcAAIqsH.jpg",
+                "https://pbs.twimg.com/media/FfEVCN5VIAAKKDF.jpg"
+            ]
+        }
+    ]
+}

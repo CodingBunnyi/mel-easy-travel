@@ -1,0 +1,67 @@
+{
+    "count": 4,
+    "data": [
+        {
+            "tid": 1581461189888184320,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-10-16 01:45:04 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "West Gate Fwy  (M1), Port Melbourne - lanes closed inbound, Two left lanes are closed citybound after… https://t.co/4UbwuDpYwv #victraffic",
+            "clean_text": "West Gate Fwy M1 Port Melbourne lanes closed inbound Two left lanes are closed citybound after",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91849737,
+            "latitude": -37.83013666,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581098795634667520,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-10-15 01:45:02 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "West Gate Fwy  (M1), Port Melbourne - lanes closed inbound, Two citybound lanes are closed on the West… https://t.co/CFnUPe34nf #victraffic",
+            "clean_text": "West Gate Fwy M1 Port Melbourne lanes closed inbound Two citybound lanes are closed on the West",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.90876999,
+            "latitude": -37.83372922,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581084451081441281,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-10-15 00:48:02 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "West Gate Fwy  (M1), Port Melbourne - lanes closed inbound, Three citybound lanes are closed on the… https://t.co/CFnUPe34nf #victraffic",
+            "clean_text": "West Gate Fwy M1 Port Melbourne lanes closed inbound Three citybound lanes are closed on the",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.90876999,
+            "latitude": -37.83372922,
+            "photo_urls": []
+        },
+        {
+            "tid": 1580564004358930433,
+            "uid": 1166250121840877568,
+            "author": "BLACKDADDY👀 🇦🇺",
+            "time": "2022-10-13 14:19:58 +0000",
+            "like_no": 52,
+            "language": "en",
+            "text": "Yummmmmmmy https://t.co/FzaE8jdNoA https://t.co/4riXMpqx0o",
+            "clean_text": "Yummmmmmmy",
+            "place_name": "Garden Place Fast Food",
+            "place_type": "poi",
+            "longitude": 144.9180639,
+            "latitude": -37.8344572,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1580563957009391618/pu/img/kr9jYhw0ugOuak1f.jpg"
+            ]
+        }
+    ]
+}

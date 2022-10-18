@@ -1,0 +1,133 @@
+{
+    "count": 8,
+    "data": [
+        {
+            "tid": 1582489316001185792,
+            "uid": 2393500705,
+            "author": "Jerome Gillbard",
+            "time": "2022-10-18 21:50:28 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "Get up, it’s (the deciding) game day\n\n#netball #transtasman #mensnetball #australia #newzealand https://t.co/njnzgTxeNz",
+            "clean_text": "Get up it s the deciding game day",
+            "place_name": "John Cain Arena",
+            "place_type": "poi",
+            "longitude": 144.98189449310303,
+            "latitude": -37.82283209541227,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfYho9ZaMAAFyF3.jpg"
+            ]
+        },
+        {
+            "tid": 1581885240531771392,
+            "uid": 993475733975482370,
+            "author": "Aastha Pant",
+            "time": "2022-10-17 05:50:06 +0000",
+            "like_no": 7,
+            "language": "en",
+            "text": "Using Monday to make Sundays.. 🤩\n#Monday.com \n#agileaus22 #agile @um_graetsch #phdchat #AcademicChatter https://t.co/VLr35MK3Y9",
+            "clean_text": "Using Monday to make Sundays com",
+            "place_name": "Pullman Melbourne on the Park",
+            "place_type": "poi",
+            "longitude": 144.9832524,
+            "latitude": -37.8157436,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfP8PTjVUAA7IPm.jpg"
+            ]
+        },
+        {
+            "tid": 1581787390414245889,
+            "uid": 993475733975482370,
+            "author": "Aastha Pant",
+            "time": "2022-10-16 23:21:16 +0000",
+            "like_no": 6,
+            "language": "en",
+            "text": "Volunteering at AgileAus2022  😃\n#studentvolunteer #agileaus22 #phdlife #AcademicChatter @agileaus https://t.co/J3NllangYI",
+            "clean_text": "Volunteering at AgileAus2022",
+            "place_name": "Pullman Melbourne on the Park",
+            "place_type": "poi",
+            "longitude": 144.9832524,
+            "latitude": -37.8157436,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfOjPmKUAAAefE0.jpg"
+            ]
+        },
+        {
+            "tid": 1581514342146617344,
+            "uid": 601712763,
+            "author": "BNA - Basketball News Australia",
+            "time": "2022-10-16 05:16:16 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Rashad Kelly showed up for the @jackjumpers to deliver his team the 10 point win over @melbunited @ John Cain Arena https://t.co/TmTDicLTqA",
+            "clean_text": "Rashad Kelly showed up for the to deliver his team the 10 point win over John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581241565137158144,
+            "uid": 601712763,
+            "author": "BNA - Basketball News Australia",
+            "time": "2022-10-15 11:12:21 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@izayahleafa facilitates the offence for the @breakersnz to deliver them an 8 point win 85 - 77 over the @semelbphoenix @ John Cain Arena https://t.co/5TJCX6zz41",
+            "clean_text": "facilitates the offence for the to deliver them an 8 point win 85 77 over the John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1581208425316261888,
+            "uid": 1054520871446970368,
+            "author": "South East Melbourne Phoenix",
+            "time": "2022-10-15 09:00:40 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Welcome the players onto the court Phoenix fans‼️\n\nIt’s almost game time‼️\n\n📺 Tune in on @ESPNAusNZ via @kayosports or @Foxtel https://t.co/TX4JkB368T",
+            "clean_text": "Welcome the players onto the court Phoenix fans It s almost game time Tune in on via or",
+            "place_name": "John Cain Arena",
+            "place_type": "poi",
+            "longitude": 144.98189449310303,
+            "latitude": -37.82283209541227,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1581208214925762560/pu/img/tIx_OmCadOooQFl8.jpg"
+            ]
+        },
+        {
+            "tid": 1581062245458784256,
+            "uid": 248967794,
+            "author": "tre dallas",
+            "time": "2022-10-14 23:19:48 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Melbourne Park https://t.co/W5qV6HhEbM",
+            "clean_text": "Just posted a photo Melbourne Park",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97841879,
+            "latitude": -37.82046197,
+            "photo_urls": []
+        },
+        {
+            "tid": 1580735540038860802,
+            "uid": 1896993948,
+            "author": "Samantha Riches",
+            "time": "2022-10-14 01:41:36 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Melbourne Cricket Ground (MCG) https://t.co/uUvvx11yR1",
+            "clean_text": "Just posted a photo Melbourne Cricket Ground MCG",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98346154,
+            "latitude": -37.81984,
+            "photo_urls": []
+        }
+    ]
+}

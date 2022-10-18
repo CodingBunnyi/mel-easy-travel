@@ -1,0 +1,56 @@
+{
+    "word_freq": [
+        {
+            "text": "West",
+            "value": 3
+        },
+        {
+            "text": "Gate",
+            "value": 3
+        },
+        {
+            "text": "Fwy",
+            "value": 3
+        },
+        {
+            "text": "M1",
+            "value": 3
+        },
+        {
+            "text": "Docklands",
+            "value": 3
+        },
+        {
+            "text": "lanes",
+            "value": 4
+        },
+        {
+            "text": "closed",
+            "value": 6
+        },
+        {
+            "text": "outbound",
+            "value": 5
+        },
+        {
+            "text": "right",
+            "value": 3
+        },
+        {
+            "text": "lane",
+            "value": 3
+        },
+        {
+            "text": "near",
+            "value": 2
+        },
+        {
+            "text": "Two",
+            "value": 1
+        },
+        {
+            "text": "left",
+            "value": 1
+        }
+    ]
+}
