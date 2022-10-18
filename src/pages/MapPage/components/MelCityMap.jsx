@@ -13,9 +13,99 @@ import Mel_POIs_Data from '../../../data/Melbourne_POIs_MGA.json'
 import ChurchPin from './ChurchPin';
 import {createRoot} from 'react-dom/client';
 import ControlPanel from './ControlPanel';
+//import TabTwitter from './TabTwitter';
+
 
 import Box from '@mui/material/Box';
+import Tabs from '@mui/material/Tabs';
+import Tab from '@mui/material/Tab';
+import Stack from '@mui/material/Stack';
+import Paper from '@mui/material/Paper';
+import Avatar from '@mui/material/Avatar';
+
+import { styled } from '@mui/material/styles';
 import Typography from '@mui/material/Typography';
+import PropTypes from 'prop-types';
+//import ReactIScroll from 'react-iscroll';
+
+
+// Tab
+function TabPanel(props) {
+  const { children, value, index, ...other } = props;
+
+  return (
+    <div
+      role="tabpanel"
+      hidden={ value !== index }
+      id={ `simple-tabpanel-${index}` }
+      aria-labelledby={ `simple-tab-${index}` }
+      { ...other }
+    >
+      {value === index && (
+        <Box sx={ { p: 3 } }>
+          <Typography>{children}</Typography>
+        </Box>
+      )}
+    </div>
+  );
+}
+
+// Tab
+TabPanel.propTypes = {
+  children: PropTypes.node,
+  index: PropTypes.number.isRequired,
+  value: PropTypes.number.isRequired,
+};
+
+// Tab
+function a11yProps(index) {
+  return {
+    id: `simple-tab-${ index }`,
+    'aria-controls': `simple-tabpanel-${ index }`,
+  };
+}
+
+// Stack
+const Item = styled(Paper)(({ theme }) => ({
+  backgroundColor: theme.palette.mode === 'dark' ? '#1A2027' : '#fff',
+  ...theme.typography.body2,
+  padding: theme.spacing(1),
+  textAlign: 'left',
+  color: theme.palette.text.secondary,
+}));
+
+//Avatar
+function stringAvatar(name) {
+  return {
+    sx: {
+      bgcolor: stringToColor(name),
+      width: 30, 
+      height: 30
+    },
+    children: `${ name.split(' ')[0][0] }${ name.split(' ')[1][0] }`,
+  };
+}
+
+//Avatar Color
+function stringToColor(string) {
+  let hash = 0;
+  let i;
+
+  /* eslint-disable no-bitwise */
+  for (i = 0; i < string.length; i += 1) {
+    hash = string.charCodeAt(i) + ((hash << 5) - hash);
+  }
+
+  let color = '#';
+
+  for (i = 0; i < 3; i += 1) {
+    const value = (hash >> (i * 8)) & 0xff;
+    color += `00${value.toString(16)}`.slice(-2);
+  }
+  /* eslint-enable no-bitwise */
+
+  return color;
+}
 
 export default function MelCityMap() {
     
@@ -26,6 +116,14 @@ export default function MelCityMap() {
   const [checkStatus, setcheckStatus] = useState(true); //checkBox status of Mel_POIs_Data
   // eslint-disable-next-line no-unused-vars
   const [selectedTwitterInfo, setSelectedTwitterInfo] = useState({});
+
+  const [value, setValue] = React.useState(0); //Tab
+
+  // Tab
+  const handleChange = (event, newValue) => {
+    setValue(newValue);
+  };
+
   useEffect(() => {
     
   }, [selected, checkStatus, selectedTwitterInfo]);
@@ -58,7 +156,11 @@ export default function MelCityMap() {
       )),
     []
   );
+
+  
+
   return (
+    
     <Map
       initialViewState={ {
         latitude: -37.810454,
@@ -87,17 +189,84 @@ export default function MelCityMap() {
           onClose= { () => {
             setSelected(null);
           } }
+          maxWidth= { '450px' }  
+          style= { { height:250 } }        
           >
           <Box>
             <Typography variant="h6" >
-              Theme: {selected.Theme}
+              {selected.FeatureName}
             </Typography>
+          </Box>
 
-            <Typography variant="subtitle1" >
-              Subtheme: {selected.SubTheme}
-            </Typography>
+          <Box sx={ { borderBottom: 1, borderColor: 'divider' } }>
+            
+            <Tabs value={ value } onChange={ handleChange } >
+              <Tab label="Twitter" { ...a11yProps(0) } />
+              <Tab label="Word Cloud" { ...a11yProps(1) } />
+            </Tabs>
+          </Box>
 
-            {(selectedTwitterInfo.data !== undefined && selectedTwitterInfo.data[0] !== undefined) ? selectedTwitterInfo.data[0].author : null}
+          <Box sx={ { width: '100%' , height: 250 } } >
+
+
+            <TabPanel 
+              value={ value } 
+              index={ 0 } 
+              sx={ { width: '100%' } }
+              >
+              
+              <scroll-view scroll-y="true">  
+                <Stack spacing={ 1 }  sx={ { width: '100%'} }  >
+                    
+                  <Item>
+                    {(selectedTwitterInfo.data !== undefined && selectedTwitterInfo.data[0] !== undefined) ? (
+                      <Box>
+                        <Avatar { ...stringAvatar( selectedTwitterInfo.data[0].author ) } />
+                        
+                        <Typography variant="body2" >
+                          {selectedTwitterInfo.data[0].author } :{selectedTwitterInfo.data[0].clean_text }
+                        </Typography>
+                      </Box>
+                      
+                      ) : null }
+
+                  </Item>
+
+                  <Item>
+                    {(selectedTwitterInfo.data !== undefined && selectedTwitterInfo.data[1] !== undefined) ? (
+                      <Box>
+                        <Avatar { ...stringAvatar( selectedTwitterInfo.data[1].author ) } />
+                        
+                        <Typography variant="body2" >
+                          {selectedTwitterInfo.data[1].author } :{selectedTwitterInfo.data[1].clean_text }
+                        </Typography>
+                      </Box>
+                      
+                      ) : null }
+
+                  </Item>
+
+                  <Item>
+                    {(selectedTwitterInfo.data !== undefined && selectedTwitterInfo.data[2] !== undefined) ? (
+                      <Box>
+                        <Avatar { ...stringAvatar( selectedTwitterInfo.data[2].author ) } />
+                        
+                        <Typography variant="body2" >
+                          {selectedTwitterInfo.data[2].author } :{selectedTwitterInfo.data[2].clean_text }
+                        </Typography>
+                      </Box>
+                      
+                      ) : null }
+
+                  </Item>
+                </Stack>
+              </scroll-view>
+             
+            </TabPanel>
+
+            <TabPanel value={ value } index={ 1 } height={ 100 }>
+              Tab222222
+            </TabPanel>
 
           </Box>
         </Popup>
