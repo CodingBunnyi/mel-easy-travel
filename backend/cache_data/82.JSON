@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 3,
     "data": [
         {
             "tid": 1581461189888184320,
@@ -48,24 +48,6 @@
             "longitude": 144.90876999,
             "latitude": -37.83372922,
             "photo_urls": []
-        },
-        {
-            "tid": 1580564004358930433,
-            "uid": 1166250121840877568,
-            "author": "BLACKDADDY👀 🇦🇺",
-            "user_img": "https://pbs.twimg.com/profile_images/1578074788362301440/GmDNYwIk_normal.jpg",
-            "time": "2022-10-13 14:19:58 +0000",
-            "like_no": 52,
-            "language": "en",
-            "text": "Yummmmmmmy https://t.co/FzaE8jdNoA https://t.co/4riXMpqx0o",
-            "clean_text": "Yummmmmmmy",
-            "place_name": "Garden Place Fast Food",
-            "place_type": "poi",
-            "longitude": 144.9180639,
-            "latitude": -37.8344572,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1580563957009391618/pu/img/kr9jYhw0ugOuak1f.jpg"
-            ]
         }
     ]
 }

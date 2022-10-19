@@ -9,6 +9,66 @@
             "value": 10
         },
         {
+            "text": "Yarra",
+            "value": 1
+        },
+        {
+            "text": "Botanica",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 1
+        },
+        {
+            "text": "evening",
+            "value": 1
+        },
+        {
+            "text": "VL15",
+            "value": 1
+        },
+        {
+            "text": "Flinders",
+            "value": 2
+        },
+        {
+            "text": "Street",
+            "value": 2
+        },
+        {
+            "text": "Station",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 10
+        },
+        {
+            "text": "Victoria",
+            "value": 3
+        },
+        {
+            "text": "Circa",
+            "value": 1
+        },
+        {
+            "text": "1920's",
+            "value": 1
+        },
+        {
+            "text": "I'm",
+            "value": 2
+        },
+        {
+            "text": "Steps",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
             "text": "Ian",
             "value": 2
         },
@@ -35,10 +95,6 @@
         {
             "text": "home",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 8
         },
         {
             "text": "Skydeck",
@@ -261,10 +317,6 @@
             "value": 2
         },
         {
-            "text": "Victoria",
-            "value": 2
-        },
-        {
             "text": "Gardens",
             "value": 2
         },
@@ -274,10 +326,6 @@
         },
         {
             "text": "winter",
-            "value": 1
-        },
-        {
-            "text": "2022",
             "value": 1
         },
         {
@@ -443,10 +491,6 @@
         {
             "text": "night",
             "value": 2
-        },
-        {
-            "text": "I'm",
-            "value": 1
         },
         {
             "text": "still",
@@ -625,19 +669,11 @@
             "value": 1
         },
         {
-            "text": "50",
-            "value": 1
-        },
-        {
             "text": "years",
             "value": 1
         },
         {
             "text": "ago",
-            "value": 1
-        },
-        {
-            "text": "amp",
             "value": 1
         },
         {
@@ -721,14 +757,6 @@
             "value": 1
         },
         {
-            "text": "3",
-            "value": 1
-        },
-        {
-            "text": "4",
-            "value": 3
-        },
-        {
             "text": "Based",
             "value": 1
         },
@@ -758,10 +786,6 @@
         },
         {
             "text": "age",
-            "value": 1
-        },
-        {
-            "text": "27",
             "value": 1
         },
         {
@@ -825,10 +849,6 @@
             "value": 1
         },
         {
-            "text": "2",
-            "value": 1
-        },
-        {
             "text": "DCA",
             "value": 1
         },
@@ -873,15 +893,7 @@
             "value": 1
         },
         {
-            "text": "1",
-            "value": 2
-        },
-        {
             "text": "Nov",
-            "value": 1
-        },
-        {
-            "text": "8",
             "value": 1
         },
         {
@@ -890,34 +902,6 @@
         },
         {
             "text": "back",
-            "value": 1
-        },
-        {
-            "text": "La",
-            "value": 1
-        },
-        {
-            "text": "Camera",
-            "value": 1
-        },
-        {
-            "text": "Southgate",
-            "value": 1
-        },
-        {
-            "text": "Balcony",
-            "value": 1
-        },
-        {
-            "text": "view",
-            "value": 1
-        },
-        {
-            "text": "Southbank",
-            "value": 1
-        },
-        {
-            "text": "Grand",
             "value": 1
         }
     ]

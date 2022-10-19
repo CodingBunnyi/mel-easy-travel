@@ -62,11 +62,11 @@
         },
         {
             "text": "posted",
-            "value": 3
+            "value": 2
         },
         {
             "text": "photo",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Arbory",
@@ -118,10 +118,6 @@
         },
         {
             "text": "winter",
-            "value": 1
-        },
-        {
-            "text": "2022",
             "value": 1
         },
         {
@@ -449,10 +445,6 @@
             "value": 1
         },
         {
-            "text": "50",
-            "value": 1
-        },
-        {
             "text": "years",
             "value": 1
         },
@@ -462,18 +454,6 @@
         },
         {
             "text": "back",
-            "value": 1
-        },
-        {
-            "text": "La",
-            "value": 1
-        },
-        {
-            "text": "Camera",
-            "value": 1
-        },
-        {
-            "text": "Southgate",
             "value": 1
         }
     ]

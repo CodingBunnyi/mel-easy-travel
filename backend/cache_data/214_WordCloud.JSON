@@ -2,43 +2,51 @@
     "word_freq": [
         {
             "text": "West",
-            "value": 5
+            "value": 6
         },
         {
             "text": "Gate",
-            "value": 3
+            "value": 4
         },
         {
             "text": "Fwy",
-            "value": 3
+            "value": 4
         },
         {
             "text": "M1",
-            "value": 3
+            "value": 4
         },
         {
             "text": "Port",
-            "value": 3
+            "value": 4
         },
         {
             "text": "Melbourne",
-            "value": 3
+            "value": 4
         },
         {
             "text": "lanes",
-            "value": 5
+            "value": 7
         },
         {
             "text": "closed",
-            "value": 6
+            "value": 8
+        },
+        {
+            "text": "outbound",
+            "value": 4
+        },
+        {
+            "text": "Two",
+            "value": 2
+        },
+        {
+            "text": "left",
+            "value": 1
         },
         {
             "text": "inbound",
             "value": 2
-        },
-        {
-            "text": "Two",
-            "value": 1
         },
         {
             "text": "citybound",
@@ -47,10 +55,6 @@
         {
             "text": "Three",
             "value": 1
-        },
-        {
-            "text": "outbound",
-            "value": 2
         },
         {
             "text": "Left",

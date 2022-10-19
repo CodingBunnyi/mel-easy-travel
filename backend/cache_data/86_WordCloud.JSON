@@ -1,6 +1,14 @@
 {
     "word_freq": [
         {
+            "text": "Melbourne",
+            "value": 6
+        },
+        {
+            "text": "sucks",
+            "value": 1
+        },
+        {
             "text": "Burnley",
             "value": 1
         },
@@ -14,7 +22,7 @@
         },
         {
             "text": "Southbank",
-            "value": 2
+            "value": 1
         },
         {
             "text": "lanes",
@@ -85,10 +93,6 @@
             "value": 1
         },
         {
-            "text": "23",
-            "value": 1
-        },
-        {
             "text": "two",
             "value": 1
         },
@@ -121,12 +125,8 @@
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 5
-        },
-        {
             "text": "Australia",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Art",
@@ -146,10 +146,6 @@
         },
         {
             "text": "Day",
-            "value": 1
-        },
-        {
-            "text": "2",
             "value": 1
         },
         {
@@ -173,10 +169,6 @@
             "value": 1
         },
         {
-            "text": "amp",
-            "value": 3
-        },
-        {
             "text": "today",
             "value": 2
         },
@@ -190,10 +182,6 @@
         },
         {
             "text": "Tasted",
-            "value": 1
-        },
-        {
-            "text": "5",
             "value": 1
         },
         {
@@ -513,10 +501,6 @@
             "value": 1
         },
         {
-            "text": "22",
-            "value": 2
-        },
-        {
             "text": "yrs",
             "value": 1
         },
@@ -545,19 +529,11 @@
             "value": 1
         },
         {
-            "text": "202",
-            "value": 1
-        },
-        {
             "text": "people",
             "value": 1
         },
         {
             "text": "including",
-            "value": 1
-        },
-        {
-            "text": "88",
             "value": 1
         },
         {
@@ -646,42 +622,6 @@
         },
         {
             "text": "raining",
-            "value": 1
-        },
-        {
-            "text": "dom",
-            "value": 1
-        },
-        {
-            "text": "tops",
-            "value": 1
-        },
-        {
-            "text": "wanna",
-            "value": 1
-        },
-        {
-            "text": "use",
-            "value": 1
-        },
-        {
-            "text": "Straight",
-            "value": 1
-        },
-        {
-            "text": "preferred",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
             "value": 1
         }
     ]

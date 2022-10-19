@@ -1,6 +1,50 @@
 {
     "word_freq": [
         {
+            "text": "Kings",
+            "value": 1
+        },
+        {
+            "text": "West",
+            "value": 4
+        },
+        {
+            "text": "Gate",
+            "value": 4
+        },
+        {
+            "text": "Ramp",
+            "value": 1
+        },
+        {
+            "text": "M1",
+            "value": 4
+        },
+        {
+            "text": "Docklands",
+            "value": 4
+        },
+        {
+            "text": "lanes",
+            "value": 5
+        },
+        {
+            "text": "closed",
+            "value": 8
+        },
+        {
+            "text": "outbound",
+            "value": 6
+        },
+        {
+            "text": "left",
+            "value": 2
+        },
+        {
+            "text": "lane",
+            "value": 4
+        },
+        {
             "text": "lucky",
             "value": 1
         },
@@ -14,7 +58,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 11
+            "value": 9
         },
         {
             "text": "present",
@@ -41,43 +85,11 @@
             "value": 1
         },
         {
-            "text": "West",
-            "value": 3
-        },
-        {
-            "text": "Gate",
-            "value": 3
-        },
-        {
             "text": "Fwy",
             "value": 3
         },
         {
-            "text": "M1",
-            "value": 3
-        },
-        {
-            "text": "Docklands",
-            "value": 3
-        },
-        {
-            "text": "lanes",
-            "value": 4
-        },
-        {
-            "text": "closed",
-            "value": 6
-        },
-        {
-            "text": "outbound",
-            "value": 5
-        },
-        {
             "text": "right",
-            "value": 3
-        },
-        {
-            "text": "lane",
             "value": 3
         },
         {
@@ -89,15 +101,7 @@
             "value": 1
         },
         {
-            "text": "left",
-            "value": 1
-        },
-        {
             "text": "Day",
-            "value": 1
-        },
-        {
-            "text": "2",
             "value": 1
         },
         {
@@ -134,10 +138,6 @@
         },
         {
             "text": "circle",
-            "value": 1
-        },
-        {
-            "text": "3",
             "value": 1
         },
         {
@@ -322,19 +322,19 @@
         },
         {
             "text": "Convention",
-            "value": 8
+            "value": 6
         },
         {
             "text": "Exhibition",
-            "value": 8
+            "value": 6
         },
         {
             "text": "Centre",
-            "value": 8
+            "value": 6
         },
         {
             "text": "MCEC",
-            "value": 8
+            "value": 6
         },
         {
             "text": "Live",
@@ -357,20 +357,16 @@
             "value": 2
         },
         {
-            "text": "amp",
-            "value": 2
-        },
-        {
             "text": "support",
             "value": 2
         },
         {
             "text": "posted",
-            "value": 7
+            "value": 5
         },
         {
             "text": "photo",
-            "value": 7
+            "value": 5
         },
         {
             "text": "tonight",

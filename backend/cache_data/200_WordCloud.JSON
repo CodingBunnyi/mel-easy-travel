@@ -1,6 +1,74 @@
 {
     "word_freq": [
         {
+            "text": "shots",
+            "value": 1
+        },
+        {
+            "text": "band",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 2
+        },
+        {
+            "text": "week",
+            "value": 2
+        },
+        {
+            "text": "much",
+            "value": 2
+        },
+        {
+            "text": "fun",
+            "value": 2
+        },
+        {
+            "text": "play",
+            "value": 1
+        },
+        {
+            "text": "live",
+            "value": 1
+        },
+        {
+            "text": "incredible",
+            "value": 1
+        },
+        {
+            "text": "group",
+            "value": 1
+        },
+        {
+            "text": "musos",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 2
+        },
+        {
+            "text": "jackmilligann",
+            "value": 1
+        },
+        {
+            "text": "setting",
+            "value": 1
+        },
+        {
+            "text": "scene",
+            "value": 1
+        },
+        {
+            "text": "Toff",
+            "value": 1
+        },
+        {
+            "text": "Town",
+            "value": 2
+        },
+        {
             "text": "Prof",
             "value": 2
         },
@@ -70,7 +138,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 21
+            "value": 19
         },
         {
             "text": "Victorian",
@@ -86,10 +154,6 @@
         },
         {
             "text": "Last",
-            "value": 1
-        },
-        {
-            "text": "week",
             "value": 1
         },
         {
@@ -118,7 +182,7 @@
         },
         {
             "text": "pool",
-            "value": 2
+            "value": 1
         },
         {
             "text": "makes",
@@ -141,10 +205,6 @@
             "value": 1
         },
         {
-            "text": "20",
-            "value": 1
-        },
-        {
             "text": "second",
             "value": 1
         },
@@ -162,10 +222,6 @@
         },
         {
             "text": "stuff",
-            "value": 1
-        },
-        {
-            "text": "7",
             "value": 1
         },
         {
@@ -234,7 +290,7 @@
         },
         {
             "text": "night",
-            "value": 4
+            "value": 3
         },
         {
             "text": "dinners",
@@ -259,10 +315,6 @@
         {
             "text": "feed",
             "value": 1
-        },
-        {
-            "text": "amp",
-            "value": 3
         },
         {
             "text": "get",
@@ -346,7 +398,7 @@
         },
         {
             "text": "final",
-            "value": 2
+            "value": 1
         },
         {
             "text": "stages",
@@ -354,10 +406,6 @@
         },
         {
             "text": "set",
-            "value": 1
-        },
-        {
-            "text": "much",
             "value": 1
         },
         {
@@ -481,10 +529,6 @@
             "value": 1
         },
         {
-            "text": "fun",
-            "value": 1
-        },
-        {
             "text": "little",
             "value": 1
         },
@@ -506,10 +550,6 @@
         },
         {
             "text": "BEREAL",
-            "value": 1
-        },
-        {
-            "text": "w",
             "value": 1
         },
         {
@@ -545,23 +585,11 @@
             "value": 1
         },
         {
-            "text": "6",
-            "value": 1
-        },
-        {
-            "text": "30",
-            "value": 1
-        },
-        {
             "text": "Circle",
             "value": 1
         },
         {
             "text": "Thai",
-            "value": 1
-        },
-        {
-            "text": "Town",
             "value": 1
         },
         {
@@ -606,10 +634,6 @@
         },
         {
             "text": "croissant",
-            "value": 1
-        },
-        {
-            "text": "last",
             "value": 1
         },
         {
@@ -749,10 +773,6 @@
             "value": 1
         },
         {
-            "text": "Thanks",
-            "value": 3
-        },
-        {
             "text": "reminder",
             "value": 1
         },
@@ -890,162 +910,6 @@
         },
         {
             "text": "sparkly",
-            "value": 1
-        },
-        {
-            "text": "writes",
-            "value": 2
-        },
-        {
-            "text": "published",
-            "value": 2
-        },
-        {
-            "text": "4",
-            "value": 2
-        },
-        {
-            "text": "coming",
-            "value": 2
-        },
-        {
-            "text": "2",
-            "value": 2
-        },
-        {
-            "text": "meet",
-            "value": 2
-        },
-        {
-            "text": "U",
-            "value": 4
-        },
-        {
-            "text": "2nite",
-            "value": 4
-        },
-        {
-            "text": "gr8",
-            "value": 2
-        },
-        {
-            "text": "meeting",
-            "value": 2
-        },
-        {
-            "text": "Union",
-            "value": 1
-        },
-        {
-            "text": "Bloody",
-            "value": 1
-        },
-        {
-            "text": "hell",
-            "value": 1
-        },
-        {
-            "text": "yeah",
-            "value": 1
-        },
-        {
-            "text": "Playing",
-            "value": 1
-        },
-        {
-            "text": "pools",
-            "value": 1
-        },
-        {
-            "text": "brother",
-            "value": 1
-        },
-        {
-            "text": "Sir",
-            "value": 1
-        },
-        {
-            "text": "lying",
-            "value": 1
-        },
-        {
-            "text": "bout",
-            "value": 1
-        },
-        {
-            "text": "rusty",
-            "value": 1
-        },
-        {
-            "text": "Supporting",
-            "value": 1
-        },
-        {
-            "text": "startup",
-            "value": 1
-        },
-        {
-            "text": "Soundsmith",
-            "value": 1
-        },
-        {
-            "text": "Demo",
-            "value": 1
-        },
-        {
-            "text": "Day",
-            "value": 1
-        },
-        {
-            "text": "tonight",
-            "value": 1
-        },
-        {
-            "text": "2nd",
-            "value": 1
-        },
-        {
-            "text": "Actually",
-            "value": 1
-        },
-        {
-            "text": "Lonsdale",
-            "value": 2
-        },
-        {
-            "text": "St",
-            "value": 2
-        },
-        {
-            "text": "lanes",
-            "value": 4
-        },
-        {
-            "text": "closed",
-            "value": 4
-        },
-        {
-            "text": "westbound",
-            "value": 2
-        },
-        {
-            "text": "Two",
-            "value": 1
-        },
-        {
-            "text": "Elizabeth",
-            "value": 2
-        },
-        {
-            "text": "Street",
-            "value": 2
-        },
-        {
-            "text": "southbound",
-            "value": 2
-        },
-        {
-            "text": "test",
             "value": 1
         }
     ]

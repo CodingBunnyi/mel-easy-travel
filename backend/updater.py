@@ -11,6 +11,7 @@ import tweepy.errors
 
 import locator
 import wordcloud
+import heatmap
 from tweet import tweet
 
 DEFAULT_RADIUS = 0.5
@@ -92,8 +93,18 @@ def update_location_data(loc_id: str):
 
 # Update all locations in the LOCATIONS dictionary
 def update_all_data():
+
     try:
+        # Get locations
         locations = locator.get_locations()
+
+        # Update heatmap data
+        geo_json_path = './cache_data/HeatMap.JSON'
+        heatmap_dict = heatmap.update_heatmap_data()
+        if len(heatmap_dict['features']) == len(locations):
+            save_dict_json(heatmap_dict, geo_json_path)
+
+        # Update cached data and word cloud
         for loc_id in locations.keys():
             flag = update_location_data(loc_id)
             print(f'Updating data for id: {loc_id} [{locations[loc_id][3]}]...{flag}')
@@ -108,7 +119,3 @@ def update_all_data():
     except:
         flag = 'connection error'
         return flag
-
-
-if __name__ == '__main__':
-    update_all_data()

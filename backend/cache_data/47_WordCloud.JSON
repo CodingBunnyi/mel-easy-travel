@@ -1,6 +1,14 @@
 {
     "word_freq": [
         {
+            "text": "Networking",
+            "value": 1
+        },
+        {
+            "text": "everywhere",
+            "value": 1
+        },
+        {
             "text": "Still",
             "value": 1
         },
@@ -23,10 +31,6 @@
         {
             "text": "Education",
             "value": 2
-        },
-        {
-            "text": "amp",
-            "value": 3
         },
         {
             "text": "Settler",
@@ -157,10 +161,6 @@
             "value": 1
         },
         {
-            "text": "20",
-            "value": 1
-        },
-        {
             "text": "second",
             "value": 1
         },
@@ -178,10 +178,6 @@
         },
         {
             "text": "stuff",
-            "value": 1
-        },
-        {
-            "text": "7",
             "value": 1
         },
         {
@@ -222,10 +218,6 @@
         },
         {
             "text": "Day",
-            "value": 1
-        },
-        {
-            "text": "3",
             "value": 1
         },
         {

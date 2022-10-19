@@ -1,13 +1,31 @@
 {
-    "count": 36,
+    "count": 35,
     "data": [
+        {
+            "tid": 1582658246246289408,
+            "uid": 1573580897861140480,
+            "author": "The Saint",
+            "user_img": "https://pbs.twimg.com/profile_images/1573581254020444160/AxlNr3yk_normal.jpg",
+            "time": "2022-10-19 09:01:44 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "opposition fanclowns: “waaaah I hate st kilda and I hate ross lyon”\n\nme: https://t.co/Pt9v6yEABJ",
+            "clean_text": "opposition fanclowns waaaah I hate st kilda and I hate ross lyon me",
+            "place_name": "Premiership Room",
+            "place_type": "poi",
+            "longitude": 144.94872710523316,
+            "latitude": -37.81468160624868,
+            "photo_urls": [
+                "https://pbs.twimg.com/tweet_video_thumb/Ffa7RqWakAIK_FH.jpg"
+            ]
+        },
         {
             "tid": 1582570914340012032,
             "uid": 18680755,
             "author": "The Ice Axe 🧊🪓",
             "user_img": "https://pbs.twimg.com/profile_images/1546309980172693504/RrhgOU-6_normal.jpg",
             "time": "2022-10-19 03:14:43 +0000",
-            "like_no": 0,
+            "like_no": 6,
             "language": "en",
             "text": "Good Morning #Fellas from the Australian Field Office. Btw. the coffee machine is broken but given you snubs are only getting your shots from the cute barista downstairs, it only affects the data monkeys. https://t.co/FY6oImWkFk",
             "clean_text": "Good Morning from the Australian Field Office Btw the coffee machine is broken but given you snubs are only getting your shots from the cute barista downstairs it only affects the data monkeys",
@@ -105,7 +123,7 @@
             "author": "Dimity Dutch APD",
             "user_img": "https://pbs.twimg.com/profile_images/1480720818636087299/QYkRAp2z_normal.jpg",
             "time": "2022-10-18 09:06:05 +0000",
-            "like_no": 19,
+            "like_no": 21,
             "language": "en",
             "text": "How lucky am I to have had the opportunity to travel to Melbourne to present my research to @CRE_EPOCH colleagues face-to-face. Cup is full 🫶🏼\n\n#PhDlife @FlindersCFI https://t.co/SIX1O34uvx",
             "clean_text": "How lucky am I to have had the opportunity to travel to Melbourne to present my research to colleagues face to face Cup is full",
@@ -580,42 +598,6 @@
             "latitude": -37.82058,
             "photo_urls": [
                 "https://pbs.twimg.com/media/Fe6ES7aVEAA5Q52.jpg"
-            ]
-        },
-        {
-            "tid": 1580081311196524545,
-            "uid": 242398537,
-            "author": "Gans",
-            "user_img": "https://pbs.twimg.com/profile_images/1566345589948051457/yAdBrWzi_normal.jpg",
-            "time": "2022-10-12 06:21:55 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Uncle David's Cafe on little Collins has a pretty mean rendang and a good Pandan brownie https://t.co/uEOrDx6XwA",
-            "clean_text": "Uncle David's Cafe on little Collins has a pretty mean rendang and a good Pandan brownie",
-            "place_name": "Uncle David's Cafe",
-            "place_type": "poi",
-            "longitude": 144.95667,
-            "latitude": -37.816483,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2TknGagAErY8w.jpg"
-            ]
-        },
-        {
-            "tid": 1580055053507104770,
-            "uid": 17618222,
-            "author": "Ashley Browne",
-            "user_img": "https://pbs.twimg.com/profile_images/488959340024328192/-ChUB4N-_normal.jpeg",
-            "time": "2022-10-12 04:37:35 +0000",
-            "like_no": 9,
-            "language": "en",
-            "text": "“I’ll double my donation if ⁦@CalTwomey⁩ reads it out on the air.” #afltrades https://t.co/xGRsmet8wD",
-            "clean_text": "I ll double my donation if reads it out on the air",
-            "place_name": "Etihad Stadium",
-            "place_type": "poi",
-            "longitude": 144.94802273684812,
-            "latitude": -37.816571971219936,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe17sSzagAEDoQF.jpg"
             ]
         }
     ]

@@ -1,15 +1,7 @@
 {
     "word_freq": [
         {
-            "text": "029",
-            "value": 1
-        },
-        {
             "text": "Street",
-            "value": 1
-        },
-        {
-            "text": "x",
             "value": 1
         },
         {
@@ -25,16 +17,8 @@
             "value": 2
         },
         {
-            "text": "14",
-            "value": 2
-        },
-        {
             "text": "Pro",
             "value": 2
-        },
-        {
-            "text": "028",
-            "value": 1
         },
         {
             "text": "photo",
@@ -65,10 +49,6 @@
             "value": 1
         },
         {
-            "text": "365",
-            "value": 1
-        },
-        {
             "text": "days",
             "value": 2
         },
@@ -86,10 +66,6 @@
         },
         {
             "text": "Year",
-            "value": 1
-        },
-        {
-            "text": "12",
             "value": 1
         },
         {
@@ -193,15 +169,7 @@
             "value": 1
         },
         {
-            "text": "15",
-            "value": 2
-        },
-        {
             "text": "October",
-            "value": 2
-        },
-        {
-            "text": "2022",
             "value": 2
         },
         {

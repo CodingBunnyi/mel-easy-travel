@@ -1,6 +1,74 @@
 {
     "word_freq": [
         {
+            "text": "shots",
+            "value": 1
+        },
+        {
+            "text": "band",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 2
+        },
+        {
+            "text": "week",
+            "value": 2
+        },
+        {
+            "text": "much",
+            "value": 1
+        },
+        {
+            "text": "fun",
+            "value": 2
+        },
+        {
+            "text": "play",
+            "value": 1
+        },
+        {
+            "text": "live",
+            "value": 1
+        },
+        {
+            "text": "incredible",
+            "value": 1
+        },
+        {
+            "text": "group",
+            "value": 1
+        },
+        {
+            "text": "musos",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "jackmilligann",
+            "value": 1
+        },
+        {
+            "text": "setting",
+            "value": 1
+        },
+        {
+            "text": "scene",
+            "value": 1
+        },
+        {
+            "text": "Toff",
+            "value": 1
+        },
+        {
+            "text": "Town",
+            "value": 2
+        },
+        {
             "text": "Prof",
             "value": 2
         },
@@ -46,11 +114,11 @@
         },
         {
             "text": "posted",
-            "value": 6
+            "value": 5
         },
         {
             "text": "photo",
-            "value": 7
+            "value": 6
         },
         {
             "text": "QV",
@@ -70,7 +138,7 @@
         },
         {
             "text": "coming",
-            "value": 3
+            "value": 1
         },
         {
             "text": "tell",
@@ -86,10 +154,6 @@
         },
         {
             "text": "Last",
-            "value": 1
-        },
-        {
-            "text": "week",
             "value": 1
         },
         {
@@ -183,10 +247,6 @@
         {
             "text": "Patronum",
             "value": 1
-        },
-        {
-            "text": "amp",
-            "value": 8
         },
         {
             "text": "get",
@@ -314,10 +374,6 @@
         },
         {
             "text": "people",
-            "value": 4
-        },
-        {
-            "text": "fun",
             "value": 1
         },
         {
@@ -343,10 +399,6 @@
         {
             "text": "BEREAL",
             "value": 1
-        },
-        {
-            "text": "w",
-            "value": 2
         },
         {
             "text": "noods",
@@ -582,7 +634,7 @@
         },
         {
             "text": "meeting",
-            "value": 3
+            "value": 1
         },
         {
             "text": "since",
@@ -590,14 +642,6 @@
         },
         {
             "text": "Feb",
-            "value": 1
-        },
-        {
-            "text": "2019",
-            "value": 1
-        },
-        {
-            "text": "last",
             "value": 1
         },
         {
@@ -685,23 +729,11 @@
             "value": 1
         },
         {
-            "text": "6",
-            "value": 1
-        },
-        {
-            "text": "30",
-            "value": 1
-        },
-        {
             "text": "Circle",
             "value": 1
         },
         {
             "text": "Thai",
-            "value": 1
-        },
-        {
-            "text": "Town",
             "value": 1
         },
         {
@@ -729,12 +761,8 @@
             "value": 1
         },
         {
-            "text": "3",
-            "value": 1
-        },
-        {
             "text": "Celebrating",
-            "value": 2
+            "value": 1
         },
         {
             "text": "great",
@@ -818,7 +846,7 @@
         },
         {
             "text": "Bar",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Emotional",
@@ -870,14 +898,6 @@
         },
         {
             "text": "Shop",
-            "value": 2
-        },
-        {
-            "text": "11",
-            "value": 2
-        },
-        {
-            "text": "200",
             "value": 2
         },
         {
@@ -965,10 +985,6 @@
             "value": 1
         },
         {
-            "text": "500",
-            "value": 1
-        },
-        {
             "text": "chance",
             "value": 1
         },
@@ -978,10 +994,6 @@
         },
         {
             "text": "purchasing",
-            "value": 1
-        },
-        {
-            "text": "1000",
             "value": 1
         },
         {
@@ -998,222 +1010,6 @@
         },
         {
             "text": "us",
-            "value": 1
-        },
-        {
-            "text": "3000",
-            "value": 1
-        },
-        {
-            "text": "Cinderella",
-            "value": 1
-        },
-        {
-            "text": "2nd",
-            "value": 2
-        },
-        {
-            "text": "Art",
-            "value": 1
-        },
-        {
-            "text": "never",
-            "value": 1
-        },
-        {
-            "text": "waits",
-            "value": 1
-        },
-        {
-            "text": "oliviamollyrogers",
-            "value": 1
-        },
-        {
-            "text": "paulversace",
-            "value": 1
-        },
-        {
-            "text": "angelmusicbar",
-            "value": 1
-        },
-        {
-            "text": "dress",
-            "value": 1
-        },
-        {
-            "text": "cappellazzocouture",
-            "value": 1
-        },
-        {
-            "text": "Angel",
-            "value": 1
-        },
-        {
-            "text": "Music",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 2
-        },
-        {
-            "text": "writes",
-            "value": 2
-        },
-        {
-            "text": "published",
-            "value": 2
-        },
-        {
-            "text": "4",
-            "value": 2
-        },
-        {
-            "text": "2",
-            "value": 2
-        },
-        {
-            "text": "meet",
-            "value": 2
-        },
-        {
-            "text": "U",
-            "value": 4
-        },
-        {
-            "text": "2nite",
-            "value": 4
-        },
-        {
-            "text": "gr8",
-            "value": 2
-        },
-        {
-            "text": "Ballers",
-            "value": 1
-        },
-        {
-            "text": "Clubhouse",
-            "value": 1
-        },
-        {
-            "text": "Union",
-            "value": 1
-        },
-        {
-            "text": "Bloody",
-            "value": 1
-        },
-        {
-            "text": "hell",
-            "value": 1
-        },
-        {
-            "text": "yeah",
-            "value": 1
-        },
-        {
-            "text": "Supporting",
-            "value": 1
-        },
-        {
-            "text": "startup",
-            "value": 1
-        },
-        {
-            "text": "Soundsmith",
-            "value": 1
-        },
-        {
-            "text": "Demo",
-            "value": 1
-        },
-        {
-            "text": "Day",
-            "value": 1
-        },
-        {
-            "text": "tonight",
-            "value": 1
-        },
-        {
-            "text": "Youth",
-            "value": 1
-        },
-        {
-            "text": "Parliament",
-            "value": 2
-        },
-        {
-            "text": "Express",
-            "value": 1
-        },
-        {
-            "text": "State",
-            "value": 1
-        },
-        {
-            "text": "Future",
-            "value": 1
-        },
-        {
-            "text": "Welcome",
-            "value": 1
-        },
-        {
-            "text": "Thx",
-            "value": 1
-        },
-        {
-            "text": "everyone",
-            "value": 1
-        },
-        {
-            "text": "involved",
-            "value": 1
-        },
-        {
-            "text": "programs",
-            "value": 1
-        },
-        {
-            "text": "produced",
-            "value": 1
-        },
-        {
-            "text": "young",
-            "value": 3
-        },
-        {
-            "text": "committed",
-            "value": 1
-        },
-        {
-            "text": "connecting",
-            "value": 1
-        },
-        {
-            "text": "engaging",
-            "value": 1
-        },
-        {
-            "text": "supporting",
-            "value": 1
-        },
-        {
-            "text": "future",
-            "value": 1
-        },
-        {
-            "text": "bright",
-            "value": 1
-        },
-        {
-            "text": "Actually",
-            "value": 1
-        },
-        {
-            "text": "test",
             "value": 1
         }
     ]

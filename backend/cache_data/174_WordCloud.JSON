@@ -1,12 +1,28 @@
 {
     "word_freq": [
         {
+            "text": "Networking",
+            "value": 1
+        },
+        {
+            "text": "everywhere",
+            "value": 1
+        },
+        {
             "text": "posted",
-            "value": 4
+            "value": 5
         },
         {
             "text": "photo",
-            "value": 4
+            "value": 5
+        },
+        {
+            "text": "Schmucks",
+            "value": 3
+        },
+        {
+            "text": "Bagels",
+            "value": 3
         },
         {
             "text": "Melbourne",
@@ -61,22 +77,6 @@
             "value": 6
         },
         {
-            "text": "Schmucks",
-            "value": 2
-        },
-        {
-            "text": "Bagels",
-            "value": 2
-        },
-        {
-            "text": "7",
-            "value": 1
-        },
-        {
-            "text": "300",
-            "value": 1
-        },
-        {
             "text": "King",
             "value": 1
         },
@@ -114,7 +114,7 @@
         },
         {
             "text": "night",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Madison",
@@ -246,42 +246,6 @@
         },
         {
             "text": "next",
-            "value": 1
-        },
-        {
-            "text": "Playing",
-            "value": 1
-        },
-        {
-            "text": "pools",
-            "value": 1
-        },
-        {
-            "text": "final",
-            "value": 1
-        },
-        {
-            "text": "brother",
-            "value": 1
-        },
-        {
-            "text": "Sir",
-            "value": 1
-        },
-        {
-            "text": "lying",
-            "value": 1
-        },
-        {
-            "text": "bout",
-            "value": 1
-        },
-        {
-            "text": "rusty",
-            "value": 1
-        },
-        {
-            "text": "pool",
             "value": 1
         }
     ]

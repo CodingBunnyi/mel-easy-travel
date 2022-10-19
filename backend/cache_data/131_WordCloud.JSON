@@ -1,12 +1,200 @@
 {
     "word_freq": [
         {
+            "text": "still",
+            "value": 2
+        },
+        {
+            "text": "looking",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 2
+        },
+        {
+            "text": "Happy",
+            "value": 1
+        },
+        {
+            "text": "Birthday",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 1
+        },
+        {
+            "text": "Meat",
+            "value": 1
+        },
+        {
+            "text": "Wine",
+            "value": 1
+        },
+        {
+            "text": "Co",
+            "value": 1
+        },
+        {
+            "text": "Southbank",
+            "value": 1
+        },
+        {
+            "text": "Back",
+            "value": 1
+        },
+        {
+            "text": "60s",
+            "value": 1
+        },
+        {
+            "text": "leaves",
+            "value": 1
+        },
+        {
+            "text": "town",
+            "value": 1
+        },
+        {
             "text": "posted",
-            "value": 18
+            "value": 19
         },
         {
             "text": "photo",
-            "value": 18
+            "value": 19
+        },
+        {
+            "text": "Yarra",
+            "value": 1
+        },
+        {
+            "text": "Botanica",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 1
+        },
+        {
+            "text": "evening",
+            "value": 1
+        },
+        {
+            "text": "VL15",
+            "value": 1
+        },
+        {
+            "text": "Flinders",
+            "value": 3
+        },
+        {
+            "text": "Street",
+            "value": 2
+        },
+        {
+            "text": "Station",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 19
+        },
+        {
+            "text": "Victoria",
+            "value": 3
+        },
+        {
+            "text": "Circa",
+            "value": 1
+        },
+        {
+            "text": "1920's",
+            "value": 1
+        },
+        {
+            "text": "forgot",
+            "value": 1
+        },
+        {
+            "text": "post",
+            "value": 2
+        },
+        {
+            "text": "photos",
+            "value": 1
+        },
+        {
+            "text": "recent",
+            "value": 1
+        },
+        {
+            "text": "Monster",
+            "value": 2
+        },
+        {
+            "text": "House",
+            "value": 3
+        },
+        {
+            "text": "Part",
+            "value": 1
+        },
+        {
+            "text": "exhibition",
+            "value": 1
+        },
+        {
+            "text": "City",
+            "value": 5
+        },
+        {
+            "text": "Library",
+            "value": 5
+        },
+        {
+            "text": "series",
+            "value": 1
+        },
+        {
+            "text": "Gothic",
+            "value": 1
+        },
+        {
+            "text": "dioramas",
+            "value": 1
+        },
+        {
+            "text": "haunted",
+            "value": 2
+        },
+        {
+            "text": "rooms",
+            "value": 1
+        },
+        {
+            "text": "house",
+            "value": 1
+        },
+        {
+            "text": "soul",
+            "value": 1
+        },
+        {
+            "text": "I'm",
+            "value": 2
+        },
+        {
+            "text": "Steps",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "Forum",
+            "value": 8
         },
         {
             "text": "Ian",
@@ -37,10 +225,6 @@
             "value": 2
         },
         {
-            "text": "Melbourne",
-            "value": 18
-        },
-        {
             "text": "Skydeck",
             "value": 1
         },
@@ -58,10 +242,6 @@
         },
         {
             "text": "bite",
-            "value": 1
-        },
-        {
-            "text": "80",
             "value": 1
         },
         {
@@ -209,10 +389,6 @@
             "value": 1
         },
         {
-            "text": "99",
-            "value": 1
-        },
-        {
             "text": "inspired",
             "value": 1
         },
@@ -269,14 +445,6 @@
             "value": 1
         },
         {
-            "text": "Monster",
-            "value": 1
-        },
-        {
-            "text": "House",
-            "value": 2
-        },
-        {
             "text": "Pt",
             "value": 1
         },
@@ -291,14 +459,6 @@
         {
             "text": "see",
             "value": 1
-        },
-        {
-            "text": "City",
-            "value": 3
-        },
-        {
-            "text": "Library",
-            "value": 3
         },
         {
             "text": "Arbory",
@@ -318,10 +478,6 @@
         },
         {
             "text": "everything",
-            "value": 1
-        },
-        {
-            "text": "Flinders",
             "value": 1
         },
         {
@@ -354,10 +510,6 @@
         },
         {
             "text": "takeover",
-            "value": 1
-        },
-        {
-            "text": "post",
             "value": 1
         },
         {
@@ -394,7 +546,7 @@
         },
         {
             "text": "day",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Reflections",
@@ -413,10 +565,6 @@
             "value": 2
         },
         {
-            "text": "Victoria",
-            "value": 2
-        },
-        {
             "text": "Gardens",
             "value": 2
         },
@@ -426,10 +574,6 @@
         },
         {
             "text": "winter",
-            "value": 1
-        },
-        {
-            "text": "2022",
             "value": 1
         },
         {
@@ -517,14 +661,6 @@
             "value": 3
         },
         {
-            "text": "I'm",
-            "value": 1
-        },
-        {
-            "text": "still",
-            "value": 1
-        },
-        {
             "text": "trying",
             "value": 1
         },
@@ -546,7 +682,7 @@
         },
         {
             "text": "way",
-            "value": 2
+            "value": 1
         },
         {
             "text": "laughed",
@@ -653,10 +789,6 @@
             "value": 1
         },
         {
-            "text": "like",
-            "value": 1
-        },
-        {
             "text": "beer",
             "value": 1
         },
@@ -713,19 +845,11 @@
             "value": 1
         },
         {
-            "text": "50",
-            "value": 1
-        },
-        {
             "text": "years",
             "value": 1
         },
         {
             "text": "ago",
-            "value": 1
-        },
-        {
-            "text": "amp",
             "value": 1
         },
         {
@@ -809,14 +933,6 @@
             "value": 1
         },
         {
-            "text": "3",
-            "value": 1
-        },
-        {
-            "text": "4",
-            "value": 3
-        },
-        {
             "text": "Based",
             "value": 1
         },
@@ -846,10 +962,6 @@
         },
         {
             "text": "age",
-            "value": 1
-        },
-        {
-            "text": "27",
             "value": 1
         },
         {
@@ -913,10 +1025,6 @@
             "value": 1
         },
         {
-            "text": "2",
-            "value": 1
-        },
-        {
             "text": "DCA",
             "value": 1
         },
@@ -961,15 +1069,7 @@
             "value": 1
         },
         {
-            "text": "1",
-            "value": 2
-        },
-        {
             "text": "Nov",
-            "value": 1
-        },
-        {
-            "text": "8",
             "value": 1
         },
         {
@@ -1069,10 +1169,6 @@
             "value": 1
         },
         {
-            "text": "Forum",
-            "value": 8
-        },
-        {
             "text": "stayed",
             "value": 1
         },
@@ -1098,46 +1194,6 @@
         },
         {
             "text": "supplied",
-            "value": 1
-        },
-        {
-            "text": "Ending",
-            "value": 1
-        },
-        {
-            "text": "corporate",
-            "value": 1
-        },
-        {
-            "text": "conference",
-            "value": 1
-        },
-        {
-            "text": "activity",
-            "value": 1
-        },
-        {
-            "text": "right",
-            "value": 1
-        },
-        {
-            "text": "East",
-            "value": 1
-        },
-        {
-            "text": "Anglian",
-            "value": 1
-        },
-        {
-            "text": "La",
-            "value": 1
-        },
-        {
-            "text": "Camera",
-            "value": 1
-        },
-        {
-            "text": "Southgate",
             "value": 1
         }
     ]

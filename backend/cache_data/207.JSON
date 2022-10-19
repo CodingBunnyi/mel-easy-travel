@@ -1,6 +1,78 @@
 {
-    "count": 21,
+    "count": 24,
     "data": [
+        {
+            "tid": 1582822664560775168,
+            "uid": 27144630,
+            "author": "Slogan Graffiti",
+            "user_img": "https://pbs.twimg.com/profile_images/1486125052/Window_Frames_One_less_Car_-_Daniel_Kaplon_normal.jpg",
+            "time": "2022-10-19 19:55:05 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "No you’ve had enough #justonemore #onemore #enough #fitzroy #graffiti #slogangraffiti #text #words @graffiterati @sevenbreaths https://t.co/LTpfIlXBDq",
+            "clean_text": "No you ve had enough",
+            "place_name": "Fitzroy, Melbourne",
+            "place_type": "neighborhood",
+            "longitude": 144.97916544,
+            "latitude": -37.800917505,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfdQ0lVVIAA7uYm.jpg"
+            ]
+        },
+        {
+            "tid": 1582746763207004160,
+            "uid": 4608992299,
+            "author": "A Nickmare on Owens Street",
+            "user_img": "https://pbs.twimg.com/profile_images/1463711207542509568/L4jqP9jw_normal.jpg",
+            "time": "2022-10-19 14:53:29 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "#BlackAdam Premiere at the Melbourne IMAX! https://t.co/0EWlzScUey",
+            "clean_text": "Premiere at the Melbourne IMAX",
+            "place_name": "IMAX Melbourne",
+            "place_type": "poi",
+            "longitude": 144.97121872509422,
+            "latitude": -37.803851155063846,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1582746702276333568/pu/img/H6Agds4VD6D1g3Jz.jpg"
+            ]
+        },
+        {
+            "tid": 1582716823111245826,
+            "uid": 1289847366,
+            "author": "Dennis",
+            "user_img": "https://pbs.twimg.com/profile_images/1548553041611472896/ntBVJDpN_normal.jpg",
+            "time": "2022-10-19 12:54:30 +0000",
+            "like_no": 1969,
+            "language": "en",
+            "text": "With the world's best cricket photographer and king of Facebook ⁦@Furqan013⁩ https://t.co/SGOKDXDksb",
+            "clean_text": "With the world's best cricket photographer and king of Facebook",
+            "place_name": "Ziyka Restaurant",
+            "place_type": "poi",
+            "longitude": 144.967105,
+            "latitude": -37.801647,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfbwjaPUYAAwBJK.jpg"
+            ]
+        },
+        {
+            "tid": 1582635345711370240,
+            "uid": 56960681,
+            "author": "John Sambuco",
+            "user_img": "https://pbs.twimg.com/profile_images/1435872788917620740/N-BZ8zRd_normal.jpg",
+            "time": "2022-10-19 07:30:45 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "At the #Melbourne premiere of #BlackAdam at #IMAXMelbourne. #WarnerBrosAU #IMAX  @IMAX_Melbourne @warnerbrosau @TheRock @PierceBrosnan https://t.co/jLUb95emcX",
+            "clean_text": "At the premiere of at",
+            "place_name": "IMAX Melbourne",
+            "place_type": "poi",
+            "longitude": 144.97121872509422,
+            "latitude": -37.803851155063846,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfamcR-aMAENZLS.jpg"
+            ]
+        },
         {
             "tid": 1582453225323536384,
             "uid": 27144630,
@@ -28,7 +100,7 @@
             "like_no": 0,
             "language": "en",
             "text": "A certain shade of orange #jfn_fitzroyalty #victoriastreet #fitzroy #orange @ Luckys Lasagna &amp; Bar https://t.co/qiBdZf9K6q",
-            "clean_text": "A certain shade of orange Luckys Lasagna amp Bar",
+            "clean_text": "A certain shade of orange Luckys Lasagna Bar",
             "place_name": "Melbourne, Victoria",
             "place_type": "city",
             "longitude": 144.97852941,
@@ -94,7 +166,7 @@
             "like_no": 12,
             "language": "en",
             "text": "Dinner at King &amp; Godfree on Lygon Street Carlton\n#sundayvibes #Sunday https://t.co/JXKE7TQwPP",
-            "clean_text": "Dinner at King amp Godfree on Lygon Street Carlton",
+            "clean_text": "Dinner at King Godfree on Lygon Street Carlton",
             "place_name": "King & Godfree",
             "place_type": "poi",
             "longitude": 144.96725879458148,
@@ -128,7 +200,7 @@
             "like_no": 0,
             "language": "en",
             "text": "After a #LygonSt browse it was time for an early dinner - but not at #Tiamo which already had a huge queue 🙀 so had very nice fish’n’chips at #SeaSalt instead @ Sea Salt - Fish &amp; Chips • Sushi Bar https://t.co/ETLN1qLnOo",
-            "clean_text": "After a browse it was time for an early dinner but not at which already had a huge queue so had very nice fish n chips at instead Sea Salt Fish amp Chips Sushi Bar",
+            "clean_text": "After a browse it was time for an early dinner but not at which already had a huge queue so had very nice fish n chips at instead Sea Salt Fish Chips Sushi Bar",
             "place_name": "Melbourne, Victoria",
             "place_type": "city",
             "longitude": 144.96761484,
@@ -226,7 +298,7 @@
             "like_no": 0,
             "language": "en",
             "text": "Egyptian for din din (@ Cairo Nights Restaurant &amp; Bar in Carlton, VIC) https://t.co/iMaHmT69oE https://t.co/ta9YvWZ6fv",
-            "clean_text": "Egyptian for din din Cairo Nights Restaurant amp Bar in Carlton VIC",
+            "clean_text": "Egyptian for din din Cairo Nights Restaurant Bar in Carlton VIC",
             "place_name": "Melbourne, Victoria",
             "place_type": "city",
             "longitude": 144.967046,
@@ -335,24 +407,6 @@
             "latitude": -37.80348577825057,
             "photo_urls": [
                 "https://pbs.twimg.com/media/Fe7t3EHVEAAsoXf.jpg"
-            ]
-        },
-        {
-            "tid": 1580045970858864640,
-            "uid": 27144630,
-            "author": "Slogan Graffiti",
-            "user_img": "https://pbs.twimg.com/profile_images/1486125052/Window_Frames_One_less_Car_-_Daniel_Kaplon_normal.jpg",
-            "time": "2022-10-12 04:01:29 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "Go for it #girlpower #girl #power #boystoo #boys #fitzroy #text #words #graffiti #slogangraffiti @graffiterati @sevenbreaths https://t.co/Ev7soSJpDn",
-            "clean_text": "Go for it",
-            "place_name": "Fitzroy, Melbourne",
-            "place_type": "neighborhood",
-            "longitude": 144.97916544,
-            "latitude": -37.800917505,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe1zbgqVUAArcMX.jpg"
             ]
         }
     ]

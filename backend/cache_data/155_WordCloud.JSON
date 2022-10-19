@@ -1,6 +1,98 @@
 {
     "word_freq": [
         {
+            "text": "still",
+            "value": 2
+        },
+        {
+            "text": "looking",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 4
+        },
+        {
+            "text": "Happy",
+            "value": 1
+        },
+        {
+            "text": "Birthday",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 2
+        },
+        {
+            "text": "Meat",
+            "value": 1
+        },
+        {
+            "text": "Wine",
+            "value": 1
+        },
+        {
+            "text": "Co",
+            "value": 1
+        },
+        {
+            "text": "Southbank",
+            "value": 2
+        },
+        {
+            "text": "stand",
+            "value": 2
+        },
+        {
+            "text": "women",
+            "value": 1
+        },
+        {
+            "text": "Iran",
+            "value": 1
+        },
+        {
+            "text": "Discussion",
+            "value": 1
+        },
+        {
+            "text": "recent",
+            "value": 1
+        },
+        {
+            "text": "protest",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 3
+        },
+        {
+            "text": "posted",
+            "value": 2
+        },
+        {
+            "text": "photo",
+            "value": 2
+        },
+        {
+            "text": "Yarra",
+            "value": 1
+        },
+        {
+            "text": "Botanica",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 10
+        },
+        {
+            "text": "sucks",
+            "value": 1
+        },
+        {
             "text": "Burnley",
             "value": 1
         },
@@ -11,10 +103,6 @@
         {
             "text": "M1",
             "value": 1
-        },
-        {
-            "text": "Southbank",
-            "value": 3
         },
         {
             "text": "lanes",
@@ -47,10 +135,6 @@
         {
             "text": "home",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 9
         },
         {
             "text": "Skydeck",
@@ -101,10 +185,6 @@
             "value": 1
         },
         {
-            "text": "23",
-            "value": 1
-        },
-        {
             "text": "two",
             "value": 1
         },
@@ -141,16 +221,8 @@
             "value": 1
         },
         {
-            "text": "love",
-            "value": 1
-        },
-        {
             "text": "Welcome",
             "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 3
         },
         {
             "text": "New",
@@ -237,10 +309,6 @@
             "value": 1
         },
         {
-            "text": "2",
-            "value": 1
-        },
-        {
             "text": "presenting",
             "value": 1
         },
@@ -261,10 +329,6 @@
             "value": 1
         },
         {
-            "text": "amp",
-            "value": 3
-        },
-        {
             "text": "today",
             "value": 2
         },
@@ -278,10 +342,6 @@
         },
         {
             "text": "Tasted",
-            "value": 1
-        },
-        {
-            "text": "5",
             "value": 1
         },
         {
@@ -354,10 +414,6 @@
         },
         {
             "text": "I'm",
-            "value": 1
-        },
-        {
-            "text": "still",
             "value": 1
         },
         {
@@ -447,14 +503,6 @@
         {
             "text": "Asado",
             "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 2
-        },
-        {
-            "text": "photo",
-            "value": 2
         },
         {
             "text": "State",
@@ -551,10 +599,6 @@
         {
             "text": "looks",
             "value": 1
-        },
-        {
-            "text": "like",
-            "value": 3
         },
         {
             "text": "racing",
@@ -685,10 +729,6 @@
             "value": 1
         },
         {
-            "text": "22",
-            "value": 2
-        },
-        {
             "text": "yrs",
             "value": 1
         },
@@ -717,10 +757,6 @@
             "value": 1
         },
         {
-            "text": "202",
-            "value": 1
-        },
-        {
             "text": "people",
             "value": 1
         },
@@ -729,15 +765,7 @@
             "value": 1
         },
         {
-            "text": "88",
-            "value": 1
-        },
-        {
             "text": "Australians",
-            "value": 1
-        },
-        {
-            "text": "stand",
             "value": 1
         },
         {
@@ -818,46 +846,6 @@
         },
         {
             "text": "raining",
-            "value": 1
-        },
-        {
-            "text": "dom",
-            "value": 1
-        },
-        {
-            "text": "tops",
-            "value": 1
-        },
-        {
-            "text": "wanna",
-            "value": 1
-        },
-        {
-            "text": "use",
-            "value": 1
-        },
-        {
-            "text": "Straight",
-            "value": 1
-        },
-        {
-            "text": "preferred",
-            "value": 1
-        },
-        {
-            "text": "Balcony",
-            "value": 1
-        },
-        {
-            "text": "view",
-            "value": 1
-        },
-        {
-            "text": "Grand",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
             "value": 1
         }
     ]

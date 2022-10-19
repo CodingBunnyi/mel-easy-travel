@@ -1,6 +1,102 @@
 {
     "word_freq": [
         {
+            "text": "Premiere",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 8
+        },
+        {
+            "text": "IMAX",
+            "value": 1
+        },
+        {
+            "text": "world's",
+            "value": 1
+        },
+        {
+            "text": "best",
+            "value": 1
+        },
+        {
+            "text": "cricket",
+            "value": 1
+        },
+        {
+            "text": "photographer",
+            "value": 1
+        },
+        {
+            "text": "king",
+            "value": 1
+        },
+        {
+            "text": "Facebook",
+            "value": 1
+        },
+        {
+            "text": "Pretty",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 3
+        },
+        {
+            "text": "showing",
+            "value": 1
+        },
+        {
+            "text": "visitors",
+            "value": 1
+        },
+        {
+            "text": "around",
+            "value": 1
+        },
+        {
+            "text": "campus",
+            "value": 1
+        },
+        {
+            "text": "premiere",
+            "value": 1
+        },
+        {
+            "text": "Excited",
+            "value": 1
+        },
+        {
+            "text": "next",
+            "value": 1
+        },
+        {
+            "text": "year",
+            "value": 1
+        },
+        {
+            "text": "many",
+            "value": 1
+        },
+        {
+            "text": "cross",
+            "value": 1
+        },
+        {
+            "text": "overs",
+            "value": 1
+        },
+        {
+            "text": "collective",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
             "text": "Still",
             "value": 1
         },
@@ -10,7 +106,7 @@
         },
         {
             "text": "launch",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Learning",
@@ -23,10 +119,6 @@
         {
             "text": "Education",
             "value": 2
-        },
-        {
-            "text": "amp",
-            "value": 8
         },
         {
             "text": "Settler",
@@ -78,7 +170,7 @@
         },
         {
             "text": "talk",
-            "value": 3
+            "value": 2
         },
         {
             "text": "unlearn",
@@ -107,10 +199,6 @@
         {
             "text": "Carlton",
             "value": 6
-        },
-        {
-            "text": "Melbourne",
-            "value": 7
         },
         {
             "text": "Victoria",
@@ -230,7 +318,7 @@
         },
         {
             "text": "time",
-            "value": 2
+            "value": 1
         },
         {
             "text": "early",
@@ -258,10 +346,6 @@
         },
         {
             "text": "fish",
-            "value": 1
-        },
-        {
-            "text": "n",
             "value": 1
         },
         {
@@ -405,10 +489,6 @@
             "value": 1
         },
         {
-            "text": "2022",
-            "value": 2
-        },
-        {
             "text": "people",
             "value": 1
         },
@@ -486,14 +566,6 @@
         },
         {
             "text": "hi",
-            "value": 1
-        },
-        {
-            "text": "day",
-            "value": 3
-        },
-        {
-            "text": "2",
             "value": 1
         },
         {
@@ -950,7 +1022,7 @@
         },
         {
             "text": "Great",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Research",
@@ -1030,238 +1102,6 @@
         },
         {
             "text": "Kariotis",
-            "value": 1
-        },
-        {
-            "text": "Celebrating",
-            "value": 1
-        },
-        {
-            "text": "uncurated",
-            "value": 1
-        },
-        {
-            "text": "pod",
-            "value": 1
-        },
-        {
-            "text": "Proud",
-            "value": 1
-        },
-        {
-            "text": "legends",
-            "value": 1
-        },
-        {
-            "text": "Union",
-            "value": 1
-        },
-        {
-            "text": "Bloody",
-            "value": 1
-        },
-        {
-            "text": "hell",
-            "value": 1
-        },
-        {
-            "text": "yeah",
-            "value": 1
-        },
-        {
-            "text": "Gangster",
-            "value": 1
-        },
-        {
-            "text": "spec",
-            "value": 1
-        },
-        {
-            "text": "Take",
-            "value": 1
-        },
-        {
-            "text": "look",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 1
-        },
-        {
-            "text": "seat",
-            "value": 1
-        },
-        {
-            "text": "Motorclassica",
-            "value": 1
-        },
-        {
-            "text": "ideas",
-            "value": 1
-        },
-        {
-            "text": "data",
-            "value": 2
-        },
-        {
-            "text": "living",
-            "value": 2
-        },
-        {
-            "text": "spaces",
-            "value": 1
-        },
-        {
-            "text": "reworld",
-            "value": 1
-        },
-        {
-            "text": "subject",
-            "value": 1
-        },
-        {
-            "text": "revision",
-            "value": 1
-        },
-        {
-            "text": "retain",
-            "value": 1
-        },
-        {
-            "text": "curate",
-            "value": 1
-        },
-        {
-            "text": "speculatively",
-            "value": 1
-        },
-        {
-            "text": "think",
-            "value": 1
-        },
-        {
-            "text": "reuse",
-            "value": 1
-        },
-        {
-            "text": "looks",
-            "value": 1
-        },
-        {
-            "text": "like",
-            "value": 1
-        },
-        {
-            "text": "20",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "first",
-            "value": 1
-        },
-        {
-            "text": "access",
-            "value": 1
-        },
-        {
-            "text": "tweeter",
-            "value": 1
-        },
-        {
-            "text": "app",
-            "value": 1
-        },
-        {
-            "text": "seeing",
-            "value": 1
-        },
-        {
-            "text": "theory",
-            "value": 1
-        },
-        {
-            "text": "complement",
-            "value": 1
-        },
-        {
-            "text": "practice",
-            "value": 1
-        },
-        {
-            "text": "Deleuze",
-            "value": 1
-        },
-        {
-            "text": "Guattari",
-            "value": 1
-        },
-        {
-            "text": "cited",
-            "value": 1
-        },
-        {
-            "text": "late",
-            "value": 1
-        },
-        {
-            "text": "Bruno",
-            "value": 1
-        },
-        {
-            "text": "Latour",
-            "value": 1
-        },
-        {
-            "text": "RIP",
-            "value": 1
-        },
-        {
-            "text": "drink",
-            "value": 1
-        },
-        {
-            "text": "Philosophy",
-            "value": 1
-        },
-        {
-            "text": "nerd",
-            "value": 1
-        },
-        {
-            "text": "pleasantly",
-            "value": 1
-        },
-        {
-            "text": "surprised",
-            "value": 1
-        },
-        {
-            "text": "Good",
-            "value": 1
-        },
-        {
-            "text": "constellations",
-            "value": 1
-        },
-        {
-            "text": "archive",
-            "value": 1
-        },
-        {
-            "text": "datascapes",
-            "value": 1
-        },
-        {
-            "text": "cultural",
-            "value": 1
-        },
-        {
-            "text": "heritage",
             "value": 1
         }
     ]

@@ -1,6 +1,38 @@
 {
     "word_freq": [
         {
+            "text": "opposition",
+            "value": 1
+        },
+        {
+            "text": "fanclowns",
+            "value": 1
+        },
+        {
+            "text": "waaaah",
+            "value": 1
+        },
+        {
+            "text": "hate",
+            "value": 2
+        },
+        {
+            "text": "st",
+            "value": 1
+        },
+        {
+            "text": "kilda",
+            "value": 1
+        },
+        {
+            "text": "ross",
+            "value": 1
+        },
+        {
+            "text": "lyon",
+            "value": 1
+        },
+        {
             "text": "Good",
             "value": 2
         },
@@ -101,10 +133,6 @@
             "value": 1
         },
         {
-            "text": "6",
-            "value": 1
-        },
-        {
             "text": "bit",
             "value": 1
         },
@@ -146,7 +174,7 @@
         },
         {
             "text": "good",
-            "value": 3
+            "value": 2
         },
         {
             "text": "tonight",
@@ -374,10 +402,6 @@
         },
         {
             "text": "Dimension",
-            "value": 1
-        },
-        {
-            "text": "X",
             "value": 1
         },
         {
@@ -917,71 +941,11 @@
             "value": 1
         },
         {
-            "text": "C",
-            "value": 1
-        },
-        {
             "text": "Attending",
             "value": 1
         },
         {
             "text": "organized",
-            "value": 1
-        },
-        {
-            "text": "Uncle",
-            "value": 1
-        },
-        {
-            "text": "David's",
-            "value": 1
-        },
-        {
-            "text": "Cafe",
-            "value": 1
-        },
-        {
-            "text": "little",
-            "value": 1
-        },
-        {
-            "text": "Collins",
-            "value": 1
-        },
-        {
-            "text": "pretty",
-            "value": 1
-        },
-        {
-            "text": "mean",
-            "value": 1
-        },
-        {
-            "text": "rendang",
-            "value": 1
-        },
-        {
-            "text": "Pandan",
-            "value": 1
-        },
-        {
-            "text": "brownie",
-            "value": 1
-        },
-        {
-            "text": "double",
-            "value": 1
-        },
-        {
-            "text": "donation",
-            "value": 1
-        },
-        {
-            "text": "reads",
-            "value": 1
-        },
-        {
-            "text": "air",
             "value": 1
         }
     ]

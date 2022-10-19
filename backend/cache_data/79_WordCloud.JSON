@@ -1,6 +1,182 @@
 {
     "word_freq": [
         {
+            "text": "posted",
+            "value": 13
+        },
+        {
+            "text": "photo",
+            "value": 13
+        },
+        {
+            "text": "PAX",
+            "value": 10
+        },
+        {
+            "text": "AU",
+            "value": 10
+        },
+        {
+            "text": "receiving",
+            "value": 1
+        },
+        {
+            "text": "award",
+            "value": 1
+        },
+        {
+            "text": "young",
+            "value": 2
+        },
+        {
+            "text": "leader",
+            "value": 1
+        },
+        {
+            "text": "well",
+            "value": 1
+        },
+        {
+            "text": "deserved",
+            "value": 1
+        },
+        {
+            "text": "recognition",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 4
+        },
+        {
+            "text": "event",
+            "value": 1
+        },
+        {
+            "text": "important",
+            "value": 1
+        },
+        {
+            "text": "Day",
+            "value": 5
+        },
+        {
+            "text": "International",
+            "value": 2
+        },
+        {
+            "text": "Congress",
+            "value": 2
+        },
+        {
+            "text": "Obesity",
+            "value": 3
+        },
+        {
+            "text": "Serious",
+            "value": 1
+        },
+        {
+            "text": "mental",
+            "value": 1
+        },
+        {
+            "text": "illness",
+            "value": 1
+        },
+        {
+            "text": "deserves",
+            "value": 1
+        },
+        {
+            "text": "special",
+            "value": 1
+        },
+        {
+            "text": "attention",
+            "value": 1
+        },
+        {
+            "text": "Thank",
+            "value": 2
+        },
+        {
+            "text": "stand",
+            "value": 1
+        },
+        {
+            "text": "women",
+            "value": 1
+        },
+        {
+            "text": "Iran",
+            "value": 1
+        },
+        {
+            "text": "Discussion",
+            "value": 1
+        },
+        {
+            "text": "recent",
+            "value": 1
+        },
+        {
+            "text": "protest",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 1
+        },
+        {
+            "text": "intra",
+            "value": 1
+        },
+        {
+            "text": "uterine",
+            "value": 1
+        },
+        {
+            "text": "connections",
+            "value": 1
+        },
+        {
+            "text": "thin",
+            "value": 1
+        },
+        {
+            "text": "fat",
+            "value": 1
+        },
+        {
+            "text": "indians",
+            "value": 1
+        },
+        {
+            "text": "Feeling",
+            "value": 1
+        },
+        {
+            "text": "proud",
+            "value": 1
+        },
+        {
+            "text": "see",
+            "value": 3
+        },
+        {
+            "text": "Dr",
+            "value": 1
+        },
+        {
+            "text": "Yagnik",
+            "value": 1
+        },
+        {
+            "text": "sirs",
+            "value": 1
+        },
+        {
             "text": "Come",
             "value": 1
         },
@@ -53,10 +229,6 @@
             "value": 1
         },
         {
-            "text": "work",
-            "value": 2
-        },
-        {
             "text": "amazing",
             "value": 2
         },
@@ -101,10 +273,6 @@
             "value": 1
         },
         {
-            "text": "3",
-            "value": 2
-        },
-        {
             "text": "weight",
             "value": 1
         },
@@ -134,26 +302,6 @@
         },
         {
             "text": "school",
-            "value": 1
-        },
-        {
-            "text": "Day",
-            "value": 4
-        },
-        {
-            "text": "1",
-            "value": 4
-        },
-        {
-            "text": "International",
-            "value": 1
-        },
-        {
-            "text": "Congress",
-            "value": 1
-        },
-        {
-            "text": "Obesity",
             "value": 1
         },
         {
@@ -261,10 +409,6 @@
             "value": 1
         },
         {
-            "text": "young",
-            "value": 1
-        },
-        {
             "text": "Scientist",
             "value": 1
         },
@@ -298,7 +442,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 14
+            "value": 11
         },
         {
             "text": "catch",
@@ -319,10 +463,6 @@
         {
             "text": "get",
             "value": 1
-        },
-        {
-            "text": "see",
-            "value": 2
         },
         {
             "text": "person",
@@ -374,11 +514,7 @@
         },
         {
             "text": "change",
-            "value": 3
-        },
-        {
-            "text": "2",
-            "value": 1
+            "value": 2
         },
         {
             "text": "trip",
@@ -410,7 +546,7 @@
         },
         {
             "text": "circle",
-            "value": 2
+            "value": 1
         },
         {
             "text": "years",
@@ -423,22 +559,6 @@
         {
             "text": "GCAP",
             "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 13
-        },
-        {
-            "text": "photo",
-            "value": 13
-        },
-        {
-            "text": "PAX",
-            "value": 8
-        },
-        {
-            "text": "AU",
-            "value": 8
         },
         {
             "text": "Help",
@@ -514,19 +634,19 @@
         },
         {
             "text": "Convention",
-            "value": 9
+            "value": 7
         },
         {
             "text": "Exhibition",
-            "value": 9
+            "value": 7
         },
         {
             "text": "Centre",
-            "value": 9
+            "value": 7
         },
         {
             "text": "MCEC",
-            "value": 8
+            "value": 6
         },
         {
             "text": "Live",
@@ -549,10 +669,6 @@
             "value": 2
         },
         {
-            "text": "amp",
-            "value": 3
-        },
-        {
             "text": "Swipe",
             "value": 1
         },
@@ -570,10 +686,6 @@
         },
         {
             "text": "Quarantine",
-            "value": 1
-        },
-        {
-            "text": "722",
             "value": 1
         },
         {
@@ -606,7 +718,7 @@
         },
         {
             "text": "home",
-            "value": 2
+            "value": 1
         },
         {
             "text": "brilliant",
@@ -842,7 +954,7 @@
         },
         {
             "text": "group",
-            "value": 2
+            "value": 1
         },
         {
             "text": "researchers",
@@ -858,7 +970,7 @@
         },
         {
             "text": "talk",
-            "value": 2
+            "value": 1
         },
         {
             "text": "celebrity",
@@ -914,7 +1026,7 @@
         },
         {
             "text": "good",
-            "value": 2
+            "value": 1
         },
         {
             "text": "deed",
@@ -942,7 +1054,7 @@
         },
         {
             "text": "Den",
-            "value": 5
+            "value": 2
         },
         {
             "text": "expect",
@@ -965,16 +1077,8 @@
             "value": 1
         },
         {
-            "text": "000",
-            "value": 1
-        },
-        {
             "text": "guests",
             "value": 2
-        },
-        {
-            "text": "37",
-            "value": 1
         },
         {
             "text": "speakers",
@@ -990,10 +1094,6 @@
         },
         {
             "text": "winner",
-            "value": 1
-        },
-        {
-            "text": "Thank",
             "value": 1
         },
         {
@@ -1030,154 +1130,6 @@
         },
         {
             "text": "one",
-            "value": 3
-        },
-        {
-            "text": "Great",
-            "value": 1
-        },
-        {
-            "text": "meeting",
-            "value": 1
-        },
-        {
-            "text": "today",
-            "value": 1
-        },
-        {
-            "text": "incredible",
-            "value": 1
-        },
-        {
-            "text": "intelligent",
-            "value": 1
-        },
-        {
-            "text": "women",
-            "value": 1
-        },
-        {
-            "text": "develop",
-            "value": 1
-        },
-        {
-            "text": "consensus",
-            "value": 1
-        },
-        {
-            "text": "improving",
-            "value": 1
-        },
-        {
-            "text": "outcomes",
-            "value": 1
-        },
-        {
-            "text": "teens",
-            "value": 1
-        },
-        {
-            "text": "anxiety",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "4",
-            "value": 1
-        },
-        {
-            "text": "inspiration",
-            "value": 1
-        },
-        {
-            "text": "Nothing",
-            "value": 1
-        },
-        {
-            "text": "changes",
-            "value": 2
-        },
-        {
-            "text": "AISA",
-            "value": 1
-        },
-        {
-            "text": "CyberCon",
-            "value": 1
-        },
-        {
-            "text": "Cert",
-            "value": 1
-        },
-        {
-            "text": "IV",
-            "value": 1
-        },
-        {
-            "text": "Cyber",
-            "value": 1
-        },
-        {
-            "text": "students",
-            "value": 1
-        },
-        {
-            "text": "us",
-            "value": 1
-        },
-        {
-            "text": "proud",
-            "value": 1
-        },
-        {
-            "text": "call",
-            "value": 1
-        },
-        {
-            "text": "waited",
-            "value": 1
-        },
-        {
-            "text": "lifetime",
-            "value": 1
-        },
-        {
-            "text": "could",
-            "value": 1
-        },
-        {
-            "text": "wait",
-            "value": 1
-        },
-        {
-            "text": "life",
-            "value": 1
-        },
-        {
-            "text": "might",
-            "value": 1
-        },
-        {
-            "text": "lot",
-            "value": 1
-        },
-        {
-            "text": "problems",
-            "value": 1
-        },
-        {
-            "text": "would",
-            "value": 1
-        },
-        {
-            "text": "disappear",
-            "value": 1
-        },
-        {
-            "text": "instead",
             "value": 1
         }
     ]

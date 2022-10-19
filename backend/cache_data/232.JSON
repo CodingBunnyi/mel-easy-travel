@@ -1,13 +1,29 @@
 {
-    "count": 26,
+    "count": 25,
     "data": [
+        {
+            "tid": 1582592892488413185,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "user_img": "https://pbs.twimg.com/profile_images/1090064003982811136/jrnsNv5F_normal.jpg",
+            "time": "2022-10-19 04:42:03 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Kings-West Gate Out Ramp On (M1), Docklands - lanes closed outbound, The left lane is closed on the… https://t.co/1Nh5UsSuks #victraffic",
+            "clean_text": "Kings West Gate Out Ramp On M1 Docklands lanes closed outbound The left lane is closed on the",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9430208,
+            "latitude": -37.82597708,
+            "photo_urls": []
+        },
         {
             "tid": 1582296953089822720,
             "uid": 1480720667565690883,
             "author": "Dimity Dutch APD",
             "user_img": "https://pbs.twimg.com/profile_images/1480720818636087299/QYkRAp2z_normal.jpg",
             "time": "2022-10-18 09:06:05 +0000",
-            "like_no": 19,
+            "like_no": 21,
             "language": "en",
             "text": "How lucky am I to have had the opportunity to travel to Melbourne to present my research to @CRE_EPOCH colleagues face-to-face. Cup is full 🫶🏼\n\n#PhDlife @FlindersCFI https://t.co/SIX1O34uvx",
             "clean_text": "How lucky am I to have had the opportunity to travel to Melbourne to present my research to colleagues face to face Cup is full",
@@ -204,7 +220,7 @@
             "like_no": 8,
             "language": "en",
             "text": "🔥 🎶 🎼  𝗦𝗵𝗿𝗲𝘆𝗮 𝗚𝗵𝗼𝘀𝗵𝗮𝗹 - Live In Concert 🎶 🎼 \nWe sincerely appreciate your love &amp; support  𝐌𝐞𝐥𝐛𝐨𝐮𝐫𝐧𝐞 🙏\n#ShreyaGhoshal #Melbourne #MCEC #GlobalIndianEntertainment #HighEndProduction #DryTickets https://t.co/SflgP6O7BX",
-            "clean_text": "Live In Concert We sincerely appreciate your love amp support",
+            "clean_text": "Live In Concert We sincerely appreciate your love support",
             "place_name": "Melbourne, Victoria",
             "place_type": "city",
             "longitude": 144.95289588,
@@ -220,7 +236,7 @@
             "like_no": 3,
             "language": "en",
             "text": "🔥 🎶 🎼  𝗦𝗵𝗿𝗲𝘆𝗮 𝗚𝗵𝗼𝘀𝗵𝗮𝗹 - Live In Concert 🎶 🎼 \nWe sincerely appreciate your love &amp; support  𝐌𝐞𝐥𝐛𝐨𝐮𝐫𝐧𝐞 🙏\n#ShreyaGhoshal #Melbourne #MCEC #GlobalIndianEntertainment #HighEndProduction #DryTickets https://t.co/LctZk05SbW",
-            "clean_text": "Live In Concert We sincerely appreciate your love amp support",
+            "clean_text": "Live In Concert We sincerely appreciate your love support",
             "place_name": "Melbourne, Victoria",
             "place_type": "city",
             "longitude": 144.95289588,
@@ -412,38 +428,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/Fe6ES7aVEAA5Q52.jpg"
             ]
-        },
-        {
-            "tid": 1580300114908024833,
-            "uid": 1038335580,
-            "author": "Darren: Bouncelight Photographer † 🔜Bris Supanova",
-            "user_img": "https://pbs.twimg.com/profile_images/739974800777449473/XX0HY8QX_normal.jpg",
-            "time": "2022-10-12 20:51:22 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ Melbourne Convention and Exhibition Centre (MCEC) https://t.co/GICHzgAeSK",
-            "clean_text": "Just posted a photo Melbourne Convention and Exhibition Centre MCEC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95289588,
-            "latitude": -37.82531574,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580143356956770304,
-            "uid": 38366595,
-            "author": "AISA National",
-            "user_img": "https://pbs.twimg.com/profile_images/737472551362793472/-KvlSWKH_normal.jpg",
-            "time": "2022-10-12 10:28:28 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "Just posted a photo @ Melbourne Convention and Exhibition Centre (MCEC) https://t.co/gWa6BkBiTI",
-            "clean_text": "Just posted a photo Melbourne Convention and Exhibition Centre MCEC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95289588,
-            "latitude": -37.82531574,
-            "photo_urls": []
         }
     ]
 }

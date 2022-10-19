@@ -1,6 +1,362 @@
 {
     "word_freq": [
         {
+            "text": "hanging",
+            "value": 1
+        },
+        {
+            "text": "Find",
+            "value": 1
+        },
+        {
+            "text": "soon",
+            "value": 2
+        },
+        {
+            "text": "rockthiscountrypr",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 183
+        },
+        {
+            "text": "Victoria",
+            "value": 163
+        },
+        {
+            "text": "Australia",
+            "value": 169
+        },
+        {
+            "text": "Second",
+            "value": 2
+        },
+        {
+            "text": "highest",
+            "value": 1
+        },
+        {
+            "text": "grossing",
+            "value": 1
+        },
+        {
+            "text": "Australian",
+            "value": 1
+        },
+        {
+            "text": "film",
+            "value": 2
+        },
+        {
+            "text": "behind",
+            "value": 1
+        },
+        {
+            "text": "Elvis",
+            "value": 1
+        },
+        {
+            "text": "bad",
+            "value": 2
+        },
+        {
+            "text": "take",
+            "value": 2
+        },
+        {
+            "text": "wogboysforever",
+            "value": 1
+        },
+        {
+            "text": "cinemas",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 117
+        },
+        {
+            "text": "photo",
+            "value": 117
+        },
+        {
+            "text": "65rh",
+            "value": 1
+        },
+        {
+            "text": "floor",
+            "value": 1
+        },
+        {
+            "text": "view",
+            "value": 1
+        },
+        {
+            "text": "Back",
+            "value": 1
+        },
+        {
+            "text": "60s",
+            "value": 1
+        },
+        {
+            "text": "leaves",
+            "value": 1
+        },
+        {
+            "text": "town",
+            "value": 1
+        },
+        {
+            "text": "Fresh",
+            "value": 1
+        },
+        {
+            "text": "finishing",
+            "value": 1
+        },
+        {
+            "text": "pile",
+            "value": 1
+        },
+        {
+            "text": "warm",
+            "value": 1
+        },
+        {
+            "text": "temps",
+            "value": 1
+        },
+        {
+            "text": "long",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 2
+        },
+        {
+            "text": "looking",
+            "value": 1
+        },
+        {
+            "text": "forward",
+            "value": 1
+        },
+        {
+            "text": "BBQ",
+            "value": 1
+        },
+        {
+            "text": "eating",
+            "value": 1
+        },
+        {
+            "text": "outside",
+            "value": 1
+        },
+        {
+            "text": "delicious",
+            "value": 1
+        },
+        {
+            "text": "healthy",
+            "value": 1
+        },
+        {
+            "text": "salads",
+            "value": 1
+        },
+        {
+            "text": "Anne",
+            "value": 1
+        },
+        {
+            "text": "Avec",
+            "value": 1
+        },
+        {
+            "text": "Pleasure",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 6
+        },
+        {
+            "text": "evening",
+            "value": 1
+        },
+        {
+            "text": "VL15",
+            "value": 1
+        },
+        {
+            "text": "Flinders",
+            "value": 3
+        },
+        {
+            "text": "Street",
+            "value": 2
+        },
+        {
+            "text": "Station",
+            "value": 2
+        },
+        {
+            "text": "Circa",
+            "value": 1
+        },
+        {
+            "text": "1920's",
+            "value": 1
+        },
+        {
+            "text": "Check",
+            "value": 2
+        },
+        {
+            "text": "sweet",
+            "value": 1
+        },
+        {
+            "text": "new",
+            "value": 3
+        },
+        {
+            "text": "ride",
+            "value": 1
+        },
+        {
+            "text": "parked",
+            "value": 1
+        },
+        {
+            "text": "driveway",
+            "value": 1
+        },
+        {
+            "text": "morning",
+            "value": 2
+        },
+        {
+            "text": "office",
+            "value": 1
+        },
+        {
+            "text": "hours",
+            "value": 1
+        },
+        {
+            "text": "thing",
+            "value": 1
+        },
+        {
+            "text": "forgot",
+            "value": 1
+        },
+        {
+            "text": "post",
+            "value": 2
+        },
+        {
+            "text": "photos",
+            "value": 3
+        },
+        {
+            "text": "recent",
+            "value": 1
+        },
+        {
+            "text": "Monster",
+            "value": 2
+        },
+        {
+            "text": "House",
+            "value": 3
+        },
+        {
+            "text": "Part",
+            "value": 1
+        },
+        {
+            "text": "exhibition",
+            "value": 1
+        },
+        {
+            "text": "City",
+            "value": 5
+        },
+        {
+            "text": "Library",
+            "value": 5
+        },
+        {
+            "text": "series",
+            "value": 2
+        },
+        {
+            "text": "Gothic",
+            "value": 1
+        },
+        {
+            "text": "dioramas",
+            "value": 1
+        },
+        {
+            "text": "haunted",
+            "value": 2
+        },
+        {
+            "text": "rooms",
+            "value": 1
+        },
+        {
+            "text": "house",
+            "value": 1
+        },
+        {
+            "text": "soul",
+            "value": 4
+        },
+        {
+            "text": "19th",
+            "value": 1
+        },
+        {
+            "text": "October",
+            "value": 3
+        },
+        {
+            "text": "I'm",
+            "value": 2
+        },
+        {
+            "text": "VIC",
+            "value": 2
+        },
+        {
+            "text": "JnM",
+            "value": 4
+        },
+        {
+            "text": "Wednesday",
+            "value": 1
+        },
+        {
+            "text": "Values",
+            "value": 1
+        },
+        {
+            "text": "Steps",
+            "value": 1
+        },
+        {
+            "text": "Forum",
+            "value": 8
+        },
+        {
             "text": "Mel",
             "value": 4
         },
@@ -25,10 +381,6 @@
             "value": 4
         },
         {
-            "text": "5",
-            "value": 2
-        },
-        {
             "text": "architecture",
             "value": 1
         },
@@ -46,27 +398,11 @@
         },
         {
             "text": "Shrine",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Remembrance",
-            "value": 2
-        },
-        {
-            "text": "Melbourne",
-            "value": 182
-        },
-        {
-            "text": "Victoria",
-            "value": 162
-        },
-        {
-            "text": "Australia",
-            "value": 169
-        },
-        {
-            "text": "4",
-            "value": 5
+            "value": 1
         },
         {
             "text": "bunch",
@@ -79,10 +415,6 @@
         {
             "text": "art",
             "value": 4
-        },
-        {
-            "text": "3",
-            "value": 2
         },
         {
             "text": "vs",
@@ -106,10 +438,6 @@
         },
         {
             "text": "love",
-            "value": 3
-        },
-        {
-            "text": "2",
             "value": 3
         },
         {
@@ -165,24 +493,12 @@
             "value": 1
         },
         {
-            "text": "photos",
-            "value": 2
-        },
-        {
             "text": "videos",
             "value": 2
         },
         {
             "text": "legging",
             "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 119
-        },
-        {
-            "text": "photo",
-            "value": 119
         },
         {
             "text": "Link",
@@ -225,44 +541,8 @@
             "value": 2
         },
         {
-            "text": "b",
-            "value": 1
-        },
-        {
-            "text": "u",
-            "value": 1
-        },
-        {
-            "text": "l",
-            "value": 1
-        },
-        {
-            "text": "n",
-            "value": 4
-        },
-        {
-            "text": "g",
-            "value": 1
-        },
-        {
-            "text": "h",
-            "value": 1
-        },
-        {
             "text": "18th",
             "value": 1
-        },
-        {
-            "text": "October",
-            "value": 2
-        },
-        {
-            "text": "2022",
-            "value": 3
-        },
-        {
-            "text": "Good",
-            "value": 5
         },
         {
             "text": "times",
@@ -293,20 +573,12 @@
             "value": 2
         },
         {
-            "text": "new",
-            "value": 2
-        },
-        {
             "text": "phone",
             "value": 1
         },
         {
             "text": "calls",
             "value": 1
-        },
-        {
-            "text": "amp",
-            "value": 7
         },
         {
             "text": "emails",
@@ -381,10 +653,6 @@
             "value": 1
         },
         {
-            "text": "80",
-            "value": 1
-        },
-        {
             "text": "sausage",
             "value": 1
         },
@@ -426,7 +694,7 @@
         },
         {
             "text": "line",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Still",
@@ -442,7 +710,7 @@
         },
         {
             "text": "time",
-            "value": 5
+            "value": 4
         },
         {
             "text": "celebrating",
@@ -553,22 +821,6 @@
             "value": 1
         },
         {
-            "text": "1300",
-            "value": 1
-        },
-        {
-            "text": "318",
-            "value": 1
-        },
-        {
-            "text": "799",
-            "value": 1
-        },
-        {
-            "text": "JnM",
-            "value": 3
-        },
-        {
             "text": "Tuesday",
             "value": 1
         },
@@ -619,10 +871,6 @@
         {
             "text": "coming",
             "value": 2
-        },
-        {
-            "text": "soon",
-            "value": 1
         },
         {
             "text": "Exciting",
@@ -753,19 +1001,11 @@
             "value": 3
         },
         {
-            "text": "1",
-            "value": 5
-        },
-        {
             "text": "scphotoz",
             "value": 3
         },
         {
             "text": "fantasy",
-            "value": 3
-        },
-        {
-            "text": "soul",
             "value": 3
         },
         {
@@ -782,10 +1022,6 @@
         },
         {
             "text": "show",
-            "value": 1
-        },
-        {
-            "text": "99",
             "value": 1
         },
         {
@@ -845,14 +1081,6 @@
             "value": 1
         },
         {
-            "text": "Monster",
-            "value": 1
-        },
-        {
-            "text": "House",
-            "value": 2
-        },
-        {
             "text": "Pt",
             "value": 2
         },
@@ -867,14 +1095,6 @@
         {
             "text": "see",
             "value": 6
-        },
-        {
-            "text": "City",
-            "value": 3
-        },
-        {
-            "text": "Library",
-            "value": 3
         },
         {
             "text": "Came",
@@ -978,7 +1198,7 @@
         },
         {
             "text": "blood",
-            "value": 2
+            "value": 1
         },
         {
             "text": "donor",
@@ -1002,10 +1222,6 @@
         },
         {
             "text": "everything",
-            "value": 1
-        },
-        {
-            "text": "Flinders",
             "value": 1
         },
         {
@@ -1073,10 +1289,6 @@
             "value": 1
         },
         {
-            "text": "post",
-            "value": 1
-        },
-        {
             "text": "made",
             "value": 2
         },
@@ -1093,12 +1305,8 @@
             "value": 1
         },
         {
-            "text": "take",
-            "value": 1
-        },
-        {
             "text": "day",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Got",
@@ -1106,10 +1314,6 @@
         },
         {
             "text": "Bros",
-            "value": 1
-        },
-        {
-            "text": "last",
             "value": 1
         },
         {
@@ -1134,7 +1338,7 @@
         },
         {
             "text": "brilliant",
-            "value": 2
+            "value": 1
         },
         {
             "text": "invite",
@@ -1142,11 +1346,7 @@
         },
         {
             "text": "fun",
-            "value": 4
-        },
-        {
-            "text": "Q",
-            "value": 2
+            "value": 3
         },
         {
             "text": "director",
@@ -1238,7 +1438,7 @@
         },
         {
             "text": "thought",
-            "value": 2
+            "value": 1
         },
         {
             "text": "lost",
@@ -1254,10 +1454,6 @@
         },
         {
             "text": "landscape",
-            "value": 1
-        },
-        {
-            "text": "Check",
             "value": 1
         },
         {
@@ -1290,10 +1486,6 @@
         },
         {
             "text": "Ree",
-            "value": 1
-        },
-        {
-            "text": "film",
             "value": 1
         },
         {
@@ -1346,11 +1538,11 @@
         },
         {
             "text": "Capitol",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Theatre",
-            "value": 5
+            "value": 3
         },
         {
             "text": "Let",
@@ -1409,16 +1601,8 @@
             "value": 1
         },
         {
-            "text": "N",
-            "value": 1
-        },
-        {
             "text": "Roses",
             "value": 1
-        },
-        {
-            "text": "1987",
-            "value": 2
         },
         {
             "text": "Original",
@@ -1454,10 +1638,6 @@
         },
         {
             "text": "created",
-            "value": 1
-        },
-        {
-            "text": "2018",
             "value": 1
         },
         {
@@ -1574,7 +1754,7 @@
         },
         {
             "text": "tree",
-            "value": 3
+            "value": 2
         },
         {
             "text": "converted",
@@ -1654,7 +1834,7 @@
         },
         {
             "text": "check",
-            "value": 2
+            "value": 1
         },
         {
             "text": "talk",
@@ -1801,10 +1981,6 @@
             "value": 1
         },
         {
-            "text": "334",
-            "value": 1
-        },
-        {
             "text": "Maroondah",
             "value": 1
         },
@@ -1838,7 +2014,7 @@
         },
         {
             "text": "way",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Comedy",
@@ -1910,10 +2086,6 @@
         },
         {
             "text": "VI",
-            "value": 1
-        },
-        {
-            "text": "V",
             "value": 1
         },
         {
@@ -2053,10 +2225,6 @@
             "value": 1
         },
         {
-            "text": "76392",
-            "value": 1
-        },
-        {
             "text": "Three",
             "value": 1
         },
@@ -2113,10 +2281,6 @@
             "value": 1
         },
         {
-            "text": "series",
-            "value": 1
-        },
-        {
             "text": "Inbox",
             "value": 1
         },
@@ -2169,19 +2333,11 @@
             "value": 1
         },
         {
-            "text": "50",
-            "value": 1
-        },
-        {
             "text": "years",
             "value": 1
         },
         {
             "text": "ago",
-            "value": 1
-        },
-        {
-            "text": "Second",
             "value": 1
         },
         {
@@ -2221,14 +2377,6 @@
             "value": 1
         },
         {
-            "text": "195",
-            "value": 1
-        },
-        {
-            "text": "15",
-            "value": 1
-        },
-        {
             "text": "postage",
             "value": 1
         },
@@ -2242,10 +2390,6 @@
         },
         {
             "text": "boards",
-            "value": 1
-        },
-        {
-            "text": "morning",
             "value": 1
         },
         {
@@ -2397,10 +2541,6 @@
             "value": 1
         },
         {
-            "text": "27",
-            "value": 1
-        },
-        {
             "text": "man",
             "value": 1
         },
@@ -2501,20 +2641,12 @@
             "value": 1
         },
         {
-            "text": "8",
-            "value": 1
-        },
-        {
             "text": "30pm",
             "value": 1
         },
         {
             "text": "Peace",
             "value": 1
-        },
-        {
-            "text": "F",
-            "value": 2
         },
         {
             "text": "MQFF",
@@ -2530,10 +2662,6 @@
         },
         {
             "text": "book",
-            "value": 1
-        },
-        {
-            "text": "149",
             "value": 1
         },
         {
@@ -2579,10 +2707,6 @@
         {
             "text": "Nice",
             "value": 1
-        },
-        {
-            "text": "Forum",
-            "value": 8
         },
         {
             "text": "stayed",
@@ -2682,234 +2806,6 @@
         },
         {
             "text": "much",
-            "value": 1
-        },
-        {
-            "text": "year",
-            "value": 1
-        },
-        {
-            "text": "approaching",
-            "value": 1
-        },
-        {
-            "text": "fast",
-            "value": 1
-        },
-        {
-            "text": "Christmas",
-            "value": 2
-        },
-        {
-            "text": "lights",
-            "value": 2
-        },
-        {
-            "text": "sparkly",
-            "value": 1
-        },
-        {
-            "text": "decorations",
-            "value": 2
-        },
-        {
-            "text": "takers",
-            "value": 1
-        },
-        {
-            "text": "022",
-            "value": 1
-        },
-        {
-            "text": "Fly",
-            "value": 1
-        },
-        {
-            "text": "fools",
-            "value": 1
-        },
-        {
-            "text": "iPhone",
-            "value": 1
-        },
-        {
-            "text": "14",
-            "value": 1
-        },
-        {
-            "text": "Pro",
-            "value": 1
-        },
-        {
-            "text": "Ending",
-            "value": 1
-        },
-        {
-            "text": "corporate",
-            "value": 1
-        },
-        {
-            "text": "conference",
-            "value": 1
-        },
-        {
-            "text": "activity",
-            "value": 1
-        },
-        {
-            "text": "right",
-            "value": 1
-        },
-        {
-            "text": "East",
-            "value": 1
-        },
-        {
-            "text": "Anglian",
-            "value": 1
-        },
-        {
-            "text": "La",
-            "value": 1
-        },
-        {
-            "text": "Camera",
-            "value": 1
-        },
-        {
-            "text": "Southgate",
-            "value": 1
-        },
-        {
-            "text": "Bullet",
-            "value": 1
-        },
-        {
-            "text": "wound",
-            "value": 1
-        },
-        {
-            "text": "pre",
-            "value": 1
-        },
-        {
-            "text": "application",
-            "value": 1
-        },
-        {
-            "text": "really",
-            "value": 1
-        },
-        {
-            "text": "Music",
-            "value": 1
-        },
-        {
-            "text": "Video",
-            "value": 1
-        },
-        {
-            "text": "worked",
-            "value": 1
-        },
-        {
-            "text": "recently",
-            "value": 1
-        },
-        {
-            "text": "Heads",
-            "value": 1
-        },
-        {
-            "text": "rominafavero",
-            "value": 1
-        },
-        {
-            "text": "pr",
-            "value": 1
-        },
-        {
-            "text": "mattheywood47",
-            "value": 1
-        },
-        {
-            "text": "kiwidaddysworldwide",
-            "value": 1
-        },
-        {
-            "text": "stefcaccamo",
-            "value": 1
-        },
-        {
-            "text": "csp",
-            "value": 1
-        },
-        {
-            "text": "sevenhills",
-            "value": 1
-        },
-        {
-            "text": "atypsydney",
-            "value": 1
-        },
-        {
-            "text": "Athenaeum",
-            "value": 1
-        },
-        {
-            "text": "Collins",
-            "value": 2
-        },
-        {
-            "text": "St",
-            "value": 1
-        },
-        {
-            "text": "Traffic",
-            "value": 2
-        },
-        {
-            "text": "Alert",
-            "value": 1
-        },
-        {
-            "text": "flashing",
-            "value": 1
-        },
-        {
-            "text": "yellow",
-            "value": 1
-        },
-        {
-            "text": "intersection",
-            "value": 1
-        },
-        {
-            "text": "displays",
-            "value": 1
-        },
-        {
-            "text": "larger",
-            "value": 1
-        },
-        {
-            "text": "inside",
-            "value": 1
-        },
-        {
-            "text": "Wednesday",
-            "value": 1
-        },
-        {
-            "text": "Values",
-            "value": 1
-        },
-        {
-            "text": "preseason",
-            "value": 1
-        },
-        {
-            "text": "7teen8teen9teen",
             "value": 1
         }
     ]

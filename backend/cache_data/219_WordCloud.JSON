@@ -1,6 +1,102 @@
 {
     "word_freq": [
         {
+            "text": "Gal",
+            "value": 1
+        },
+        {
+            "text": "pal",
+            "value": 1
+        },
+        {
+            "text": "keen",
+            "value": 1
+        },
+        {
+            "text": "netty",
+            "value": 1
+        },
+        {
+            "text": "action",
+            "value": 1
+        },
+        {
+            "text": "Catch",
+            "value": 1
+        },
+        {
+            "text": "Shimmy",
+            "value": 1
+        },
+        {
+            "text": "signing",
+            "value": 1
+        },
+        {
+            "text": "posters",
+            "value": 1
+        },
+        {
+            "text": "taking",
+            "value": 1
+        },
+        {
+            "text": "pics",
+            "value": 1
+        },
+        {
+            "text": "RIGHT",
+            "value": 1
+        },
+        {
+            "text": "JCA",
+            "value": 1
+        },
+        {
+            "text": "October",
+            "value": 1
+        },
+        {
+            "text": "Trans",
+            "value": 1
+        },
+        {
+            "text": "Tasman",
+            "value": 1
+        },
+        {
+            "text": "Cup",
+            "value": 1
+        },
+        {
+            "text": "Series",
+            "value": 1
+        },
+        {
+            "text": "Game",
+            "value": 1
+        },
+        {
+            "text": "australianmensnetball",
+            "value": 1
+        },
+        {
+            "text": "vs",
+            "value": 3
+        },
+        {
+            "text": "John",
+            "value": 3
+        },
+        {
+            "text": "Cain",
+            "value": 3
+        },
+        {
+            "text": "Arena",
+            "value": 4
+        },
+        {
             "text": "Get",
             "value": 1
         },
@@ -41,10 +137,6 @@
             "value": 1
         },
         {
-            "text": "Arena",
-            "value": 3
-        },
-        {
             "text": "Weather",
             "value": 1
         },
@@ -67,10 +159,6 @@
         {
             "text": "get",
             "value": 2
-        },
-        {
-            "text": "amp",
-            "value": 3
         },
         {
             "text": "Summer",
@@ -174,7 +262,7 @@
         },
         {
             "text": "Park",
-            "value": 4
+            "value": 3
         },
         {
             "text": "shake",
@@ -233,23 +321,11 @@
             "value": 1
         },
         {
-            "text": "10",
-            "value": 1
-        },
-        {
             "text": "point",
             "value": 2
         },
         {
             "text": "win",
-            "value": 2
-        },
-        {
-            "text": "John",
-            "value": 2
-        },
-        {
-            "text": "Cain",
             "value": 2
         },
         {
@@ -325,10 +401,6 @@
             "value": 1
         },
         {
-            "text": "v",
-            "value": 1
-        },
-        {
             "text": "TIME",
             "value": 2
         },
@@ -353,14 +425,6 @@
             "value": 1
         },
         {
-            "text": "0",
-            "value": 1
-        },
-        {
-            "text": "vs",
-            "value": 2
-        },
-        {
             "text": "Western",
             "value": 1
         },
@@ -371,10 +435,6 @@
         {
             "text": "Wanderers",
             "value": 1
-        },
-        {
-            "text": "1",
-            "value": 2
         },
         {
             "text": "Goals",
@@ -393,14 +453,6 @@
             "value": 1
         },
         {
-            "text": "61",
-            "value": 1
-        },
-        {
-            "text": "39",
-            "value": 1
-        },
-        {
             "text": "SHOTS",
             "value": 1
         },
@@ -409,19 +461,11 @@
             "value": 1
         },
         {
-            "text": "2",
-            "value": 4
-        },
-        {
             "text": "Seagulls",
             "value": 1
         },
         {
             "text": "playing",
-            "value": 1
-        },
-        {
-            "text": "4",
             "value": 1
         },
         {
@@ -441,20 +485,8 @@
             "value": 1
         },
         {
-            "text": "8",
-            "value": 1
-        },
-        {
-            "text": "85",
-            "value": 1
-        },
-        {
-            "text": "77",
-            "value": 1
-        },
-        {
             "text": "Melbourne",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Victory",
@@ -582,11 +614,11 @@
         },
         {
             "text": "posted",
-            "value": 3
+            "value": 2
         },
         {
             "text": "photo",
-            "value": 3
+            "value": 2
         },
         {
             "text": "deception",
@@ -674,7 +706,7 @@
         },
         {
             "text": "CENTREPIECE",
-            "value": 2
+            "value": 1
         }
     ]
 }

@@ -1,12 +1,180 @@
 {
     "word_freq": [
         {
+            "text": "still",
+            "value": 2
+        },
+        {
+            "text": "looking",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 2
+        },
+        {
+            "text": "Happy",
+            "value": 1
+        },
+        {
+            "text": "Birthday",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 1
+        },
+        {
+            "text": "Meat",
+            "value": 1
+        },
+        {
+            "text": "Wine",
+            "value": 1
+        },
+        {
+            "text": "Co",
+            "value": 1
+        },
+        {
+            "text": "Southbank",
+            "value": 1
+        },
+        {
             "text": "posted",
-            "value": 13
+            "value": 12
         },
         {
             "text": "photo",
-            "value": 13
+            "value": 12
+        },
+        {
+            "text": "Yarra",
+            "value": 1
+        },
+        {
+            "text": "Botanica",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 1
+        },
+        {
+            "text": "evening",
+            "value": 1
+        },
+        {
+            "text": "VL15",
+            "value": 1
+        },
+        {
+            "text": "Flinders",
+            "value": 3
+        },
+        {
+            "text": "Street",
+            "value": 2
+        },
+        {
+            "text": "Station",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 12
+        },
+        {
+            "text": "Victoria",
+            "value": 3
+        },
+        {
+            "text": "Circa",
+            "value": 1
+        },
+        {
+            "text": "1920's",
+            "value": 1
+        },
+        {
+            "text": "forgot",
+            "value": 1
+        },
+        {
+            "text": "post",
+            "value": 2
+        },
+        {
+            "text": "photos",
+            "value": 1
+        },
+        {
+            "text": "recent",
+            "value": 1
+        },
+        {
+            "text": "Monster",
+            "value": 2
+        },
+        {
+            "text": "House",
+            "value": 2
+        },
+        {
+            "text": "Part",
+            "value": 1
+        },
+        {
+            "text": "exhibition",
+            "value": 1
+        },
+        {
+            "text": "City",
+            "value": 5
+        },
+        {
+            "text": "Library",
+            "value": 5
+        },
+        {
+            "text": "series",
+            "value": 1
+        },
+        {
+            "text": "Gothic",
+            "value": 1
+        },
+        {
+            "text": "dioramas",
+            "value": 1
+        },
+        {
+            "text": "haunted",
+            "value": 2
+        },
+        {
+            "text": "rooms",
+            "value": 1
+        },
+        {
+            "text": "house",
+            "value": 1
+        },
+        {
+            "text": "soul",
+            "value": 1
+        },
+        {
+            "text": "I'm",
+            "value": 2
+        },
+        {
+            "text": "Steps",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 1
         },
         {
             "text": "Ian",
@@ -26,7 +194,7 @@
         },
         {
             "text": "Australia",
-            "value": 7
+            "value": 6
         },
         {
             "text": "good",
@@ -35,10 +203,6 @@
         {
             "text": "home",
             "value": 2
-        },
-        {
-            "text": "Melbourne",
-            "value": 10
         },
         {
             "text": "Skydeck",
@@ -58,10 +222,6 @@
         },
         {
             "text": "bite",
-            "value": 1
-        },
-        {
-            "text": "80",
             "value": 1
         },
         {
@@ -209,10 +369,6 @@
             "value": 1
         },
         {
-            "text": "99",
-            "value": 1
-        },
-        {
             "text": "inspired",
             "value": 1
         },
@@ -269,14 +425,6 @@
             "value": 1
         },
         {
-            "text": "Monster",
-            "value": 1
-        },
-        {
-            "text": "House",
-            "value": 1
-        },
-        {
             "text": "Pt",
             "value": 1
         },
@@ -291,14 +439,6 @@
         {
             "text": "see",
             "value": 1
-        },
-        {
-            "text": "City",
-            "value": 3
-        },
-        {
-            "text": "Library",
-            "value": 3
         },
         {
             "text": "Arbory",
@@ -321,10 +461,6 @@
             "value": 1
         },
         {
-            "text": "Flinders",
-            "value": 1
-        },
-        {
             "text": "Lane",
             "value": 1
         },
@@ -342,10 +478,6 @@
         },
         {
             "text": "takeover",
-            "value": 1
-        },
-        {
-            "text": "post",
             "value": 1
         },
         {
@@ -401,10 +533,6 @@
             "value": 2
         },
         {
-            "text": "Victoria",
-            "value": 3
-        },
-        {
             "text": "Gardens",
             "value": 2
         },
@@ -414,10 +542,6 @@
         },
         {
             "text": "winter",
-            "value": 1
-        },
-        {
-            "text": "2022",
             "value": 1
         },
         {
@@ -503,14 +627,6 @@
         {
             "text": "night",
             "value": 3
-        },
-        {
-            "text": "I'm",
-            "value": 1
-        },
-        {
-            "text": "still",
-            "value": 1
         },
         {
             "text": "trying",
@@ -633,10 +749,6 @@
             "value": 1
         },
         {
-            "text": "like",
-            "value": 1
-        },
-        {
             "text": "beer",
             "value": 1
         },
@@ -693,19 +805,11 @@
             "value": 1
         },
         {
-            "text": "50",
-            "value": 1
-        },
-        {
             "text": "years",
             "value": 1
         },
         {
             "text": "ago",
-            "value": 1
-        },
-        {
-            "text": "amp",
             "value": 1
         },
         {
@@ -789,14 +893,6 @@
             "value": 1
         },
         {
-            "text": "3",
-            "value": 1
-        },
-        {
-            "text": "4",
-            "value": 3
-        },
-        {
             "text": "Based",
             "value": 1
         },
@@ -826,10 +922,6 @@
         },
         {
             "text": "age",
-            "value": 1
-        },
-        {
-            "text": "27",
             "value": 1
         },
         {
@@ -893,10 +985,6 @@
             "value": 1
         },
         {
-            "text": "2",
-            "value": 1
-        },
-        {
             "text": "DCA",
             "value": 1
         },
@@ -941,15 +1029,7 @@
             "value": 1
         },
         {
-            "text": "1",
-            "value": 2
-        },
-        {
             "text": "Nov",
-            "value": 1
-        },
-        {
-            "text": "8",
             "value": 1
         },
         {
@@ -1046,34 +1126,6 @@
         },
         {
             "text": "back",
-            "value": 1
-        },
-        {
-            "text": "La",
-            "value": 1
-        },
-        {
-            "text": "Camera",
-            "value": 1
-        },
-        {
-            "text": "Southgate",
-            "value": 1
-        },
-        {
-            "text": "Balcony",
-            "value": 1
-        },
-        {
-            "text": "view",
-            "value": 1
-        },
-        {
-            "text": "Southbank",
-            "value": 2
-        },
-        {
-            "text": "Grand",
             "value": 1
         }
     ]

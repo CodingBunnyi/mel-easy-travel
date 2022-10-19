@@ -1,6 +1,38 @@
 {
-    "count": 3,
+    "count": 5,
     "data": [
+        {
+            "tid": 1582610254197452801,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "user_img": "https://pbs.twimg.com/profile_images/1090064003982811136/jrnsNv5F_normal.jpg",
+            "time": "2022-10-19 05:51:02 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "West Gate Fwy  (M1), Port Melbourne - lanes closed outbound, The left lane is closed outbound after… https://t.co/Tl7rRL4D95 #victraffic",
+            "clean_text": "West Gate Fwy M1 Port Melbourne lanes closed outbound The left lane is closed outbound after",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.93676931,
+            "latitude": -37.82575544,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582592892488413185,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "user_img": "https://pbs.twimg.com/profile_images/1090064003982811136/jrnsNv5F_normal.jpg",
+            "time": "2022-10-19 04:42:03 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Kings-West Gate Out Ramp On (M1), Docklands - lanes closed outbound, The left lane is closed on the… https://t.co/1Nh5UsSuks #victraffic",
+            "clean_text": "Kings West Gate Out Ramp On M1 Docklands lanes closed outbound The left lane is closed on the",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9430208,
+            "latitude": -37.82597708,
+            "photo_urls": []
+        },
         {
             "tid": 1582243339390156801,
             "uid": 18147028,

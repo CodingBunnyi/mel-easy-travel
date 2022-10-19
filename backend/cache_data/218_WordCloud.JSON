@@ -1,6 +1,230 @@
 {
     "word_freq": [
         {
+            "text": "receiving",
+            "value": 1
+        },
+        {
+            "text": "award",
+            "value": 1
+        },
+        {
+            "text": "young",
+            "value": 2
+        },
+        {
+            "text": "leader",
+            "value": 1
+        },
+        {
+            "text": "well",
+            "value": 1
+        },
+        {
+            "text": "deserved",
+            "value": 1
+        },
+        {
+            "text": "recognition",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 4
+        },
+        {
+            "text": "event",
+            "value": 2
+        },
+        {
+            "text": "important",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 4
+        },
+        {
+            "text": "photo",
+            "value": 4
+        },
+        {
+            "text": "Small",
+            "value": 2
+        },
+        {
+            "text": "Businesses",
+            "value": 2
+        },
+        {
+            "text": "Day",
+            "value": 4
+        },
+        {
+            "text": "International",
+            "value": 2
+        },
+        {
+            "text": "Congress",
+            "value": 2
+        },
+        {
+            "text": "Obesity",
+            "value": 3
+        },
+        {
+            "text": "Serious",
+            "value": 1
+        },
+        {
+            "text": "mental",
+            "value": 1
+        },
+        {
+            "text": "illness",
+            "value": 1
+        },
+        {
+            "text": "deserves",
+            "value": 1
+        },
+        {
+            "text": "special",
+            "value": 1
+        },
+        {
+            "text": "attention",
+            "value": 1
+        },
+        {
+            "text": "Thank",
+            "value": 2
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "looking",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 3
+        },
+        {
+            "text": "Happy",
+            "value": 1
+        },
+        {
+            "text": "Birthday",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 1
+        },
+        {
+            "text": "Meat",
+            "value": 1
+        },
+        {
+            "text": "Wine",
+            "value": 1
+        },
+        {
+            "text": "Co",
+            "value": 1
+        },
+        {
+            "text": "Southbank",
+            "value": 1
+        },
+        {
+            "text": "stand",
+            "value": 1
+        },
+        {
+            "text": "women",
+            "value": 1
+        },
+        {
+            "text": "Iran",
+            "value": 1
+        },
+        {
+            "text": "Discussion",
+            "value": 1
+        },
+        {
+            "text": "recent",
+            "value": 1
+        },
+        {
+            "text": "protest",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 1
+        },
+        {
+            "text": "Yarra",
+            "value": 1
+        },
+        {
+            "text": "Botanica",
+            "value": 1
+        },
+        {
+            "text": "intra",
+            "value": 1
+        },
+        {
+            "text": "uterine",
+            "value": 1
+        },
+        {
+            "text": "connections",
+            "value": 1
+        },
+        {
+            "text": "thin",
+            "value": 1
+        },
+        {
+            "text": "fat",
+            "value": 1
+        },
+        {
+            "text": "indians",
+            "value": 1
+        },
+        {
+            "text": "Feeling",
+            "value": 1
+        },
+        {
+            "text": "proud",
+            "value": 1
+        },
+        {
+            "text": "see",
+            "value": 3
+        },
+        {
+            "text": "Dr",
+            "value": 1
+        },
+        {
+            "text": "Yagnik",
+            "value": 1
+        },
+        {
+            "text": "sirs",
+            "value": 1
+        },
+        {
             "text": "Come",
             "value": 2
         },
@@ -53,10 +277,6 @@
             "value": 1
         },
         {
-            "text": "work",
-            "value": 2
-        },
-        {
             "text": "amazing",
             "value": 2
         },
@@ -101,10 +321,6 @@
             "value": 1
         },
         {
-            "text": "3",
-            "value": 1
-        },
-        {
             "text": "weight",
             "value": 1
         },
@@ -138,38 +354,18 @@
         },
         {
             "text": "good",
-            "value": 3
+            "value": 2
         },
         {
             "text": "home",
-            "value": 5
-        },
-        {
-            "text": "Melbourne",
-            "value": 8
-        },
-        {
-            "text": "Skydeck",
-            "value": 1
-        },
-        {
-            "text": "Day",
-            "value": 3
-        },
-        {
-            "text": "1",
             "value": 4
         },
         {
-            "text": "International",
-            "value": 1
+            "text": "Melbourne",
+            "value": 7
         },
         {
-            "text": "Congress",
-            "value": 1
-        },
-        {
-            "text": "Obesity",
+            "text": "Skydeck",
             "value": 1
         },
         {
@@ -277,10 +473,6 @@
             "value": 1
         },
         {
-            "text": "young",
-            "value": 1
-        },
-        {
             "text": "Scientist",
             "value": 1
         },
@@ -333,10 +525,6 @@
             "value": 1
         },
         {
-            "text": "see",
-            "value": 2
-        },
-        {
             "text": "person",
             "value": 1
         },
@@ -386,7 +574,7 @@
         },
         {
             "text": "change",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Working",
@@ -446,10 +634,6 @@
         },
         {
             "text": "today's",
-            "value": 1
-        },
-        {
-            "text": "event",
             "value": 1
         },
         {
@@ -629,10 +813,6 @@
             "value": 1
         },
         {
-            "text": "722",
-            "value": 1
-        },
-        {
             "text": "Apex",
             "value": 1
         },
@@ -745,10 +925,6 @@
             "value": 3
         },
         {
-            "text": "like",
-            "value": 2
-        },
-        {
             "text": "Lecture",
             "value": 1
         },
@@ -833,27 +1009,7 @@
             "value": 1
         },
         {
-            "text": "amp",
-            "value": 1
-        },
-        {
             "text": "Everest",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 3
-        },
-        {
-            "text": "photo",
-            "value": 3
-        },
-        {
-            "text": "Small",
-            "value": 1
-        },
-        {
-            "text": "Businesses",
             "value": 1
         },
         {
@@ -866,7 +1022,7 @@
         },
         {
             "text": "group",
-            "value": 2
+            "value": 1
         },
         {
             "text": "researchers",
@@ -882,7 +1038,7 @@
         },
         {
             "text": "talk",
-            "value": 2
+            "value": 1
         },
         {
             "text": "celebrity",
@@ -1093,10 +1249,6 @@
             "value": 2
         },
         {
-            "text": "C",
-            "value": 1
-        },
-        {
             "text": "People",
             "value": 1
         },
@@ -1138,7 +1290,7 @@
         },
         {
             "text": "Den",
-            "value": 5
+            "value": 2
         },
         {
             "text": "expect",
@@ -1161,16 +1313,8 @@
             "value": 1
         },
         {
-            "text": "000",
-            "value": 1
-        },
-        {
             "text": "guests",
             "value": 2
-        },
-        {
-            "text": "37",
-            "value": 1
         },
         {
             "text": "speakers",
@@ -1186,10 +1330,6 @@
         },
         {
             "text": "winner",
-            "value": 1
-        },
-        {
-            "text": "Thank",
             "value": 1
         },
         {
@@ -1226,182 +1366,6 @@
         },
         {
             "text": "one",
-            "value": 3
-        },
-        {
-            "text": "Balcony",
-            "value": 1
-        },
-        {
-            "text": "view",
-            "value": 1
-        },
-        {
-            "text": "Southbank",
-            "value": 2
-        },
-        {
-            "text": "Grand",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 1
-        },
-        {
-            "text": "Great",
-            "value": 1
-        },
-        {
-            "text": "meeting",
-            "value": 1
-        },
-        {
-            "text": "today",
-            "value": 1
-        },
-        {
-            "text": "incredible",
-            "value": 1
-        },
-        {
-            "text": "intelligent",
-            "value": 1
-        },
-        {
-            "text": "women",
-            "value": 1
-        },
-        {
-            "text": "develop",
-            "value": 1
-        },
-        {
-            "text": "consensus",
-            "value": 1
-        },
-        {
-            "text": "improving",
-            "value": 1
-        },
-        {
-            "text": "outcomes",
-            "value": 1
-        },
-        {
-            "text": "teens",
-            "value": 1
-        },
-        {
-            "text": "anxiety",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "4",
-            "value": 1
-        },
-        {
-            "text": "inspiration",
-            "value": 1
-        },
-        {
-            "text": "Nothing",
-            "value": 1
-        },
-        {
-            "text": "changes",
-            "value": 2
-        },
-        {
-            "text": "AISA",
-            "value": 1
-        },
-        {
-            "text": "CyberCon",
-            "value": 1
-        },
-        {
-            "text": "Cert",
-            "value": 1
-        },
-        {
-            "text": "IV",
-            "value": 1
-        },
-        {
-            "text": "Cyber",
-            "value": 1
-        },
-        {
-            "text": "students",
-            "value": 1
-        },
-        {
-            "text": "us",
-            "value": 1
-        },
-        {
-            "text": "proud",
-            "value": 1
-        },
-        {
-            "text": "call",
-            "value": 1
-        },
-        {
-            "text": "waited",
-            "value": 1
-        },
-        {
-            "text": "lifetime",
-            "value": 1
-        },
-        {
-            "text": "could",
-            "value": 1
-        },
-        {
-            "text": "wait",
-            "value": 1
-        },
-        {
-            "text": "life",
-            "value": 1
-        },
-        {
-            "text": "might",
-            "value": 1
-        },
-        {
-            "text": "circle",
-            "value": 1
-        },
-        {
-            "text": "lot",
-            "value": 1
-        },
-        {
-            "text": "problems",
-            "value": 1
-        },
-        {
-            "text": "would",
-            "value": 1
-        },
-        {
-            "text": "disappear",
-            "value": 1
-        },
-        {
-            "text": "instead",
             "value": 1
         }
     ]

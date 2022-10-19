@@ -1,6 +1,86 @@
 {
     "word_freq": [
         {
+            "text": "world's",
+            "value": 1
+        },
+        {
+            "text": "best",
+            "value": 1
+        },
+        {
+            "text": "cricket",
+            "value": 1
+        },
+        {
+            "text": "photographer",
+            "value": 1
+        },
+        {
+            "text": "king",
+            "value": 1
+        },
+        {
+            "text": "Facebook",
+            "value": 1
+        },
+        {
+            "text": "Pretty",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 2
+        },
+        {
+            "text": "showing",
+            "value": 1
+        },
+        {
+            "text": "visitors",
+            "value": 1
+        },
+        {
+            "text": "around",
+            "value": 1
+        },
+        {
+            "text": "campus",
+            "value": 1
+        },
+        {
+            "text": "Excited",
+            "value": 1
+        },
+        {
+            "text": "next",
+            "value": 1
+        },
+        {
+            "text": "year",
+            "value": 1
+        },
+        {
+            "text": "many",
+            "value": 1
+        },
+        {
+            "text": "cross",
+            "value": 1
+        },
+        {
+            "text": "overs",
+            "value": 1
+        },
+        {
+            "text": "collective",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
             "text": "I'm",
             "value": 2
         },
@@ -41,10 +121,6 @@
             "value": 1
         },
         {
-            "text": "amp",
-            "value": 4
-        },
-        {
             "text": "Godfree",
             "value": 1
         },
@@ -73,19 +149,7 @@
             "value": 1
         },
         {
-            "text": "2021",
-            "value": 1
-        },
-        {
             "text": "window",
-            "value": 1
-        },
-        {
-            "text": "5",
-            "value": 1
-        },
-        {
-            "text": "500",
             "value": 1
         },
         {
@@ -106,7 +170,7 @@
         },
         {
             "text": "time",
-            "value": 2
+            "value": 1
         },
         {
             "text": "early",
@@ -134,10 +198,6 @@
         },
         {
             "text": "fish",
-            "value": 1
-        },
-        {
-            "text": "n",
             "value": 1
         },
         {
@@ -277,19 +337,11 @@
             "value": 1
         },
         {
-            "text": "023",
-            "value": 1
-        },
-        {
             "text": "Morning",
             "value": 1
         },
         {
             "text": "iPhone",
-            "value": 1
-        },
-        {
-            "text": "14",
             "value": 1
         },
         {
@@ -422,11 +474,11 @@
         },
         {
             "text": "Great",
-            "value": 3
+            "value": 1
         },
         {
             "text": "talk",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Research",
@@ -481,10 +533,6 @@
             "value": 1
         },
         {
-            "text": "day",
-            "value": 2
-        },
-        {
             "text": "8th",
             "value": 1
         },
@@ -514,198 +562,6 @@
         },
         {
             "text": "Kariotis",
-            "value": 1
-        },
-        {
-            "text": "Celebrating",
-            "value": 1
-        },
-        {
-            "text": "launch",
-            "value": 1
-        },
-        {
-            "text": "uncurated",
-            "value": 1
-        },
-        {
-            "text": "pod",
-            "value": 1
-        },
-        {
-            "text": "Proud",
-            "value": 1
-        },
-        {
-            "text": "legends",
-            "value": 1
-        },
-        {
-            "text": "ideas",
-            "value": 1
-        },
-        {
-            "text": "data",
-            "value": 2
-        },
-        {
-            "text": "living",
-            "value": 2
-        },
-        {
-            "text": "spaces",
-            "value": 1
-        },
-        {
-            "text": "reworld",
-            "value": 1
-        },
-        {
-            "text": "subject",
-            "value": 1
-        },
-        {
-            "text": "revision",
-            "value": 1
-        },
-        {
-            "text": "retain",
-            "value": 1
-        },
-        {
-            "text": "curate",
-            "value": 1
-        },
-        {
-            "text": "speculatively",
-            "value": 1
-        },
-        {
-            "text": "think",
-            "value": 1
-        },
-        {
-            "text": "reuse",
-            "value": 1
-        },
-        {
-            "text": "looks",
-            "value": 1
-        },
-        {
-            "text": "like",
-            "value": 1
-        },
-        {
-            "text": "20",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "first",
-            "value": 1
-        },
-        {
-            "text": "access",
-            "value": 1
-        },
-        {
-            "text": "tweeter",
-            "value": 1
-        },
-        {
-            "text": "app",
-            "value": 1
-        },
-        {
-            "text": "seeing",
-            "value": 1
-        },
-        {
-            "text": "theory",
-            "value": 1
-        },
-        {
-            "text": "complement",
-            "value": 1
-        },
-        {
-            "text": "practice",
-            "value": 1
-        },
-        {
-            "text": "Deleuze",
-            "value": 1
-        },
-        {
-            "text": "Guattari",
-            "value": 1
-        },
-        {
-            "text": "cited",
-            "value": 1
-        },
-        {
-            "text": "late",
-            "value": 1
-        },
-        {
-            "text": "Bruno",
-            "value": 1
-        },
-        {
-            "text": "Latour",
-            "value": 1
-        },
-        {
-            "text": "RIP",
-            "value": 1
-        },
-        {
-            "text": "drink",
-            "value": 1
-        },
-        {
-            "text": "Philosophy",
-            "value": 1
-        },
-        {
-            "text": "nerd",
-            "value": 1
-        },
-        {
-            "text": "pleasantly",
-            "value": 1
-        },
-        {
-            "text": "surprised",
-            "value": 1
-        },
-        {
-            "text": "Good",
-            "value": 1
-        },
-        {
-            "text": "constellations",
-            "value": 1
-        },
-        {
-            "text": "archive",
-            "value": 1
-        },
-        {
-            "text": "datascapes",
-            "value": 1
-        },
-        {
-            "text": "cultural",
-            "value": 1
-        },
-        {
-            "text": "heritage",
             "value": 1
         }
     ]

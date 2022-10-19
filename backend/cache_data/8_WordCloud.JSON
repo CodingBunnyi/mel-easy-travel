@@ -1,6 +1,14 @@
 {
     "word_freq": [
         {
+            "text": "Networking",
+            "value": 1
+        },
+        {
+            "text": "everywhere",
+            "value": 1
+        },
+        {
             "text": "Espresso",
             "value": 1
         },
@@ -35,10 +43,6 @@
         {
             "text": "I'm",
             "value": 2
-        },
-        {
-            "text": "300",
-            "value": 1
         },
         {
             "text": "King",

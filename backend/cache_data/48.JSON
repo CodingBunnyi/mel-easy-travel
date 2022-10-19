@@ -2,6 +2,78 @@
     "count": 30,
     "data": [
         {
+            "tid": 1582746763207004160,
+            "uid": 4608992299,
+            "author": "A Nickmare on Owens Street",
+            "user_img": "https://pbs.twimg.com/profile_images/1463711207542509568/L4jqP9jw_normal.jpg",
+            "time": "2022-10-19 14:53:29 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "#BlackAdam Premiere at the Melbourne IMAX! https://t.co/0EWlzScUey",
+            "clean_text": "Premiere at the Melbourne IMAX",
+            "place_name": "IMAX Melbourne",
+            "place_type": "poi",
+            "longitude": 144.97121872509422,
+            "latitude": -37.803851155063846,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1582746702276333568/pu/img/H6Agds4VD6D1g3Jz.jpg"
+            ]
+        },
+        {
+            "tid": 1582716823111245826,
+            "uid": 1289847366,
+            "author": "Dennis",
+            "user_img": "https://pbs.twimg.com/profile_images/1548553041611472896/ntBVJDpN_normal.jpg",
+            "time": "2022-10-19 12:54:30 +0000",
+            "like_no": 1966,
+            "language": "en",
+            "text": "With the world's best cricket photographer and king of Facebook ⁦@Furqan013⁩ https://t.co/SGOKDXDksb",
+            "clean_text": "With the world's best cricket photographer and king of Facebook",
+            "place_name": "Ziyka Restaurant",
+            "place_type": "poi",
+            "longitude": 144.967105,
+            "latitude": -37.801647,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfbwjaPUYAAwBJK.jpg"
+            ]
+        },
+        {
+            "tid": 1582635345711370240,
+            "uid": 56960681,
+            "author": "John Sambuco",
+            "user_img": "https://pbs.twimg.com/profile_images/1435872788917620740/N-BZ8zRd_normal.jpg",
+            "time": "2022-10-19 07:30:45 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "At the #Melbourne premiere of #BlackAdam at #IMAXMelbourne. #WarnerBrosAU #IMAX  @IMAX_Melbourne @warnerbrosau @TheRock @PierceBrosnan https://t.co/jLUb95emcX",
+            "clean_text": "At the premiere of at",
+            "place_name": "IMAX Melbourne",
+            "place_type": "poi",
+            "longitude": 144.97121872509422,
+            "latitude": -37.803851155063846,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfamcR-aMAENZLS.jpg"
+            ]
+        },
+        {
+            "tid": 1582606098158059520,
+            "uid": 23180051,
+            "author": "Katey Coleman",
+            "user_img": "https://pbs.twimg.com/profile_images/1267759462682521601/1HbQf5lo_normal.jpg",
+            "time": "2022-10-19 05:34:31 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Excited for next year @scigallerymel @coSWISP so many cross overs with our collective work @eduTH1NK https://t.co/ptSth0hy79",
+            "clean_text": "Excited for next year so many cross overs with our collective work",
+            "place_name": "Science Gallery Melbourne",
+            "place_type": "poi",
+            "longitude": 144.96465,
+            "latitude": -37.800323,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfaL2uUUUAE6sEH.jpg"
+            ]
+        },
+        {
             "tid": 1582282008071311360,
             "uid": 404869728,
             "author": "น้องตุนมะยอน♡",
@@ -74,7 +146,7 @@
             "like_no": 12,
             "language": "en",
             "text": "Dinner at King &amp; Godfree on Lygon Street Carlton\n#sundayvibes #Sunday https://t.co/JXKE7TQwPP",
-            "clean_text": "Dinner at King amp Godfree on Lygon Street Carlton",
+            "clean_text": "Dinner at King Godfree on Lygon Street Carlton",
             "place_name": "King & Godfree",
             "place_type": "poi",
             "longitude": 144.96725879458148,
@@ -126,7 +198,7 @@
             "like_no": 0,
             "language": "en",
             "text": "After a #LygonSt browse it was time for an early dinner - but not at #Tiamo which already had a huge queue 🙀 so had very nice fish’n’chips at #SeaSalt instead @ Sea Salt - Fish &amp; Chips • Sushi Bar https://t.co/ETLN1qLnOo",
-            "clean_text": "After a browse it was time for an early dinner but not at which already had a huge queue so had very nice fish n chips at instead Sea Salt Fish amp Chips Sushi Bar",
+            "clean_text": "After a browse it was time for an early dinner but not at which already had a huge queue so had very nice fish n chips at instead Sea Salt Fish Chips Sushi Bar",
             "place_name": "Melbourne, Victoria",
             "place_type": "city",
             "longitude": 144.96761484,
@@ -238,7 +310,7 @@
             "like_no": 0,
             "language": "en",
             "text": "#latergram Coffee &amp; croissant to last me through a workshop, from the friendly (and right-on!) guys at #WoodsideGreen @ Woodside Green https://t.co/T2XJ4PV61E",
-            "clean_text": "Coffee amp croissant to last me through a workshop from the friendly and right on guys at Woodside Green",
+            "clean_text": "Coffee croissant to last me through a workshop from the friendly and right on guys at Woodside Green",
             "place_name": "Melbourne, Victoria",
             "place_type": "city",
             "longitude": 144.96445,
@@ -288,7 +360,7 @@
             "like_no": 0,
             "language": "en",
             "text": "Egyptian for din din (@ Cairo Nights Restaurant &amp; Bar in Carlton, VIC) https://t.co/iMaHmT69oE https://t.co/ta9YvWZ6fv",
-            "clean_text": "Egyptian for din din Cairo Nights Restaurant amp Bar in Carlton VIC",
+            "clean_text": "Egyptian for din din Cairo Nights Restaurant Bar in Carlton VIC",
             "place_name": "Melbourne, Victoria",
             "place_type": "city",
             "longitude": 144.967046,
@@ -434,77 +506,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/Fe5s0YBaUAEkvnh.jpg",
                 "https://pbs.twimg.com/media/Fe5s1bcaMAEYKR2.jpg"
-            ]
-        },
-        {
-            "tid": 1580140034505682944,
-            "uid": 927822568593047552,
-            "author": "Millie",
-            "user_img": "https://pbs.twimg.com/profile_images/1567777594095079424/H7zOzyEA_normal.jpg",
-            "time": "2022-10-12 10:15:16 +0000",
-            "like_no": 5,
-            "language": "en",
-            "text": "Celebrating the launch of uncurated pod! Proud of you legends @MeghanDansie @PrealeneKhera @uncuratedpod @limlouisa https://t.co/EiBsf7CkcC",
-            "clean_text": "Celebrating the launch of uncurated pod Proud of you legends",
-            "place_name": "Science Gallery Melbourne",
-            "place_type": "poi",
-            "longitude": 144.96465,
-            "latitude": -37.800323,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe3I-1qVUAA47R8.jpg"
-            ]
-        },
-        {
-            "tid": 1580119976731557889,
-            "uid": 14223859,
-            "author": "🧔🏻‍♂️ m i k e",
-            "user_img": "https://pbs.twimg.com/profile_images/1560591810191585281/I7vZTzdQ_normal.jpg",
-            "time": "2022-10-12 08:55:34 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Gangster spec at @motorclassica. (Take a look in the back seat.) @ Motorclassica https://t.co/d31SH8suXC",
-            "clean_text": "Gangster spec at Take a look in the back seat Motorclassica",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.97151,
-            "latitude": -37.80474,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580060904242442241,
-            "uid": 321413069,
-            "author": "Steven Chang",
-            "user_img": "https://pbs.twimg.com/profile_images/1483677726578212869/4-lsb3Rr_normal.jpg",
-            "time": "2022-10-12 05:00:50 +0000",
-            "like_no": 5,
-            "language": "en",
-            "text": "Great ideas here about data as living spaces that we \"reworld\" over time. If it's living it can be subject to revision. Where and how do we retain? How do we re-curate? How can we speculatively think about what reuse looks like in 20 years? - @kateycoleman at #FigshareFest22 https://t.co/s9qOiZHW4z",
-            "clean_text": "Great ideas here about data as living spaces that we reworld over time If it's living it can be subject to revision Where and how do we retain How do we re curate How can we speculatively think about what reuse looks like in 20 years at",
-            "place_name": "Melbourne Connect",
-            "place_type": "poi",
-            "longitude": 144.964851,
-            "latitude": -37.799569,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2BBICakAAzMk1.jpg"
-            ]
-        },
-        {
-            "tid": 1580059121357058048,
-            "uid": 321413069,
-            "author": "Steven Chang",
-            "user_img": "https://pbs.twimg.com/profile_images/1483677726578212869/4-lsb3Rr_normal.jpg",
-            "time": "2022-10-12 04:53:45 +0000",
-            "like_no": 14,
-            "language": "en",
-            "text": "Great seeing theory to complement practice at #FigshareFest22. Deleuze &amp; Guattari cited + the late Bruno Latour (RIP) - drink! Philosophy nerd in me is pleasantly surprised. Good talk by @kateycoleman on data constellations and how we archive our datascapes as cultural heritage https://t.co/njufdWVG8G",
-            "clean_text": "Great seeing theory to complement practice at Deleuze amp Guattari cited the late Bruno Latour RIP drink Philosophy nerd in me is pleasantly surprised Good talk by on data constellations and how we archive our datascapes as cultural heritage",
-            "place_name": "Melbourne Connect",
-            "place_type": "poi",
-            "longitude": 144.964851,
-            "latitude": -37.799569,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe1_ZERakAU6Wsl.jpg",
-                "https://pbs.twimg.com/media/Fe1_ZWuaYAEI7tC.jpg"
             ]
         }
     ]

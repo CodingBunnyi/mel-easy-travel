@@ -1,16 +1,70 @@
 {
-    "count": 30,
+    "count": 25,
     "data": [
+        {
+            "tid": 1582676212001882113,
+            "uid": 1371790259713757185,
+            "author": "Dr Helen Green",
+            "user_img": "https://pbs.twimg.com/profile_images/1371790513943146501/WwiEY7az_normal.jpg",
+            "time": "2022-10-19 10:13:08 +0000",
+            "like_no": 9,
+            "language": "en",
+            "text": "Pretty 👌🏻 day to be showing visitors around @UniMelb campus ☀️ https://t.co/XDFjEnTeVi",
+            "clean_text": "Pretty day to be showing visitors around campus",
+            "place_name": "The University of Melbourne",
+            "place_type": "poi",
+            "longitude": 144.9621703817303,
+            "latitude": -37.79877607670422,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfbLn8AUoAALAV1.jpg"
+            ]
+        },
+        {
+            "tid": 1582630313213448192,
+            "uid": 22417709,
+            "author": "Laura Major",
+            "user_img": "https://pbs.twimg.com/profile_images/1557480861099909120/OxNP78wI_normal.jpg",
+            "time": "2022-10-19 07:10:45 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Miss Willow Grace loved her cuddles with aunty Maddie this week ✨💞✨ #familytime https://t.co/KfwzBkzUqX",
+            "clean_text": "Miss Willow Grace loved her cuddles with aunty Maddie this week",
+            "place_name": "Royal Women's Hospital",
+            "place_type": "poi",
+            "longitude": 144.95460040742643,
+            "latitude": -37.798775039876034,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffah4FDakAAzvO2.jpg"
+            ]
+        },
+        {
+            "tid": 1582606098158059520,
+            "uid": 23180051,
+            "author": "Katey Coleman",
+            "user_img": "https://pbs.twimg.com/profile_images/1267759462682521601/1HbQf5lo_normal.jpg",
+            "time": "2022-10-19 05:34:31 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Excited for next year @scigallerymel @coSWISP so many cross overs with our collective work @eduTH1NK https://t.co/ptSth0hy79",
+            "clean_text": "Excited for next year so many cross overs with our collective work",
+            "place_name": "Science Gallery Melbourne",
+            "place_type": "poi",
+            "longitude": 144.96465,
+            "latitude": -37.800323,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfaL2uUUUAE6sEH.jpg"
+            ]
+        },
         {
             "tid": 1582500944406724608,
             "uid": 1000628255093809152,
             "author": "Blake Cutler",
             "user_img": "https://pbs.twimg.com/profile_images/1552910052734148608/6Y43d0I8_normal.jpg",
             "time": "2022-10-18 22:36:41 +0000",
-            "like_no": 15,
+            "like_no": 34,
             "language": "en",
             "text": "Still buzzing from the launch of Learning Whiteness: Education &amp; the Settler Colonial State by @arathings, @DrSophieRudolph &amp; @Jess_Gerrard! 👏👏\n\nA key exploration of how whiteness is taught!\n\nLovely to meet @EveMayes, @sarahetruman, @stephwescott_ &amp; @ameenalpayne F2F too! 😄 https://t.co/oPvNfbyzOm",
-            "clean_text": "Still buzzing from the launch of Learning Whiteness Education amp the Settler Colonial State by amp A key exploration of how whiteness is taught Lovely to meet amp F2F too",
+            "clean_text": "Still buzzing from the launch of Learning Whiteness Education the Settler Colonial State by A key exploration of how whiteness is taught Lovely to meet F2F too",
             "place_name": "Melbourne Graduate School Of Education",
             "place_type": "poi",
             "longitude": 144.96064106865484,
@@ -26,7 +80,7 @@
             "author": "Phil Kairns (he/they/any) 🏳️‍⚧️🏳️‍🌈",
             "user_img": "https://pbs.twimg.com/profile_images/1432880518773633027/zoFV1b6P_normal.jpg",
             "time": "2022-10-18 10:35:46 +0000",
-            "like_no": 34,
+            "like_no": 40,
             "language": "en",
             "text": "⭐️⭐️⭐️⭐️⭐️ launch of Learning Whiteness: Education and the Settler Colonial State by @DrSophieRudolph @Jess_Gerrard @arathings Whiteness is learned. Let’s talk about it so we can unlearn it. Also 🤗panel @karentfarq @alspeaksback Emma Kefford @AnnetteMHerrera  📸 @sarahetruman https://t.co/lz5oXsQFOe",
             "clean_text": "launch of Learning Whiteness Education and the Settler Colonial State by Whiteness is learned Let s talk about it so we can unlearn it Also panel Emma Kefford",
@@ -44,7 +98,7 @@
             "author": "Russell Goulbourne",
             "user_img": "https://pbs.twimg.com/profile_images/1497816794119114755/sSJw_VAk_normal.jpg",
             "time": "2022-10-18 08:01:26 +0000",
-            "like_no": 31,
+            "like_no": 34,
             "language": "en",
             "text": "Rainbow lorikeets and university administration https://t.co/wV4wWXS27G",
             "clean_text": "Rainbow lorikeets and university administration",
@@ -249,7 +303,7 @@
             "like_no": 0,
             "language": "en",
             "text": "Egyptian for din din (@ Cairo Nights Restaurant &amp; Bar in Carlton, VIC) https://t.co/iMaHmT69oE https://t.co/ta9YvWZ6fv",
-            "clean_text": "Egyptian for din din Cairo Nights Restaurant amp Bar in Carlton VIC",
+            "clean_text": "Egyptian for din din Cairo Nights Restaurant Bar in Carlton VIC",
             "place_name": "Melbourne, Victoria",
             "place_type": "city",
             "longitude": 144.967046,
@@ -383,153 +437,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/Fe5s0YBaUAEkvnh.jpg",
                 "https://pbs.twimg.com/media/Fe5s1bcaMAEYKR2.jpg"
-            ]
-        },
-        {
-            "tid": 1580140034505682944,
-            "uid": 927822568593047552,
-            "author": "Millie",
-            "user_img": "https://pbs.twimg.com/profile_images/1567777594095079424/H7zOzyEA_normal.jpg",
-            "time": "2022-10-12 10:15:16 +0000",
-            "like_no": 5,
-            "language": "en",
-            "text": "Celebrating the launch of uncurated pod! Proud of you legends @MeghanDansie @PrealeneKhera @uncuratedpod @limlouisa https://t.co/EiBsf7CkcC",
-            "clean_text": "Celebrating the launch of uncurated pod Proud of you legends",
-            "place_name": "Science Gallery Melbourne",
-            "place_type": "poi",
-            "longitude": 144.96465,
-            "latitude": -37.800323,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe3I-1qVUAA47R8.jpg"
-            ]
-        },
-        {
-            "tid": 1580096137473978368,
-            "uid": 125966823,
-            "author": "Dr Bec Szabo",
-            "user_img": "https://pbs.twimg.com/profile_images/1030055031112753152/47lzEHyS_normal.jpg",
-            "time": "2022-10-12 07:20:50 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Joint statement of @ama_media and @DocsEnvAus https://t.co/dMQ7trjieM",
-            "clean_text": "Joint statement of and",
-            "place_name": "Royal Women's Hospital",
-            "place_type": "poi",
-            "longitude": 144.95460040742643,
-            "latitude": -37.798775039876034,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2hD0MaAAAuLGG.jpg"
-            ]
-        },
-        {
-            "tid": 1580094402974076928,
-            "uid": 125966823,
-            "author": "Dr Bec Szabo",
-            "user_img": "https://pbs.twimg.com/profile_images/1030055031112753152/47lzEHyS_normal.jpg",
-            "time": "2022-10-12 07:13:57 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Amplifies health issues and impacts all systems. Climate change is a health emergency #ClimateCrisis https://t.co/I1xQlVLLhu",
-            "clean_text": "Amplifies health issues and impacts all systems Climate change is a health emergency",
-            "place_name": "Royal Women's Hospital",
-            "place_type": "poi",
-            "longitude": 144.95460040742643,
-            "latitude": -37.798775039876034,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2fe1VaEAAuOui.jpg",
-                "https://pbs.twimg.com/media/Fe2fe1WacAAZpTb.jpg"
-            ]
-        },
-        {
-            "tid": 1580094056210001920,
-            "uid": 125966823,
-            "author": "Dr Bec Szabo",
-            "user_img": "https://pbs.twimg.com/profile_images/1030055031112753152/47lzEHyS_normal.jpg",
-            "time": "2022-10-12 07:12:34 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Global temperatures are increasing. Bad for our health. Prof Eugenie Kayak https://t.co/m9e9hE9NCY",
-            "clean_text": "Global temperatures are increasing Bad for our health Prof Eugenie Kayak",
-            "place_name": "Royal Women's Hospital",
-            "place_type": "poi",
-            "longitude": 144.95460040742643,
-            "latitude": -37.798775039876034,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2fKdyaYAET4RX.jpg",
-                "https://pbs.twimg.com/media/Fe2fKdxakAA3pmQ.jpg"
-            ]
-        },
-        {
-            "tid": 1580092720299012096,
-            "uid": 125966823,
-            "author": "Dr Bec Szabo",
-            "user_img": "https://pbs.twimg.com/profile_images/1030055031112753152/47lzEHyS_normal.jpg",
-            "time": "2022-10-12 07:07:15 +0000",
-            "like_no": 9,
-            "language": "en",
-            "text": "@thewomens Tracy Maund Oration being opened by Dr Vicki Woodward \n\n“What you do makes a difference, and you have to decide what kind of difference you want to make” Dr Jane Goodall \n\nHealthcare and climate care: no laughing matter. Prof Eugenie Kayak @CritCareUniMelb @DocsEnvAus https://t.co/0DUGpa5bSe",
-            "clean_text": "Tracy Maund Oration being opened by Dr Vicki Woodward What you do makes a difference and you have to decide what kind of difference you want to make Dr Jane Goodall Healthcare and climate care no laughing matter Prof Eugenie Kayak",
-            "place_name": "Royal Women's Hospital",
-            "place_type": "poi",
-            "longitude": 144.95460040742643,
-            "latitude": -37.798775039876034,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2d8yMaMAEw3Ez.jpg"
-            ]
-        },
-        {
-            "tid": 1580060904242442241,
-            "uid": 321413069,
-            "author": "Steven Chang",
-            "user_img": "https://pbs.twimg.com/profile_images/1483677726578212869/4-lsb3Rr_normal.jpg",
-            "time": "2022-10-12 05:00:50 +0000",
-            "like_no": 5,
-            "language": "en",
-            "text": "Great ideas here about data as living spaces that we \"reworld\" over time. If it's living it can be subject to revision. Where and how do we retain? How do we re-curate? How can we speculatively think about what reuse looks like in 20 years? - @kateycoleman at #FigshareFest22 https://t.co/s9qOiZHW4z",
-            "clean_text": "Great ideas here about data as living spaces that we reworld over time If it's living it can be subject to revision Where and how do we retain How do we re curate How can we speculatively think about what reuse looks like in 20 years at",
-            "place_name": "Melbourne Connect",
-            "place_type": "poi",
-            "longitude": 144.964851,
-            "latitude": -37.799569,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2BBICakAAzMk1.jpg"
-            ]
-        },
-        {
-            "tid": 1580060371435802626,
-            "uid": 1567093792859385856,
-            "author": "Bohan",
-            "user_img": "https://pbs.twimg.com/profile_images/1580059274025537536/QYK1CkRG_normal.jpg",
-            "time": "2022-10-12 04:58:43 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "The first day I access tweeter!🥰 what’s this app for? https://t.co/aqFv7jUuam",
-            "clean_text": "The first day I access tweeter what s this app for",
-            "place_name": "The University of Melbourne",
-            "place_type": "poi",
-            "longitude": 144.9621703817303,
-            "latitude": -37.79877607670422,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2Ah-5aAAAXwV-.jpg"
-            ]
-        },
-        {
-            "tid": 1580059121357058048,
-            "uid": 321413069,
-            "author": "Steven Chang",
-            "user_img": "https://pbs.twimg.com/profile_images/1483677726578212869/4-lsb3Rr_normal.jpg",
-            "time": "2022-10-12 04:53:45 +0000",
-            "like_no": 14,
-            "language": "en",
-            "text": "Great seeing theory to complement practice at #FigshareFest22. Deleuze &amp; Guattari cited + the late Bruno Latour (RIP) - drink! Philosophy nerd in me is pleasantly surprised. Good talk by @kateycoleman on data constellations and how we archive our datascapes as cultural heritage https://t.co/njufdWVG8G",
-            "clean_text": "Great seeing theory to complement practice at Deleuze amp Guattari cited the late Bruno Latour RIP drink Philosophy nerd in me is pleasantly surprised Good talk by on data constellations and how we archive our datascapes as cultural heritage",
-            "place_name": "Melbourne Connect",
-            "place_type": "poi",
-            "longitude": 144.964851,
-            "latitude": -37.799569,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe1_ZERakAU6Wsl.jpg",
-                "https://pbs.twimg.com/media/Fe1_ZWuaYAEI7tC.jpg"
             ]
         }
     ]

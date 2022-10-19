@@ -2,6 +2,22 @@
     "count": 21,
     "data": [
         {
+            "tid": 1582597741087100928,
+            "uid": 1208687600644452353,
+            "author": "Roberto Puccino",
+            "user_img": "https://pbs.twimg.com/profile_images/1362029715301695492/dQnQmJlc_normal.jpg",
+            "time": "2022-10-19 05:01:19 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Melbourne sucks",
+            "clean_text": "Melbourne sucks",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "neighborhood",
+            "longitude": 144.97026606,
+            "latitude": -37.827486495,
+            "photo_urls": []
+        },
+        {
             "tid": 1582176342753218560,
             "uid": 1461202324240539648,
             "author": "Najam Saqib",
@@ -102,7 +118,7 @@
             "like_no": 9,
             "language": "en",
             "text": "Day 2 of presenting in Australia! Yesterday on creating a house mixed culture &amp; today on balanced complexity. Tasted 5 different beers using @BootlegBiology ETF blend. Such an engaging and delightful crowd. Thanks for the wonderful time in Melbourne. https://t.co/gTO9svDln5",
-            "clean_text": "Day 2 of presenting in Australia Yesterday on creating a house mixed culture amp today on balanced complexity Tasted 5 different beers using ETF blend Such an engaging and delightful crowd Thanks for the wonderful time in Melbourne",
+            "clean_text": "Day 2 of presenting in Australia Yesterday on creating a house mixed culture today on balanced complexity Tasted 5 different beers using ETF blend Such an engaging and delightful crowd Thanks for the wonderful time in Melbourne",
             "place_name": "Melbourne, Victoria",
             "place_type": "neighborhood",
             "longitude": 144.97026606,
@@ -350,7 +366,7 @@
             "like_no": 0,
             "language": "en",
             "text": "22 yrs ago,an act of terror tore away lives of 202 people,including 88 Australians &amp; 22 https://t.co/8SW0ejtDbO,we stand in solidarity with family \n/friends of those who are no longer with us.12OCT is d only day fountains &amp; lights at reflective pool in Lincoln Square turned off https://t.co/GCpRdWhJjN",
-            "clean_text": "22 yrs ago an act of terror tore away lives of 202 people including 88 Australians amp 22 we stand in solidarity with family friends of those who are no longer with us 12OCT is d only day fountains amp lights at reflective pool in Lincoln Square turned off",
+            "clean_text": "22 yrs ago an act of terror tore away lives of 202 people including 88 Australians 22 we stand in solidarity with family friends of those who are no longer with us 12OCT is d only day fountains lights at reflective pool in Lincoln Square turned off",
             "place_name": "Melbourne, Victoria",
             "place_type": "neighborhood",
             "longitude": 144.97026606,
@@ -376,26 +392,6 @@
             "latitude": -37.827486495,
             "photo_urls": [
                 "https://pbs.twimg.com/media/Fe6rCgEVIAIThix.jpg"
-            ]
-        },
-        {
-            "tid": 1580223616725454848,
-            "uid": 1546845180212686848,
-            "author": "Bubblebutigot",
-            "user_img": "https://pbs.twimg.com/profile_images/1547416010365751298/mokZ0OGT_normal.jpg",
-            "time": "2022-10-12 15:47:24 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "Any dom tops wanna use me? Straight preferred. #bttm #gay #sub #bubblebutt #fag #tops #topswanted https://t.co/cwi8VuXMFh",
-            "clean_text": "Any dom tops wanna use me Straight preferred",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "neighborhood",
-            "longitude": 144.97026606,
-            "latitude": -37.827486495,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe4VACmacAAAK2O.jpg",
-                "https://pbs.twimg.com/media/Fe4VAClagAIFtuf.jpg",
-                "https://pbs.twimg.com/media/Fe4VACmakAARKWB.jpg"
             ]
         }
     ]

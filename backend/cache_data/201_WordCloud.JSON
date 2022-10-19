@@ -1,12 +1,152 @@
 {
     "word_freq": [
         {
-            "text": "job",
-            "value": 12
+            "text": "shots",
+            "value": 1
         },
         {
-            "text": "might",
-            "value": 6
+            "text": "band",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "week",
+            "value": 2
+        },
+        {
+            "text": "much",
+            "value": 2
+        },
+        {
+            "text": "fun",
+            "value": 2
+        },
+        {
+            "text": "play",
+            "value": 1
+        },
+        {
+            "text": "live",
+            "value": 1
+        },
+        {
+            "text": "incredible",
+            "value": 1
+        },
+        {
+            "text": "group",
+            "value": 1
+        },
+        {
+            "text": "musos",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 2
+        },
+        {
+            "text": "jackmilligann",
+            "value": 1
+        },
+        {
+            "text": "setting",
+            "value": 1
+        },
+        {
+            "text": "scene",
+            "value": 1
+        },
+        {
+            "text": "Toff",
+            "value": 1
+        },
+        {
+            "text": "Town",
+            "value": 2
+        },
+        {
+            "text": "Networking",
+            "value": 1
+        },
+        {
+            "text": "everywhere",
+            "value": 1
+        },
+        {
+            "text": "Mastercard",
+            "value": 1
+        },
+        {
+            "text": "looking",
+            "value": 1
+        },
+        {
+            "text": "teammates",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 9
+        },
+        {
+            "text": "See",
+            "value": 2
+        },
+        {
+            "text": "latest",
+            "value": 2
+        },
+        {
+            "text": "job",
+            "value": 11
+        },
+        {
+            "text": "openings",
+            "value": 1
+        },
+        {
+            "text": "including",
+            "value": 1
+        },
+        {
+            "text": "Analyst",
+            "value": 1
+        },
+        {
+            "text": "Account",
+            "value": 1
+        },
+        {
+            "text": "Management",
+            "value": 1
+        },
+        {
+            "text": "via",
+            "value": 2
+        },
+        {
+            "text": "link",
+            "value": 8
+        },
+        {
+            "text": "bio",
+            "value": 8
+        },
+        {
+            "text": "VIC",
+            "value": 22
+        },
+        {
+            "text": "Interested",
+            "value": 1
+        },
+        {
+            "text": "could",
+            "value": 1
         },
         {
             "text": "great",
@@ -14,7 +154,27 @@
         },
         {
             "text": "fit",
+            "value": 2
+        },
+        {
+            "text": "Click",
+            "value": 4
+        },
+        {
+            "text": "apply",
+            "value": 8
+        },
+        {
+            "text": "Storeperson",
             "value": 1
+        },
+        {
+            "text": "UPS",
+            "value": 5
+        },
+        {
+            "text": "might",
+            "value": 6
         },
         {
             "text": "Principal",
@@ -133,16 +293,8 @@
             "value": 1
         },
         {
-            "text": "VIC",
-            "value": 22
-        },
-        {
             "text": "Sound",
             "value": 1
-        },
-        {
-            "text": "like",
-            "value": 10
         },
         {
             "text": "Let",
@@ -154,11 +306,11 @@
         },
         {
             "text": "posted",
-            "value": 5
+            "value": 4
         },
         {
             "text": "photo",
-            "value": 5
+            "value": 4
         },
         {
             "text": "QV",
@@ -173,16 +325,12 @@
             "value": 1
         },
         {
-            "text": "via",
-            "value": 1
-        },
-        {
             "text": "Melbourne",
-            "value": 36
+            "value": 33
         },
         {
             "text": "Victorian",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Australia",
@@ -197,10 +345,6 @@
             "value": 2
         },
         {
-            "text": "week",
-            "value": 1
-        },
-        {
             "text": "Arts",
             "value": 1
         },
@@ -213,14 +357,6 @@
             "value": 1
         },
         {
-            "text": "See",
-            "value": 1
-        },
-        {
-            "text": "latest",
-            "value": 1
-        },
-        {
             "text": "opportunity",
             "value": 1
         },
@@ -229,20 +365,8 @@
             "value": 1
         },
         {
-            "text": "link",
-            "value": 8
-        },
-        {
-            "text": "bio",
-            "value": 8
-        },
-        {
-            "text": "apply",
-            "value": 9
-        },
-        {
             "text": "Senior",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Solution",
@@ -254,15 +378,11 @@
         },
         {
             "text": "Epicor",
-            "value": 2
+            "value": 1
         },
         {
             "text": "open",
             "value": 1
-        },
-        {
-            "text": "UPS",
-            "value": 5
         },
         {
             "text": "Follow",
@@ -321,10 +441,6 @@
             "value": 2
         },
         {
-            "text": "Click",
-            "value": 4
-        },
-        {
             "text": "Center",
             "value": 1
         },
@@ -378,7 +494,7 @@
         },
         {
             "text": "pool",
-            "value": 2
+            "value": 1
         },
         {
             "text": "makes",
@@ -394,10 +510,6 @@
         },
         {
             "text": "hero",
-            "value": 1
-        },
-        {
-            "text": "20",
             "value": 1
         },
         {
@@ -421,12 +533,8 @@
             "value": 1
         },
         {
-            "text": "7",
-            "value": 1
-        },
-        {
             "text": "I'm",
-            "value": 19
+            "value": 18
         },
         {
             "text": "City",
@@ -450,11 +558,11 @@
         },
         {
             "text": "shy",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Score",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Product",
@@ -462,18 +570,10 @@
         },
         {
             "text": "Manager",
-            "value": 2
+            "value": 1
         },
         {
             "text": "SS",
-            "value": 2
-        },
-        {
-            "text": "amp",
-            "value": 9
-        },
-        {
-            "text": "C",
             "value": 2
         },
         {
@@ -482,31 +582,31 @@
         },
         {
             "text": "asking",
-            "value": 2
+            "value": 1
         },
         {
             "text": "referrals",
-            "value": 2
+            "value": 1
         },
         {
             "text": "way",
-            "value": 4
+            "value": 3
         },
         {
             "text": "get",
-            "value": 5
+            "value": 4
         },
         {
             "text": "meeting",
-            "value": 4
+            "value": 1
         },
         {
             "text": "HR",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Check",
-            "value": 4
+            "value": 3
         },
         {
             "text": "recommend",
@@ -546,30 +646,6 @@
         },
         {
             "text": "weekend",
-            "value": 1
-        },
-        {
-            "text": "Looking",
-            "value": 2
-        },
-        {
-            "text": "score",
-            "value": 2
-        },
-        {
-            "text": "luck",
-            "value": 2
-        },
-        {
-            "text": "description",
-            "value": 2
-        },
-        {
-            "text": "information",
-            "value": 2
-        },
-        {
-            "text": "Storeperson",
             "value": 1
         },
         {
@@ -686,7 +762,7 @@
         },
         {
             "text": "final",
-            "value": 2
+            "value": 1
         },
         {
             "text": "stages",
@@ -694,10 +770,6 @@
         },
         {
             "text": "set",
-            "value": 1
-        },
-        {
-            "text": "much",
             "value": 1
         },
         {
@@ -757,10 +829,6 @@
             "value": 9
         },
         {
-            "text": "w",
-            "value": 3
-        },
-        {
             "text": "Smart",
             "value": 1
         },
@@ -782,7 +850,7 @@
         },
         {
             "text": "today",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Network",
@@ -794,7 +862,7 @@
         },
         {
             "text": "night",
-            "value": 4
+            "value": 3
         },
         {
             "text": "best",
@@ -818,7 +886,7 @@
         },
         {
             "text": "day",
-            "value": 3
+            "value": 2
         },
         {
             "text": "BANGER",
@@ -865,12 +933,8 @@
             "value": 1
         },
         {
-            "text": "fun",
-            "value": 1
-        },
-        {
             "text": "little",
-            "value": 2
+            "value": 1
         },
         {
             "text": "post",
@@ -894,10 +958,6 @@
         },
         {
             "text": "noods",
-            "value": 1
-        },
-        {
-            "text": "39",
             "value": 1
         },
         {
@@ -1041,10 +1101,6 @@
             "value": 1
         },
         {
-            "text": "5",
-            "value": 1
-        },
-        {
             "text": "CBD",
             "value": 2
         },
@@ -1057,14 +1113,6 @@
             "value": 1
         },
         {
-            "text": "6",
-            "value": 1
-        },
-        {
-            "text": "30",
-            "value": 1
-        },
-        {
             "text": "Circle",
             "value": 1
         },
@@ -1074,10 +1122,6 @@
         },
         {
             "text": "even",
-            "value": 1
-        },
-        {
-            "text": "100",
             "value": 1
         },
         {
@@ -1094,10 +1138,6 @@
         },
         {
             "text": "Thai",
-            "value": 1
-        },
-        {
-            "text": "Town",
             "value": 1
         },
         {
@@ -1206,7 +1246,7 @@
         },
         {
             "text": "Street",
-            "value": 5
+            "value": 3
         },
         {
             "text": "Les",
@@ -1281,10 +1321,6 @@
             "value": 1
         },
         {
-            "text": "gt",
-            "value": 1
-        },
-        {
             "text": "rideshare",
             "value": 1
         },
@@ -1315,10 +1351,6 @@
         {
             "text": "done",
             "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 3
         },
         {
             "text": "reminder",
@@ -1389,19 +1421,31 @@
             "value": 2
         },
         {
-            "text": "11",
-            "value": 2
-        },
-        {
-            "text": "200",
-            "value": 2
-        },
-        {
             "text": "Worldwide",
             "value": 1
         },
         {
             "text": "Shipping",
+            "value": 1
+        },
+        {
+            "text": "Looking",
+            "value": 1
+        },
+        {
+            "text": "score",
+            "value": 1
+        },
+        {
+            "text": "luck",
+            "value": 1
+        },
+        {
+            "text": "description",
+            "value": 1
+        },
+        {
+            "text": "information",
             "value": 1
         },
         {
@@ -1589,10 +1633,6 @@
             "value": 1
         },
         {
-            "text": "500",
-            "value": 1
-        },
-        {
             "text": "chance",
             "value": 1
         },
@@ -1605,239 +1645,11 @@
             "value": 1
         },
         {
-            "text": "1000",
-            "value": 1
-        },
-        {
             "text": "two",
             "value": 1
         },
         {
             "text": "chances",
-            "value": 1
-        },
-        {
-            "text": "3000",
-            "value": 1
-        },
-        {
-            "text": "writes",
-            "value": 2
-        },
-        {
-            "text": "published",
-            "value": 2
-        },
-        {
-            "text": "4",
-            "value": 2
-        },
-        {
-            "text": "coming",
-            "value": 2
-        },
-        {
-            "text": "2",
-            "value": 2
-        },
-        {
-            "text": "meet",
-            "value": 2
-        },
-        {
-            "text": "U",
-            "value": 4
-        },
-        {
-            "text": "2nite",
-            "value": 4
-        },
-        {
-            "text": "gr8",
-            "value": 2
-        },
-        {
-            "text": "Ballers",
-            "value": 1
-        },
-        {
-            "text": "Clubhouse",
-            "value": 1
-        },
-        {
-            "text": "Union",
-            "value": 1
-        },
-        {
-            "text": "Bloody",
-            "value": 1
-        },
-        {
-            "text": "hell",
-            "value": 1
-        },
-        {
-            "text": "yeah",
-            "value": 1
-        },
-        {
-            "text": "Playing",
-            "value": 1
-        },
-        {
-            "text": "pools",
-            "value": 1
-        },
-        {
-            "text": "brother",
-            "value": 1
-        },
-        {
-            "text": "Sir",
-            "value": 1
-        },
-        {
-            "text": "lying",
-            "value": 1
-        },
-        {
-            "text": "bout",
-            "value": 1
-        },
-        {
-            "text": "rusty",
-            "value": 1
-        },
-        {
-            "text": "Supporting",
-            "value": 1
-        },
-        {
-            "text": "startup",
-            "value": 1
-        },
-        {
-            "text": "Soundsmith",
-            "value": 1
-        },
-        {
-            "text": "Demo",
-            "value": 1
-        },
-        {
-            "text": "Day",
-            "value": 1
-        },
-        {
-            "text": "tonight",
-            "value": 1
-        },
-        {
-            "text": "Even",
-            "value": 1
-        },
-        {
-            "text": "grey",
-            "value": 1
-        },
-        {
-            "text": "ol",
-            "value": 1
-        },
-        {
-            "text": "architecture",
-            "value": 1
-        },
-        {
-            "text": "ability",
-            "value": 1
-        },
-        {
-            "text": "bring",
-            "value": 1
-        },
-        {
-            "text": "joy",
-            "value": 1
-        },
-        {
-            "text": "colour",
-            "value": 1
-        },
-        {
-            "text": "case",
-            "value": 1
-        },
-        {
-            "text": "unicorn",
-            "value": 1
-        },
-        {
-            "text": "Drinking",
-            "value": 1
-        },
-        {
-            "text": "BentShovel",
-            "value": 1
-        },
-        {
-            "text": "BXW",
-            "value": 1
-        },
-        {
-            "text": "pennybluebar",
-            "value": 1
-        },
-        {
-            "text": "2nd",
-            "value": 1
-        },
-        {
-            "text": "Actually",
-            "value": 1
-        },
-        {
-            "text": "Lonsdale",
-            "value": 2
-        },
-        {
-            "text": "St",
-            "value": 2
-        },
-        {
-            "text": "lanes",
-            "value": 4
-        },
-        {
-            "text": "closed",
-            "value": 4
-        },
-        {
-            "text": "westbound",
-            "value": 2
-        },
-        {
-            "text": "Two",
-            "value": 1
-        },
-        {
-            "text": "Elizabeth",
-            "value": 2
-        },
-        {
-            "text": "H",
-            "value": 1
-        },
-        {
-            "text": "Territory",
-            "value": 1
-        },
-        {
-            "text": "southbound",
-            "value": 2
-        },
-        {
-            "text": "test",
             "value": 1
         }
     ]

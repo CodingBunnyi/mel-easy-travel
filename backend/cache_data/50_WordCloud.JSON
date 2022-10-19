@@ -1,16 +1,52 @@
 {
     "word_freq": [
         {
+            "text": "Premiere",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 5
+        },
+        {
+            "text": "IMAX",
+            "value": 1
+        },
+        {
+            "text": "world's",
+            "value": 1
+        },
+        {
+            "text": "best",
+            "value": 1
+        },
+        {
+            "text": "cricket",
+            "value": 1
+        },
+        {
+            "text": "photographer",
+            "value": 1
+        },
+        {
+            "text": "king",
+            "value": 1
+        },
+        {
+            "text": "Facebook",
+            "value": 1
+        },
+        {
+            "text": "premiere",
+            "value": 1
+        },
+        {
             "text": "I'm",
             "value": 3
         },
         {
             "text": "Carlton",
             "value": 6
-        },
-        {
-            "text": "Melbourne",
-            "value": 4
         },
         {
             "text": "Victoria",
@@ -43,10 +79,6 @@
         {
             "text": "King",
             "value": 1
-        },
-        {
-            "text": "amp",
-            "value": 2
         },
         {
             "text": "Godfree",
@@ -101,19 +133,7 @@
             "value": 1
         },
         {
-            "text": "2021",
-            "value": 1
-        },
-        {
             "text": "window",
-            "value": 1
-        },
-        {
-            "text": "5",
-            "value": 1
-        },
-        {
-            "text": "500",
             "value": 1
         },
         {
@@ -237,10 +257,6 @@
             "value": 1
         },
         {
-            "text": "2022",
-            "value": 1
-        },
-        {
             "text": "Argyle",
             "value": 1
         },
@@ -258,10 +274,6 @@
         },
         {
             "text": "day",
-            "value": 1
-        },
-        {
-            "text": "2",
             "value": 1
         },
         {
@@ -446,34 +458,6 @@
         },
         {
             "text": "habitat",
-            "value": 1
-        },
-        {
-            "text": "Gangster",
-            "value": 1
-        },
-        {
-            "text": "spec",
-            "value": 1
-        },
-        {
-            "text": "Take",
-            "value": 1
-        },
-        {
-            "text": "look",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 1
-        },
-        {
-            "text": "seat",
-            "value": 1
-        },
-        {
-            "text": "Motorclassica",
             "value": 1
         }
     ]

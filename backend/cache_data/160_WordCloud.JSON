@@ -134,11 +134,11 @@
         },
         {
             "text": "posted",
-            "value": 4
+            "value": 3
         },
         {
             "text": "photo",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Majesty's",
@@ -243,10 +243,6 @@
         {
             "text": "Cool",
             "value": 1
-        },
-        {
-            "text": "amp",
-            "value": 6
         },
         {
             "text": "funny",
@@ -421,10 +417,6 @@
             "value": 1
         },
         {
-            "text": "2019",
-            "value": 1
-        },
-        {
             "text": "last",
             "value": 1
         },
@@ -525,10 +517,6 @@
             "value": 1
         },
         {
-            "text": "3",
-            "value": 1
-        },
-        {
             "text": "Gimlet",
             "value": 1
         },
@@ -565,10 +553,6 @@
             "value": 1
         },
         {
-            "text": "w",
-            "value": 1
-        },
-        {
             "text": "Ohgam",
             "value": 1
         },
@@ -582,7 +566,7 @@
         },
         {
             "text": "Bar",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Victoria",
@@ -641,14 +625,6 @@
             "value": 2
         },
         {
-            "text": "11",
-            "value": 2
-        },
-        {
-            "text": "200",
-            "value": 2
-        },
-        {
             "text": "Bourke",
             "value": 2
         },
@@ -697,10 +673,6 @@
             "value": 1
         },
         {
-            "text": "22",
-            "value": 1
-        },
-        {
             "text": "23sec",
             "value": 1
         },
@@ -745,10 +717,6 @@
             "value": 1
         },
         {
-            "text": "500",
-            "value": 1
-        },
-        {
             "text": "get",
             "value": 2
         },
@@ -762,10 +730,6 @@
         },
         {
             "text": "purchasing",
-            "value": 1
-        },
-        {
-            "text": "1000",
             "value": 1
         },
         {
@@ -786,146 +750,6 @@
         },
         {
             "text": "VIC",
-            "value": 1
-        },
-        {
-            "text": "3000",
-            "value": 1
-        },
-        {
-            "text": "Cinderella",
-            "value": 1
-        },
-        {
-            "text": "2nd",
-            "value": 1
-        },
-        {
-            "text": "Art",
-            "value": 1
-        },
-        {
-            "text": "never",
-            "value": 1
-        },
-        {
-            "text": "waits",
-            "value": 1
-        },
-        {
-            "text": "oliviamollyrogers",
-            "value": 1
-        },
-        {
-            "text": "paulversace",
-            "value": 1
-        },
-        {
-            "text": "angelmusicbar",
-            "value": 1
-        },
-        {
-            "text": "dress",
-            "value": 1
-        },
-        {
-            "text": "cappellazzocouture",
-            "value": 1
-        },
-        {
-            "text": "Angel",
-            "value": 1
-        },
-        {
-            "text": "Music",
-            "value": 1
-        },
-        {
-            "text": "Ballers",
-            "value": 1
-        },
-        {
-            "text": "Clubhouse",
-            "value": 1
-        },
-        {
-            "text": "Celebrating",
-            "value": 1
-        },
-        {
-            "text": "Youth",
-            "value": 1
-        },
-        {
-            "text": "Parliament",
-            "value": 2
-        },
-        {
-            "text": "Express",
-            "value": 1
-        },
-        {
-            "text": "State",
-            "value": 1
-        },
-        {
-            "text": "Future",
-            "value": 1
-        },
-        {
-            "text": "Welcome",
-            "value": 1
-        },
-        {
-            "text": "Thx",
-            "value": 1
-        },
-        {
-            "text": "everyone",
-            "value": 1
-        },
-        {
-            "text": "involved",
-            "value": 1
-        },
-        {
-            "text": "programs",
-            "value": 1
-        },
-        {
-            "text": "produced",
-            "value": 1
-        },
-        {
-            "text": "young",
-            "value": 3
-        },
-        {
-            "text": "people",
-            "value": 3
-        },
-        {
-            "text": "committed",
-            "value": 1
-        },
-        {
-            "text": "connecting",
-            "value": 1
-        },
-        {
-            "text": "engaging",
-            "value": 1
-        },
-        {
-            "text": "supporting",
-            "value": 1
-        },
-        {
-            "text": "future",
-            "value": 1
-        },
-        {
-            "text": "bright",
             "value": 1
         }
     ]

@@ -1,6 +1,30 @@
 {
     "word_freq": [
         {
+            "text": "posted",
+            "value": 2
+        },
+        {
+            "text": "photo",
+            "value": 2
+        },
+        {
+            "text": "Yarra",
+            "value": 1
+        },
+        {
+            "text": "Botanica",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 11
+        },
+        {
+            "text": "sucks",
+            "value": 1
+        },
+        {
             "text": "Burnley",
             "value": 1
         },
@@ -14,7 +38,7 @@
         },
         {
             "text": "Southbank",
-            "value": 3
+            "value": 1
         },
         {
             "text": "lanes",
@@ -47,10 +71,6 @@
         {
             "text": "home",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 10
         },
         {
             "text": "Skydeck",
@@ -101,10 +121,6 @@
             "value": 1
         },
         {
-            "text": "23",
-            "value": 1
-        },
-        {
             "text": "two",
             "value": 1
         },
@@ -150,7 +166,7 @@
         },
         {
             "text": "Victoria",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Gardens",
@@ -162,10 +178,6 @@
         },
         {
             "text": "winter",
-            "value": 1
-        },
-        {
-            "text": "2022",
             "value": 1
         },
         {
@@ -206,7 +218,7 @@
         },
         {
             "text": "Australia",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Art",
@@ -241,10 +253,6 @@
             "value": 1
         },
         {
-            "text": "2",
-            "value": 1
-        },
-        {
             "text": "presenting",
             "value": 1
         },
@@ -265,10 +273,6 @@
             "value": 1
         },
         {
-            "text": "amp",
-            "value": 3
-        },
-        {
             "text": "today",
             "value": 2
         },
@@ -282,10 +286,6 @@
         },
         {
             "text": "Tasted",
-            "value": 1
-        },
-        {
-            "text": "5",
             "value": 1
         },
         {
@@ -451,14 +451,6 @@
         {
             "text": "Asado",
             "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 3
-        },
-        {
-            "text": "photo",
-            "value": 3
         },
         {
             "text": "State",
@@ -693,10 +685,6 @@
             "value": 1
         },
         {
-            "text": "22",
-            "value": 2
-        },
-        {
             "text": "yrs",
             "value": 1
         },
@@ -725,19 +713,11 @@
             "value": 1
         },
         {
-            "text": "202",
-            "value": 1
-        },
-        {
             "text": "people",
             "value": 1
         },
         {
             "text": "including",
-            "value": 1
-        },
-        {
-            "text": "88",
             "value": 1
         },
         {
@@ -822,54 +802,6 @@
         },
         {
             "text": "raining",
-            "value": 1
-        },
-        {
-            "text": "dom",
-            "value": 1
-        },
-        {
-            "text": "tops",
-            "value": 1
-        },
-        {
-            "text": "wanna",
-            "value": 1
-        },
-        {
-            "text": "use",
-            "value": 1
-        },
-        {
-            "text": "Straight",
-            "value": 1
-        },
-        {
-            "text": "preferred",
-            "value": 1
-        },
-        {
-            "text": "La",
-            "value": 1
-        },
-        {
-            "text": "Camera",
-            "value": 1
-        },
-        {
-            "text": "Southgate",
-            "value": 1
-        },
-        {
-            "text": "Balcony",
-            "value": 1
-        },
-        {
-            "text": "view",
-            "value": 1
-        },
-        {
-            "text": "Grand",
             "value": 1
         }
     ]

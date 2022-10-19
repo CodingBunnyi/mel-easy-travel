@@ -1,13 +1,133 @@
 {
-    "count": 4,
+    "count": 10,
     "data": [
+        {
+            "tid": 1582665196153102336,
+            "uid": 386943853,
+            "author": "Diana DJ",
+            "user_img": "https://pbs.twimg.com/profile_images/1542499495774396416/pTd2vlgo_normal.jpg",
+            "time": "2022-10-19 09:29:21 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Taking my girl out for a birthday dinner 😊 (@ Cafe Rosco - Chevron in Melbourne, Vic) https://t.co/v0c70cn9uG",
+            "clean_text": "Taking my girl out for a birthday dinner Cafe Rosco Chevron in Melbourne Vic",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97921871,
+            "latitude": -37.84538888,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582658463544406016,
+            "uid": 4424179512,
+            "author": "SSDP Australia",
+            "user_img": "https://pbs.twimg.com/profile_images/671798175431168000/1-BqcV4H_normal.jpg",
+            "time": "2022-10-19 09:02:36 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "‘There is potential for psychedelic compounds such as MDMA and classic psychedelics including psilocybin to treat mental health complications - perhaps this would lead to an entire re-framing to the drug use debate.’\n@MrMartinlw \n@FirstSteptweets \n#ThoughtLeadershipEvent https://t.co/W5Q3LCKfvo",
+            "clean_text": "There is potential for psychedelic compounds such as MDMA and classic psychedelics including psilocybin to treat mental health complications perhaps this would lead to an entire re framing to the drug use debate",
+            "place_name": "Power House Function Centre",
+            "place_type": "poi",
+            "longitude": 144.9770949360204,
+            "latitude": -37.849954530227166,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffa7e0kVEAEezzr.jpg"
+            ]
+        },
+        {
+            "tid": 1582649045754880000,
+            "uid": 4424179512,
+            "author": "SSDP Australia",
+            "user_img": "https://pbs.twimg.com/profile_images/671798175431168000/1-BqcV4H_normal.jpg",
+            "time": "2022-10-19 08:25:11 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "‘PTSD is higher in populations having experienced physical violence and sexual assault. Medications do not cure PTSD, trauma-related psychotherapies can. Many therapists aren’t trained and patients aren’t receiving evidence-based care.’\n#ThoughtLeadershipEvent\n @FirstSteptweets https://t.co/J3RsGexflz",
+            "clean_text": "PTSD is higher in populations having experienced physical violence and sexual assault Medications do not cure PTSD trauma related psychotherapies can Many therapists aren t trained and patients aren t receiving evidence based care",
+            "place_name": "Power House Function Centre",
+            "place_type": "poi",
+            "longitude": 144.9770949360204,
+            "latitude": -37.849954530227166,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffay6pNVQAMGJvA.jpg"
+            ]
+        },
+        {
+            "tid": 1582644924524089344,
+            "uid": 4424179512,
+            "author": "SSDP Australia",
+            "user_img": "https://pbs.twimg.com/profile_images/671798175431168000/1-BqcV4H_normal.jpg",
+            "time": "2022-10-19 08:08:48 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "‘I needed drug treatment within the context of trauma and trauma has to be treated in a dynamic way including addressing re-traumatisation.’\n@FirstSteptweets \n@_TaraSchultz",
+            "clean_text": "I needed drug treatment within the context of trauma and trauma has to be treated in a dynamic way including addressing re traumatisation",
+            "place_name": "Power House Function Centre",
+            "place_type": "poi",
+            "longitude": 144.9770949360204,
+            "latitude": -37.849954530227166,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582644521627549697,
+            "uid": 4424179512,
+            "author": "SSDP Australia",
+            "user_img": "https://pbs.twimg.com/profile_images/671798175431168000/1-BqcV4H_normal.jpg",
+            "time": "2022-10-19 08:07:12 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "‘I was told by a detox that I couldn’t access the service unless I went on Opioid Replacement Therapy  and it felt like coercion. They didn’t know how to treat trauma in that system’ \n@FirstSteptweets \n@_TaraSchultz https://t.co/TYVMeoZIjR",
+            "clean_text": "I was told by a detox that I couldn t access the service unless I went on Opioid Replacement Therapy and it felt like coercion They didn t know how to treat trauma in that system",
+            "place_name": "Power House Function Centre",
+            "place_type": "poi",
+            "longitude": 144.9770949360204,
+            "latitude": -37.849954530227166,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfauzSWVIAAXQSA.jpg"
+            ]
+        },
+        {
+            "tid": 1582637802625200129,
+            "uid": 4424179512,
+            "author": "SSDP Australia",
+            "user_img": "https://pbs.twimg.com/profile_images/671798175431168000/1-BqcV4H_normal.jpg",
+            "time": "2022-10-19 07:40:30 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "‘The Thought Leadership Event is about bringing people together who have similar values’\n@FirstSteptweets \n#traumacare2022 https://t.co/QaxX4yckEf",
+            "clean_text": "The Thought Leadership Event is about bringing people together who have similar values",
+            "place_name": "Power House Function Centre",
+            "place_type": "poi",
+            "longitude": 144.9770949360204,
+            "latitude": -37.849954530227166,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfaosLyVUAInXqK.jpg"
+            ]
+        },
+        {
+            "tid": 1582588320688705536,
+            "uid": 192130167,
+            "author": "Steven Thomas",
+            "user_img": "https://pbs.twimg.com/profile_images/1191290483395268608/A08HbwIa_normal.jpg",
+            "time": "2022-10-19 04:23:53 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Podcast Producer and Announcer internship available for 3 months. @ Australia https://t.co/tC9FGLeIdF",
+            "clean_text": "Podcast Producer and Announcer internship available for 3 months Australia",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97850037,
+            "latitude": -37.84751037,
+            "photo_urls": []
+        },
         {
             "tid": 1582521183030808576,
             "uid": 192130167,
             "author": "Steven Thomas",
             "user_img": "https://pbs.twimg.com/profile_images/1191290483395268608/A08HbwIa_normal.jpg",
             "time": "2022-10-18 23:57:06 +0000",
-            "like_no": 0,
+            "like_no": 1,
             "language": "en",
             "text": "Intern position available with an Australian based CPA accountant.\nPlease seek further information on this internship here - https://t.co/c74rviETp7 @ Australia https://t.co/DdmXuN2HKQ",
             "clean_text": "Intern position available with an Australian based CPA accountant Please seek further information on this internship here Australia",
@@ -23,7 +143,7 @@
             "author": "Crisdion Krstevski",
             "user_img": "https://pbs.twimg.com/profile_images/1576772472179130369/LaXLs9K8_normal.jpg",
             "time": "2022-10-18 10:14:17 +0000",
-            "like_no": 39,
+            "like_no": 45,
             "language": "en",
             "text": "A day in the @pinto_lab 👨‍🔬🧪running a rather large immunofluorescence stain of an entire study at once 😅🤯 to validate findings from our exciting single-cell data! 📌📊Can’t wait to see what we see under the microscope 🔬 @BakerResearchAu @MAPP_latrobe @gab_farrugia https://t.co/YUvC1IqQtx",
             "clean_text": "A day in the running a rather large immunofluorescence stain of an entire study at once to validate findings from our exciting single cell data Can t wait to see what we see under the microscope",
@@ -50,27 +170,6 @@
             "longitude": 144.97895861,
             "latitude": -37.85170683,
             "photo_urls": []
-        },
-        {
-            "tid": 1580110449311625216,
-            "uid": 1253620573,
-            "author": "Luke Phillips",
-            "user_img": "https://pbs.twimg.com/profile_images/3432095714/4502a76c9bf070b41c56854e2a4b1731_normal.jpeg",
-            "time": "2022-10-12 08:17:42 +0000",
-            "like_no": 32,
-            "language": "en",
-            "text": "Great day of #pocus teaching with our ED registrars @EmergEdu - serratus anterior plane blocks and peripheral nerve blocks followed by US jeopardy (🇦🇺edit) quiz #gamification #blocktober @AlfredHealth https://t.co/T1Z0y25uxN",
-            "clean_text": "Great day of teaching with our ED registrars serratus anterior plane blocks and peripheral nerve blocks followed by US jeopardy edit quiz",
-            "place_name": "The Alfred Hospital",
-            "place_type": "poi",
-            "longitude": 144.98220485110528,
-            "latitude": -37.84591174295989,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2uE28aAAIW_AV.jpg",
-                "https://pbs.twimg.com/media/Fe2uE2-aYAEUAxq.jpg",
-                "https://pbs.twimg.com/media/Fe2uE27aEAM1D4h.jpg",
-                "https://pbs.twimg.com/media/Fe2uE2_aYAIkVxw.jpg"
-            ]
         }
     ]
 }

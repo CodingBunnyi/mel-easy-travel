@@ -1,6 +1,14 @@
 {
     "word_freq": [
         {
+            "text": "Melbourne",
+            "value": 6
+        },
+        {
+            "text": "sucks",
+            "value": 1
+        },
+        {
             "text": "Much",
             "value": 1
         },
@@ -45,10 +53,6 @@
             "value": 1
         },
         {
-            "text": "23",
-            "value": 1
-        },
-        {
             "text": "two",
             "value": 1
         },
@@ -79,10 +83,6 @@
         {
             "text": "get",
             "value": 3
-        },
-        {
-            "text": "amp",
-            "value": 6
         },
         {
             "text": "Summer",
@@ -193,19 +193,11 @@
             "value": 2
         },
         {
-            "text": "Melbourne",
-            "value": 5
-        },
-        {
             "text": "late",
             "value": 1
         },
         {
             "text": "winter",
-            "value": 1
-        },
-        {
-            "text": "2022",
             "value": 1
         },
         {
@@ -313,10 +305,6 @@
             "value": 1
         },
         {
-            "text": "2",
-            "value": 1
-        },
-        {
             "text": "presenting",
             "value": 1
         },
@@ -350,10 +338,6 @@
         },
         {
             "text": "Tasted",
-            "value": 1
-        },
-        {
-            "text": "5",
             "value": 1
         },
         {
@@ -721,10 +705,6 @@
             "value": 1
         },
         {
-            "text": "22",
-            "value": 2
-        },
-        {
             "text": "yrs",
             "value": 1
         },
@@ -753,19 +733,11 @@
             "value": 1
         },
         {
-            "text": "202",
-            "value": 1
-        },
-        {
             "text": "people",
             "value": 1
         },
         {
             "text": "including",
-            "value": 1
-        },
-        {
-            "text": "88",
             "value": 1
         },
         {
@@ -850,30 +822,6 @@
         },
         {
             "text": "raining",
-            "value": 1
-        },
-        {
-            "text": "dom",
-            "value": 1
-        },
-        {
-            "text": "tops",
-            "value": 1
-        },
-        {
-            "text": "wanna",
-            "value": 1
-        },
-        {
-            "text": "use",
-            "value": 1
-        },
-        {
-            "text": "Straight",
-            "value": 1
-        },
-        {
-            "text": "preferred",
             "value": 1
         }
     ]

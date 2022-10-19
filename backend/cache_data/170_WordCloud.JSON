@@ -1,15 +1,75 @@
 {
     "word_freq": [
         {
+            "text": "Taking",
+            "value": 1
+        },
+        {
+            "text": "girl",
+            "value": 1
+        },
+        {
+            "text": "birthday",
+            "value": 1
+        },
+        {
+            "text": "dinner",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "Rosco",
+            "value": 1
+        },
+        {
+            "text": "Chevron",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "Vic",
+            "value": 1
+        },
+        {
+            "text": "Podcast",
+            "value": 1
+        },
+        {
+            "text": "Producer",
+            "value": 1
+        },
+        {
+            "text": "Announcer",
+            "value": 1
+        },
+        {
+            "text": "internship",
+            "value": 2
+        },
+        {
+            "text": "available",
+            "value": 2
+        },
+        {
+            "text": "months",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 2
+        },
+        {
             "text": "Intern",
             "value": 1
         },
         {
             "text": "position",
-            "value": 1
-        },
-        {
-            "text": "available",
             "value": 1
         },
         {
@@ -41,16 +101,8 @@
             "value": 1
         },
         {
-            "text": "internship",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 1
-        },
-        {
             "text": "day",
-            "value": 2
+            "value": 1
         },
         {
             "text": "running",
@@ -114,66 +166,6 @@
         },
         {
             "text": "microscope",
-            "value": 1
-        },
-        {
-            "text": "Great",
-            "value": 1
-        },
-        {
-            "text": "teaching",
-            "value": 1
-        },
-        {
-            "text": "ED",
-            "value": 1
-        },
-        {
-            "text": "registrars",
-            "value": 1
-        },
-        {
-            "text": "serratus",
-            "value": 1
-        },
-        {
-            "text": "anterior",
-            "value": 1
-        },
-        {
-            "text": "plane",
-            "value": 1
-        },
-        {
-            "text": "blocks",
-            "value": 2
-        },
-        {
-            "text": "peripheral",
-            "value": 1
-        },
-        {
-            "text": "nerve",
-            "value": 1
-        },
-        {
-            "text": "followed",
-            "value": 1
-        },
-        {
-            "text": "US",
-            "value": 1
-        },
-        {
-            "text": "jeopardy",
-            "value": 1
-        },
-        {
-            "text": "edit",
-            "value": 1
-        },
-        {
-            "text": "quiz",
             "value": 1
         }
     ]

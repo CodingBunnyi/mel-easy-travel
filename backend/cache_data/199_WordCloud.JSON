@@ -1,16 +1,32 @@
 {
     "word_freq": [
         {
+            "text": "Networking",
+            "value": 1
+        },
+        {
+            "text": "everywhere",
+            "value": 1
+        },
+        {
             "text": "posted",
-            "value": 4
+            "value": 5
         },
         {
             "text": "photo",
-            "value": 4
+            "value": 5
+        },
+        {
+            "text": "Schmucks",
+            "value": 3
+        },
+        {
+            "text": "Bagels",
+            "value": 3
         },
         {
             "text": "Melbourne",
-            "value": 17
+            "value": 15
         },
         {
             "text": "Australia",
@@ -61,24 +77,12 @@
             "value": 6
         },
         {
-            "text": "Schmucks",
-            "value": 2
-        },
-        {
-            "text": "Bagels",
-            "value": 2
-        },
-        {
-            "text": "300",
-            "value": 1
-        },
-        {
             "text": "King",
             "value": 1
         },
         {
             "text": "St",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Gooness",
@@ -91,10 +95,6 @@
         {
             "text": "Victoria",
             "value": 3
-        },
-        {
-            "text": "w",
-            "value": 1
         },
         {
             "text": "Another",
@@ -118,7 +118,7 @@
         },
         {
             "text": "night",
-            "value": 2
+            "value": 1
         },
         {
             "text": "people",
@@ -153,15 +153,7 @@
             "value": 1
         },
         {
-            "text": "39",
-            "value": 1
-        },
-        {
             "text": "Pizzeria",
-            "value": 1
-        },
-        {
-            "text": "amp",
             "value": 1
         },
         {
@@ -217,10 +209,6 @@
             "value": 1
         },
         {
-            "text": "gt",
-            "value": 1
-        },
-        {
             "text": "rideshare",
             "value": 1
         },
@@ -243,118 +231,6 @@
         {
             "text": "next",
             "value": 1
-        },
-        {
-            "text": "Playing",
-            "value": 1
-        },
-        {
-            "text": "pools",
-            "value": 1
-        },
-        {
-            "text": "final",
-            "value": 1
-        },
-        {
-            "text": "brother",
-            "value": 1
-        },
-        {
-            "text": "Sir",
-            "value": 1
-        },
-        {
-            "text": "lying",
-            "value": 1
-        },
-        {
-            "text": "bout",
-            "value": 1
-        },
-        {
-            "text": "rusty",
-            "value": 1
-        },
-        {
-            "text": "pool",
-            "value": 1
-        },
-        {
-            "text": "Uncle",
-            "value": 1
-        },
-        {
-            "text": "David's",
-            "value": 1
-        },
-        {
-            "text": "Cafe",
-            "value": 1
-        },
-        {
-            "text": "little",
-            "value": 1
-        },
-        {
-            "text": "Collins",
-            "value": 1
-        },
-        {
-            "text": "pretty",
-            "value": 1
-        },
-        {
-            "text": "mean",
-            "value": 1
-        },
-        {
-            "text": "rendang",
-            "value": 1
-        },
-        {
-            "text": "good",
-            "value": 1
-        },
-        {
-            "text": "Pandan",
-            "value": 1
-        },
-        {
-            "text": "brownie",
-            "value": 1
-        },
-        {
-            "text": "Lonsdale",
-            "value": 2
-        },
-        {
-            "text": "lanes",
-            "value": 4
-        },
-        {
-            "text": "closed",
-            "value": 4
-        },
-        {
-            "text": "westbound",
-            "value": 2
-        },
-        {
-            "text": "Two",
-            "value": 1
-        },
-        {
-            "text": "Elizabeth",
-            "value": 2
-        },
-        {
-            "text": "Street",
-            "value": 2
-        },
-        {
-            "text": "southbound",
-            "value": 2
         }
     ]
 }

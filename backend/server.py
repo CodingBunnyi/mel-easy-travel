@@ -3,20 +3,15 @@ from flask import Flask, request
 
 import updater
 import wordcloud
-# import history
 import realtime
-import counter
+import heatmap
 import sys
 
 # DEFAULT VALUES
-
-
-DEFAULT_LOCATION = 'UniversityOfMelbourne'
+DEFAULT_ID = 3
 DEFAULT_LONG = 144.9610
 DEFAULT_LAT = -37.7983
 DEFAULT_RADIUS = 0.5
-DEFAULT_DAYS = 0
-DEFAULT_HOURS = 1
 
 app = Flask(__name__)
 
@@ -71,12 +66,21 @@ def update_all():
     return updater.update_all_data()
 
 
+# Get heatmap geojson data
+# Cached in file.
+# Need no parameter.
+@app.route('/heat-map-data', methods=['get'])
+def get_heat_map():
+
+    return heatmap.heat_map_data()
+
+
 # Get word cloud data ([{word: str, freq: int}]) based on cached twitter data
-# Also cached in file for speed.
+# Also cached in file.
 # Need location id.
 @app.route('/word-cloud-data', methods=['get'])
 def get_word_cloud():
-    loc_id = request.args.get('loc_id', default=DEFAULT_LOCATION)
+    loc_id = request.args.get('loc_id', default=DEFAULT_ID)
 
     return wordcloud.word_cloud_data(loc_id)
 
@@ -97,24 +101,9 @@ def get_realtime_point():
     return realtime.realtime_point_data(long, lat, radius)
 
 
-# Get real time twitter count data within a circular (radius) area of point (long, lat)
-# Need long, lat, radius.
-# Default radius is 0.5 km if not passed.
-# Max 10 tweets
-@app.route('/realtime-point-count', methods=['get'])
-def get_realtime_point_count():
-    try:
-        long = float(request.args.get('long', default=DEFAULT_LONG))
-        lat = float(request.args.get('lat', default=DEFAULT_LAT))
-        radius = float(request.args.get('radius', default=DEFAULT_RADIUS))
-    except (TypeError, ValueError, NameError):
-        return 'Parameter Value Error'
-
-    return counter.get_count_point(long, lat, radius)
-
-
 # Running app
 if __name__ == '__main__':
-    if sys.argv == 'update':
-        print(f'Data update result: {updater.update_all_data()}')
+    if len(sys.argv) > 1:
+        if '-U' in sys.argv or '-u' in sys.argv:
+            print(f'Data update result: {updater.update_all_data()}')
     app.run(debug=False)

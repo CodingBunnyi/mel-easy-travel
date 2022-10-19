@@ -1,6 +1,22 @@
 {
     "word_freq": [
         {
+            "text": "Premiere",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 3
+        },
+        {
+            "text": "IMAX",
+            "value": 1
+        },
+        {
+            "text": "premiere",
+            "value": 1
+        },
+        {
             "text": "Sunday",
             "value": 1
         },
@@ -125,10 +141,6 @@
             "value": 1
         },
         {
-            "text": "2019",
-            "value": 1
-        },
-        {
             "text": "last",
             "value": 1
         },
@@ -215,14 +227,6 @@
         {
             "text": "hi",
             "value": 1
-        },
-        {
-            "text": "2",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 2
         },
         {
             "text": "things",
@@ -317,10 +321,6 @@
             "value": 1
         },
         {
-            "text": "amp",
-            "value": 1
-        },
-        {
             "text": "Mercy",
             "value": 1
         },
@@ -402,50 +402,6 @@
         },
         {
             "text": "sparkly",
-            "value": 1
-        },
-        {
-            "text": "Union",
-            "value": 1
-        },
-        {
-            "text": "Bloody",
-            "value": 1
-        },
-        {
-            "text": "hell",
-            "value": 1
-        },
-        {
-            "text": "yeah",
-            "value": 1
-        },
-        {
-            "text": "Gangster",
-            "value": 1
-        },
-        {
-            "text": "spec",
-            "value": 1
-        },
-        {
-            "text": "Take",
-            "value": 1
-        },
-        {
-            "text": "look",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 1
-        },
-        {
-            "text": "seat",
-            "value": 1
-        },
-        {
-            "text": "Motorclassica",
             "value": 1
         }
     ]

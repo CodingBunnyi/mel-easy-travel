@@ -1,6 +1,22 @@
 {
     "word_freq": [
         {
+            "text": "Flemington",
+            "value": 1
+        },
+        {
+            "text": "racecourse",
+            "value": 1
+        },
+        {
+            "text": "Maribyrnong",
+            "value": 2
+        },
+        {
+            "text": "flooded",
+            "value": 1
+        },
+        {
             "text": "Good",
             "value": 1
         },
@@ -154,10 +170,6 @@
         },
         {
             "text": "Kensington",
-            "value": 1
-        },
-        {
-            "text": "Maribyrnong",
             "value": 1
         },
         {

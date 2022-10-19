@@ -1,12 +1,60 @@
 {
     "word_freq": [
         {
+            "text": "Networking",
+            "value": 1
+        },
+        {
+            "text": "everywhere",
+            "value": 1
+        },
+        {
+            "text": "opposition",
+            "value": 1
+        },
+        {
+            "text": "fanclowns",
+            "value": 1
+        },
+        {
+            "text": "waaaah",
+            "value": 1
+        },
+        {
+            "text": "hate",
+            "value": 2
+        },
+        {
+            "text": "st",
+            "value": 1
+        },
+        {
+            "text": "kilda",
+            "value": 1
+        },
+        {
+            "text": "ross",
+            "value": 1
+        },
+        {
+            "text": "lyon",
+            "value": 1
+        },
+        {
             "text": "posted",
-            "value": 4
+            "value": 5
         },
         {
             "text": "photo",
-            "value": 4
+            "value": 5
+        },
+        {
+            "text": "Schmucks",
+            "value": 3
+        },
+        {
+            "text": "Bagels",
+            "value": 3
         },
         {
             "text": "Melbourne",
@@ -59,18 +107,6 @@
         {
             "text": "VIC",
             "value": 5
-        },
-        {
-            "text": "Schmucks",
-            "value": 2
-        },
-        {
-            "text": "Bagels",
-            "value": 2
-        },
-        {
-            "text": "300",
-            "value": 1
         },
         {
             "text": "King",
@@ -186,50 +222,6 @@
         },
         {
             "text": "next",
-            "value": 1
-        },
-        {
-            "text": "Uncle",
-            "value": 1
-        },
-        {
-            "text": "David's",
-            "value": 1
-        },
-        {
-            "text": "Cafe",
-            "value": 1
-        },
-        {
-            "text": "little",
-            "value": 1
-        },
-        {
-            "text": "Collins",
-            "value": 1
-        },
-        {
-            "text": "pretty",
-            "value": 1
-        },
-        {
-            "text": "mean",
-            "value": 1
-        },
-        {
-            "text": "rendang",
-            "value": 1
-        },
-        {
-            "text": "good",
-            "value": 1
-        },
-        {
-            "text": "Pandan",
-            "value": 1
-        },
-        {
-            "text": "brownie",
             "value": 1
         }
     ]

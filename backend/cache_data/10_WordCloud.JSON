@@ -1,6 +1,46 @@
 {
     "word_freq": [
         {
+            "text": "Premiere",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 9
+        },
+        {
+            "text": "IMAX",
+            "value": 1
+        },
+        {
+            "text": "world's",
+            "value": 1
+        },
+        {
+            "text": "best",
+            "value": 1
+        },
+        {
+            "text": "cricket",
+            "value": 1
+        },
+        {
+            "text": "photographer",
+            "value": 1
+        },
+        {
+            "text": "king",
+            "value": 1
+        },
+        {
+            "text": "Facebook",
+            "value": 1
+        },
+        {
+            "text": "premiere",
+            "value": 1
+        },
+        {
             "text": "Still",
             "value": 1
         },
@@ -23,10 +63,6 @@
         {
             "text": "Education",
             "value": 2
-        },
-        {
-            "text": "amp",
-            "value": 5
         },
         {
             "text": "Settler",
@@ -146,10 +182,6 @@
         },
         {
             "text": "hero",
-            "value": 1
-        },
-        {
-            "text": "20",
             "value": 1
         },
         {
@@ -337,10 +369,6 @@
             "value": 4
         },
         {
-            "text": "Melbourne",
-            "value": 8
-        },
-        {
             "text": "City",
             "value": 4
         },
@@ -406,10 +434,6 @@
         },
         {
             "text": "October",
-            "value": 1
-        },
-        {
-            "text": "2022",
             "value": 1
         },
         {
@@ -482,10 +506,6 @@
         },
         {
             "text": "hi",
-            "value": 1
-        },
-        {
-            "text": "2",
             "value": 1
         },
         {
@@ -818,50 +838,6 @@
         },
         {
             "text": "sparkly",
-            "value": 1
-        },
-        {
-            "text": "Union",
-            "value": 1
-        },
-        {
-            "text": "Bloody",
-            "value": 1
-        },
-        {
-            "text": "hell",
-            "value": 1
-        },
-        {
-            "text": "yeah",
-            "value": 1
-        },
-        {
-            "text": "Gangster",
-            "value": 1
-        },
-        {
-            "text": "spec",
-            "value": 1
-        },
-        {
-            "text": "Take",
-            "value": 1
-        },
-        {
-            "text": "look",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 1
-        },
-        {
-            "text": "seat",
-            "value": 1
-        },
-        {
-            "text": "Motorclassica",
             "value": 1
         }
     ]

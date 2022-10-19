@@ -5,7 +5,7 @@ Please read the read_before_use.md for instructions
 import datetime
 import re
 import time
-
+import html
 import tweepy
 import json
 
@@ -185,6 +185,9 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
                             end_index = entity_dict['end']
                             tag = tweet.text[start_index:end_index + 1]
                             tweet_text = tweet_text.replace(tag, "", 1)
+
+            # Decode HTML
+            tweet_text = html.unescape(tweet_text)
 
             # Remove unnecessary punctuations, line break and spaces
             tweet_text = re.sub('[^a-zA-Z0-9 \']', ' ', tweet_text)

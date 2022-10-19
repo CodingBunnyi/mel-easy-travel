@@ -1,6 +1,30 @@
 {
     "word_freq": [
         {
+            "text": "Networking",
+            "value": 1
+        },
+        {
+            "text": "everywhere",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 5
+        },
+        {
+            "text": "photo",
+            "value": 5
+        },
+        {
+            "text": "Schmucks",
+            "value": 3
+        },
+        {
+            "text": "Bagels",
+            "value": 3
+        },
+        {
             "text": "Gianluca",
             "value": 1
         },
@@ -10,7 +34,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 20
+            "value": 18
         },
         {
             "text": "Victorian",
@@ -18,14 +42,6 @@
         },
         {
             "text": "Australia",
-            "value": 4
-        },
-        {
-            "text": "posted",
-            "value": 4
-        },
-        {
-            "text": "photo",
             "value": 4
         },
         {
@@ -73,28 +89,12 @@
             "value": 7
         },
         {
-            "text": "Schmucks",
-            "value": 2
-        },
-        {
-            "text": "Bagels",
-            "value": 2
-        },
-        {
-            "text": "7",
-            "value": 1
-        },
-        {
-            "text": "300",
-            "value": 1
-        },
-        {
             "text": "King",
             "value": 1
         },
         {
             "text": "St",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Gooness",
@@ -109,16 +109,12 @@
             "value": 4
         },
         {
-            "text": "w",
-            "value": 1
-        },
-        {
             "text": "Last",
             "value": 1
         },
         {
             "text": "night",
-            "value": 3
+            "value": 2
         },
         {
             "text": "people",
@@ -161,15 +157,7 @@
             "value": 1
         },
         {
-            "text": "39",
-            "value": 1
-        },
-        {
             "text": "Pizzeria",
-            "value": 1
-        },
-        {
-            "text": "amp",
             "value": 1
         },
         {
@@ -190,10 +178,6 @@
         },
         {
             "text": "CBD",
-            "value": 1
-        },
-        {
-            "text": "gt",
             "value": 1
         },
         {
@@ -251,74 +235,6 @@
         {
             "text": "next",
             "value": 1
-        },
-        {
-            "text": "Playing",
-            "value": 1
-        },
-        {
-            "text": "pools",
-            "value": 1
-        },
-        {
-            "text": "final",
-            "value": 1
-        },
-        {
-            "text": "brother",
-            "value": 1
-        },
-        {
-            "text": "Sir",
-            "value": 1
-        },
-        {
-            "text": "lying",
-            "value": 1
-        },
-        {
-            "text": "bout",
-            "value": 1
-        },
-        {
-            "text": "rusty",
-            "value": 1
-        },
-        {
-            "text": "pool",
-            "value": 1
-        },
-        {
-            "text": "Lonsdale",
-            "value": 2
-        },
-        {
-            "text": "lanes",
-            "value": 4
-        },
-        {
-            "text": "closed",
-            "value": 4
-        },
-        {
-            "text": "westbound",
-            "value": 2
-        },
-        {
-            "text": "Two",
-            "value": 1
-        },
-        {
-            "text": "Elizabeth",
-            "value": 2
-        },
-        {
-            "text": "Street",
-            "value": 2
-        },
-        {
-            "text": "southbound",
-            "value": 2
         }
     ]
 }

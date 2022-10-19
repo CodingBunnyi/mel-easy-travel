@@ -1,6 +1,358 @@
 {
     "word_freq": [
         {
+            "text": "Taking",
+            "value": 1
+        },
+        {
+            "text": "girl",
+            "value": 1
+        },
+        {
+            "text": "birthday",
+            "value": 1
+        },
+        {
+            "text": "dinner",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "Rosco",
+            "value": 1
+        },
+        {
+            "text": "Chevron",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "Vic",
+            "value": 1
+        },
+        {
+            "text": "potential",
+            "value": 1
+        },
+        {
+            "text": "psychedelic",
+            "value": 1
+        },
+        {
+            "text": "compounds",
+            "value": 1
+        },
+        {
+            "text": "MDMA",
+            "value": 1
+        },
+        {
+            "text": "classic",
+            "value": 1
+        },
+        {
+            "text": "psychedelics",
+            "value": 1
+        },
+        {
+            "text": "including",
+            "value": 2
+        },
+        {
+            "text": "psilocybin",
+            "value": 1
+        },
+        {
+            "text": "treat",
+            "value": 2
+        },
+        {
+            "text": "mental",
+            "value": 1
+        },
+        {
+            "text": "health",
+            "value": 1
+        },
+        {
+            "text": "complications",
+            "value": 1
+        },
+        {
+            "text": "perhaps",
+            "value": 1
+        },
+        {
+            "text": "would",
+            "value": 1
+        },
+        {
+            "text": "lead",
+            "value": 1
+        },
+        {
+            "text": "entire",
+            "value": 2
+        },
+        {
+            "text": "framing",
+            "value": 1
+        },
+        {
+            "text": "drug",
+            "value": 2
+        },
+        {
+            "text": "use",
+            "value": 1
+        },
+        {
+            "text": "debate",
+            "value": 1
+        },
+        {
+            "text": "PTSD",
+            "value": 2
+        },
+        {
+            "text": "higher",
+            "value": 1
+        },
+        {
+            "text": "populations",
+            "value": 1
+        },
+        {
+            "text": "experienced",
+            "value": 1
+        },
+        {
+            "text": "physical",
+            "value": 1
+        },
+        {
+            "text": "violence",
+            "value": 1
+        },
+        {
+            "text": "sexual",
+            "value": 1
+        },
+        {
+            "text": "assault",
+            "value": 1
+        },
+        {
+            "text": "Medications",
+            "value": 1
+        },
+        {
+            "text": "cure",
+            "value": 1
+        },
+        {
+            "text": "trauma",
+            "value": 4
+        },
+        {
+            "text": "related",
+            "value": 1
+        },
+        {
+            "text": "psychotherapies",
+            "value": 1
+        },
+        {
+            "text": "Many",
+            "value": 1
+        },
+        {
+            "text": "therapists",
+            "value": 1
+        },
+        {
+            "text": "trained",
+            "value": 1
+        },
+        {
+            "text": "patients",
+            "value": 1
+        },
+        {
+            "text": "receiving",
+            "value": 1
+        },
+        {
+            "text": "evidence",
+            "value": 1
+        },
+        {
+            "text": "based",
+            "value": 2
+        },
+        {
+            "text": "care",
+            "value": 1
+        },
+        {
+            "text": "needed",
+            "value": 1
+        },
+        {
+            "text": "treatment",
+            "value": 1
+        },
+        {
+            "text": "within",
+            "value": 1
+        },
+        {
+            "text": "context",
+            "value": 1
+        },
+        {
+            "text": "treated",
+            "value": 1
+        },
+        {
+            "text": "dynamic",
+            "value": 1
+        },
+        {
+            "text": "way",
+            "value": 1
+        },
+        {
+            "text": "addressing",
+            "value": 1
+        },
+        {
+            "text": "traumatisation",
+            "value": 1
+        },
+        {
+            "text": "told",
+            "value": 1
+        },
+        {
+            "text": "detox",
+            "value": 1
+        },
+        {
+            "text": "access",
+            "value": 1
+        },
+        {
+            "text": "service",
+            "value": 1
+        },
+        {
+            "text": "unless",
+            "value": 1
+        },
+        {
+            "text": "went",
+            "value": 1
+        },
+        {
+            "text": "Opioid",
+            "value": 1
+        },
+        {
+            "text": "Replacement",
+            "value": 1
+        },
+        {
+            "text": "Therapy",
+            "value": 1
+        },
+        {
+            "text": "felt",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 1
+        },
+        {
+            "text": "coercion",
+            "value": 1
+        },
+        {
+            "text": "know",
+            "value": 1
+        },
+        {
+            "text": "system",
+            "value": 1
+        },
+        {
+            "text": "Thought",
+            "value": 1
+        },
+        {
+            "text": "Leadership",
+            "value": 1
+        },
+        {
+            "text": "Event",
+            "value": 1
+        },
+        {
+            "text": "bringing",
+            "value": 1
+        },
+        {
+            "text": "people",
+            "value": 1
+        },
+        {
+            "text": "together",
+            "value": 1
+        },
+        {
+            "text": "similar",
+            "value": 1
+        },
+        {
+            "text": "values",
+            "value": 1
+        },
+        {
+            "text": "Podcast",
+            "value": 1
+        },
+        {
+            "text": "Producer",
+            "value": 1
+        },
+        {
+            "text": "Announcer",
+            "value": 1
+        },
+        {
+            "text": "internship",
+            "value": 2
+        },
+        {
+            "text": "available",
+            "value": 2
+        },
+        {
+            "text": "months",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 2
+        },
+        {
             "text": "Intern",
             "value": 1
         },
@@ -9,15 +361,7 @@
             "value": 1
         },
         {
-            "text": "available",
-            "value": 1
-        },
-        {
             "text": "Australian",
-            "value": 1
-        },
-        {
-            "text": "based",
             "value": 1
         },
         {
@@ -41,16 +385,8 @@
             "value": 1
         },
         {
-            "text": "internship",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 1
-        },
-        {
             "text": "day",
-            "value": 2
+            "value": 1
         },
         {
             "text": "running",
@@ -70,10 +406,6 @@
         },
         {
             "text": "stain",
-            "value": 1
-        },
-        {
-            "text": "entire",
             "value": 1
         },
         {
@@ -130,66 +462,6 @@
         },
         {
             "text": "amazing",
-            "value": 1
-        },
-        {
-            "text": "Great",
-            "value": 1
-        },
-        {
-            "text": "teaching",
-            "value": 1
-        },
-        {
-            "text": "ED",
-            "value": 1
-        },
-        {
-            "text": "registrars",
-            "value": 1
-        },
-        {
-            "text": "serratus",
-            "value": 1
-        },
-        {
-            "text": "anterior",
-            "value": 1
-        },
-        {
-            "text": "plane",
-            "value": 1
-        },
-        {
-            "text": "blocks",
-            "value": 2
-        },
-        {
-            "text": "peripheral",
-            "value": 1
-        },
-        {
-            "text": "nerve",
-            "value": 1
-        },
-        {
-            "text": "followed",
-            "value": 1
-        },
-        {
-            "text": "US",
-            "value": 1
-        },
-        {
-            "text": "jeopardy",
-            "value": 1
-        },
-        {
-            "text": "edit",
-            "value": 1
-        },
-        {
-            "text": "quiz",
             "value": 1
         }
     ]

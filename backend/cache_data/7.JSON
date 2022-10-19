@@ -2,12 +2,44 @@
     "count": 43,
     "data": [
         {
+            "tid": 1582796381831372801,
+            "uid": 1352008255443234816,
+            "author": "LUXEbyMia #BlackOwnedBusiness",
+            "user_img": "https://pbs.twimg.com/profile_images/1557356315525189633/U9A6Gtq1_normal.jpg",
+            "time": "2022-10-19 18:10:39 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Small Businesses https://t.co/cexsBJrEBK",
+            "clean_text": "Just posted a photo Small Businesses",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96064409,
+            "latitude": -37.81724685,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582607764060151808,
+            "uid": 3855004872,
+            "author": "Schmucks Bagels",
+            "user_img": "https://pbs.twimg.com/profile_images/653099636538765313/0gakKGRb_normal.jpg",
+            "time": "2022-10-19 05:41:09 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Schmucks Bagels https://t.co/1AQbRJaGPz",
+            "clean_text": "Just posted a photo Schmucks Bagels",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9568939,
+            "latitude": -37.8143806,
+            "photo_urls": []
+        },
+        {
             "tid": 1582570914340012032,
             "uid": 18680755,
             "author": "The Ice Axe 🧊🪓",
             "user_img": "https://pbs.twimg.com/profile_images/1546309980172693504/RrhgOU-6_normal.jpg",
             "time": "2022-10-19 03:14:43 +0000",
-            "like_no": 0,
+            "like_no": 6,
             "language": "en",
             "text": "Good Morning #Fellas from the Australian Field Office. Btw. the coffee machine is broken but given you snubs are only getting your shots from the cute barista downstairs, it only affects the data monkeys. https://t.co/FY6oImWkFk",
             "clean_text": "Good Morning from the Australian Field Office Btw the coffee machine is broken but given you snubs are only getting your shots from the cute barista downstairs it only affects the data monkeys",
@@ -552,7 +584,7 @@
             "like_no": 0,
             "language": "en",
             "text": "🦩 HELLOOO FLAMINGO!!!! I’ve missed you!!! 🥲💜 So excited to be back tonight to throw down ALL THE HEAVIES in the Aviary 1-2am!!! 😈 \n\n&gt;&gt; swipe to see clips from back in 2019!!! &gt;&gt; @ Flamingo Club https://t.co/QJ8X2vu20S",
-            "clean_text": "HELLOOO FLAMINGO I ve missed you So excited to be back tonight to throw down ALL THE HEAVIES in the Aviary 1 2am gt gt swipe to see clips from back in 2019 gt gt Flamingo Club",
+            "clean_text": "HELLOOO FLAMINGO I ve missed you So excited to be back tonight to throw down ALL THE HEAVIES in the Aviary 1 2am swipe to see clips from back in 2019 Flamingo Club",
             "place_name": "Melbourne, Victoria",
             "place_type": "city",
             "longitude": 144.96064,
@@ -674,42 +706,6 @@
             "longitude": 144.95777851914937,
             "latitude": -37.81953903344151,
             "photo_urls": []
-        },
-        {
-            "tid": 1580109150259798016,
-            "uid": 17285408,
-            "author": "Paul Wallbank",
-            "user_img": "https://pbs.twimg.com/profile_images/1139990552751923200/TLt-ToI-_normal.png",
-            "time": "2022-10-12 08:12:33 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "Dinner time. https://t.co/kbFy1TOtM9",
-            "clean_text": "Dinner time",
-            "place_name": "The Irish Times",
-            "place_type": "poi",
-            "longitude": 144.96056313491044,
-            "latitude": -37.816135313895735,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2s5AeUUAAUFey.jpg"
-            ]
-        },
-        {
-            "tid": 1580081311196524545,
-            "uid": 242398537,
-            "author": "Gans",
-            "user_img": "https://pbs.twimg.com/profile_images/1566345589948051457/yAdBrWzi_normal.jpg",
-            "time": "2022-10-12 06:21:55 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Uncle David's Cafe on little Collins has a pretty mean rendang and a good Pandan brownie https://t.co/uEOrDx6XwA",
-            "clean_text": "Uncle David's Cafe on little Collins has a pretty mean rendang and a good Pandan brownie",
-            "place_name": "Uncle David's Cafe",
-            "place_type": "poi",
-            "longitude": 144.95667,
-            "latitude": -37.816483,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe2TknGagAErY8w.jpg"
-            ]
         }
     ]
 }

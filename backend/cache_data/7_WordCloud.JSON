@@ -1,6 +1,30 @@
 {
     "word_freq": [
         {
+            "text": "posted",
+            "value": 13
+        },
+        {
+            "text": "photo",
+            "value": 13
+        },
+        {
+            "text": "Small",
+            "value": 2
+        },
+        {
+            "text": "Businesses",
+            "value": 2
+        },
+        {
+            "text": "Schmucks",
+            "value": 3
+        },
+        {
+            "text": "Bagels",
+            "value": 3
+        },
+        {
             "text": "Good",
             "value": 2
         },
@@ -90,7 +114,7 @@
         },
         {
             "text": "good",
-            "value": 3
+            "value": 2
         },
         {
             "text": "tonight",
@@ -217,14 +241,6 @@
             "value": 1
         },
         {
-            "text": "posted",
-            "value": 11
-        },
-        {
-            "text": "photo",
-            "value": 11
-        },
-        {
             "text": "Melbourne",
             "value": 10
         },
@@ -247,14 +263,6 @@
         {
             "text": "VIC",
             "value": 5
-        },
-        {
-            "text": "Schmucks",
-            "value": 2
-        },
-        {
-            "text": "Bagels",
-            "value": 2
         },
         {
             "text": "Working",
@@ -349,10 +357,6 @@
             "value": 1
         },
         {
-            "text": "X",
-            "value": 1
-        },
-        {
             "text": "Caught",
             "value": 1
         },
@@ -423,10 +427,6 @@
         {
             "text": "Reservoir",
             "value": 5
-        },
-        {
-            "text": "300",
-            "value": 1
         },
         {
             "text": "King",
@@ -633,14 +633,6 @@
             "value": 1
         },
         {
-            "text": "Small",
-            "value": 1
-        },
-        {
-            "text": "Businesses",
-            "value": 1
-        },
-        {
             "text": "HELLOOO",
             "value": 1
         },
@@ -673,16 +665,8 @@
             "value": 1
         },
         {
-            "text": "1",
-            "value": 1
-        },
-        {
             "text": "2am",
             "value": 1
-        },
-        {
-            "text": "gt",
-            "value": 4
         },
         {
             "text": "swipe",
@@ -690,10 +674,6 @@
         },
         {
             "text": "clips",
-            "value": 1
-        },
-        {
-            "text": "2019",
             "value": 1
         },
         {
@@ -790,58 +770,6 @@
         },
         {
             "text": "next",
-            "value": 1
-        },
-        {
-            "text": "C",
-            "value": 1
-        },
-        {
-            "text": "Dinner",
-            "value": 1
-        },
-        {
-            "text": "time",
-            "value": 1
-        },
-        {
-            "text": "Uncle",
-            "value": 1
-        },
-        {
-            "text": "David's",
-            "value": 1
-        },
-        {
-            "text": "Cafe",
-            "value": 1
-        },
-        {
-            "text": "little",
-            "value": 1
-        },
-        {
-            "text": "Collins",
-            "value": 1
-        },
-        {
-            "text": "pretty",
-            "value": 1
-        },
-        {
-            "text": "mean",
-            "value": 1
-        },
-        {
-            "text": "rendang",
-            "value": 1
-        },
-        {
-            "text": "Pandan",
-            "value": 1
-        },
-        {
-            "text": "brownie",
             "value": 1
         }
     ]
