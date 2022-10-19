@@ -122,43 +122,43 @@
         },
         {
             "text": "see",
-            "value": 1
+            "value": 2
         },
         {
             "text": "posted",
-            "value": 5
+            "value": 15
         },
         {
             "text": "photo",
-            "value": 5
+            "value": 16
         },
         {
             "text": "Majesty's",
-            "value": 1
+            "value": 4
         },
         {
             "text": "Theatre",
-            "value": 1
+            "value": 6
         },
         {
             "text": "Melbourne",
-            "value": 3
+            "value": 28
         },
         {
             "text": "Harry",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Potter",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Cursed",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Child",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Expecto",
@@ -178,7 +178,7 @@
         },
         {
             "text": "st",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Bennetts",
@@ -206,11 +206,11 @@
         },
         {
             "text": "day",
-            "value": 1
+            "value": 4
         },
         {
             "text": "way",
-            "value": 1
+            "value": 2
         },
         {
             "text": "arrived",
@@ -254,7 +254,7 @@
         },
         {
             "text": "bring",
-            "value": 1
+            "value": 2
         },
         {
             "text": "spark",
@@ -266,7 +266,7 @@
         },
         {
             "text": "one",
-            "value": 1
+            "value": 3
         },
         {
             "text": "moto",
@@ -306,7 +306,7 @@
         },
         {
             "text": "First",
-            "value": 1
+            "value": 3
         },
         {
             "text": "face",
@@ -318,7 +318,7 @@
         },
         {
             "text": "since",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Feb",
@@ -350,7 +350,7 @@
         },
         {
             "text": "room",
-            "value": 1
+            "value": 3
         },
         {
             "text": "complete",
@@ -362,7 +362,7 @@
         },
         {
             "text": "grateful",
-            "value": 1
+            "value": 2
         },
         {
             "text": "proud",
@@ -398,11 +398,11 @@
         },
         {
             "text": "next",
-            "value": 1
+            "value": 3
         },
         {
             "text": "years",
-            "value": 1
+            "value": 2
         },
         {
             "text": "exec",
@@ -430,27 +430,27 @@
         },
         {
             "text": "3",
-            "value": 1
-        },
-        {
-            "text": "Nick",
-            "value": 1
-        },
-        {
-            "text": "amp",
-            "value": 4
-        },
-        {
-            "text": "Nora's",
-            "value": 1
-        },
-        {
-            "text": "I'm",
             "value": 2
         },
         {
+            "text": "Nick",
+            "value": 2
+        },
+        {
+            "text": "amp",
+            "value": 11
+        },
+        {
+            "text": "Nora's",
+            "value": 2
+        },
+        {
+            "text": "I'm",
+            "value": 4
+        },
+        {
             "text": "St",
-            "value": 1
+            "value": 6
         },
         {
             "text": "Vincents",
@@ -470,7 +470,7 @@
         },
         {
             "text": "Victoria",
-            "value": 2
+            "value": 4
         },
         {
             "text": "Ohgam",
@@ -482,11 +482,11 @@
         },
         {
             "text": "Restaurant",
-            "value": 1
+            "value": 4
         },
         {
             "text": "Bar",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Cinderella",
@@ -502,7 +502,7 @@
         },
         {
             "text": "never",
-            "value": 1
+            "value": 2
         },
         {
             "text": "waits",
@@ -554,7 +554,7 @@
         },
         {
             "text": "Parliament",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Express",
@@ -598,7 +598,7 @@
         },
         {
             "text": "people",
-            "value": 3
+            "value": 4
         },
         {
             "text": "committed",
@@ -622,6 +622,1766 @@
         },
         {
             "text": "bright",
+            "value": 1
+        },
+        {
+            "text": "Aaaand",
+            "value": 1
+        },
+        {
+            "text": "reminder",
+            "value": 1
+        },
+        {
+            "text": "Dan",
+            "value": 1
+        },
+        {
+            "text": "Andrews",
+            "value": 1
+        },
+        {
+            "text": "Jacinta",
+            "value": 1
+        },
+        {
+            "text": "Allan",
+            "value": 1
+        },
+        {
+            "text": "Kat",
+            "value": 1
+        },
+        {
+            "text": "Theophanous",
+            "value": 1
+        },
+        {
+            "text": "actually",
+            "value": 1
+        },
+        {
+            "text": "state",
+            "value": 1
+        },
+        {
+            "text": "labor",
+            "value": 2
+        },
+        {
+            "text": "MPs",
+            "value": 1
+        },
+        {
+            "text": "Vic",
+            "value": 3
+        },
+        {
+            "text": "plan",
+            "value": 1
+        },
+        {
+            "text": "allow",
+            "value": 1
+        },
+        {
+            "text": "logging",
+            "value": 4
+        },
+        {
+            "text": "another",
+            "value": 1
+        },
+        {
+            "text": "long",
+            "value": 1
+        },
+        {
+            "text": "eight",
+            "value": 1
+        },
+        {
+            "text": "likely",
+            "value": 1
+        },
+        {
+            "text": "lead",
+            "value": 1
+        },
+        {
+            "text": "extinction",
+            "value": 1
+        },
+        {
+            "text": "gorgeous",
+            "value": 1
+        },
+        {
+            "text": "greater",
+            "value": 1
+        },
+        {
+            "text": "glider",
+            "value": 1
+        },
+        {
+            "text": "habitat",
+            "value": 1
+        },
+        {
+            "text": "primary",
+            "value": 1
+        },
+        {
+            "text": "threat",
+            "value": 1
+        },
+        {
+            "text": "Plagiarist",
+            "value": 1
+        },
+        {
+            "text": "Launch",
+            "value": 1
+        },
+        {
+            "text": "Chinatown",
+            "value": 1
+        },
+        {
+            "text": "Sheraton",
+            "value": 1
+        },
+        {
+            "text": "Spring",
+            "value": 4
+        },
+        {
+            "text": "Street",
+            "value": 2
+        },
+        {
+            "text": "Hochi",
+            "value": 1
+        },
+        {
+            "text": "Mama",
+            "value": 1
+        },
+        {
+            "text": "chuffed",
+            "value": 1
+        },
+        {
+            "text": "award",
+            "value": 1
+        },
+        {
+            "text": "Unsurprisingly",
+            "value": 1
+        },
+        {
+            "text": "spent",
+            "value": 2
+        },
+        {
+            "text": "mic",
+            "value": 1
+        },
+        {
+            "text": "minutes",
+            "value": 1
+        },
+        {
+            "text": "talking",
+            "value": 1
+        },
+        {
+            "text": "important",
+            "value": 2
+        },
+        {
+            "text": "role",
+            "value": 1
+        },
+        {
+            "text": "GPs",
+            "value": 2
+        },
+        {
+            "text": "play",
+            "value": 2
+        },
+        {
+            "text": "provision",
+            "value": 1
+        },
+        {
+            "text": "early",
+            "value": 3
+        },
+        {
+            "text": "medical",
+            "value": 1
+        },
+        {
+            "text": "abortion",
+            "value": 3
+        },
+        {
+            "text": "10",
+            "value": 1
+        },
+        {
+            "text": "Aus",
+            "value": 1
+        },
+        {
+            "text": "registered",
+            "value": 1
+        },
+        {
+            "text": "link",
+            "value": 1
+        },
+        {
+            "text": "Thank",
+            "value": 1
+        },
+        {
+            "text": "Luke's",
+            "value": 1
+        },
+        {
+            "text": "Conformation",
+            "value": 1
+        },
+        {
+            "text": "Patrick's",
+            "value": 1
+        },
+        {
+            "text": "Cathedral",
+            "value": 2
+        },
+        {
+            "text": "Happy",
+            "value": 2
+        },
+        {
+            "text": "many",
+            "value": 1
+        },
+        {
+            "text": "folks",
+            "value": 1
+        },
+        {
+            "text": "protesting",
+            "value": 1
+        },
+        {
+            "text": "Bernie",
+            "value": 1
+        },
+        {
+            "text": "Finn",
+            "value": 1
+        },
+        {
+            "text": "anti",
+            "value": 1
+        },
+        {
+            "text": "March",
+            "value": 1
+        },
+        {
+            "text": "Babies",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 2
+        },
+        {
+            "text": "disgraceful",
+            "value": 1
+        },
+        {
+            "text": "excuse",
+            "value": 1
+        },
+        {
+            "text": "MP",
+            "value": 1
+        },
+        {
+            "text": "represent",
+            "value": 1
+        },
+        {
+            "text": "constituent",
+            "value": 1
+        },
+        {
+            "text": "need",
+            "value": 1
+        },
+        {
+            "text": "defend",
+            "value": 1
+        },
+        {
+            "text": "extend",
+            "value": 1
+        },
+        {
+            "text": "rights",
+            "value": 1
+        },
+        {
+            "text": "criminalise",
+            "value": 1
+        },
+        {
+            "text": "healthcare",
+            "value": 1
+        },
+        {
+            "text": "East",
+            "value": 3
+        },
+        {
+            "text": "Road",
+            "value": 1
+        },
+        {
+            "text": "Closed",
+            "value": 2
+        },
+        {
+            "text": "Bourke",
+            "value": 3
+        },
+        {
+            "text": "due",
+            "value": 1
+        },
+        {
+            "text": "demonstration",
+            "value": 1
+        },
+        {
+            "text": "Please",
+            "value": 1
+        },
+        {
+            "text": "Full",
+            "value": 1
+        },
+        {
+            "text": "blown",
+            "value": 1
+        },
+        {
+            "text": "roast",
+            "value": 1
+        },
+        {
+            "text": "dinner",
+            "value": 3
+        },
+        {
+            "text": "weeks",
+            "value": 1
+        },
+        {
+            "text": "eating",
+            "value": 1
+        },
+        {
+            "text": "Asian",
+            "value": 1
+        },
+        {
+            "text": "food",
+            "value": 1
+        },
+        {
+            "text": "Asia",
+            "value": 1
+        },
+        {
+            "text": "Elephant",
+            "value": 2
+        },
+        {
+            "text": "Wheelbarrow",
+            "value": 2
+        },
+        {
+            "text": "Expand",
+            "value": 1
+        },
+        {
+            "text": "reproductive",
+            "value": 1
+        },
+        {
+            "text": "health",
+            "value": 1
+        },
+        {
+            "text": "care",
+            "value": 1
+        },
+        {
+            "text": "Make",
+            "value": 1
+        },
+        {
+            "text": "free",
+            "value": 1
+        },
+        {
+            "text": "accessible",
+            "value": 1
+        },
+        {
+            "text": "Come",
+            "value": 1
+        },
+        {
+            "text": "join",
+            "value": 1
+        },
+        {
+            "text": "us",
+            "value": 1
+        },
+        {
+            "text": "vic",
+            "value": 1
+        },
+        {
+            "text": "parlement",
+            "value": 1
+        },
+        {
+            "text": "steps",
+            "value": 1
+        },
+        {
+            "text": "170",
+            "value": 2
+        },
+        {
+            "text": "Russell",
+            "value": 2
+        },
+        {
+            "text": "Waiting",
+            "value": 2
+        },
+        {
+            "text": "line",
+            "value": 1
+        },
+        {
+            "text": "get",
+            "value": 2
+        },
+        {
+            "text": "restaurant",
+            "value": 2
+        },
+        {
+            "text": "married",
+            "value": 1
+        },
+        {
+            "text": "mate",
+            "value": 1
+        },
+        {
+            "text": "phone",
+            "value": 1
+        },
+        {
+            "text": "swiping",
+            "value": 1
+        },
+        {
+            "text": "left",
+            "value": 1
+        },
+        {
+            "text": "right",
+            "value": 1
+        },
+        {
+            "text": "date",
+            "value": 1
+        },
+        {
+            "text": "theatre",
+            "value": 1
+        },
+        {
+            "text": "happens",
+            "value": 2
+        },
+        {
+            "text": "pre",
+            "value": 1
+        },
+        {
+            "text": "drink",
+            "value": 1
+        },
+        {
+            "text": "Carrie",
+            "value": 1
+        },
+        {
+            "text": "Farmers",
+            "value": 1
+        },
+        {
+            "text": "Daughter",
+            "value": 1
+        },
+        {
+            "text": "rooftop",
+            "value": 1
+        },
+        {
+            "text": "bar",
+            "value": 1
+        },
+        {
+            "text": "b4",
+            "value": 1
+        },
+        {
+            "text": "Great",
+            "value": 1
+        },
+        {
+            "text": "Gippsland",
+            "value": 1
+        },
+        {
+            "text": "products",
+            "value": 1
+        },
+        {
+            "text": "ordered",
+            "value": 1
+        },
+        {
+            "text": "Loch",
+            "value": 1
+        },
+        {
+            "text": "Gin",
+            "value": 1
+        },
+        {
+            "text": "n",
+            "value": 1
+        },
+        {
+            "text": "Tonic",
+            "value": 1
+        },
+        {
+            "text": "u",
+            "value": 2
+        },
+        {
+            "text": "8",
+            "value": 1
+        },
+        {
+            "text": "hours",
+            "value": 2
+        },
+        {
+            "text": "45s",
+            "value": 2
+        },
+        {
+            "text": "SPQR",
+            "value": 4
+        },
+        {
+            "text": "Pizzeria",
+            "value": 4
+        },
+        {
+            "text": "Flower",
+            "value": 1
+        },
+        {
+            "text": "Drum",
+            "value": 1
+        },
+        {
+            "text": "finished",
+            "value": 1
+        },
+        {
+            "text": "fantastic",
+            "value": 2
+        },
+        {
+            "text": "event",
+            "value": 1
+        },
+        {
+            "text": "held",
+            "value": 1
+        },
+        {
+            "text": "VPS",
+            "value": 2
+        },
+        {
+            "text": "Women",
+            "value": 1
+        },
+        {
+            "text": "Colour",
+            "value": 1
+        },
+        {
+            "text": "Network",
+            "value": 1
+        },
+        {
+            "text": "tonight",
+            "value": 4
+        },
+        {
+            "text": "reflect",
+            "value": 1
+        },
+        {
+            "text": "Victorian",
+            "value": 1
+        },
+        {
+            "text": "Community",
+            "value": 1
+        },
+        {
+            "text": "serves",
+            "value": 1
+        },
+        {
+            "text": "Celia",
+            "value": 1
+        },
+        {
+            "text": "Tran",
+            "value": 1
+        },
+        {
+            "text": "Nav",
+            "value": 1
+        },
+        {
+            "text": "Singh",
+            "value": 1
+        },
+        {
+            "text": "co",
+            "value": 1
+        },
+        {
+            "text": "Chairs",
+            "value": 1
+        },
+        {
+            "text": "Minister",
+            "value": 1
+        },
+        {
+            "text": "Multi",
+            "value": 1
+        },
+        {
+            "text": "cultural",
+            "value": 1
+        },
+        {
+            "text": "commissioner",
+            "value": 1
+        },
+        {
+            "text": "responsibility",
+            "value": 1
+        },
+        {
+            "text": "ensure",
+            "value": 1
+        },
+        {
+            "text": "stops",
+            "value": 1
+        },
+        {
+            "text": "Abolish",
+            "value": 1
+        },
+        {
+            "text": "regional",
+            "value": 1
+        },
+        {
+            "text": "forest",
+            "value": 1
+        },
+        {
+            "text": "agreements",
+            "value": 1
+        },
+        {
+            "text": "utter",
+            "value": 1
+        },
+        {
+            "text": "madness",
+            "value": 1
+        },
+        {
+            "text": "exempt",
+            "value": 1
+        },
+        {
+            "text": "federal",
+            "value": 1
+        },
+        {
+            "text": "environment",
+            "value": 1
+        },
+        {
+            "text": "law",
+            "value": 1
+        },
+        {
+            "text": "Logging",
+            "value": 1
+        },
+        {
+            "text": "causing",
+            "value": 1
+        },
+        {
+            "text": "extinctions",
+            "value": 1
+        },
+        {
+            "text": "climate",
+            "value": 1
+        },
+        {
+            "text": "collapse",
+            "value": 1
+        },
+        {
+            "text": "CAST",
+            "value": 1
+        },
+        {
+            "text": "ANNOUNCEMENT",
+            "value": 1
+        },
+        {
+            "text": "GWB",
+            "value": 1
+        },
+        {
+            "text": "Entertainment",
+            "value": 1
+        },
+        {
+            "text": "Old",
+            "value": 1
+        },
+        {
+            "text": "critically",
+            "value": 1
+        },
+        {
+            "text": "acclaimed",
+            "value": 1
+        },
+        {
+            "text": "production",
+            "value": 1
+        },
+        {
+            "text": "Christmas",
+            "value": 1
+        },
+        {
+            "text": "Carol",
+            "value": 1
+        },
+        {
+            "text": "12",
+            "value": 1
+        },
+        {
+            "text": "November",
+            "value": 1
+        },
+        {
+            "text": "Comedy",
+            "value": 2
+        },
+        {
+            "text": "Lansdowne",
+            "value": 1
+        },
+        {
+            "text": "lanes",
+            "value": 1
+        },
+        {
+            "text": "closed",
+            "value": 2
+        },
+        {
+            "text": "northbound",
+            "value": 2
+        },
+        {
+            "text": "Right",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 1
+        },
+        {
+            "text": "Albert",
+            "value": 1
+        },
+        {
+            "text": "folk",
+            "value": 1
+        },
+        {
+            "text": "fucking",
+            "value": 1
+        },
+        {
+            "text": "amazing",
+            "value": 1
+        },
+        {
+            "text": "Startling",
+            "value": 1
+        },
+        {
+            "text": "red",
+            "value": 1
+        },
+        {
+            "text": "spring",
+            "value": 1
+        },
+        {
+            "text": "growth",
+            "value": 1
+        },
+        {
+            "text": "hedge",
+            "value": 1
+        },
+        {
+            "text": "Peter's",
+            "value": 2
+        },
+        {
+            "text": "Eastern",
+            "value": 2
+        },
+        {
+            "text": "Hill",
+            "value": 2
+        },
+        {
+            "text": "Enticements",
+            "value": 1
+        },
+        {
+            "text": "coffee",
+            "value": 1
+        },
+        {
+            "text": "AUSSIE",
+            "value": 1
+        },
+        {
+            "text": "derelict",
+            "value": 1
+        },
+        {
+            "text": "former",
+            "value": 1
+        },
+        {
+            "text": "Red",
+            "value": 1
+        },
+        {
+            "text": "Cross",
+            "value": 1
+        },
+        {
+            "text": "building",
+            "value": 2
+        },
+        {
+            "text": "Carlton",
+            "value": 4
+        },
+        {
+            "text": "Gardens",
+            "value": 4
+        },
+        {
+            "text": "Hakata",
+            "value": 1
+        },
+        {
+            "text": "Gensuke",
+            "value": 1
+        },
+        {
+            "text": "protest",
+            "value": 1
+        },
+        {
+            "text": "29",
+            "value": 1
+        },
+        {
+            "text": "Sep",
+            "value": 1
+        },
+        {
+            "text": "2022",
+            "value": 1
+        },
+        {
+            "text": "2",
+            "value": 2
+        },
+        {
+            "text": "finest",
+            "value": 1
+        },
+        {
+            "text": "6",
+            "value": 2
+        },
+        {
+            "text": "30pm",
+            "value": 2
+        },
+        {
+            "text": "Ye",
+            "value": 1
+        },
+        {
+            "text": "olde",
+            "value": 2
+        },
+        {
+            "text": "English",
+            "value": 2
+        },
+        {
+            "text": "pub",
+            "value": 3
+        },
+        {
+            "text": "meal",
+            "value": 1
+        },
+        {
+            "text": "ye",
+            "value": 1
+        },
+        {
+            "text": "friends",
+            "value": 2
+        },
+        {
+            "text": "forever",
+            "value": 1
+        },
+        {
+            "text": "always",
+            "value": 1
+        },
+        {
+            "text": "tove",
+            "value": 1
+        },
+        {
+            "text": "lo",
+            "value": 1
+        },
+        {
+            "text": "sm",
+            "value": 1
+        },
+        {
+            "text": "hump",
+            "value": 1
+        },
+        {
+            "text": "hood",
+            "value": 1
+        },
+        {
+            "text": "Hey",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 2
+        },
+        {
+            "text": "town",
+            "value": 2
+        },
+        {
+            "text": "got",
+            "value": 1
+        },
+        {
+            "text": "gig",
+            "value": 1
+        },
+        {
+            "text": "week",
+            "value": 1
+        },
+        {
+            "text": "good",
+            "value": 1
+        },
+        {
+            "text": "Book",
+            "value": 1
+        },
+        {
+            "text": "table",
+            "value": 1
+        },
+        {
+            "text": "friend",
+            "value": 1
+        },
+        {
+            "text": "walk",
+            "value": 1
+        },
+        {
+            "text": "ins",
+            "value": 1
+        },
+        {
+            "text": "worth",
+            "value": 1
+        },
+        {
+            "text": "try",
+            "value": 1
+        },
+        {
+            "text": "Discover",
+            "value": 1
+        },
+        {
+            "text": "skill",
+            "value": 1
+        },
+        {
+            "text": "goes",
+            "value": 1
+        },
+        {
+            "text": "creating",
+            "value": 1
+        },
+        {
+            "text": "stories",
+            "value": 1
+        },
+        {
+            "text": "stage",
+            "value": 1
+        },
+        {
+            "text": "selection",
+            "value": 2
+        },
+        {
+            "text": "display",
+            "value": 1
+        },
+        {
+            "text": "part",
+            "value": 2
+        },
+        {
+            "text": "san",
+            "value": 1
+        },
+        {
+            "text": "francisco",
+            "value": 1
+        },
+        {
+            "text": "everything",
+            "value": 1
+        },
+        {
+            "text": "lt",
+            "value": 1
+        },
+        {
+            "text": "change",
+            "value": 1
+        },
+        {
+            "text": "meat",
+            "value": 2
+        },
+        {
+            "text": "fest",
+            "value": 2
+        },
+        {
+            "text": "San",
+            "value": 2
+        },
+        {
+            "text": "Telmo",
+            "value": 2
+        },
+        {
+            "text": "die",
+            "value": 1
+        },
+        {
+            "text": "go",
+            "value": 1
+        },
+        {
+            "text": "happy",
+            "value": 1
+        },
+        {
+            "text": "Looking",
+            "value": 1
+        },
+        {
+            "text": "fwd",
+            "value": 1
+        },
+        {
+            "text": "main",
+            "value": 1
+        },
+        {
+            "text": "arriving",
+            "value": 1
+        },
+        {
+            "text": "Mmm",
+            "value": 1
+        },
+        {
+            "text": "beer",
+            "value": 2
+        },
+        {
+            "text": "Grand",
+            "value": 1
+        },
+        {
+            "text": "final",
+            "value": 1
+        },
+        {
+            "text": "show",
+            "value": 1
+        },
+        {
+            "text": "European",
+            "value": 1
+        },
+        {
+            "text": "Bier",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 3
+        },
+        {
+            "text": "Existing",
+            "value": 1
+        },
+        {
+            "text": "demolition",
+            "value": 1
+        },
+        {
+            "text": "proposed",
+            "value": 1
+        },
+        {
+            "text": "skinny",
+            "value": 1
+        },
+        {
+            "text": "apartment",
+            "value": 1
+        },
+        {
+            "text": "buildings",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 1
+        },
+        {
+            "text": "NYC",
+            "value": 1
+        },
+        {
+            "text": "Coromandel",
+            "value": 1
+        },
+        {
+            "text": "Actually",
+            "value": 1
+        },
+        {
+            "text": "Meyers",
+            "value": 1
+        },
+        {
+            "text": "Place",
+            "value": 3
+        },
+        {
+            "text": "upmarket",
+            "value": 1
+        },
+        {
+            "text": "bit",
+            "value": 1
+        },
+        {
+            "text": "samey",
+            "value": 1
+        },
+        {
+            "text": "rescued",
+            "value": 1
+        },
+        {
+            "text": "delightful",
+            "value": 1
+        },
+        {
+            "text": "botanical",
+            "value": 1
+        },
+        {
+            "text": "prints",
+            "value": 1
+        },
+        {
+            "text": "Hotel",
+            "value": 2
+        },
+        {
+            "text": "Windsor",
+            "value": 2
+        },
+        {
+            "text": "Hilby",
+            "value": 1
+        },
+        {
+            "text": "5",
+            "value": 1
+        },
+        {
+            "text": "celebratory",
+            "value": 1
+        },
+        {
+            "text": "High",
+            "value": 2
+        },
+        {
+            "text": "Tea",
+            "value": 1
+        },
+        {
+            "text": "truly",
+            "value": 1
+        },
+        {
+            "text": "horrendous",
+            "value": 1
+        },
+        {
+            "text": "surely",
+            "value": 1
+        },
+        {
+            "text": "worst",
+            "value": 1
+        },
+        {
+            "text": "public",
+            "value": 1
+        },
+        {
+            "text": "gracing",
+            "value": 1
+        },
+        {
+            "text": "city",
+            "value": 1
+        },
+        {
+            "text": "Casselden",
+            "value": 2
+        },
+        {
+            "text": "Curls",
+            "value": 1
+        },
+        {
+            "text": "well",
+            "value": 1
+        },
+        {
+            "text": "synagogue",
+            "value": 1
+        },
+        {
+            "text": "keep",
+            "value": 1
+        },
+        {
+            "text": "goy",
+            "value": 1
+        },
+        {
+            "text": "l",
+            "value": 1
+        },
+        {
+            "text": "Synagogue",
+            "value": 1
+        },
+        {
+            "text": "Digesting",
+            "value": 1
+        },
+        {
+            "text": "nutrients",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 1
+        },
+        {
+            "text": "CBD",
+            "value": 1
+        },
+        {
+            "text": "REPORT",
+            "value": 1
+        },
+        {
+            "text": "sad",
+            "value": 1
+        },
+        {
+            "text": "bars",
+            "value": 1
+        },
+        {
+            "text": "pubs",
+            "value": 1
+        },
+        {
+            "text": "hardly",
+            "value": 1
+        },
+        {
+            "text": "fans",
+            "value": 1
+        },
+        {
+            "text": "seen",
+            "value": 1
+        },
+        {
+            "text": "gone",
+            "value": 1
+        },
+        {
+            "text": "Kadina",
+            "value": 1
+        },
+        {
+            "text": "Best",
+            "value": 1
+        },
+        {
+            "text": "could",
+            "value": 1
+        },
+        {
+            "text": "manage",
+            "value": 1
+        },
+        {
+            "text": "cherrybarmelb",
+            "value": 1
+        },
+        {
+            "text": "first",
+            "value": 1
+        },
+        {
+            "text": "time",
+            "value": 2
+        },
+        {
+            "text": "tully",
+            "value": 1
+        },
+        {
+            "text": "heenan",
+            "value": 1
+        },
+        {
+            "text": "officialvoltjolt",
+            "value": 1
+        },
+        {
+            "text": "went",
+            "value": 1
+        },
+        {
+            "text": "rocked",
+            "value": 1
+        },
+        {
+            "text": "joint",
+            "value": 1
+        },
+        {
+            "text": "Cherry",
+            "value": 1
+        },
+        {
+            "text": "Almost",
+            "value": 1
+        },
+        {
+            "text": "hidden",
+            "value": 1
+        },
+        {
+            "text": "1",
+            "value": 1
+        },
+        {
+            "text": "stop",
+            "value": 2
+        },
+        {
+            "text": "epic",
+            "value": 1
+        },
+        {
+            "text": "Becco",
+            "value": 2
+        },
+        {
+            "text": "start",
+            "value": 1
+        },
+        {
+            "text": "18th",
+            "value": 1
+        },
+        {
+            "text": "wedding",
+            "value": 1
+        },
+        {
+            "text": "anniversary",
+            "value": 1
+        },
+        {
+            "text": "Tuesday",
+            "value": 1
+        },
+        {
+            "text": "night",
+            "value": 1
+        },
+        {
+            "text": "Salumi",
+            "value": 1
+        },
+        {
+            "text": "pickles",
+            "value": 1
+        },
+        {
+            "text": "perfect",
+            "value": 1
+        },
+        {
+            "text": "chain",
+            "value": 1
+        },
+        {
+            "text": "gym",
+            "value": 1
+        },
+        {
+            "text": "2020",
+            "value": 1
+        },
+        {
+            "text": "bought",
+            "value": 1
+        },
+        {
+            "text": "vax",
+            "value": 1
+        },
+        {
+            "text": "passports",
+            "value": 1
+        },
+        {
+            "text": "strange",
+            "value": 2
+        },
+        {
+            "text": "working",
+            "value": 1
+        },
+        {
+            "text": "around",
+            "value": 1
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "characters",
+            "value": 1
+        },
+        {
+            "text": "Evening",
+            "value": 1
+        },
+        {
+            "text": "Hall",
+            "value": 1
+        },
+        {
+            "text": "Australian",
+            "value": 1
+        },
+        {
+            "text": "Catholic",
+            "value": 1
+        },
+        {
+            "text": "University",
+            "value": 1
+        },
+        {
+            "text": "Take",
+            "value": 1
+        },
+        {
+            "text": "dining",
+            "value": 1
+        },
+        {
+            "text": "experience",
+            "value": 1
+        },
+        {
+            "text": "level",
+            "value": 1
+        },
+        {
+            "text": "folding",
+            "value": 1
+        },
+        {
+            "text": "chopstick",
+            "value": 1
+        },
+        {
+            "text": "holder",
+            "value": 1
+        },
+        {
+            "text": "Shujinko",
+            "value": 1
+        },
+        {
+            "text": "Ramen",
+            "value": 1
+        },
+        {
+            "text": "Drinking",
+            "value": 2
+        },
+        {
+            "text": "Brooklyn",
+            "value": 1
+        },
+        {
+            "text": "Lager",
+            "value": 2
+        },
+        {
+            "text": "Furphy",
+            "value": 1
+        },
+        {
+            "text": "Crisp",
+            "value": 1
+        },
+        {
+            "text": "Little",
+            "value": 1
+        },
+        {
+            "text": "Creatures",
+            "value": 1
+        },
+        {
+            "text": "Brewing",
+            "value": 1
+        },
+        {
+            "text": "Pellegrini's",
+            "value": 1
+        },
+        {
+            "text": "Talking",
+            "value": 1
+        },
+        {
+            "text": "footy",
+            "value": 1
+        },
+        {
+            "text": "finals",
+            "value": 1
+        },
+        {
+            "text": "family",
+            "value": 1
+        },
+        {
+            "text": "Melb",
+            "value": 1
+        },
+        {
+            "text": "Tickets",
+            "value": 1
+        },
+        {
+            "text": "sale",
+            "value": 1
+        },
+        {
+            "text": "Yeah",
+            "value": 1
+        },
+        {
+            "text": "probably",
+            "value": 1
+        },
+        {
+            "text": "brought",
+            "value": 1
+        },
+        {
+            "text": "lunch",
+            "value": 1
+        },
+        {
+            "text": "please",
+            "value": 1
+        },
+        {
+            "text": "enjoy",
+            "value": 1
+        },
+        {
+            "text": "chocolate",
+            "value": 1
+        },
+        {
+            "text": "croissant",
+            "value": 1
+        },
+        {
+            "text": "tea",
+            "value": 1
+        },
+        {
+            "text": "Belated",
+            "value": 1
+        },
+        {
+            "text": "50th",
+            "value": 1
+        },
+        {
+            "text": "celebration",
             "value": 1
         }
     ]

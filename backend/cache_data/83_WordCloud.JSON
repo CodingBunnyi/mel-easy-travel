@@ -18,19 +18,19 @@
         },
         {
             "text": "Port",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Melbourne",
-            "value": 1
+            "value": 2
         },
         {
             "text": "lanes",
-            "value": 2
+            "value": 3
         },
         {
             "text": "closed",
-            "value": 2
+            "value": 3
         },
         {
             "text": "inbound",
@@ -42,10 +42,50 @@
         },
         {
             "text": "left",
-            "value": 1
+            "value": 2
         },
         {
             "text": "citybound",
+            "value": 1
+        },
+        {
+            "text": "Cook",
+            "value": 2
+        },
+        {
+            "text": "St",
+            "value": 1
+        },
+        {
+            "text": "westbound",
+            "value": 1
+        },
+        {
+            "text": "Far",
+            "value": 1
+        },
+        {
+            "text": "turn",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 1
+        },
+        {
+            "text": "onto",
+            "value": 1
+        },
+        {
+            "text": "Todd",
+            "value": 1
+        },
+        {
+            "text": "Road",
             "value": 1
         }
     ]

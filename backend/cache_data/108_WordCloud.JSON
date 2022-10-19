@@ -6,7 +6,7 @@
         },
         {
             "text": "make",
-            "value": 1
+            "value": 3
         },
         {
             "text": "show",
@@ -34,11 +34,11 @@
         },
         {
             "text": "District",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Docklands",
-            "value": 3
+            "value": 9
         },
         {
             "text": "Thai",
@@ -66,7 +66,7 @@
         },
         {
             "text": "Hello",
-            "value": 1
+            "value": 2
         },
         {
             "text": "May",
@@ -82,7 +82,7 @@
         },
         {
             "text": "tell",
-            "value": 1
+            "value": 2
         },
         {
             "text": "one",
@@ -126,7 +126,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Traffic",
@@ -178,6 +178,554 @@
         },
         {
             "text": "air",
+            "value": 1
+        },
+        {
+            "text": "Pax",
+            "value": 1
+        },
+        {
+            "text": "absolutely",
+            "value": 1
+        },
+        {
+            "text": "amazing",
+            "value": 1
+        },
+        {
+            "text": "ill",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "every",
+            "value": 1
+        },
+        {
+            "text": "single",
+            "value": 1
+        },
+        {
+            "text": "year",
+            "value": 2
+        },
+        {
+            "text": "definitely",
+            "value": 1
+        },
+        {
+            "text": "3",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 2
+        },
+        {
+            "text": "pass",
+            "value": 1
+        },
+        {
+            "text": "next",
+            "value": 3
+        },
+        {
+            "text": "end",
+            "value": 1
+        },
+        {
+            "text": "feed",
+            "value": 1
+        },
+        {
+            "text": "five",
+            "value": 1
+        },
+        {
+            "text": "guys",
+            "value": 1
+        },
+        {
+            "text": "Beautiful",
+            "value": 1
+        },
+        {
+            "text": "Sunday",
+            "value": 1
+        },
+        {
+            "text": "morning",
+            "value": 3
+        },
+        {
+            "text": "posted",
+            "value": 1
+        },
+        {
+            "text": "photo",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 6
+        },
+        {
+            "text": "apx",
+            "value": 1
+        },
+        {
+            "text": "Day",
+            "value": 1
+        },
+        {
+            "text": "1",
+            "value": 1
+        },
+        {
+            "text": "Friday",
+            "value": 2
+        },
+        {
+            "text": "night",
+            "value": 1
+        },
+        {
+            "text": "Forgot",
+            "value": 1
+        },
+        {
+            "text": "enjoy",
+            "value": 1
+        },
+        {
+            "text": "people",
+            "value": 1
+        },
+        {
+            "text": "Brilliant",
+            "value": 1
+        },
+        {
+            "text": "see",
+            "value": 1
+        },
+        {
+            "text": "big",
+            "value": 1
+        },
+        {
+            "text": "crowd",
+            "value": 1
+        },
+        {
+            "text": "2022",
+            "value": 1
+        },
+        {
+            "text": "breakfast",
+            "value": 1
+        },
+        {
+            "text": "keen",
+            "value": 1
+        },
+        {
+            "text": "hear",
+            "value": 1
+        },
+        {
+            "text": "rock",
+            "value": 1
+        },
+        {
+            "text": "star",
+            "value": 1
+        },
+        {
+            "text": "panel",
+            "value": 1
+        },
+        {
+            "text": "us",
+            "value": 1
+        },
+        {
+            "text": "womens",
+            "value": 1
+        },
+        {
+            "text": "sport",
+            "value": 1
+        },
+        {
+            "text": "even",
+            "value": 2
+        },
+        {
+            "text": "visible",
+            "value": 1
+        },
+        {
+            "text": "viable",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 2
+        },
+        {
+            "text": "equitable",
+            "value": 1
+        },
+        {
+            "text": "Complimentary",
+            "value": 1
+        },
+        {
+            "text": "vortex",
+            "value": 1
+        },
+        {
+            "text": "get",
+            "value": 1
+        },
+        {
+            "text": "weekend",
+            "value": 1
+        },
+        {
+            "text": "going",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "Thread",
+            "value": 1
+        },
+        {
+            "text": "Little",
+            "value": 1
+        },
+        {
+            "text": "bear",
+            "value": 1
+        },
+        {
+            "text": "says",
+            "value": 1
+        },
+        {
+            "text": "beware",
+            "value": 1
+        },
+        {
+            "text": "run",
+            "value": 4
+        },
+        {
+            "text": "shower",
+            "value": 1
+        },
+        {
+            "text": "selfie",
+            "value": 1
+        },
+        {
+            "text": "thanks",
+            "value": 1
+        },
+        {
+            "text": "fun",
+            "value": 2
+        },
+        {
+            "text": "pics",
+            "value": 1
+        },
+        {
+            "text": "feature",
+            "value": 1
+        },
+        {
+            "text": "socks",
+            "value": 2
+        },
+        {
+            "text": "legs",
+            "value": 1
+        },
+        {
+            "text": "Flamingo",
+            "value": 1
+        },
+        {
+            "text": "hits",
+            "value": 1
+        },
+        {
+            "text": "trot",
+            "value": 3
+        },
+        {
+            "text": "wearing",
+            "value": 1
+        },
+        {
+            "text": "pride",
+            "value": 1
+        },
+        {
+            "text": "quick",
+            "value": 1
+        },
+        {
+            "text": "stretches",
+            "value": 1
+        },
+        {
+            "text": "Broke",
+            "value": 1
+        },
+        {
+            "text": "hoodoo",
+            "value": 1
+        },
+        {
+            "text": "flying",
+            "value": 1
+        },
+        {
+            "text": "first",
+            "value": 1
+        },
+        {
+            "text": "time",
+            "value": 2
+        },
+        {
+            "text": "watch",
+            "value": 1
+        },
+        {
+            "text": "Lions",
+            "value": 1
+        },
+        {
+            "text": "play",
+            "value": 1
+        },
+        {
+            "text": "away",
+            "value": 1
+        },
+        {
+            "text": "win",
+            "value": 2
+        },
+        {
+            "text": "vs",
+            "value": 1
+        },
+        {
+            "text": "Saints",
+            "value": 1
+        },
+        {
+            "text": "Marvel",
+            "value": 1
+        },
+        {
+            "text": "stadium",
+            "value": 1
+        },
+        {
+            "text": "Let",
+            "value": 1
+        },
+        {
+            "text": "hope",
+            "value": 1
+        },
+        {
+            "text": "trip",
+            "value": 1
+        },
+        {
+            "text": "watching",
+            "value": 1
+        },
+        {
+            "text": "another",
+            "value": 1
+        },
+        {
+            "text": "MCG",
+            "value": 1
+        },
+        {
+            "text": "season",
+            "value": 1
+        },
+        {
+            "text": "Post",
+            "value": 1
+        },
+        {
+            "text": "bum",
+            "value": 1
+        },
+        {
+            "text": "Back",
+            "value": 1
+        },
+        {
+            "text": "pushing",
+            "value": 1
+        },
+        {
+            "text": "pram",
+            "value": 1
+        },
+        {
+            "text": "Ms",
+            "value": 1
+        },
+        {
+            "text": "Grace",
+            "value": 1
+        },
+        {
+            "text": "loves",
+            "value": 1
+        },
+        {
+            "text": "spotting",
+            "value": 1
+        },
+        {
+            "text": "trams",
+            "value": 1
+        },
+        {
+            "text": "Coffee",
+            "value": 1
+        },
+        {
+            "text": "beat",
+            "value": 1
+        },
+        {
+            "text": "rain",
+            "value": 1
+        },
+        {
+            "text": "Love",
+            "value": 1
+        },
+        {
+            "text": "lazing",
+            "value": 1
+        },
+        {
+            "text": "mornings",
+            "value": 1
+        },
+        {
+            "text": "else",
+            "value": 1
+        },
+        {
+            "text": "excited",
+            "value": 1
+        },
+        {
+            "text": "Tuesday",
+            "value": 1
+        },
+        {
+            "text": "shave",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 1
+        },
+        {
+            "text": "conference",
+            "value": 1
+        },
+        {
+            "text": "Gracie",
+            "value": 1
+        },
+        {
+            "text": "keep",
+            "value": 1
+        },
+        {
+            "text": "amused",
+            "value": 1
+        },
+        {
+            "text": "Saw",
+            "value": 1
+        },
+        {
+            "text": "someone",
+            "value": 1
+        },
+        {
+            "text": "power",
+            "value": 1
+        },
+        {
+            "text": "walking",
+            "value": 1
+        },
+        {
+            "text": "velour",
+            "value": 1
+        },
+        {
+            "text": "dressing",
+            "value": 1
+        },
+        {
+            "text": "gown",
+            "value": 1
+        },
+        {
+            "text": "runners",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 1
+        },
+        {
+            "text": "Darkness",
+            "value": 1
+        },
+        {
+            "text": "Mine",
+            "value": 1
+        },
+        {
+            "text": "joined",
+            "value": 1
+        },
+        {
+            "text": "iron",
+            "value": 1
+        },
+        {
+            "text": "man",
             "value": 1
         }
     ]

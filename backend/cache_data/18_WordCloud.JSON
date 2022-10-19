@@ -114,7 +114,7 @@
         },
         {
             "text": "make",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Sundays",
@@ -170,6 +170,446 @@
         },
         {
             "text": "23sec",
+            "value": 1
+        },
+        {
+            "text": "little",
+            "value": 3
+        },
+        {
+            "text": "bit",
+            "value": 1
+        },
+        {
+            "text": "Great",
+            "value": 1
+        },
+        {
+            "text": "Ayton",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 3
+        },
+        {
+            "text": "Cooks'",
+            "value": 1
+        },
+        {
+            "text": "Cottage",
+            "value": 1
+        },
+        {
+            "text": "That's",
+            "value": 1
+        },
+        {
+            "text": "nah",
+            "value": 1
+        },
+        {
+            "text": "ye",
+            "value": 1
+        },
+        {
+            "text": "porridge",
+            "value": 1
+        },
+        {
+            "text": "err",
+            "value": 1
+        },
+        {
+            "text": "Fitzroy",
+            "value": 4
+        },
+        {
+            "text": "maybe",
+            "value": 1
+        },
+        {
+            "text": "sure",
+            "value": 1
+        },
+        {
+            "text": "Finished",
+            "value": 1
+        },
+        {
+            "text": "GP",
+            "value": 2
+        },
+        {
+            "text": "MHST",
+            "value": 1
+        },
+        {
+            "text": "1",
+            "value": 1
+        },
+        {
+            "text": "Diagnostic",
+            "value": 1
+        },
+        {
+            "text": "approaches",
+            "value": 1
+        },
+        {
+            "text": "psychiatry",
+            "value": 2
+        },
+        {
+            "text": "2",
+            "value": 1
+        },
+        {
+            "text": "Psychopharmacological",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 1
+        },
+        {
+            "text": "psychological",
+            "value": 1
+        },
+        {
+            "text": "Rx",
+            "value": 1
+        },
+        {
+            "text": "overview",
+            "value": 1
+        },
+        {
+            "text": "3",
+            "value": 1
+        },
+        {
+            "text": "ADHD",
+            "value": 1
+        },
+        {
+            "text": "general",
+            "value": 1
+        },
+        {
+            "text": "practice",
+            "value": 1
+        },
+        {
+            "text": "4",
+            "value": 1
+        },
+        {
+            "text": "Dr",
+            "value": 1
+        },
+        {
+            "text": "Michael",
+            "value": 1
+        },
+        {
+            "text": "Block",
+            "value": 1
+        },
+        {
+            "text": "speaking",
+            "value": 1
+        },
+        {
+            "text": "perinatal",
+            "value": 1
+        },
+        {
+            "text": "gave",
+            "value": 2
+        },
+        {
+            "text": "gift",
+            "value": 1
+        },
+        {
+            "text": "saying",
+            "value": 1
+        },
+        {
+            "text": "token",
+            "value": 1
+        },
+        {
+            "text": "appreciation",
+            "value": 1
+        },
+        {
+            "text": "Men",
+            "value": 1
+        },
+        {
+            "text": "Rosary",
+            "value": 1
+        },
+        {
+            "text": "Crusade",
+            "value": 1
+        },
+        {
+            "text": "Gardens",
+            "value": 3
+        },
+        {
+            "text": "opposite",
+            "value": 2
+        },
+        {
+            "text": "St",
+            "value": 1
+        },
+        {
+            "text": "Patrick",
+            "value": 1
+        },
+        {
+            "text": "Cathedral",
+            "value": 1
+        },
+        {
+            "text": "October",
+            "value": 1
+        },
+        {
+            "text": "7",
+            "value": 1
+        },
+        {
+            "text": "2022",
+            "value": 1
+        },
+        {
+            "text": "folk",
+            "value": 1
+        },
+        {
+            "text": "fucking",
+            "value": 1
+        },
+        {
+            "text": "amazing",
+            "value": 1
+        },
+        {
+            "text": "part",
+            "value": 1
+        },
+        {
+            "text": "Stone",
+            "value": 1
+        },
+        {
+            "text": "masonry",
+            "value": 1
+        },
+        {
+            "text": "Extroooooooooosion",
+            "value": 1
+        },
+        {
+            "text": "Darling",
+            "value": 3
+        },
+        {
+            "text": "Square",
+            "value": 3
+        },
+        {
+            "text": "know",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 1
+        },
+        {
+            "text": "parapet",
+            "value": 2
+        },
+        {
+            "text": "quirk",
+            "value": 1
+        },
+        {
+            "text": "roof",
+            "value": 1
+        },
+        {
+            "text": "flows",
+            "value": 1
+        },
+        {
+            "text": "arches",
+            "value": 1
+        },
+        {
+            "text": "Usually",
+            "value": 1
+        },
+        {
+            "text": "seen",
+            "value": 1
+        },
+        {
+            "text": "commercial",
+            "value": 1
+        },
+        {
+            "text": "buildings",
+            "value": 1
+        },
+        {
+            "text": "domestically",
+            "value": 1
+        },
+        {
+            "text": "usually",
+            "value": 1
+        },
+        {
+            "text": "pointless",
+            "value": 1
+        },
+        {
+            "text": "plaque",
+            "value": 1
+        },
+        {
+            "text": "Go",
+            "value": 1
+        },
+        {
+            "text": "ers",
+            "value": 1
+        },
+        {
+            "text": "neighbour",
+            "value": 1
+        },
+        {
+            "text": "gone",
+            "value": 1
+        },
+        {
+            "text": "redevelopment",
+            "value": 1
+        },
+        {
+            "text": "spectacular",
+            "value": 1
+        },
+        {
+            "text": "home",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "long",
+            "value": 1
+        },
+        {
+            "text": "given",
+            "value": 1
+        },
+        {
+            "text": "Powlett",
+            "value": 1
+        },
+        {
+            "text": "Reserve",
+            "value": 1
+        },
+        {
+            "text": "believe",
+            "value": 1
+        },
+        {
+            "text": "yelp",
+            "value": 1
+        },
+        {
+            "text": "Well",
+            "value": 1
+        },
+        {
+            "text": "done",
+            "value": 1
+        },
+        {
+            "text": "Cats",
+            "value": 1
+        },
+        {
+            "text": "Swans",
+            "value": 1
+        },
+        {
+            "text": "embarrassed",
+            "value": 1
+        },
+        {
+            "text": "hell",
+            "value": 1
+        },
+        {
+            "text": "half",
+            "value": 1
+        },
+        {
+            "text": "time",
+            "value": 1
+        },
+        {
+            "text": "crap",
+            "value": 1
+        },
+        {
+            "text": "Nighttime",
+            "value": 1
+        },
+        {
+            "text": "daffodil",
+            "value": 2
+        },
+        {
+            "text": "game",
+            "value": 1
+        },
+        {
+            "text": "strong",
+            "value": 1
+        },
+        {
+            "text": "spring",
+            "value": 1
+        },
+        {
+            "text": "Grovey",
+            "value": 1
+        },
+        {
+            "text": "avenue",
+            "value": 1
+        },
+        {
+            "text": "giving",
+            "value": 1
+        },
+        {
+            "text": "good",
             "value": 1
         }
     ]

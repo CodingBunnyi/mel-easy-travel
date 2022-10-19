@@ -1,5 +1,5 @@
 {
-    "count": 1,
+    "count": 30,
     "data": [
         {
             "tid": 1580696097001181184,
@@ -17,6 +17,494 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/Fe_CtlAakAADds3.jpg",
                 "https://pbs.twimg.com/media/Fe_CuGOaUAIINLg.jpg"
+            ]
+        },
+        {
+            "tid": 1576779859182772224,
+            "uid": 27227890,
+            "author": "Sam Marchetta",
+            "time": "2022-10-03 03:43:08 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "I’m not gonna lie this was so delicious I devoured it in seconds.😜\nMy first ever potato swirl has me wanting more. 🤤🥔 \n#Melbourne https://t.co/zCzN62L9pB",
+            "clean_text": "I m not gonna lie this was so delicious I devoured it in seconds My first ever potato swirl has me wanting more",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FeHY7G2XgAAuoxs.jpg"
+            ]
+        },
+        {
+            "tid": 1576377440859049987,
+            "uid": 17694977,
+            "author": "meggala",
+            "time": "2022-10-02 01:04:04 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Melbourne Royal Show https://t.co/AOZQwU5UQD",
+            "clean_text": "Just posted a photo Melbourne Royal Show",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91110191,
+            "latitude": -37.78293375,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576376835226898432,
+            "uid": 17694977,
+            "author": "meggala",
+            "time": "2022-10-02 01:01:39 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "It's show time @ Melbourne Royal Show https://t.co/fdiCk9GZn4",
+            "clean_text": "It's show time Melbourne Royal Show",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91110191,
+            "latitude": -37.78293375,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576175104622329856,
+            "uid": 5479932,
+            "author": "Rob Findlay",
+            "time": "2022-10-01 11:40:03 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Love the #MelbourneRoyalShow https://t.co/cJmkOpIpWb",
+            "clean_text": "Love the",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd-y5FYVUAMKTjB.jpg",
+                "https://pbs.twimg.com/media/Fd-y5FZVEAAyv89.jpg",
+                "https://pbs.twimg.com/media/Fd-y5FbVEAAgU6R.jpg",
+                "https://pbs.twimg.com/media/Fd-y5FbUAAAuG4W.jpg"
+            ]
+        },
+        {
+            "tid": 1576136789068509185,
+            "uid": 252426781,
+            "author": "Willy Aitch",
+            "time": "2022-10-01 09:07:48 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Holy shit! 😲🙌🏻 https://t.co/x3qRejYt8d",
+            "clean_text": "Holy shit",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1576136535178907649/pu/img/Ko_oRgwxtHgljktT.jpg"
+            ]
+        },
+        {
+            "tid": 1575994762087178240,
+            "uid": 8303822,
+            "author": "Daniel Bowen",
+            "time": "2022-09-30 23:43:26 +0000",
+            "like_no": 10,
+            "language": "en",
+            "text": "Heavy publicity of lack of parking.\nYarra Trams staff are being very proactive about directing people to the Show entrance.\nHave they fixed any of the other problems? Not so you’d notice. Not so much of a sign pointing which way to go. https://t.co/L3qPUEGOxY",
+            "clean_text": "Heavy publicity of lack of parking Yarra Trams staff are being very proactive about directing people to the Show entrance Have they fixed any of the other problems Not so you d notice Not so much of a sign pointing which way to go",
+            "place_name": "Showgrounds Village",
+            "place_type": "poi",
+            "longitude": 144.91512085353057,
+            "latitude": -37.782145414479345,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd8O4IjUAAECBWs.jpg"
+            ]
+        },
+        {
+            "tid": 1575766781918060552,
+            "uid": 25806599,
+            "author": "Chris Botha",
+            "time": "2022-09-30 08:37:31 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@melbourneroyalshow rides!\n23 September 2022 @ Melbourne Royal Show https://t.co/xDP02kqNoj",
+            "clean_text": "melbourneroyalshow rides 23 September 2022 Melbourne Royal Show",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91110191,
+            "latitude": -37.78293375,
+            "photo_urls": []
+        },
+        {
+            "tid": 1575035915612954624,
+            "uid": 256493931,
+            "author": "เจ้าตัวไหน .",
+            "time": "2022-09-28 08:13:19 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at Melbourne Showgrounds - @stereosonic in Ascot Vale, VIC https://t.co/w3FeaTfJ66",
+            "clean_text": "I'm at Melbourne Showgrounds in Ascot Vale VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91297245,
+            "latitude": -37.78223077,
+            "photo_urls": []
+        },
+        {
+            "tid": 1574606140436094979,
+            "uid": 22359616,
+            "author": "troiboi 🍸",
+            "time": "2022-09-27 03:45:33 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "#showtime (@ Melbourne Showgrounds - @stereosonic in Ascot Vale, VIC) https://t.co/4rqzlBXM9E https://t.co/FKTOwM9wxt",
+            "clean_text": "Melbourne Showgrounds in Ascot Vale VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91297245,
+            "latitude": -37.78223077,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fdof8N1XoBkhQcS.jpg"
+            ]
+        },
+        {
+            "tid": 1574251121098387457,
+            "uid": 85305131,
+            "author": "Rondelle 🇦🇺",
+            "time": "2022-09-26 04:14:50 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Apparently my body has decided I’m too old for rides bc 1 ride in and I feel 🤢 I’ve become the bag holding parent 😭😭😭 https://t.co/3Bj54BwORa",
+            "clean_text": "Apparently my body has decided I m too old for rides bc 1 ride in and I feel I ve become the bag holding parent",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdjdDD0VUAAKVyL.jpg"
+            ]
+        },
+        {
+            "tid": 1574246660372254720,
+            "uid": 1045663398791237633,
+            "author": "Luke Starick",
+            "time": "2022-09-26 03:57:06 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Airtime Freestyle Motorcross my highlight of #MelbourneRoyalShow. A great show despite the wind and light rain #airtimefmx https://t.co/f5Qnymsp58",
+            "clean_text": "Airtime Freestyle Motorcross my highlight of A great show despite the wind and light rain",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdjY_WyVQAEd_EG.jpg"
+            ]
+        },
+        {
+            "tid": 1574179603060772864,
+            "uid": 1045398820077465600,
+            "author": "Sharon McCormack",
+            "time": "2022-09-25 23:30:38 +0000",
+            "like_no": 10,
+            "language": "en",
+            "text": "@stephenkelley85 @narelleford @leonie_hastings @Skymazef3 @tracyscottkelly @Susansailboat @dmvelliaris @Kbahri5 @Hedreich @cherylabla @leemaxfield29 @RitaWirtz @SteinbrinkLaura @ElizaWallace27 @MrsCford_tweets @bekindtoall01 @Nancy_Mushinski @mjmcalliwrites We’re in the midst of school holidays here in Melbourne with lots of activities happening we’ve also had a long weekend -we had the AFL grand final, we’ve got the Royal Melbourne Show &amp; not forgetting we’ve had a public holiday for a day of mourning for the Queen #owlsofnite https://t.co/OfKoO0GRN4",
+            "clean_text": "We re in the midst of school holidays here in Melbourne with lots of activities happening we ve also had a long weekend we had the AFL grand final we ve got the Royal Melbourne Show amp not forgetting we ve had a public holiday for a day of mourning for the Queen",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fdib_z_akAA_AWS.jpg",
+                "https://pbs.twimg.com/media/Fdib_z_akAEVVZD.jpg",
+                "https://pbs.twimg.com/media/Fdib_z9akAAopSt.jpg"
+            ]
+        },
+        {
+            "tid": 1573984761835659264,
+            "uid": 3949609943,
+            "author": "友人圆",
+            "time": "2022-09-25 10:36:25 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at Melbourne Showgrounds - @stereosonic in Ascot Vale, VIC https://t.co/H2cMfJGkpZ https://t.co/JBaF7sPabj",
+            "clean_text": "I'm at Melbourne Showgrounds in Ascot Vale VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91297245,
+            "latitude": -37.78223077,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdfqzMjWIAAaYth.jpg"
+            ]
+        },
+        {
+            "tid": 1573981240289415169,
+            "uid": 614574315,
+            "author": "Sensatarnel7",
+            "time": "2022-09-25 10:22:25 +0000",
+            "like_no": 14,
+            "language": "en",
+            "text": "As a @PublicTenants Houso kid,the Royal Melbourne Show was a highlight. The 5-12 y.o me knew what was off limits $$ wise, but the cool freebies compensated. Corporate fatcats including @AFL I challenge you to make it a more memorable experience for all kids.#MelbourneRoyalShow https://t.co/VLauhYD7DN",
+            "clean_text": "As a Houso kid the Royal Melbourne Show was a highlight The 5 12 y o me knew what was off limits wise but the cool freebies compensated Corporate fatcats including I challenge you to make it a more memorable experience for all kids",
+            "place_name": "Ascot Vale, Melbourne",
+            "place_type": "neighborhood",
+            "longitude": 144.91643562,
+            "latitude": -37.77984747,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdfnlucUcAAk0a_.jpg"
+            ]
+        },
+        {
+            "tid": 1573860446330712064,
+            "uid": 25234725,
+            "author": "𝐂𝐚𝐭𝐞",
+            "time": "2022-09-25 02:22:25 +0000",
+            "like_no": 53,
+            "language": "en",
+            "text": "We’re still at it. And I haven’t had a heart attack or thrown up yet. 😜😂 https://t.co/OgsjY4obew",
+            "clean_text": "We re still at it And I haven t had a heart attack or thrown up yet",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fdd5tVQUAAAHwMw.jpg"
+            ]
+        },
+        {
+            "tid": 1573833879034597376,
+            "uid": 25234725,
+            "author": "𝐂𝐚𝐭𝐞",
+            "time": "2022-09-25 00:36:51 +0000",
+            "like_no": 39,
+            "language": "en",
+            "text": "After a two year hiatus, we’re finally back at the Melbourne Royal Show 🎡🎢 🍿🛍 https://t.co/cGesZ0IGGb",
+            "clean_text": "After a two year hiatus we re finally back at the Melbourne Royal Show",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FddhkEFUUAAnecT.jpg",
+                "https://pbs.twimg.com/media/FddhkEFUAAA8x_a.jpg"
+            ]
+        },
+        {
+            "tid": 1573826730002812928,
+            "uid": 25234725,
+            "author": "𝐂𝐚𝐭𝐞",
+            "time": "2022-09-25 00:08:27 +0000",
+            "like_no": 10,
+            "language": "en",
+            "text": "Nope. No. Not a chance. 😂 https://t.co/wihzJ7bzCd",
+            "clean_text": "Nope No Not a chance",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/tweet_video_thumb/Fdda9HzVUAIuIBR.jpg"
+            ]
+        },
+        {
+            "tid": 1573656933961277441,
+            "uid": 219006905,
+            "author": "Sweetpotatozzz",
+            "time": "2022-09-24 12:53:44 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Melbourne Royal Show https://t.co/KymB350fbA",
+            "clean_text": "Just posted a photo Melbourne Royal Show",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91110191,
+            "latitude": -37.78293375,
+            "photo_urls": []
+        },
+        {
+            "tid": 1573568257684131840,
+            "uid": 1097616048,
+            "author": "derrick mcdonald",
+            "time": "2022-09-24 07:01:22 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "😬😬😬 \n\n#shotoniphone #iphone14 #shotoniphone14promax #iphoneonly #iphone14 #melbourne #melbourneshow #royalmelbourneshow #okthatsenoughhashtags #love #family @ Melbourne Royal Show https://t.co/fEiUik95gi",
+            "clean_text": "Melbourne Royal Show",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91110191,
+            "latitude": -37.78293375,
+            "photo_urls": []
+        },
+        {
+            "tid": 1573564260344438785,
+            "uid": 14373706,
+            "author": "Adam Jobbins",
+            "time": "2022-09-24 06:45:29 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "This will always be the Gravitron and I will not hear otherwise https://t.co/Ps9Slrhs7i",
+            "clean_text": "This will always be the Gravitron and I will not hear otherwise",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdZsWK2UcAAjgmq.jpg"
+            ]
+        },
+        {
+            "tid": 1573525401346838528,
+            "uid": 1531853521230102530,
+            "author": "kaitlyn✯",
+            "time": "2022-09-24 04:11:05 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Twitter user kateswoggle goes outside for once (REAL!!)",
+            "clean_text": "Twitter user kateswoggle goes outside for once REAL",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": []
+        },
+        {
+            "tid": 1573425097343639552,
+            "uid": 987122373395595264,
+            "author": "County Saddlery Australia",
+            "time": "2022-09-23 21:32:30 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Melbourne Royal Show https://t.co/gaiTeeC73q",
+            "clean_text": "Just posted a photo Melbourne Royal Show",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91110191,
+            "latitude": -37.78293375,
+            "photo_urls": []
+        },
+        {
+            "tid": 1573297993117274113,
+            "uid": 25806599,
+            "author": "Chris Botha",
+            "time": "2022-09-23 13:07:26 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "#theveronicas flew in from the #USA this morning to perform in #Melbourne. Great Show at the @melbourneroyalshow @theveronicasmusic \n23 September 2022 @ Melbourne Royal Show https://t.co/zz7AE9C5UE",
+            "clean_text": "flew in from the this morning to perform in Great Show at the melbourneroyalshow theveronicasmusic 23 September 2022 Melbourne Royal Show",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91110191,
+            "latitude": -37.78293375,
+            "photo_urls": []
+        },
+        {
+            "tid": 1573258185980678145,
+            "uid": 3226795752,
+            "author": "Alex ✰ ✨🌱✨",
+            "time": "2022-09-23 10:29:15 +0000",
+            "like_no": 6,
+            "language": "en",
+            "text": "Something absolutely magic about seeing The Veronica’s perform Everything I’m Not in the rain! 😭🌧 #royalmelbourneshow https://t.co/wbWJmAVsO4",
+            "clean_text": "Something absolutely magic about seeing The Veronica s perform Everything I m Not in the rain",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1573258077377531905/pu/img/9TYViFoNL82oCkr_.jpg"
+            ]
+        },
+        {
+            "tid": 1573249639310131202,
+            "uid": 31599336,
+            "author": "Gracia & Louise",
+            "time": "2022-09-23 09:55:18 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "This was one bright day, seeing the entries we had judged in the Art, Craft &amp; Cookery Pavilion, and the many splendid ducks, turkeys, and egg-laying hens in the Poultry Pavilion.\n\nAnd since then, my Dad is a lot closer to the end than before. Spending time by his side. \n\n#lately https://t.co/YSkVLej9L8",
+            "clean_text": "This was one bright day seeing the entries we had judged in the Art Craft amp Cookery Pavilion and the many splendid ducks turkeys and egg laying hens in the Poultry Pavilion And since then my Dad is a lot closer to the end than before Spending time by his side",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdVOM85VIAAh3V5.jpg",
+                "https://pbs.twimg.com/media/FdVOM9BaEAAakJN.jpg",
+                "https://pbs.twimg.com/media/FdVOM86VEAAiziI.jpg",
+                "https://pbs.twimg.com/media/FdVOM87UcAAwoYl.jpg"
+            ]
+        },
+        {
+            "tid": 1573176294145138690,
+            "uid": 1231737165316407297,
+            "author": "daniel cooper",
+            "time": "2022-09-23 05:03:51 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Royal Melbourne Show 2022 with my little man. The sun was out, people were out. Amazing day all round. #dadsmatter #love #littleman #royalmelbourneshow #melbourne @ Melbourne Royal Show https://t.co/0e9PxM4H8E",
+            "clean_text": "Royal Melbourne Show 2022 with my little man The sun was out people were out Amazing day all round Melbourne Royal Show",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91110191,
+            "latitude": -37.78293375,
+            "photo_urls": []
+        },
+        {
+            "tid": 1573165054828351488,
+            "uid": 2213249292,
+            "author": "Matt Hicks",
+            "time": "2022-09-23 04:19:11 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "I found Carmen Sandiego https://t.co/cOKAHXOUsI",
+            "clean_text": "I found Carmen Sandiego",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdUBQz1UUAABsGK.jpg"
+            ]
+        },
+        {
+            "tid": 1572815300361617409,
+            "uid": 845078560708542465,
+            "author": "Nick PAVLIDIS",
+            "time": "2022-09-22 05:09:23 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Show bags https://t.co/wTw1HVrBYL",
+            "clean_text": "Show bags",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdPDLG6akAEDr8W.jpg",
+                "https://pbs.twimg.com/media/FdPDLG7aIAEuG5q.jpg",
+                "https://pbs.twimg.com/media/FdPDLG4aUAABYi6.jpg",
+                "https://pbs.twimg.com/media/FdPDLGjaIAEjcGb.jpg"
+            ]
+        },
+        {
+            "tid": 1572815008685494277,
+            "uid": 845078560708542465,
+            "author": "Nick PAVLIDIS",
+            "time": "2022-09-22 05:08:14 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "The Melbourne show is back https://t.co/NJUFJLarcO",
+            "clean_text": "The Melbourne show is back",
+            "place_name": "Melbourne Showgrounds",
+            "place_type": "poi",
+            "longitude": 144.91297245025635,
+            "latitude": -37.782230772746466,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdPC58saAAALBag.jpg",
+                "https://pbs.twimg.com/media/FdPC58taIAAPO0a.jpg",
+                "https://pbs.twimg.com/media/FdPC58saEAMCa17.jpg",
+                "https://pbs.twimg.com/media/FdPC58tagAIZTW3.jpg"
             ]
         }
     ]

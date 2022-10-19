@@ -1,5 +1,5 @@
 {
-    "count": 25,
+    "count": 81,
     "data": [
         {
             "tid": 1581802140099809281,
@@ -422,6 +422,963 @@
             "latitude": -37.822483025431715,
             "photo_urls": [
                 "https://pbs.twimg.com/media/Fe1maF7WIAESXS_.jpg"
+            ]
+        },
+        {
+            "tid": 1579687860105793536,
+            "uid": 351432484,
+            "author": "Will Carter",
+            "time": "2022-10-11 04:18:29 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Let’s get ready to rumble!!!\n\n@Realdevinhaney v @georgekambosos \n\nSunday @RodLaverArena \n\n@TEGSport https://t.co/YCkSH31k7k",
+            "clean_text": "Let s get ready to rumble v Sunday",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1579687768657080320/pu/img/D4WHsdlGpJXL9VfM.jpg"
+            ]
+        },
+        {
+            "tid": 1579080772518293504,
+            "uid": 22417709,
+            "author": "Laura Major",
+            "time": "2022-10-09 12:06:08 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Immensely grateful I was able to experience the Picasso exhibition today on its final day 🙏✨💞✨ @GlennHampson https://t.co/BKWofp86VB https://t.co/m6RrtflKvW",
+            "clean_text": "Immensely grateful I was able to experience the Picasso exhibition today on its final day",
+            "place_name": "National Gallery of Victoria (NGV)",
+            "place_type": "poi",
+            "longitude": 144.9693037194922,
+            "latitude": -37.822483025431715,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FeoBpjvaAAAkmKc.jpg",
+                "https://pbs.twimg.com/media/FeoBpjuaMAI2Cgz.jpg",
+                "https://pbs.twimg.com/media/FeoBpjtaAAEDvvS.jpg",
+                "https://pbs.twimg.com/media/FeoBpjvaMAEE1GT.jpg"
+            ]
+        },
+        {
+            "tid": 1579076450984267777,
+            "uid": 22417709,
+            "author": "Laura Major",
+            "time": "2022-10-09 11:48:58 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Immensely grateful I got to experience the Picasso exhibition today on its final day 🙏✨💞✨ https://t.co/peEwPVrspq https://t.co/YiMIMElwHz",
+            "clean_text": "Immensely grateful I got to experience the Picasso exhibition today on its final day",
+            "place_name": "National Gallery of Victoria (NGV)",
+            "place_type": "poi",
+            "longitude": 144.9693037194922,
+            "latitude": -37.822483025431715,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FeoBpjvaAAAkmKc.jpg",
+                "https://pbs.twimg.com/media/FeoBpjuaMAI2Cgz.jpg",
+                "https://pbs.twimg.com/media/FeoBpjtaAAEDvvS.jpg",
+                "https://pbs.twimg.com/media/FeoBpjvaMAEE1GT.jpg"
+            ]
+        },
+        {
+            "tid": 1579021431589187584,
+            "uid": 86330087,
+            "author": "Vanessa Nolan",
+            "time": "2022-10-09 08:10:20 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "Such a beautiful day in Melbourne for Olivia Newton John's Walk for Wellness, what a fantastic cause. Fun was had by all with 2 &amp; 4 legs 🐕🐕 https://t.co/jFVRpN9Lrs",
+            "clean_text": "Such a beautiful day in Melbourne for Olivia Newton John's Walk for Wellness what a fantastic cause Fun was had by all with 2 amp 4 legs",
+            "place_name": "Alexandra Gardens",
+            "place_type": "poi",
+            "longitude": 144.97197457437386,
+            "latitude": -37.82026649219937,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FenPmPLagAAw1Vd.jpg",
+                "https://pbs.twimg.com/media/FenPmxoakAA_E6L.jpg",
+                "https://pbs.twimg.com/media/FenPnTAaMAERqpx.jpg",
+                "https://pbs.twimg.com/media/FenPn01agAArX31.jpg"
+            ]
+        },
+        {
+            "tid": 1578974856527642624,
+            "uid": 180676456,
+            "author": "Luke Soulos",
+            "time": "2022-10-09 05:05:16 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "Superb morn for #SundayRunday with the #Crew! A little crowded with ‘Olivia’s Walk for Wellness’, although we managed a good 4.30 pace for the double &amp; the customary sprint to finish! \n\nOlivia’s Walk for Wellness brings love &amp; light to those with Cancer – a great cause! 💕 https://t.co/v687P7CwkF",
+            "clean_text": "Superb morn for with the A little crowded with Olivia s Walk for Wellness although we managed a good 4 30 pace for the double amp the customary sprint to finish Olivia s Walk for Wellness brings love amp light to those with Cancer a great cause",
+            "place_name": "Tan Track",
+            "place_type": "poi",
+            "longitude": 144.97730255126953,
+            "latitude": -37.82439568360031,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FemlP6hUAAAiMMB.jpg",
+                "https://pbs.twimg.com/media/FemlP6jVQAAgCBR.jpg",
+                "https://pbs.twimg.com/media/FemlP6gVIAEmASc.jpg"
+            ]
+        },
+        {
+            "tid": 1578969660007256064,
+            "uid": 20832884,
+            "author": "Glenn Hampson",
+            "time": "2022-10-09 04:44:37 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Getting some culture",
+            "clean_text": "Getting some culture",
+            "place_name": "National Gallery of Victoria (NGV)",
+            "place_type": "poi",
+            "longitude": 144.9693037194922,
+            "latitude": -37.822483025431715,
+            "photo_urls": []
+        },
+        {
+            "tid": 1578934093676392448,
+            "uid": 1255697131681153024,
+            "author": "Flick Law",
+            "time": "2022-10-09 02:23:17 +0000",
+            "like_no": 165,
+            "language": "en",
+            "text": "Brave extinction rebellion climate protesters taking a stand at the Picasso exhibition at the NGV today - If you think this is disruption, note that climate chaos will cause war and famine.  #ClimateCollapse. \n@XRebellionAus @XRVicAus \n#ClimateEmergency https://t.co/z08jjoz9rk",
+            "clean_text": "Brave extinction rebellion climate protesters taking a stand at the Picasso exhibition at the NGV today If you think this is disruption note that climate chaos will cause war and famine",
+            "place_name": "National Gallery of Victoria (NGV)",
+            "place_type": "poi",
+            "longitude": 144.9693037194922,
+            "latitude": -37.822483025431715,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FemAL3HVsAA7sJE.jpg"
+            ]
+        },
+        {
+            "tid": 1578870575245979648,
+            "uid": 25058405,
+            "author": "Melissa Rosenthal 💉💉💉💉🇦🇺🇺🇦",
+            "time": "2022-10-08 22:10:53 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@ONJCancerCentre we’re ready to go! https://t.co/lw5o41jg3V",
+            "clean_text": "we re ready to go",
+            "place_name": "Alexandra Gardens",
+            "place_type": "poi",
+            "longitude": 144.97197457437386,
+            "latitude": -37.82026649219937,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FelGaqsVEAAAkyE.jpg"
+            ]
+        },
+        {
+            "tid": 1578715890308108289,
+            "uid": 589783535,
+            "author": "Maria Mercedes",
+            "time": "2022-10-08 11:56:14 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "My surprise date for tonight \n@carmiedean \nI've known this talented beauty for 23 yrs...since our #chicagothemusical\ndays and I Iove her.\n#💜 @ Melbourne Theatre Company https://t.co/RBs1K1DCOS",
+            "clean_text": "My surprise date for tonight I've known this talented beauty for 23 yrs since our days and I Iove her Melbourne Theatre Company",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96816308,
+            "latitude": -37.82411304,
+            "photo_urls": []
+        },
+        {
+            "tid": 1578590834488152064,
+            "uid": 74084381,
+            "author": "Victorian Opera",
+            "time": "2022-10-08 03:39:18 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "And we’re delighted to welcome our patrons for a special sneak peek and q&amp;a with the creative team! #opera #victorianopera #newopera #newmusic #theatre #melbourne https://t.co/TT95snNZHk",
+            "clean_text": "And we re delighted to welcome our patrons for a special sneak peek and q amp a with the creative team",
+            "place_name": "Arts Centre Melbourne",
+            "place_type": "poi",
+            "longitude": 144.968808,
+            "latitude": -37.82162,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FehH_bvacAEsPZR.jpg"
+            ]
+        },
+        {
+            "tid": 1578590821024411648,
+            "uid": 74084381,
+            "author": "Victorian Opera",
+            "time": "2022-10-08 03:39:15 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "We’re back at @artscentremelb for todays piano dress for #VOButterflyLovers in collab. with #wildrice  https://t.co/NrSR5I43z0 https://t.co/EiuIJmq4dw",
+            "clean_text": "We re back at for todays piano dress for in collab with",
+            "place_name": "Arts Centre Melbourne",
+            "place_type": "poi",
+            "longitude": 144.968808,
+            "latitude": -37.82162,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1578590779484049408/pu/img/GCjwaASQt_RpYfRn.jpg"
+            ]
+        },
+        {
+            "tid": 1578346866110267392,
+            "uid": 1215379328541716480,
+            "author": "Gerry Atrick",
+            "time": "2022-10-07 11:29:51 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Why yes they even have a RED WINE BAR here https://t.co/QJCpoVKGI8",
+            "clean_text": "Why yes they even have a RED WINE BAR here",
+            "place_name": "Margaret Court Arena",
+            "place_type": "poi",
+            "longitude": 144.97764587402344,
+            "latitude": -37.82109049884058,
+            "photo_urls": [
+                "https://pbs.twimg.com/tweet_video_thumb/FedpemDagAAhhOx.jpg"
+            ]
+        },
+        {
+            "tid": 1578343848446566400,
+            "uid": 621711404,
+            "author": "Anne-Marie Turner 🩺👶",
+            "time": "2022-10-07 11:17:52 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Love the buzzy build-up before the theatre. #mtcCyrano Beautiful, joyous and heartwarming. 💕Thanks @virginia_gay https://t.co/1SJjoggrJM",
+            "clean_text": "Love the buzzy build up before the theatre Beautiful joyous and heartwarming Thanks",
+            "place_name": "Southbank Theatre",
+            "place_type": "poi",
+            "longitude": 144.96827614059018,
+            "latitude": -37.82391914881225,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FednXLSUYAYX8EW.jpg"
+            ]
+        },
+        {
+            "tid": 1577890914902614016,
+            "uid": 733864045669810177,
+            "author": "...SINCE SPACIES - 25 DAYS ➡️ 🇯🇵",
+            "time": "2022-10-06 05:18:04 +0000",
+            "like_no": 8,
+            "language": "en",
+            "text": "Currently at the Picasso exhibition in National Gallery of Victoria and thought how suitable it would be for Sonic to be presented in cubism. https://t.co/Vk008cHAtE",
+            "clean_text": "Currently at the Picasso exhibition in National Gallery of Victoria and thought how suitable it would be for Sonic to be presented in cubism",
+            "place_name": "National Gallery of Victoria (NGV)",
+            "place_type": "poi",
+            "longitude": 144.9693037194922,
+            "latitude": -37.822483025431715,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FeXLbJ7UoAAeGes.jpg"
+            ]
+        },
+        {
+            "tid": 1577603247744974848,
+            "uid": 22036238,
+            "author": "meikoyim",
+            "time": "2022-10-05 10:14:59 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "❤️❤️❤️ @ National Gallery of Victoria https://t.co/m9BbcUzgkN",
+            "clean_text": "National Gallery of Victoria",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96904304,
+            "latitude": -37.82260323,
+            "photo_urls": []
+        },
+        {
+            "tid": 1577530032310063105,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-10-05 05:24:03 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Burnley Tunnel  (M1), Melbourne - lanes closed eastbound, The left lane is closed in the Burnley… https://t.co/iuHTmioN7M #victraffic",
+            "clean_text": "Burnley Tunnel M1 Melbourne lanes closed eastbound The left lane is closed in the Burnley",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97783004,
+            "latitude": -37.82429747,
+            "photo_urls": []
+        },
+        {
+            "tid": 1577521679697612800,
+            "uid": 336668146,
+            "author": "gwyn salazar guanzon",
+            "time": "2022-10-05 04:50:52 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Hmmmm.... @ National Gallery of Victoria https://t.co/UrjHGm6iFO",
+            "clean_text": "Hmmmm National Gallery of Victoria",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96904304,
+            "latitude": -37.82260323,
+            "photo_urls": []
+        },
+        {
+            "tid": 1577483700664782848,
+            "uid": 336668146,
+            "author": "gwyn salazar guanzon",
+            "time": "2022-10-05 02:19:57 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ National Gallery of Victoria https://t.co/3p3kMGSlAe",
+            "clean_text": "Just posted a photo National Gallery of Victoria",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96904304,
+            "latitude": -37.82260323,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576481108182519808,
+            "uid": 740119684008153088,
+            "author": "ℍ𝕒𝕞𝕚𝕕 𝕊⌬𝕝𝕖𝕚𝕞𝕒𝕟𝕚𝕟𝕖𝕛𝕒𝕕 🔬🐨",
+            "time": "2022-10-02 07:56:00 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "@NGVMelbourne is a place to be. \nThe Picasso Century, was an extraordinary exhibition to review most of Pablo Picasso's artworks.\nThis is a reflected image from mirrors at NGV foyer, you can see camera next to signature\n\n#photography \n#PhotoOfTheDay \n#ThePhotoHour\n#NGVPicasso https://t.co/kX1byfklbD",
+            "clean_text": "is a place to be The Picasso Century was an extraordinary exhibition to review most of Pablo Picasso's artworks This is a reflected image from mirrors at NGV foyer you can see camera next to signature",
+            "place_name": "National Gallery of Victoria (NGV)",
+            "place_type": "poi",
+            "longitude": 144.9693037194922,
+            "latitude": -37.822483025431715,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FeDFfDUUcAAL9jB.jpg"
+            ]
+        },
+        {
+            "tid": 1576131524881453056,
+            "uid": 258733786,
+            "author": "🌱💧Kirsty Wood",
+            "time": "2022-10-01 08:46:53 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "We may be slightly excited about seeing #mtcCyrano with @virginia_gay https://t.co/G7odngLTwq",
+            "clean_text": "We may be slightly excited about seeing with",
+            "place_name": "Southbank Theatre",
+            "place_type": "poi",
+            "longitude": 144.96827614059018,
+            "latitude": -37.82391914881225,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd-LP2UaMAUAYeA.jpg",
+                "https://pbs.twimg.com/media/Fd-LQsRakAA0D5b.jpg"
+            ]
+        },
+        {
+            "tid": 1576012807937708034,
+            "uid": 411446887,
+            "author": "NuoneGa",
+            "time": "2022-10-01 00:55:08 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at National Gallery of Victoria (NGV) - @ngv_melbourne in Southbank, VIC https://t.co/N8onWPEgPH",
+            "clean_text": "I'm at National Gallery of Victoria NGV in Southbank VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96930372,
+            "latitude": -37.82248303,
+            "photo_urls": []
+        },
+        {
+            "tid": 1575811916500697088,
+            "uid": 4759869020,
+            "author": "amber — BROKE 🧎🏼‍♀️",
+            "time": "2022-09-30 11:36:52 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "GUYS I THOUGHT MY CAMERA DIDNT GET THE PHOTO OF LOUIS POINTING AT ME BUT SHUT UP          #LTWTMELBOURNE #LTWT https://t.co/mVIh2etLTS",
+            "clean_text": "GUYS I THOUGHT MY CAMERA DIDNT GET THE PHOTO OF LOUIS POINTING AT ME BUT SHUT UP",
+            "place_name": "Margaret Court Arena",
+            "place_type": "poi",
+            "longitude": 144.97764587402344,
+            "latitude": -37.82109049884058,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd5olUCaAAADzf6.jpg"
+            ]
+        },
+        {
+            "tid": 1575771030014287873,
+            "uid": 1346680970984898562,
+            "author": "Silent🍓Blade",
+            "time": "2022-09-30 08:54:24 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "beautiful day https://t.co/K4lFuec61P",
+            "clean_text": "beautiful day",
+            "place_name": "Kings Domain",
+            "place_type": "poi",
+            "longitude": 144.9751889705658,
+            "latitude": -37.825183821186485,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd5DYowaAAAUu0j.jpg",
+                "https://pbs.twimg.com/media/Fd5DYo-aEAITcu3.jpg"
+            ]
+        },
+        {
+            "tid": 1575755085980000256,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-09-30 07:51:03 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Domain Tunnel  (M1), Melbourne - lanes closed westbound, Middle lane closed in the Domain Tunnel, due… https://t.co/URcopry7JD #victraffic",
+            "clean_text": "Domain Tunnel M1 Melbourne lanes closed westbound Middle lane closed in the Domain Tunnel due",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9746791,
+            "latitude": -37.82510447,
+            "photo_urls": []
+        },
+        {
+            "tid": 1575654676686835714,
+            "uid": 1461138547,
+            "author": "Patrick Sowersby",
+            "time": "2022-09-30 01:12:03 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "Iconic https://t.co/n41ghE2or4",
+            "clean_text": "Iconic",
+            "place_name": "Tan Track",
+            "place_type": "poi",
+            "longitude": 144.97730255126953,
+            "latitude": -37.82439568360031,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd3ZkYwaUAIvrIR.jpg"
+            ]
+        },
+        {
+            "tid": 1575622881253511169,
+            "uid": 27402328,
+            "author": "Scott Attwood",
+            "time": "2022-09-29 23:05:43 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Great night getting our country on. @mackenziepmusic @morganevansmusic @bradpaisley . Thank you @rodlaverarena @ Rod Laver Arena https://t.co/m8vMSa28eL",
+            "clean_text": "Great night getting our country on morganevansmusic Thank you Rod Laver Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97854785,
+            "latitude": -37.8218648,
+            "photo_urls": []
+        },
+        {
+            "tid": 1575482769454538752,
+            "uid": 1267838570,
+            "author": "Troy Raabe",
+            "time": "2022-09-29 13:48:57 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Just posted a photo @ Rod Laver Arena https://t.co/PhPfz1fk7t",
+            "clean_text": "Just posted a photo Rod Laver Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97854785,
+            "latitude": -37.8218648,
+            "photo_urls": []
+        },
+        {
+            "tid": 1575437055512961024,
+            "uid": 1267838570,
+            "author": "Troy Raabe",
+            "time": "2022-09-29 10:47:18 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Just posted a photo @ Rod Laver Arena https://t.co/xMSYZBKbpQ",
+            "clean_text": "Just posted a photo Rod Laver Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97854785,
+            "latitude": -37.8218648,
+            "photo_urls": []
+        },
+        {
+            "tid": 1575263598967812102,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-09-28 23:18:03 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Alexandra Av , Melbourne - lanes closed inbound, Right lane closed inbound at Linlithgow Avenue due… https://t.co/MxkwTOAus3 #victraffic",
+            "clean_text": "Alexandra Av Melbourne lanes closed inbound Right lane closed inbound at Linlithgow Avenue due",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97474726,
+            "latitude": -37.8221029,
+            "photo_urls": []
+        },
+        {
+            "tid": 1575115957785206790,
+            "uid": 112291162,
+            "author": "Shaun Dux",
+            "time": "2022-09-28 13:31:23 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at The Barre in Melbourne, Vic https://t.co/4aklW6HBXl",
+            "clean_text": "I'm at The Barre in Melbourne Vic",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96825283,
+            "latitude": -37.82189742,
+            "photo_urls": []
+        },
+        {
+            "tid": 1575115921697525761,
+            "uid": 112291162,
+            "author": "Shaun Dux",
+            "time": "2022-09-28 13:31:14 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Casey Demons Presentation Night (@ Arts Centre Melbourne - @artscentremelb in Southbank, VIC) https://t.co/CcYbUuXX0H",
+            "clean_text": "Casey Demons Presentation Night Arts Centre Melbourne in Southbank VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.968808,
+            "latitude": -37.82162,
+            "photo_urls": []
+        },
+        {
+            "tid": 1574636187012452352,
+            "uid": 1014778443362258944,
+            "author": ":: TEDDY ! ✰",
+            "time": "2022-09-27 05:44:56 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "here are some billie eilish concert photos that i took !!\n\n— (september 24th) —\n\nbecause i have post concert depression 😭 https://t.co/a6LJUcM1rN",
+            "clean_text": "here are some billie eilish concert photos that i took september 24th because i have post concert depression",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fdo7KukaAAEw5Et.jpg",
+                "https://pbs.twimg.com/media/Fdo7KumacAAcVu7.jpg",
+                "https://pbs.twimg.com/media/Fdo7KumaUAIFg7n.jpg",
+                "https://pbs.twimg.com/media/Fdo7KulagAAoTMW.jpg"
+            ]
+        },
+        {
+            "tid": 1574565550537076737,
+            "uid": 2791614701,
+            "author": "david",
+            "time": "2022-09-27 01:04:15 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "#monday #night in the #city to see an amazing #young #women @billieeilish put on an #oldschool #rocknroll show #happierthanever @ Rod Laver Arena https://t.co/E8hceg4HSL",
+            "clean_text": "in the to see an amazing put on an show Rod Laver Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97854785,
+            "latitude": -37.8218648,
+            "photo_urls": []
+        },
+        {
+            "tid": 1574418346287960064,
+            "uid": 257343115,
+            "author": "Stacey🥹",
+            "time": "2022-09-26 15:19:19 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "The final show 😭😭 I sobbed. @finneas @billieeilish so happy I got to see you 5 times I had the absolute time of my life. 🫶🏼 https://t.co/ymBYVRhycI",
+            "clean_text": "The final show I sobbed so happy I got to see you 5 times I had the absolute time of my life",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fdl1Iq0aMAAfgTG.jpg",
+                "https://pbs.twimg.com/media/Fdl1IqyaUAAZKJV.jpg",
+                "https://pbs.twimg.com/media/Fdl1IqxaAAAd83t.jpg",
+                "https://pbs.twimg.com/media/Fdl1IqzakAA6Auv.jpg"
+            ]
+        },
+        {
+            "tid": 1574396016115449863,
+            "uid": 1437615014,
+            "author": "milyzhang97",
+            "time": "2022-09-26 13:50:35 +0000",
+            "like_no": 8,
+            "language": "en",
+            "text": "Thank you so much for the amazing show. #billieeilish #Melbourne #Concert https://t.co/7iC9XwUNBD",
+            "clean_text": "Thank you so much for the amazing show",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fdlg1D_acAEbAyO.jpg",
+                "https://pbs.twimg.com/media/Fdlg1EAaIAASUA4.jpg",
+                "https://pbs.twimg.com/media/Fdlg1EDaUAE5nLm.jpg",
+                "https://pbs.twimg.com/media/Fdlg1EBaUAACfM_.jpg"
+            ]
+        },
+        {
+            "tid": 1574374831222464512,
+            "uid": 25234725,
+            "author": "𝐂𝐚𝐭𝐞",
+            "time": "2022-09-26 12:26:24 +0000",
+            "like_no": 9,
+            "language": "en",
+            "text": "As promised, @reelbraddavis, Billie Eilish. https://t.co/RJkDrUwwgN",
+            "clean_text": "As promised Billie Eilish",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1574374425805217792/pu/img/8JpvGmlON9EqGWNt.jpg"
+            ]
+        },
+        {
+            "tid": 1574330215542956032,
+            "uid": 399227325,
+            "author": "Heath Linton",
+            "time": "2022-09-26 09:29:07 +0000",
+            "like_no": 11,
+            "language": "en",
+            "text": "Waiting for @billieeilish real Father of the year areas 😂 https://t.co/2Uc864ywcN",
+            "clean_text": "Waiting for real Father of the year areas",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fdkk-uCagAAOWFx.jpg",
+                "https://pbs.twimg.com/media/Fdkk-uCaUAAcOVX.jpg",
+                "https://pbs.twimg.com/media/Fdkk-uBacAEUVdi.jpg",
+                "https://pbs.twimg.com/media/Fdkk-uBaIAIPV1O.jpg"
+            ]
+        },
+        {
+            "tid": 1573913777342652416,
+            "uid": 3589311254,
+            "author": "Sampa The Great",
+            "time": "2022-09-25 05:54:21 +0000",
+            "like_no": 982,
+            "language": "en",
+            "text": "What a time 🥹💫\n\n📸 Matty Vogel https://t.co/I7XYaSock5",
+            "clean_text": "What a time Matty Vogel",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdeqPAJaMAACol-.jpg",
+                "https://pbs.twimg.com/media/FdeqPAIagAIt_vF.jpg",
+                "https://pbs.twimg.com/media/FdeqPAHaMAATi9Y.jpg",
+                "https://pbs.twimg.com/media/FdeqPAIaEAAdMbv.jpg"
+            ]
+        },
+        {
+            "tid": 1573895999998767109,
+            "uid": 180676456,
+            "author": "Luke Soulos",
+            "time": "2022-09-25 04:43:42 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "Superb weather &amp; conditions for todays post Grand Final #SundayRunday with this Crew!\n\nGreat to see good numbers including some young newbies joining in!\n\nLast run before Run Melb next Sunday. Good luck to everyone participating. Relax, give it your best &amp; run well. \n\n#Tan #Run https://t.co/CW2mskNcOa",
+            "clean_text": "Superb weather amp conditions for todays post Grand Final with this Crew Great to see good numbers including some young newbies joining in Last run before Run Melb next Sunday Good luck to everyone participating Relax give it your best amp run well",
+            "place_name": "Tan Track",
+            "place_type": "poi",
+            "longitude": 144.97730255126953,
+            "latitude": -37.82439568360031,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdeaEGRVsAArrUR.jpg",
+                "https://pbs.twimg.com/media/FdeaEGYUoAAKuJm.jpg"
+            ]
+        },
+        {
+            "tid": 1573538453526319104,
+            "uid": 42362483,
+            "author": "Jaala Pulford MP",
+            "time": "2022-09-24 05:02:56 +0000",
+            "like_no": 35,
+            "language": "en",
+            "text": "Don’t miss Picasso at @NGVMelbourne \n\nIt’ll be moving on soon. https://t.co/prnrlH6WEL",
+            "clean_text": "Don t miss Picasso at It ll be moving on soon",
+            "place_name": "National Gallery of Victoria (NGV)",
+            "place_type": "poi",
+            "longitude": 144.9693037194922,
+            "latitude": -37.822483025431715,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdZU4O8acAAmJT0.jpg",
+                "https://pbs.twimg.com/media/FdZU4O7aAAEQAwh.jpg"
+            ]
+        },
+        {
+            "tid": 1573512587475832832,
+            "uid": 1308645787664932864,
+            "author": "georgex",
+            "time": "2022-09-24 03:20:09 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "@billieeilish the greatest performer https://t.co/AWPSo9MyFD",
+            "clean_text": "the greatest performer",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdY9Wd2aIAMouqz.jpg",
+                "https://pbs.twimg.com/media/FdY9Wd2aEAE2BuR.jpg",
+                "https://pbs.twimg.com/media/FdY9Wd2aEAAgLwt.jpg",
+                "https://pbs.twimg.com/media/FdY9Wd2aEAIwoXx.jpg"
+            ]
+        },
+        {
+            "tid": 1573487324050391040,
+            "uid": 3589942153,
+            "author": "Lisa 💉💉💉💉",
+            "time": "2022-09-24 01:39:46 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "@SarkySage2 Just saw the Picasso Century at NGV which was excellent. Best part was walking out into bright ☀️ https://t.co/qkjWUIHo95",
+            "clean_text": "Just saw the Picasso Century at NGV which was excellent Best part was walking out into bright",
+            "place_name": "National Gallery of Victoria (NGV)",
+            "place_type": "poi",
+            "longitude": 144.9693037194922,
+            "latitude": -37.822483025431715,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdYmYMwagAAr0sK.jpg"
+            ]
+        },
+        {
+            "tid": 1573275320626847745,
+            "uid": 42362483,
+            "author": "Jaala Pulford MP",
+            "time": "2022-09-23 11:37:21 +0000",
+            "like_no": 25,
+            "language": "en",
+            "text": "Billie acoustic ❤️ https://t.co/f36R0BSqAd",
+            "clean_text": "Billie acoustic",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdVlfZMaEAEwWur.jpg"
+            ]
+        },
+        {
+            "tid": 1573260154614976512,
+            "uid": 28504322,
+            "author": "TheVegabus / Tea",
+            "time": "2022-09-23 10:37:05 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "@billieeilish tonight\n#BillieEilish https://t.co/fA2Z7I0z8a",
+            "clean_text": "tonight",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdVXwDAUoAA_zP9.jpg"
+            ]
+        },
+        {
+            "tid": 1573237266486816770,
+            "uid": 583827873,
+            "author": "Mark",
+            "time": "2022-09-23 09:06:08 +0000",
+            "like_no": 14,
+            "language": "en",
+            "text": "I am out. https://t.co/IuRwJQAdr5",
+            "clean_text": "I am out",
+            "place_name": "National Gallery of Victoria (NGV)",
+            "place_type": "poi",
+            "longitude": 144.9693037194922,
+            "latitude": -37.822483025431715,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdVC8O4aMAADNil.jpg"
+            ]
+        },
+        {
+            "tid": 1573230489892442113,
+            "uid": 1515715568569294848,
+            "author": "Shady | Crypto.com 🇦🇺",
+            "time": "2022-09-23 08:39:12 +0000",
+            "like_no": 78,
+            "language": "en",
+            "text": "Pre-Grand Final event\n\n#AFLGF #CROFAM https://t.co/U40JsKfysg",
+            "clean_text": "Pre Grand Final event",
+            "place_name": "Centrepiece",
+            "place_type": "poi",
+            "longitude": 144.979924,
+            "latitude": -37.821082,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdU8yNAagAA46O1.jpg"
+            ]
+        },
+        {
+            "tid": 1573216507550924800,
+            "uid": 1493156695635533826,
+            "author": "alison",
+            "time": "2022-09-23 07:43:39 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "waiting for the billie show and bottled water costs $5.70 im so fkn mad",
+            "clean_text": "waiting for the billie show and bottled water costs 5 70 im so fkn mad",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": []
+        },
+        {
+            "tid": 1573175659672788992,
+            "uid": 704118935633788928,
+            "author": "Tahlia Sinclair",
+            "time": "2022-09-23 05:01:20 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "The fog is coming ☁️☁️☁️ https://t.co/tH6sFP9NLk",
+            "clean_text": "The fog is coming",
+            "place_name": "Collingwood FC HQ",
+            "place_type": "poi",
+            "longitude": 144.97955136014033,
+            "latitude": -37.82346827466224,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdUK6h3XkAAk3_Z.jpg"
+            ]
+        },
+        {
+            "tid": 1573175637438865408,
+            "uid": 704118935633788928,
+            "author": "Tahlia Sinclair",
+            "time": "2022-09-23 05:01:14 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "More footy, more friends https://t.co/KfkwaLgR7g",
+            "clean_text": "More footy more friends",
+            "place_name": "Collingwood FC HQ",
+            "place_type": "poi",
+            "longitude": 144.97955136014033,
+            "latitude": -37.82346827466224,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdUG8LtUUAExsv9.jpg"
+            ]
+        },
+        {
+            "tid": 1573172310949138432,
+            "uid": 1552232449031434245,
+            "author": "ab",
+            "time": "2022-09-23 04:48:01 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "@billieeilish on Naarm Country (melbourne @RodLaverArena) for Happier Than Ever World Tour 2022. https://t.co/8KzrNSDsh6",
+            "clean_text": "on Naarm Country melbourne for Happier Than Ever World Tour 2022",
+            "place_name": "Rod Laver Theatrette",
+            "place_type": "poi",
+            "longitude": 144.978507,
+            "latitude": -37.822018,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdUH4AEaUAAtBoe.jpg",
+                "https://pbs.twimg.com/media/FdUH4AdaIAAeT5U.jpg"
+            ]
+        },
+        {
+            "tid": 1572951982557769730,
+            "uid": 484653639,
+            "author": "Madi",
+            "time": "2022-09-22 14:12:31 +0000",
+            "like_no": 7,
+            "language": "en",
+            "text": "show 5/5 tonight. 😭💖 https://t.co/97tLtYT98I",
+            "clean_text": "show 5 5 tonight",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdQ_fJYaAAAwj7s.jpg",
+                "https://pbs.twimg.com/media/FdQ_fJkaUAAFHtD.jpg"
+            ]
+        },
+        {
+            "tid": 1572943480212844544,
+            "uid": 1465163301709438977,
+            "author": "Trang",
+            "time": "2022-09-22 13:38:44 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "when i tell u i must limit my words until saturday night - billies not readdyy for pit night 3 https://t.co/rqCVXAPMQA",
+            "clean_text": "when i tell u i must limit my words until saturday night billies not readdyy for pit night 3",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1572943351116361728/pu/img/wBnoIeNAuyp6JGwB.jpg"
+            ]
+        },
+        {
+            "tid": 1572933237508558848,
+            "uid": 275526737,
+            "author": "Robbie Joseph",
+            "time": "2022-09-22 12:58:02 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "@billieeilish rockin' it out (and up) to us in the nosebleeds. #classact 💯 #Melbourne https://t.co/e29VPihoz0",
+            "clean_text": "rockin' it out and up to us in the nosebleeds",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdQtAJjacAEESK8.jpg"
+            ]
+        },
+        {
+            "tid": 1572890491926245378,
+            "uid": 1060551564,
+            "author": "FlyCam Australia",
+            "time": "2022-09-22 10:08:10 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Covering all the action of CS:Go for DreamHack 2022\n.\nEvent: @DreamHack Melbourne 2022 \nProduction: @ESL @ESLAustralia \nBroadcast: @woohah_prod Antonio Cafasso \nLocation: @RodLaverArena\nTech: Ponty Umar https://t.co/A51kmrmi7Z",
+            "clean_text": "Covering all the action of CS Go for DreamHack 2022 Event Melbourne 2022 Production Broadcast Antonio Cafasso Location Tech Ponty Umar",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdQHYTraAAE47bh.jpg",
+                "https://pbs.twimg.com/media/FdQHYTlacAIHD0e.jpg",
+                "https://pbs.twimg.com/media/FdQHYTeagAE4uwo.jpg"
+            ]
+        },
+        {
+            "tid": 1572866685094469633,
+            "uid": 177573387,
+            "author": "Damian Marley 🚀",
+            "time": "2022-09-22 08:33:34 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "We are seeing @billieeilish and it is an all-ages including OLD AGES event 🤟🏻 https://t.co/TeOvvBoSlz",
+            "clean_text": "We are seeing and it is an all ages including OLD AGES event",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdPx6MuaIAIQnOf.jpg"
+            ]
+        },
+        {
+            "tid": 1572024284926869504,
+            "uid": 14517324,
+            "author": "Tim Harrap",
+            "time": "2022-09-20 00:46:10 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Melbourne morning ☀️ https://t.co/KAKNwhtbTO",
+            "clean_text": "Melbourne morning",
+            "place_name": "Queen Victoria Gardens",
+            "place_type": "poi",
+            "longitude": 144.97035570132462,
+            "latitude": -37.82229741357658,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1572024211207786497/pu/img/QdAfXnmsnxUi21O3.jpg"
             ]
         }
     ]

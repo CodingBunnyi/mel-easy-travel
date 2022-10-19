@@ -1,12 +1,12 @@
 {
-    "count": 17,
+    "count": 74,
     "data": [
         {
             "tid": 1582489316001185792,
             "uid": 2393500705,
             "author": "Jerome Gillbard",
             "time": "2022-10-18 21:50:28 +0000",
-            "like_no": 5,
+            "like_no": 9,
             "language": "en",
             "text": "Get up, it’s (the deciding) game day\n\n#netball #transtasman #mensnetball #australia #newzealand https://t.co/njnzgTxeNz",
             "clean_text": "Get up it s the deciding game day",
@@ -283,6 +283,945 @@
             "place_type": "city",
             "longitude": 144.98126,
             "latitude": -37.82464,
+            "photo_urls": []
+        },
+        {
+            "tid": 1579814619408846848,
+            "uid": 238036959,
+            "author": "Steve Horvat",
+            "time": "2022-10-11 12:42:11 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "I’ll be forever grateful for the memories @fklg42 Rest easy big man. I’ll See You In My Dreams 😢💔 https://t.co/miCYGqZDNf",
+            "clean_text": "I ll be forever grateful for the memories Rest easy big man I ll See You In My Dreams",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FeyhBTvUYAEtyRI.jpg"
+            ]
+        },
+        {
+            "tid": 1579010832369078275,
+            "uid": 601712763,
+            "author": "BNA - Basketball News Australia",
+            "time": "2022-10-09 07:28:13 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@xaviercooks was electric for the @sydneykings in todays game against the @melbunited @ John Cain Arena https://t.co/QXyKwwEvxm",
+            "clean_text": "was electric for the in todays game against the John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1578974856527642624,
+            "uid": 180676456,
+            "author": "Luke Soulos",
+            "time": "2022-10-09 05:05:16 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "Superb morn for #SundayRunday with the #Crew! A little crowded with ‘Olivia’s Walk for Wellness’, although we managed a good 4.30 pace for the double &amp; the customary sprint to finish! \n\nOlivia’s Walk for Wellness brings love &amp; light to those with Cancer – a great cause! 💕 https://t.co/v687P7CwkF",
+            "clean_text": "Superb morn for with the A little crowded with Olivia s Walk for Wellness although we managed a good 4 30 pace for the double amp the customary sprint to finish Olivia s Walk for Wellness brings love amp light to those with Cancer a great cause",
+            "place_name": "Tan Track",
+            "place_type": "poi",
+            "longitude": 144.97730255126953,
+            "latitude": -37.82439568360031,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FemlP6hUAAAiMMB.jpg",
+                "https://pbs.twimg.com/media/FemlP6jVQAAgCBR.jpg",
+                "https://pbs.twimg.com/media/FemlP6gVIAEmASc.jpg"
+            ]
+        },
+        {
+            "tid": 1578667883596763136,
+            "uid": 601712763,
+            "author": "BNA - Basketball News Australia",
+            "time": "2022-10-08 08:45:28 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@cairnstaipans get it done against the @semelbphoenix 🔥🔥🔥 @ John Cain Arena https://t.co/OSudMK0Q2B",
+            "clean_text": "get it done against the John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1578623857652826112,
+            "uid": 1054520871446970368,
+            "author": "South East Melbourne Phoenix",
+            "time": "2022-10-08 05:50:31 +0000",
+            "like_no": 7,
+            "language": "en",
+            "text": "Doors are open and the crowd is building! 🤩\n\nDon’t forget to buy your Phoenix merch at the game! 💪💚\n\n🎟: https://t.co/NjBqkEebWF https://t.co/mfQ1clmM06",
+            "clean_text": "Doors are open and the crowd is building Don t forget to buy your Phoenix merch at the game",
+            "place_name": "John Cain Arena",
+            "place_type": "poi",
+            "longitude": 144.98189449310303,
+            "latitude": -37.82283209541227,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1578623768250834944/pu/img/uJm43yOkkZ9ewPwd.jpg"
+            ]
+        },
+        {
+            "tid": 1578396006948945922,
+            "uid": 148870532,
+            "author": "Football-Lineups.com",
+            "time": "2022-10-07 14:45:07 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "🇦🇺 #Australia #ALeague -  #MelbourneCity 2 vs  Western United 1   \n\n ⚽ Goals : Lacroix (own goal), Maclaren, Milanovic \n  \n ⚖️TIME POSSESION : 49 - 51  %     \n SHOTS ON GOAL : 9 - 4    \n\n    https://t.co/MTPKFJMLcC https://t.co/AKIAySj68m",
+            "clean_text": "2 vs Western United 1 Goals Lacroix own goal Maclaren Milanovic TIME POSSESION 49 51 SHOTS ON GOAL 9 4",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98388889,
+            "latitude": -37.82527778,
+            "photo_urls": []
+        },
+        {
+            "tid": 1578355391787769856,
+            "uid": 1322529776,
+            "author": "Jade Hockey",
+            "time": "2022-10-07 12:03:44 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Come On You City Boys! Melbourne's Red, White and Blue! Go City! ❤️🤍💙 @MelbourneCity @ScottJamieson @andrewnabbout https://t.co/NsCPLNoJLY",
+            "clean_text": "Come On You City Boys Melbourne's Red White and Blue Go City",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fedx2mLVQAASiaQ.jpg"
+            ]
+        },
+        {
+            "tid": 1578340056078553088,
+            "uid": 1075149073,
+            "author": "marcus gomes",
+            "time": "2022-10-07 11:02:48 +0000",
+            "like_no": 7,
+            "language": "en",
+            "text": "nervy end, but all about the W ✅\n(ty for the 3 points @ Lacriox) https://t.co/UC0o9f7FO9",
+            "clean_text": "nervy end but all about the W ty for the 3 points Lacriox",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fedj6K5UYAEpa2c.jpg"
+            ]
+        },
+        {
+            "tid": 1578303859167940608,
+            "uid": 892890976531791872,
+            "author": "Clifford Eberly",
+            "time": "2022-10-07 08:38:58 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Here for it. #MCYvWUN https://t.co/2xGrWAPsLE",
+            "clean_text": "Here for it",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FedC_ZdVUAU4wFN.jpg"
+            ]
+        },
+        {
+            "tid": 1578298282857545729,
+            "uid": 421723153,
+            "author": "Daniel Stoeski",
+            "time": "2022-10-07 08:16:48 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "It’s almost kick off time! #MCYvWUN",
+            "clean_text": "It s almost kick off time",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": []
+        },
+        {
+            "tid": 1578292739208540163,
+            "uid": 130141322,
+            "author": "Melbourne City FC",
+            "time": "2022-10-07 07:54:46 +0000",
+            "like_no": 255,
+            "language": "en",
+            "text": "We back baby.\n\n#MCYvWUN https://t.co/2z1cT0OmKA",
+            "clean_text": "We back baby",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fec44TyagAEMgrM.jpg"
+            ]
+        },
+        {
+            "tid": 1578255535756804096,
+            "uid": 130141322,
+            "author": "Melbourne City FC",
+            "time": "2022-10-07 05:26:56 +0000",
+            "like_no": 46,
+            "language": "en",
+            "text": "Home 💙\n\n🎟 https://t.co/IqzyzlMwFy https://t.co/NQuf2ixN1U",
+            "clean_text": "Home",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FecW9fmUoAY7a7E.jpg",
+                "https://pbs.twimg.com/media/FecW9foUUAA4FSr.jpg"
+            ]
+        },
+        {
+            "tid": 1578140266187440129,
+            "uid": 20190441,
+            "author": "Candy Hertz",
+            "time": "2022-10-06 21:48:54 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ John Cain Arena https://t.co/7WeT2wLsKX",
+            "clean_text": "Just posted a photo John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1578123678843535360,
+            "uid": 845078560708542465,
+            "author": "Nick PAVLIDIS",
+            "time": "2022-10-06 20:42:59 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "Kangaroos beat the Swans 🔵⚪️🔵🇬🇷🦘🏈 https://t.co/HcaXsjvmVh",
+            "clean_text": "Kangaroos beat the Swans",
+            "place_name": "Punt Road Oval",
+            "place_type": "poi",
+            "longitude": 144.9887244771318,
+            "latitude": -37.82286132634027,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FeafG43akAA1XQd.jpg",
+                "https://pbs.twimg.com/media/FeafG40aAAA5Li0.jpg",
+                "https://pbs.twimg.com/media/FeafG41aYAAh0w1.jpg",
+                "https://pbs.twimg.com/media/FeafG40aUAAB9t5.jpg"
+            ]
+        },
+        {
+            "tid": 1578123543640150016,
+            "uid": 845078560708542465,
+            "author": "Nick PAVLIDIS",
+            "time": "2022-10-06 20:42:27 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Sunny day at the footy https://t.co/bjUXQr9xNz https://t.co/neAe4L2dhs",
+            "clean_text": "Sunny day at the footy",
+            "place_name": "Punt Road Oval",
+            "place_type": "poi",
+            "longitude": 144.9887244771318,
+            "latitude": -37.82286132634027,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Feae9MgaAAESsyW.jpg",
+                "https://pbs.twimg.com/media/Feae9MgaUAAIFdJ.jpg",
+                "https://pbs.twimg.com/ext_tw_video_thumb/1578123493610512384/pu/img/pT-9xyPyWpBsbO3o.jpg"
+            ]
+        },
+        {
+            "tid": 1577530032310063105,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-10-05 05:24:03 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Burnley Tunnel  (M1), Melbourne - lanes closed eastbound, The left lane is closed in the Burnley… https://t.co/iuHTmioN7M #victraffic",
+            "clean_text": "Burnley Tunnel M1 Melbourne lanes closed eastbound The left lane is closed in the Burnley",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97783004,
+            "latitude": -37.82429747,
+            "photo_urls": []
+        },
+        {
+            "tid": 1577210327414067202,
+            "uid": 404869728,
+            "author": "น้องตุนมะยอน♡",
+            "time": "2022-10-04 08:13:39 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at Tram Stop 7C - Hisense Arena - @yarratrams in East Melbourne, VIC https://t.co/9VXM4TkbTJ",
+            "clean_text": "I'm at Tram Stop 7C Hisense Arena in East Melbourne VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98327267,
+            "latitude": -37.82228517,
+            "photo_urls": []
+        },
+        {
+            "tid": 1577210257503289344,
+            "uid": 404869728,
+            "author": "น้องตุนมะยอน♡",
+            "time": "2022-10-04 08:13:23 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at National Tennis Centre in Melbourne https://t.co/HsZrlgaIJo",
+            "clean_text": "I'm at National Tennis Centre in Melbourne",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98385,
+            "latitude": -37.823179,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576839070323441665,
+            "uid": 34125308,
+            "author": "Chris Goulding",
+            "time": "2022-10-03 07:38:25 +0000",
+            "like_no": 20,
+            "language": "en",
+            "text": "Good start.. plenty of work to do. So good to be back at John Cain Arena in front of our fans! @melbunited @ John Cain Arena https://t.co/rOi3auUTI7",
+            "clean_text": "Good start plenty of work to do So good to be back at John Cain Arena in front of our fans John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576480283502686210,
+            "uid": 185486666,
+            "author": "Paul Filakis",
+            "time": "2022-10-02 07:52:43 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Solid performance Roogirls! \nAwesome!\n@NorthMelbourneW \n👍💙🤍💙",
+            "clean_text": "Solid performance Roogirls Awesome",
+            "place_name": "Punt Road Oval",
+            "place_type": "poi",
+            "longitude": 144.9887244771318,
+            "latitude": -37.82286132634027,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576457337921208320,
+            "uid": 850745851,
+            "author": "FinesseMane",
+            "time": "2022-10-02 06:21:33 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "Why watch basketball when you can watch me watching basketball⁉️ #NBL23 https://t.co/q7l3kuwkwk",
+            "clean_text": "Why watch basketball when you can watch me watching basketball",
+            "place_name": "John Cain Arena",
+            "place_type": "poi",
+            "longitude": 144.98189449310303,
+            "latitude": -37.82283209541227,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1576457285916065794/pu/img/IDCSdJQiytrusWUn.jpg"
+            ]
+        },
+        {
+            "tid": 1576444708821340162,
+            "uid": 601712763,
+            "author": "BNA - Basketball News Australia",
+            "time": "2022-10-02 05:31:22 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@xrm22 shined to deliver @melbunited the win in OT 🔥🔥🔥 @ John Cain Arena https://t.co/ayuHSvZ6wG",
+            "clean_text": "shined to deliver the win in OT John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576392646355927041,
+            "uid": 78520210,
+            "author": "Jayden Cameron",
+            "time": "2022-10-02 02:04:29 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I’ve been a massive hater of @NBL for years mainly for lacking skill and talent … \n\n2022 is the year that changes, fully invested in the league, and @MelbUnited! \n\nLove how far basketball has come in this country, and continues to strive for more! #NBL23 #NBL",
+            "clean_text": "I ve been a massive hater of for years mainly for lacking skill and talent 2022 is the year that changes fully invested in the league and Love how far basketball has come in this country and continues to strive for more",
+            "place_name": "John Cain Arena",
+            "place_type": "poi",
+            "longitude": 144.98189449310303,
+            "latitude": -37.82283209541227,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576372215079002112,
+            "uid": 181697609,
+            "author": "Hayati Azwin",
+            "time": "2022-10-02 00:43:18 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Last night epic show of Monster Jam in Melbourne. Awesomee !! #bestexperience #MonsterJam https://t.co/RV6qOaIy8K",
+            "clean_text": "Last night epic show of Monster Jam in Melbourne Awesomee",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FeBmK7hVQAAmp01.jpg"
+            ]
+        },
+        {
+            "tid": 1576175444923121664,
+            "uid": 601712763,
+            "author": "BNA - Basketball News Australia",
+            "time": "2022-10-01 11:41:24 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "The @semelbphoenix get the first W of the 22/23 @nbl season @ John Cain Arena https://t.co/GS9NsyhECm",
+            "clean_text": "The get the first W of the 22 23 season John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576161853624967168,
+            "uid": 2173767504,
+            "author": "Tony Sleep",
+            "time": "2022-10-01 10:47:24 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Father’s Day present delivered.\nRipper opening round @semelbphoenix @jackjumpers with my man @jackasleep @nbl @ John Cain Arena https://t.co/IxI2CdE0Uw",
+            "clean_text": "Father s Day present delivered Ripper opening round with my man John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576144051232964610,
+            "uid": 1547741328,
+            "author": "oztimmay79",
+            "time": "2022-10-01 09:36:39 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "BIG TRUCKS!! @ AAMI Park https://t.co/2tku2qlJOL",
+            "clean_text": "BIG TRUCKS AAMI Park",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98396246,
+            "latitude": -37.82484683,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576140962736140288,
+            "uid": 1034025938265071616,
+            "author": "Jordan Janssen",
+            "time": "2022-10-01 09:24:23 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "It's just good to have the NBL back!! @innersanctum_au\n#NBL23 #NBL https://t.co/SvEJcf9FvP",
+            "clean_text": "It's just good to have the NBL back",
+            "place_name": "John Cain Arena",
+            "place_type": "poi",
+            "longitude": 144.98189449310303,
+            "latitude": -37.82283209541227,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd-T0mOakAAXvEg.jpg",
+                "https://pbs.twimg.com/media/Fd-T1QHaAAA1v7_.jpg",
+                "https://pbs.twimg.com/media/Fd-T2BnaMAAY5GK.jpg"
+            ]
+        },
+        {
+            "tid": 1576123347309826049,
+            "uid": 2211683917,
+            "author": "Olgun Uluc",
+            "time": "2022-10-01 08:14:23 +0000",
+            "like_no": 71,
+            "language": "en",
+            "text": "The 2022-23 NBL season is underway. https://t.co/LXhGI4Po9a",
+            "clean_text": "The 2022 23 NBL season is underway",
+            "place_name": "John Cain Arena",
+            "place_type": "poi",
+            "longitude": 144.98189449310303,
+            "latitude": -37.82283209541227,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd-D0BEaUAEnIrJ.jpg"
+            ]
+        },
+        {
+            "tid": 1576059993736249344,
+            "uid": 20396157,
+            "author": "Cindy T",
+            "time": "2022-10-01 04:02:38 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "At the Pit Party #MonsterJam https://t.co/DCl4AY7tJJ",
+            "clean_text": "At the Pit Party",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd9KNMKagAIjAy_.jpg"
+            ]
+        },
+        {
+            "tid": 1576059812903030788,
+            "uid": 436366079,
+            "author": "Matty B",
+            "time": "2022-10-01 04:01:55 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Great day for some MONSTER TRUCKS!!\n#monsterjam @ AAMI Park https://t.co/Z0mugeQ9TE",
+            "clean_text": "Great day for some MONSTER TRUCKS AAMI Park",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98396246,
+            "latitude": -37.82484683,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576028457640697856,
+            "uid": 2840753888,
+            "author": "Ⓑrett ⓂcDonnell",
+            "time": "2022-10-01 01:57:20 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Living his best life at #MonsterJam https://t.co/k9BY4UKYG3",
+            "clean_text": "Living his best life at",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd8tYMzUoAUPoY0.jpg",
+                "https://pbs.twimg.com/media/Fd8tYM0VsAAMYb6.jpg",
+                "https://pbs.twimg.com/media/Fd8tYM1UAAAAjjK.jpg"
+            ]
+        },
+        {
+            "tid": 1576015562454757377,
+            "uid": 1457863020005273604,
+            "author": "Wayne C",
+            "time": "2022-10-01 01:06:05 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "#monsterjam #aamipark #monstertruck Here in Melbourne Australia for Monster Jam! First time halfway across the world. https://t.co/gOziiAsGio",
+            "clean_text": "Here in Melbourne Australia for Monster Jam First time halfway across the world",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd8hyVNWQAI-QkB.jpg"
+            ]
+        },
+        {
+            "tid": 1576009843294363648,
+            "uid": 152874095,
+            "author": "Alex Donnelly",
+            "time": "2022-10-01 00:43:22 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Ready to go for tomorrow @melbmara https://t.co/fyaJbesrFC",
+            "clean_text": "Ready to go for tomorrow",
+            "place_name": "Morell Bridge",
+            "place_type": "poi",
+            "longitude": 144.98496294021606,
+            "latitude": -37.827755803034,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd8cmE8VQAAGOku.jpg"
+            ]
+        },
+        {
+            "tid": 1576002694409502721,
+            "uid": 1490828995889283072,
+            "author": "Heaven 7 Events",
+            "time": "2022-10-01 00:14:57 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "“Let me have my coffee first“ said the Tigies 🐯\n\nGood to be back @richmond_fc @ Richmond FC https://t.co/xRiR8qbWz0",
+            "clean_text": "Let me have my coffee first said the Tigies Good to be back Richmond FC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98827135,
+            "latitude": -37.82224835,
+            "photo_urls": []
+        },
+        {
+            "tid": 1575813464672686082,
+            "uid": 564422768,
+            "author": "djmykeyb",
+            "time": "2022-09-30 11:43:01 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "About to kick off with some funky tunes. Here till late. @ Pink Lemonade https://t.co/cFeIaJCtPQ",
+            "clean_text": "About to kick off with some funky tunes Here till late Pink Lemonade",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9894,
+            "latitude": -37.82454,
+            "photo_urls": []
+        },
+        {
+            "tid": 1575654676686835714,
+            "uid": 1461138547,
+            "author": "Patrick Sowersby",
+            "time": "2022-09-30 01:12:03 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "Iconic https://t.co/n41ghE2or4",
+            "clean_text": "Iconic",
+            "place_name": "Tan Track",
+            "place_type": "poi",
+            "longitude": 144.97730255126953,
+            "latitude": -37.82439568360031,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd3ZkYwaUAIvrIR.jpg"
+            ]
+        },
+        {
+            "tid": 1575309646767980544,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "time": "2022-09-29 02:21:02 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Burnley Tunnel  (M1), Cremorne - lanes closed eastbound, Middle lane closed in the Burnlety Tunnel,… https://t.co/mqRyv54lTH #victraffic",
+            "clean_text": "Burnley Tunnel M1 Cremorne lanes closed eastbound Middle lane closed in the Burnlety Tunnel",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9878299,
+            "latitude": -37.82479107,
+            "photo_urls": []
+        },
+        {
+            "tid": 1573895999998767109,
+            "uid": 180676456,
+            "author": "Luke Soulos",
+            "time": "2022-09-25 04:43:42 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "Superb weather &amp; conditions for todays post Grand Final #SundayRunday with this Crew!\n\nGreat to see good numbers including some young newbies joining in!\n\nLast run before Run Melb next Sunday. Good luck to everyone participating. Relax, give it your best &amp; run well. \n\n#Tan #Run https://t.co/CW2mskNcOa",
+            "clean_text": "Superb weather amp conditions for todays post Grand Final with this Crew Great to see good numbers including some young newbies joining in Last run before Run Melb next Sunday Good luck to everyone participating Relax give it your best amp run well",
+            "place_name": "Tan Track",
+            "place_type": "poi",
+            "longitude": 144.97730255126953,
+            "latitude": -37.82439568360031,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdeaEGRVsAArrUR.jpg",
+                "https://pbs.twimg.com/media/FdeaEGYUoAAKuJm.jpg"
+            ]
+        },
+        {
+            "tid": 1573833898940833798,
+            "uid": 1490828995889283072,
+            "author": "Heaven 7 Events",
+            "time": "2022-09-25 00:36:56 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Richmond FC https://t.co/XxSKLy3AK6",
+            "clean_text": "Just posted a photo Richmond FC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98827135,
+            "latitude": -37.82224835,
+            "photo_urls": []
+        },
+        {
+            "tid": 1573563275601534976,
+            "uid": 532948793,
+            "author": "J Margs",
+            "time": "2022-09-24 06:41:34 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "Always good to see the crew working together!!!! https://t.co/8Xr79JZbhH",
+            "clean_text": "Always good to see the crew working together",
+            "place_name": "AFL Members Reserve",
+            "place_type": "poi",
+            "longitude": 144.98328924179077,
+            "latitude": -37.82070064677695,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdZrcTHVsAAqj69.jpg"
+            ]
+        },
+        {
+            "tid": 1573525847465725956,
+            "uid": 844312612821192706,
+            "author": "Joey Nicita ☀️",
+            "time": "2022-09-24 04:12:51 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Might not have won today, but I still mane-tain @lionsaflw are the best ❤️ #aflw #aflwtigerslions @ Punt Road Oval https://t.co/n1uOcTwDIt",
+            "clean_text": "Might not have won today but I still mane tain are the best Punt Road Oval",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.987778,
+            "latitude": -37.822222,
+            "photo_urls": []
+        },
+        {
+            "tid": 1573524812118765569,
+            "uid": 21592634,
+            "author": "GDPE",
+            "time": "2022-09-24 04:08:44 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "MCG Grand Final Day 2022 https://t.co/ZNWsR5OJaV",
+            "clean_text": "MCG Grand Final Day 2022",
+            "place_name": "AFL Members Reserve",
+            "place_type": "poi",
+            "longitude": 144.98328924179077,
+            "latitude": -37.82070064677695,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdZIMHyakAAthI9.jpg"
+            ]
+        },
+        {
+            "tid": 1573524427580403712,
+            "uid": 261094588,
+            "author": "Peter Caloiero",
+            "time": "2022-09-24 04:07:12 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@jameswhelan42 Broadcasting live from the MCG. https://t.co/OM2W0Jbu9o",
+            "clean_text": "Broadcasting live from the MCG",
+            "place_name": "AFL Members Reserve",
+            "place_type": "poi",
+            "longitude": 144.98328924179077,
+            "latitude": -37.82070064677695,
+            "photo_urls": [
+                "https://pbs.twimg.com/tweet_video_thumb/FdZIGvZaIAAdB9c.jpg"
+            ]
+        },
+        {
+            "tid": 1573513950314262528,
+            "uid": 1510491378,
+            "author": "Charles Davis",
+            "time": "2022-09-24 03:25:34 +0000",
+            "like_no": 8,
+            "language": "en",
+            "text": "It’s no cheeseboard but Lib &amp; I did spoil ourselves with a decadent lemon tart. Fine dining at the #AFLGF https://t.co/l3SldJvhkv",
+            "clean_text": "It s no cheeseboard but Lib amp I did spoil ourselves with a decadent lemon tart Fine dining at the",
+            "place_name": "AFL Members Reserve",
+            "place_type": "poi",
+            "longitude": 144.98328924179077,
+            "latitude": -37.82070064677695,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdY-a8GaAAAx45w.jpg"
+            ]
+        },
+        {
+            "tid": 1573513143493726208,
+            "uid": 23395026,
+            "author": "Milly",
+            "time": "2022-09-24 03:22:22 +0000",
+            "like_no": 36,
+            "language": "en",
+            "text": "Made it 🔵⚪️ lessgo @GeelongCats #AFLGF https://t.co/17dfRU2jTp",
+            "clean_text": "Made it lessgo",
+            "place_name": "AFL Members Reserve",
+            "place_type": "poi",
+            "longitude": 144.98328924179077,
+            "latitude": -37.82070064677695,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdY923waUAAeORk.jpg"
+            ]
+        },
+        {
+            "tid": 1573512414095880192,
+            "uid": 820482268795838464,
+            "author": "JESSEE /.",
+            "time": "2022-09-24 03:19:28 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Not a bad time to go first AFL game since 2019 #AFLGF https://t.co/ocroqJ5Lnq",
+            "clean_text": "Not a bad time to go first AFL game since 2019",
+            "place_name": "AFL Members Reserve",
+            "place_type": "poi",
+            "longitude": 144.98328924179077,
+            "latitude": -37.82070064677695,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdY9LMuacAAhGF5.jpg"
+            ]
+        },
+        {
+            "tid": 1573472735103111168,
+            "uid": 704118935633788928,
+            "author": "Tahlia Sinclair",
+            "time": "2022-09-24 00:41:48 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "Back at it with the footy selfies https://t.co/AcFzcAJ2ns",
+            "clean_text": "Back at it with the footy selfies",
+            "place_name": "Punt Road Oval",
+            "place_type": "poi",
+            "longitude": 144.9887244771318,
+            "latitude": -37.82286132634027,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdYZGphVsAA2BIM.jpg"
+            ]
+        },
+        {
+            "tid": 1573230489892442113,
+            "uid": 1515715568569294848,
+            "author": "Shady | Crypto.com 🇦🇺",
+            "time": "2022-09-23 08:39:12 +0000",
+            "like_no": 78,
+            "language": "en",
+            "text": "Pre-Grand Final event\n\n#AFLGF #CROFAM https://t.co/U40JsKfysg",
+            "clean_text": "Pre Grand Final event",
+            "place_name": "Centrepiece",
+            "place_type": "poi",
+            "longitude": 144.979924,
+            "latitude": -37.821082,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdU8yNAagAA46O1.jpg"
+            ]
+        },
+        {
+            "tid": 1573210510660714497,
+            "uid": 704118935633788928,
+            "author": "Tahlia Sinclair",
+            "time": "2022-09-23 07:19:49 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Lock out number two! https://t.co/nhMX31YDs4",
+            "clean_text": "Lock out number two",
+            "place_name": "Punt Road Oval",
+            "place_type": "poi",
+            "longitude": 144.9887244771318,
+            "latitude": -37.82286132634027,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdUn6CTVUAA_o1P.jpg"
+            ]
+        },
+        {
+            "tid": 1573210496740003841,
+            "uid": 704118935633788928,
+            "author": "Tahlia Sinclair",
+            "time": "2022-09-23 07:19:45 +0000",
+            "like_no": 6,
+            "language": "en",
+            "text": "Lock out number two! https://t.co/vxA9yBeSId",
+            "clean_text": "Lock out number two",
+            "place_name": "Punt Road Oval",
+            "place_type": "poi",
+            "longitude": 144.9887244771318,
+            "latitude": -37.82286132634027,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdUn6CTVUAA_o1P.jpg"
+            ]
+        },
+        {
+            "tid": 1573175663988719618,
+            "uid": 52993425,
+            "author": "Bureau of Moth",
+            "time": "2022-09-23 05:01:21 +0000",
+            "like_no": 6,
+            "language": "en",
+            "text": "Yeah that’s normally the city skyline https://t.co/Nu5G1zix2s",
+            "clean_text": "Yeah that s normally the city skyline",
+            "place_name": "Olympic Park",
+            "place_type": "poi",
+            "longitude": 144.98130440711975,
+            "latitude": -37.82459748575971,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdUK7RlUUAUhGP0.jpg"
+            ]
+        },
+        {
+            "tid": 1573175659672788992,
+            "uid": 704118935633788928,
+            "author": "Tahlia Sinclair",
+            "time": "2022-09-23 05:01:20 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "The fog is coming ☁️☁️☁️ https://t.co/tH6sFP9NLk",
+            "clean_text": "The fog is coming",
+            "place_name": "Collingwood FC HQ",
+            "place_type": "poi",
+            "longitude": 144.97955136014033,
+            "latitude": -37.82346827466224,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdUK6h3XkAAk3_Z.jpg"
+            ]
+        },
+        {
+            "tid": 1573175637438865408,
+            "uid": 704118935633788928,
+            "author": "Tahlia Sinclair",
+            "time": "2022-09-23 05:01:14 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "More footy, more friends https://t.co/KfkwaLgR7g",
+            "clean_text": "More footy more friends",
+            "place_name": "Collingwood FC HQ",
+            "place_type": "poi",
+            "longitude": 144.97955136014033,
+            "latitude": -37.82346827466224,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdUG8LtUUAExsv9.jpg"
+            ]
+        },
+        {
+            "tid": 1573172310949138432,
+            "uid": 1552232449031434245,
+            "author": "ab",
+            "time": "2022-09-23 04:48:01 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "@billieeilish on Naarm Country (melbourne @RodLaverArena) for Happier Than Ever World Tour 2022. https://t.co/8KzrNSDsh6",
+            "clean_text": "on Naarm Country melbourne for Happier Than Ever World Tour 2022",
+            "place_name": "Rod Laver Theatrette",
+            "place_type": "poi",
+            "longitude": 144.978507,
+            "latitude": -37.822018,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdUH4AEaUAAtBoe.jpg",
+                "https://pbs.twimg.com/media/FdUH4AdaIAAeT5U.jpg"
+            ]
+        },
+        {
+            "tid": 1573145883205865472,
+            "uid": 554288176,
+            "author": "Jomo Kigotho",
+            "time": "2022-09-23 03:03:00 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "Gallivanting around Europe for the last few weeks was very fun but it didn’t have this. Good to be home and at the footy again #AFLWDogsNorth https://t.co/6hfivhXY5d",
+            "clean_text": "Gallivanting around Europe for the last few weeks was very fun but it didn t have this Good to be home and at the footy again",
+            "place_name": "Punt Road Oval",
+            "place_type": "poi",
+            "longitude": 144.9887244771318,
+            "latitude": -37.82286132634027,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FdTv1wYakAAgP3X.jpg"
+            ]
+        },
+        {
+            "tid": 1573143388177977349,
+            "uid": 157348133,
+            "author": "jonnyforeigner",
+            "time": "2022-09-23 02:53:05 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "23 September 2022 #AFLWDogsNorth @ Punt Road Oval https://t.co/Jo0LDnQC5V",
+            "clean_text": "23 September 2022 Punt Road Oval",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.987778,
+            "latitude": -37.822222,
             "photo_urls": []
         }
     ]

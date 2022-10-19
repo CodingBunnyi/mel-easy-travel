@@ -1,5 +1,5 @@
 {
-    "count": 7,
+    "count": 21,
     "data": [
         {
             "tid": 1582477239593017344,
@@ -113,6 +113,239 @@
             "latitude": -37.787894850036565,
             "photo_urls": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/1580343043596881920/pu/img/IIgeWsl6sG6EZ6aA.jpg"
+            ]
+        },
+        {
+            "tid": 1579364399370113025,
+            "uid": 497419556,
+            "author": "Michael Duncan",
+            "time": "2022-10-10 06:53:10 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Back at Headquarters https://t.co/qd9gfxsmYJ",
+            "clean_text": "Back at Headquarters",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FesHjE1UcAACJPj.jpg"
+            ]
+        },
+        {
+            "tid": 1576846076543471617,
+            "uid": 248967794,
+            "author": "tre dallas",
+            "time": "2022-10-03 08:06:15 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Flemington Racecourse https://t.co/M6lis2lVJH",
+            "clean_text": "Just posted a photo Flemington Racecourse",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91253257,
+            "latitude": -37.79018728,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576128109216161792,
+            "uid": 1470806774,
+            "author": "Tasia Hull",
+            "time": "2022-10-01 08:33:18 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Heading home after a great day with @peter.chapman.1420 at the VRC Turnbull Stakes Committee Room @ The Commitee Room, Vrc Members https://t.co/iThevAnAYC",
+            "clean_text": "Heading home after a great day with chapman 1420 at the VRC Turnbull Stakes Committee Room The Commitee Room Vrc Members",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.90765117,
+            "latitude": -37.78881419,
+            "photo_urls": []
+        },
+        {
+            "tid": 1576083050974220288,
+            "uid": 1319091067770163201,
+            "author": "The Chat",
+            "time": "2022-10-01 05:34:16 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Trainer @geerielly chats with @DamienRactliffe @FlemingtonVRC  @RacingNextGen Charity Event https://t.co/RLIjfsFXOA",
+            "clean_text": "Trainer chats with Charity Event",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd9fLneVIAAVYjT.jpg"
+            ]
+        },
+        {
+            "tid": 1576064171422011394,
+            "uid": 211817564,
+            "author": "Rachel Seadon 32",
+            "time": "2022-10-01 04:19:14 +0000",
+            "like_no": 5,
+            "language": "en",
+            "text": "First of the Spring Racing Carnival 🥂 https://t.co/OjAAmtU7or",
+            "clean_text": "First of the Spring Racing Carnival",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd9OAcDVIAE95Lp.jpg"
+            ]
+        },
+        {
+            "tid": 1576063079766335488,
+            "uid": 1319091067770163201,
+            "author": "The Chat",
+            "time": "2022-10-01 04:14:54 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Dr Andrew Clarke from @LivingLegendsAU talks about the great work that his charity does to look after champions once they have finished careers on the track.\n\n@RacingNextGen @FlemingtonVRC https://t.co/8AvTMSYU06",
+            "clean_text": "Dr Andrew Clarke from talks about the great work that his charity does to look after champions once they have finished careers on the track",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd9NBI0UcAEmHpF.jpg"
+            ]
+        },
+        {
+            "tid": 1576058561469087746,
+            "uid": 956045508249899009,
+            "author": "Lachlan Chapman",
+            "time": "2022-10-01 03:56:57 +0000",
+            "like_no": 13,
+            "language": "en",
+            "text": "Perfect spring day out @FlemingtonVRC old boy Efficient loving life ☀️ @LivingLegendsAU https://t.co/bpnbwhZ1pX",
+            "clean_text": "Perfect spring day out old boy Efficient loving life",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd9I5wBVUAAahVU.jpg"
+            ]
+        },
+        {
+            "tid": 1576055022084726784,
+            "uid": 1319091067770163201,
+            "author": "The Chat",
+            "time": "2022-10-01 03:42:53 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Great to hear from @TheSharkTweet chatting with @LibbyHopwood @FlemingtonVRC @RacingNextGen Charity Event\n \nShark actually gave Lib her start in racing media as well. https://t.co/oXkSR8East",
+            "clean_text": "Great to hear from chatting with Charity Event Shark actually gave Lib her start in racing media as well",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd9FsIGVEAA5HZ6.jpg"
+            ]
+        },
+        {
+            "tid": 1576037776910188544,
+            "uid": 50004810,
+            "author": "Ben Carbonaro",
+            "time": "2022-10-01 02:34:22 +0000",
+            "like_no": 10,
+            "language": "en",
+            "text": "All set for a huge day @FlemingtonVRC on @tabcomau Turnbull Stakes Day https://t.co/gz7im4N14B",
+            "clean_text": "All set for a huge day on Turnbull Stakes Day",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd81_2aVsAA-LAE.jpg",
+                "https://pbs.twimg.com/media/Fd82AUvUcAAZNgs.jpg"
+            ]
+        },
+        {
+            "tid": 1576035484047790081,
+            "uid": 1319091067770163201,
+            "author": "The Chat",
+            "time": "2022-10-01 02:25:15 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Trainer @MichaelRhysKent speaks with @LibbyHopwood @RacingNextGen Charity Event @FlemingtonVRC https://t.co/FYAPwydsGg",
+            "clean_text": "Trainer speaks with Charity Event",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fd8z63UUcAEzZyK.jpg"
+            ]
+        },
+        {
+            "tid": 1576035161757519872,
+            "uid": 1319091067770163201,
+            "author": "The Chat",
+            "time": "2022-10-01 02:23:58 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "Just some of the prizes and auction items up for grabs at today's @RacingNextGen Charity Event @FlemingtonVRC https://t.co/wrx1zis6H8",
+            "clean_text": "Just some of the prizes and auction items up for grabs at today's Charity Event",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1576035079825944576/pu/img/3YKdg8AmMNpGPBQG.jpg"
+            ]
+        },
+        {
+            "tid": 1574786656107888641,
+            "uid": 22601439,
+            "author": "Benjamin",
+            "time": "2022-09-27 15:42:51 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@vinivicimusic @giuseppeottaviani @marlomusic at Transmission 2022 \n@symbioticpresents @transmissionfestival\n\n#music #festival #trance #transmission #melbourne #rave @ Flemington Racecourse https://t.co/QfO0fRxaze",
+            "clean_text": "giuseppeottaviani at Transmission 2022 symbioticpresents transmissionfestival Flemington Racecourse",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.91253257,
+            "latitude": -37.79018728,
+            "photo_urls": []
+        },
+        {
+            "tid": 1572710191162097665,
+            "uid": 347668652,
+            "author": "Price Kent Racing",
+            "time": "2022-09-21 22:11:43 +0000",
+            "like_no": 29,
+            "language": "en",
+            "text": "Thanks to the @FlemingtonVRC for allowing us to give our 2YO Charm Stone a jumpout this morning!! ☀️🏇👏 https://t.co/xAOc0WsBGS",
+            "clean_text": "Thanks to the for allowing us to give our 2YO Charm Stone a jumpout this morning",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1572710115542994944/pu/img/t-cqEAxTWSWnnqka.jpg"
+            ]
+        },
+        {
+            "tid": 1572704005784227840,
+            "uid": 578737045,
+            "author": "Rochelle Adams",
+            "time": "2022-09-21 21:47:09 +0000",
+            "like_no": 22,
+            "language": "en",
+            "text": "Feels like Spring ☀️ \nCharm Stone (I am Invincible x Najoom) makes her @FlemingtonVRC debut trialling up the straight under @LaneDamian 🤩🥈\n@MickPriceRacing @Yarraman_Park @EmiratesPark @mmsnippets\n@antroberts68 @SMBloodstock https://t.co/egSm10bBiu",
+            "clean_text": "Feels like Spring Charm Stone I am Invincible x Najoom makes her debut trialling up the straight under",
+            "place_name": "Flemington Racecourse",
+            "place_type": "poi",
+            "longitude": 144.91005420684814,
+            "latitude": -37.787894850036565,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1572703904944750592/pu/img/q6IFH_Jg5X5l0bP9.jpg"
             ]
         }
     ]

@@ -11,7 +11,8 @@ import json
 
 # Create client
 CLIENT = tweepy.Client(
-    'AAAAAAAAAAAAAAAAAAAAABrRgQEAAAAApgWpwtfUugKLiKVuISXvrDAT2lY%3DuvaZHF5og05xFjeOCDx6rICuPl0OU75PSPi7J0luqAi3OrIJmR')
+    'AAAAAAAAAAAAAAAAAAAAABrRgQEAAAAApgWpwtfUugKLiKVuISXvrDAT2lY%3DuvaZHF5og05xFjeOCDx6rICuPl0OU75PSPi7J0luqAi3OrIJmR',
+    wait_on_rate_limit=True)
 
 
 # Convert a point coordinate to a radius search query
@@ -48,7 +49,7 @@ def generate_paginator(query: str, time_range: datetime.timedelta, recent10: boo
 
     else:          # Update mode: get paginator for right time range
         # A threshold to separate recent search and wide-range search due to rate limitation
-        day_thresh = 1
+        day_thresh = 3
 
         # Default recent search
         if time_range.days <= day_thresh:

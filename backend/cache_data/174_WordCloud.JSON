@@ -2,19 +2,19 @@
     "word_freq": [
         {
             "text": "posted",
-            "value": 4
+            "value": 21
         },
         {
             "text": "photo",
-            "value": 4
+            "value": 21
         },
         {
             "text": "Melbourne",
-            "value": 12
+            "value": 39
         },
         {
             "text": "Australia",
-            "value": 3
+            "value": 8
         },
         {
             "text": "Espresso",
@@ -38,15 +38,15 @@
         },
         {
             "text": "Coffee",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Bar",
-            "value": 1
+            "value": 2
         },
         {
             "text": "I'm",
-            "value": 8
+            "value": 28
         },
         {
             "text": "Commonwealth",
@@ -58,15 +58,15 @@
         },
         {
             "text": "VIC",
-            "value": 6
+            "value": 22
         },
         {
             "text": "Schmucks",
-            "value": 2
+            "value": 11
         },
         {
             "text": "Bagels",
-            "value": 2
+            "value": 11
         },
         {
             "text": "7",
@@ -74,15 +74,15 @@
         },
         {
             "text": "300",
-            "value": 1
+            "value": 2
         },
         {
             "text": "King",
-            "value": 1
+            "value": 5
         },
         {
             "text": "St",
-            "value": 1
+            "value": 6
         },
         {
             "text": "Gooness",
@@ -90,7 +90,7 @@
         },
         {
             "text": "Queen",
-            "value": 2
+            "value": 8
         },
         {
             "text": "Vic",
@@ -114,43 +114,43 @@
         },
         {
             "text": "night",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Madison",
-            "value": 2
+            "value": 5
         },
         {
             "text": "Tower",
-            "value": 2
+            "value": 5
         },
         {
             "text": "Upper",
-            "value": 2
+            "value": 5
         },
         {
             "text": "West",
-            "value": 2
+            "value": 5
         },
         {
             "text": "Side",
-            "value": 2
+            "value": 5
         },
         {
             "text": "vic",
-            "value": 2
+            "value": 5
         },
         {
             "text": "Docklands",
-            "value": 1
+            "value": 4
         },
         {
             "text": "Victoria",
-            "value": 1
+            "value": 9
         },
         {
             "text": "Market",
-            "value": 1
+            "value": 7
         },
         {
             "text": "Breakfast",
@@ -210,7 +210,7 @@
         },
         {
             "text": "good",
-            "value": 1
+            "value": 2
         },
         {
             "text": "done",
@@ -262,7 +262,7 @@
         },
         {
             "text": "brother",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Sir",
@@ -290,6 +290,566 @@
         },
         {
             "text": "live",
+            "value": 1
+        },
+        {
+            "text": "Love",
+            "value": 1
+        },
+        {
+            "text": "victory",
+            "value": 1
+        },
+        {
+            "text": "bubble",
+            "value": 1
+        },
+        {
+            "text": "tea",
+            "value": 1
+        },
+        {
+            "text": "beating",
+            "value": 1
+        },
+        {
+            "text": "arcade",
+            "value": 1
+        },
+        {
+            "text": "Got",
+            "value": 2
+        },
+        {
+            "text": "donuts",
+            "value": 1
+        },
+        {
+            "text": "fun",
+            "value": 1
+        },
+        {
+            "text": "time",
+            "value": 2
+        },
+        {
+            "text": "holey",
+            "value": 1
+        },
+        {
+            "text": "moley",
+            "value": 1
+        },
+        {
+            "text": "crazy",
+            "value": 1
+        },
+        {
+            "text": "weekend",
+            "value": 1
+        },
+        {
+            "text": "Going",
+            "value": 1
+        },
+        {
+            "text": "miss",
+            "value": 1
+        },
+        {
+            "text": "guys",
+            "value": 1
+        },
+        {
+            "text": "Woppy",
+            "value": 1
+        },
+        {
+            "text": "Mini",
+            "value": 1
+        },
+        {
+            "text": "golf",
+            "value": 1
+        },
+        {
+            "text": "great",
+            "value": 1
+        },
+        {
+            "text": "success",
+            "value": 1
+        },
+        {
+            "text": "1",
+            "value": 1
+        },
+        {
+            "text": "clipped",
+            "value": 1
+        },
+        {
+            "text": "mfs",
+            "value": 1
+        },
+        {
+            "text": "scuffed",
+            "value": 1
+        },
+        {
+            "text": "photos",
+            "value": 2
+        },
+        {
+            "text": "celebrate",
+            "value": 1
+        },
+        {
+            "text": "Also",
+            "value": 1
+        },
+        {
+            "text": "went",
+            "value": 1
+        },
+        {
+            "text": "cat",
+            "value": 2
+        },
+        {
+            "text": "cafe",
+            "value": 2
+        },
+        {
+            "text": "today",
+            "value": 2
+        },
+        {
+            "text": "heaven",
+            "value": 1
+        },
+        {
+            "text": "pics",
+            "value": 1
+        },
+        {
+            "text": "cuties",
+            "value": 1
+        },
+        {
+            "text": "Seven",
+            "value": 3
+        },
+        {
+            "text": "Star",
+            "value": 3
+        },
+        {
+            "text": "Pocha",
+            "value": 3
+        },
+        {
+            "text": "Top",
+            "value": 1
+        },
+        {
+            "text": "Tea",
+            "value": 1
+        },
+        {
+            "text": "Hellenic",
+            "value": 1
+        },
+        {
+            "text": "Museum",
+            "value": 1
+        },
+        {
+            "text": "Soooooo",
+            "value": 1
+        },
+        {
+            "text": "found",
+            "value": 1
+        },
+        {
+            "text": "steakhouse",
+            "value": 1
+        },
+        {
+            "text": "that's",
+            "value": 1
+        },
+        {
+            "text": "steak",
+            "value": 1
+        },
+        {
+            "text": "grill",
+            "value": 1
+        },
+        {
+            "text": "Pretty",
+            "value": 1
+        },
+        {
+            "text": "Boy",
+            "value": 1
+        },
+        {
+            "text": "Italian",
+            "value": 1
+        },
+        {
+            "text": "Steak",
+            "value": 1
+        },
+        {
+            "text": "House",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 4
+        },
+        {
+            "text": "Floyd's",
+            "value": 1
+        },
+        {
+            "text": "JnM",
+            "value": 1
+        },
+        {
+            "text": "Friday",
+            "value": 1
+        },
+        {
+            "text": "Reflect",
+            "value": 1
+        },
+        {
+            "text": "Recharge",
+            "value": 1
+        },
+        {
+            "text": "Reset",
+            "value": 1
+        },
+        {
+            "text": "Earth",
+            "value": 1
+        },
+        {
+            "text": "Cat",
+            "value": 1
+        },
+        {
+            "text": "chill",
+            "value": 1
+        },
+        {
+            "text": "highly",
+            "value": 1
+        },
+        {
+            "text": "recommend",
+            "value": 1
+        },
+        {
+            "text": "Here's",
+            "value": 1
+        },
+        {
+            "text": "270",
+            "value": 3
+        },
+        {
+            "text": "Eggholic",
+            "value": 2
+        },
+        {
+            "text": "Sandwich",
+            "value": 1
+        },
+        {
+            "text": "Cbd",
+            "value": 1
+        },
+        {
+            "text": "English",
+            "value": 3
+        },
+        {
+            "text": "Unlimited",
+            "value": 3
+        },
+        {
+            "text": "015",
+            "value": 1
+        },
+        {
+            "text": "iPhone",
+            "value": 1
+        },
+        {
+            "text": "14",
+            "value": 1
+        },
+        {
+            "text": "Pro",
+            "value": 1
+        },
+        {
+            "text": "Patricia",
+            "value": 1
+        },
+        {
+            "text": "Brewers",
+            "value": 1
+        },
+        {
+            "text": "Blue",
+            "value": 1
+        },
+        {
+            "text": "Mountain",
+            "value": 1
+        },
+        {
+            "text": "Sydney",
+            "value": 1
+        },
+        {
+            "text": "Night",
+            "value": 3
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "Early",
+            "value": 1
+        },
+        {
+            "text": "morning",
+            "value": 1
+        },
+        {
+            "text": "destination",
+            "value": 1
+        },
+        {
+            "text": "Jang",
+            "value": 2
+        },
+        {
+            "text": "Gun",
+            "value": 2
+        },
+        {
+            "text": "CBD",
+            "value": 2
+        },
+        {
+            "text": "Great",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
+            "text": "Mel",
+            "value": 1
+        },
+        {
+            "text": "Hatty",
+            "value": 1
+        },
+        {
+            "text": "tonight",
+            "value": 1
+        },
+        {
+            "text": "talking",
+            "value": 1
+        },
+        {
+            "text": "Nature",
+            "value": 1
+        },
+        {
+            "text": "nature",
+            "value": 3
+        },
+        {
+            "text": "connectedness",
+            "value": 1
+        },
+        {
+            "text": "talk",
+            "value": 1
+        },
+        {
+            "text": "means",
+            "value": 1
+        },
+        {
+            "text": "us",
+            "value": 1
+        },
+        {
+            "text": "La",
+            "value": 1
+        },
+        {
+            "text": "Trobe",
+            "value": 1
+        },
+        {
+            "text": "Road",
+            "value": 1
+        },
+        {
+            "text": "Closed",
+            "value": 2
+        },
+        {
+            "text": "directions",
+            "value": 1
+        },
+        {
+            "text": "William",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 1
+        },
+        {
+            "text": "Europa",
+            "value": 1
+        },
+        {
+            "text": "din",
+            "value": 4
+        },
+        {
+            "text": "qvmnightmarket",
+            "value": 1
+        },
+        {
+            "text": "shots",
+            "value": 1
+        },
+        {
+            "text": "Oz",
+            "value": 1
+        },
+        {
+            "text": "Hilby",
+            "value": 1
+        },
+        {
+            "text": "4",
+            "value": 1
+        },
+        {
+            "text": "Certified",
+            "value": 1
+        },
+        {
+            "text": "Aussie",
+            "value": 1
+        },
+        {
+            "text": "sheltered",
+            "value": 1
+        },
+        {
+            "text": "rain",
+            "value": 1
+        },
+        {
+            "text": "goes",
+            "value": 1
+        },
+        {
+            "text": "plan",
+            "value": 1
+        },
+        {
+            "text": "photographs",
+            "value": 1
+        },
+        {
+            "text": "front",
+            "value": 1
+        },
+        {
+            "text": "landmarks",
+            "value": 1
+        },
+        {
+            "text": "Central",
+            "value": 1
+        },
+        {
+            "text": "w",
+            "value": 1
+        },
+        {
+            "text": "Chinese",
+            "value": 1
+        },
+        {
+            "text": "hot",
+            "value": 1
+        },
+        {
+            "text": "pot",
+            "value": 1
+        },
+        {
+            "text": "Dragon",
+            "value": 1
+        },
+        {
+            "text": "Hot",
+            "value": 1
+        },
+        {
+            "text": "Pot",
+            "value": 1
+        },
+        {
+            "text": "Feel",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 1
+        },
+        {
+            "text": "trigger",
+            "value": 1
+        },
+        {
+            "text": "think",
+            "value": 1
+        },
+        {
+            "text": "Apo",
+            "value": 1
+        },
+        {
+            "text": "Warm",
+            "value": 1
+        },
+        {
+            "text": "sun",
             "value": 1
         }
     ]

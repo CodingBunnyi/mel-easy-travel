@@ -10,7 +10,7 @@
         },
         {
             "text": "show",
-            "value": 1
+            "value": 2
         },
         {
             "text": "good",
@@ -34,11 +34,11 @@
         },
         {
             "text": "District",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Docklands",
-            "value": 4
+            "value": 7
         },
         {
             "text": "Khadijah",
@@ -122,6 +122,298 @@
         },
         {
             "text": "oz",
+            "value": 1
+        },
+        {
+            "text": "Hello",
+            "value": 1
+        },
+        {
+            "text": "Citylink",
+            "value": 2
+        },
+        {
+            "text": "M2",
+            "value": 2
+        },
+        {
+            "text": "lanes",
+            "value": 4
+        },
+        {
+            "text": "closed",
+            "value": 4
+        },
+        {
+            "text": "outbound",
+            "value": 2
+        },
+        {
+            "text": "Two",
+            "value": 2
+        },
+        {
+            "text": "left",
+            "value": 2
+        },
+        {
+            "text": "Footscray",
+            "value": 2
+        },
+        {
+            "text": "Road",
+            "value": 1
+        },
+        {
+            "text": "Pax",
+            "value": 1
+        },
+        {
+            "text": "absolutely",
+            "value": 1
+        },
+        {
+            "text": "amazing",
+            "value": 1
+        },
+        {
+            "text": "ill",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "every",
+            "value": 1
+        },
+        {
+            "text": "single",
+            "value": 1
+        },
+        {
+            "text": "year",
+            "value": 2
+        },
+        {
+            "text": "definitely",
+            "value": 1
+        },
+        {
+            "text": "3",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 2
+        },
+        {
+            "text": "pass",
+            "value": 1
+        },
+        {
+            "text": "next",
+            "value": 1
+        },
+        {
+            "text": "end",
+            "value": 1
+        },
+        {
+            "text": "feed",
+            "value": 1
+        },
+        {
+            "text": "five",
+            "value": 1
+        },
+        {
+            "text": "guys",
+            "value": 2
+        },
+        {
+            "text": "apx",
+            "value": 1
+        },
+        {
+            "text": "Day",
+            "value": 1
+        },
+        {
+            "text": "1",
+            "value": 1
+        },
+        {
+            "text": "I'm",
+            "value": 1
+        },
+        {
+            "text": "Costco",
+            "value": 1
+        },
+        {
+            "text": "Carpark",
+            "value": 1
+        },
+        {
+            "text": "West",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "inbound",
+            "value": 2
+        },
+        {
+            "text": "near",
+            "value": 1
+        },
+        {
+            "text": "Drinking",
+            "value": 2
+        },
+        {
+            "text": "Special",
+            "value": 1
+        },
+        {
+            "text": "Delivery",
+            "value": 1
+        },
+        {
+            "text": "Urban",
+            "value": 4
+        },
+        {
+            "text": "Alley",
+            "value": 4
+        },
+        {
+            "text": "Brewery",
+            "value": 4
+        },
+        {
+            "text": "Complimentary",
+            "value": 1
+        },
+        {
+            "text": "vortex",
+            "value": 1
+        },
+        {
+            "text": "get",
+            "value": 1
+        },
+        {
+            "text": "weekend",
+            "value": 1
+        },
+        {
+            "text": "going",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "Bloody",
+            "value": 1
+        },
+        {
+            "text": "nice",
+            "value": 2
+        },
+        {
+            "text": "venue",
+            "value": 1
+        },
+        {
+            "text": "bloody",
+            "value": 1
+        },
+        {
+            "text": "beer",
+            "value": 1
+        },
+        {
+            "text": "Glacier",
+            "value": 1
+        },
+        {
+            "text": "Coast",
+            "value": 1
+        },
+        {
+            "text": "Cool",
+            "value": 1
+        },
+        {
+            "text": "IPA",
+            "value": 1
+        },
+        {
+            "text": "Dave",
+            "value": 1
+        },
+        {
+            "text": "money",
+            "value": 1
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "trade",
+            "value": 1
+        },
+        {
+            "text": "stuff",
+            "value": 1
+        },
+        {
+            "text": "Idk",
+            "value": 1
+        },
+        {
+            "text": "fun",
+            "value": 1
+        },
+        {
+            "text": "guess",
+            "value": 1
+        },
+        {
+            "text": "DIY",
+            "value": 1
+        },
+        {
+            "text": "til",
+            "value": 1
+        },
+        {
+            "text": "ya",
+            "value": 1
+        },
+        {
+            "text": "dieeee",
+            "value": 1
+        },
+        {
+            "text": "joined",
+            "value": 1
+        },
+        {
+            "text": "iron",
+            "value": 1
+        },
+        {
+            "text": "man",
             "value": 1
         }
     ]

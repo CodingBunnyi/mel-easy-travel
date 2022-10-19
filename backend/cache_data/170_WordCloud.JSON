@@ -1,6 +1,54 @@
 {
     "word_freq": [
         {
+            "text": "Intern",
+            "value": 1
+        },
+        {
+            "text": "position",
+            "value": 1
+        },
+        {
+            "text": "available",
+            "value": 1
+        },
+        {
+            "text": "Australian",
+            "value": 1
+        },
+        {
+            "text": "based",
+            "value": 1
+        },
+        {
+            "text": "CPA",
+            "value": 1
+        },
+        {
+            "text": "accountant",
+            "value": 1
+        },
+        {
+            "text": "Please",
+            "value": 1
+        },
+        {
+            "text": "seek",
+            "value": 1
+        },
+        {
+            "text": "information",
+            "value": 1
+        },
+        {
+            "text": "internship",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 2
+        },
+        {
             "text": "day",
             "value": 2
         },
@@ -126,6 +174,62 @@
         },
         {
             "text": "quiz",
+            "value": 1
+        },
+        {
+            "text": "Punt",
+            "value": 1
+        },
+        {
+            "text": "Rd",
+            "value": 1
+        },
+        {
+            "text": "South",
+            "value": 1
+        },
+        {
+            "text": "Yarra",
+            "value": 1
+        },
+        {
+            "text": "lanes",
+            "value": 1
+        },
+        {
+            "text": "closed",
+            "value": 2
+        },
+        {
+            "text": "southbound",
+            "value": 2
+        },
+        {
+            "text": "left",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 1
+        },
+        {
+            "text": "near",
+            "value": 1
+        },
+        {
+            "text": "Albion",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 1
+        },
+        {
+            "text": "photo",
             "value": 1
         }
     ]

@@ -18,7 +18,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 3
+            "value": 21
         },
         {
             "text": "Impresso",
@@ -34,27 +34,27 @@
         },
         {
             "text": "I'm",
-            "value": 2
+            "value": 14
         },
         {
             "text": "300",
-            "value": 1
-        },
-        {
-            "text": "King",
-            "value": 1
-        },
-        {
-            "text": "St",
-            "value": 1
-        },
-        {
-            "text": "VIC",
             "value": 2
         },
         {
+            "text": "King",
+            "value": 5
+        },
+        {
+            "text": "St",
+            "value": 7
+        },
+        {
+            "text": "VIC",
+            "value": 13
+        },
+        {
             "text": "Queen",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Vic",
@@ -110,6 +110,322 @@
         },
         {
             "text": "fixed",
+            "value": 1
+        },
+        {
+            "text": "Seven",
+            "value": 3
+        },
+        {
+            "text": "Star",
+            "value": 3
+        },
+        {
+            "text": "Pocha",
+            "value": 3
+        },
+        {
+            "text": "posted",
+            "value": 4
+        },
+        {
+            "text": "photo",
+            "value": 4
+        },
+        {
+            "text": "Hellenic",
+            "value": 1
+        },
+        {
+            "text": "Museum",
+            "value": 1
+        },
+        {
+            "text": "Festival",
+            "value": 3
+        },
+        {
+            "text": "Hall",
+            "value": 3
+        },
+        {
+            "text": "Aldi",
+            "value": 1
+        },
+        {
+            "text": "West",
+            "value": 2
+        },
+        {
+            "text": "JnM",
+            "value": 1
+        },
+        {
+            "text": "Friday",
+            "value": 1
+        },
+        {
+            "text": "Reflect",
+            "value": 1
+        },
+        {
+            "text": "Recharge",
+            "value": 1
+        },
+        {
+            "text": "Reset",
+            "value": 1
+        },
+        {
+            "text": "Earth",
+            "value": 1
+        },
+        {
+            "text": "Dudley",
+            "value": 1
+        },
+        {
+            "text": "Traffic",
+            "value": 1
+        },
+        {
+            "text": "Alert",
+            "value": 1
+        },
+        {
+            "text": "Road",
+            "value": 2
+        },
+        {
+            "text": "impacted",
+            "value": 1
+        },
+        {
+            "text": "minor",
+            "value": 1
+        },
+        {
+            "text": "flooding",
+            "value": 1
+        },
+        {
+            "text": "rail",
+            "value": 1
+        },
+        {
+            "text": "bridge",
+            "value": 1
+        },
+        {
+            "text": "270",
+            "value": 3
+        },
+        {
+            "text": "Eggholic",
+            "value": 2
+        },
+        {
+            "text": "Sandwich",
+            "value": 1
+        },
+        {
+            "text": "Cbd",
+            "value": 1
+        },
+        {
+            "text": "Docklands",
+            "value": 2
+        },
+        {
+            "text": "Night",
+            "value": 3
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "Jang",
+            "value": 2
+        },
+        {
+            "text": "Gun",
+            "value": 2
+        },
+        {
+            "text": "CBD",
+            "value": 2
+        },
+        {
+            "text": "Victoria",
+            "value": 3
+        },
+        {
+            "text": "Great",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
+            "text": "Mel",
+            "value": 1
+        },
+        {
+            "text": "Hatty",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 3
+        },
+        {
+            "text": "tonight",
+            "value": 1
+        },
+        {
+            "text": "talking",
+            "value": 1
+        },
+        {
+            "text": "Nature",
+            "value": 1
+        },
+        {
+            "text": "nature",
+            "value": 3
+        },
+        {
+            "text": "connectedness",
+            "value": 1
+        },
+        {
+            "text": "talk",
+            "value": 1
+        },
+        {
+            "text": "means",
+            "value": 1
+        },
+        {
+            "text": "us",
+            "value": 1
+        },
+        {
+            "text": "La",
+            "value": 1
+        },
+        {
+            "text": "Trobe",
+            "value": 1
+        },
+        {
+            "text": "Closed",
+            "value": 2
+        },
+        {
+            "text": "directions",
+            "value": 1
+        },
+        {
+            "text": "William",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 1
+        },
+        {
+            "text": "Europa",
+            "value": 1
+        },
+        {
+            "text": "Market",
+            "value": 2
+        },
+        {
+            "text": "din",
+            "value": 2
+        },
+        {
+            "text": "qvmnightmarket",
+            "value": 1
+        },
+        {
+            "text": "Hilby",
+            "value": 1
+        },
+        {
+            "text": "4",
+            "value": 1
+        },
+        {
+            "text": "Certified",
+            "value": 1
+        },
+        {
+            "text": "Aussie",
+            "value": 1
+        },
+        {
+            "text": "sheltered",
+            "value": 1
+        },
+        {
+            "text": "rain",
+            "value": 1
+        },
+        {
+            "text": "goes",
+            "value": 1
+        },
+        {
+            "text": "plan",
+            "value": 1
+        },
+        {
+            "text": "photographs",
+            "value": 1
+        },
+        {
+            "text": "front",
+            "value": 1
+        },
+        {
+            "text": "landmarks",
+            "value": 1
+        },
+        {
+            "text": "Central",
+            "value": 1
+        },
+        {
+            "text": "w",
+            "value": 1
+        },
+        {
+            "text": "Feel",
+            "value": 1
+        },
+        {
+            "text": "like",
+            "value": 1
+        },
+        {
+            "text": "cat",
+            "value": 1
+        },
+        {
+            "text": "trigger",
+            "value": 1
+        },
+        {
+            "text": "think",
+            "value": 1
+        },
+        {
+            "text": "Apo",
             "value": 1
         }
     ]

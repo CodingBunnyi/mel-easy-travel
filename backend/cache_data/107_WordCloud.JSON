@@ -10,11 +10,11 @@
         },
         {
             "text": "game",
-            "value": 2
+            "value": 5
         },
         {
             "text": "day",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Weather",
@@ -30,7 +30,7 @@
         },
         {
             "text": "good",
-            "value": 1
+            "value": 6
         },
         {
             "text": "Time",
@@ -38,11 +38,11 @@
         },
         {
             "text": "get",
-            "value": 1
+            "value": 3
         },
         {
             "text": "amp",
-            "value": 3
+            "value": 8
         },
         {
             "text": "Summer",
@@ -50,7 +50,7 @@
         },
         {
             "text": "coming",
-            "value": 1
+            "value": 2
         },
         {
             "text": "want",
@@ -74,11 +74,11 @@
         },
         {
             "text": "todays",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Crew",
-            "value": 1
+            "value": 2
         },
         {
             "text": "getting",
@@ -90,11 +90,11 @@
         },
         {
             "text": "run",
-            "value": 1
+            "value": 3
         },
         {
             "text": "big",
-            "value": 1
+            "value": 2
         },
         {
             "text": "week",
@@ -118,11 +118,11 @@
         },
         {
             "text": "Good",
-            "value": 2
+            "value": 6
         },
         {
             "text": "night",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Bad",
@@ -134,11 +134,11 @@
         },
         {
             "text": "AAMI",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Park",
-            "value": 4
+            "value": 6
         },
         {
             "text": "Rashad",
@@ -154,7 +154,7 @@
         },
         {
             "text": "deliver",
-            "value": 2
+            "value": 3
         },
         {
             "text": "team",
@@ -170,19 +170,19 @@
         },
         {
             "text": "win",
-            "value": 2
+            "value": 3
         },
         {
             "text": "John",
-            "value": 2
+            "value": 10
         },
         {
             "text": "Cain",
-            "value": 2
+            "value": 10
         },
         {
             "text": "Arena",
-            "value": 2
+            "value": 11
         },
         {
             "text": "atmosphere",
@@ -194,7 +194,7 @@
         },
         {
             "text": "fans",
-            "value": 2
+            "value": 3
         },
         {
             "text": "tonight",
@@ -206,7 +206,7 @@
         },
         {
             "text": "back",
-            "value": 1
+            "value": 5
         },
         {
             "text": "0",
@@ -214,11 +214,11 @@
         },
         {
             "text": "vs",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Western",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Sydney",
@@ -230,11 +230,11 @@
         },
         {
             "text": "1",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Goals",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Mr",
@@ -246,11 +246,11 @@
         },
         {
             "text": "TIME",
-            "value": 1
+            "value": 2
         },
         {
             "text": "POSSESION",
-            "value": 1
+            "value": 2
         },
         {
             "text": "61",
@@ -262,15 +262,15 @@
         },
         {
             "text": "SHOTS",
-            "value": 1
+            "value": 2
         },
         {
             "text": "GOAL",
-            "value": 1
+            "value": 2
         },
         {
             "text": "2",
-            "value": 4
+            "value": 5
         },
         {
             "text": "Seagulls",
@@ -282,7 +282,7 @@
         },
         {
             "text": "4",
-            "value": 1
+            "value": 3
         },
         {
             "text": "formation",
@@ -314,7 +314,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 4
+            "value": 9
         },
         {
             "text": "Victory",
@@ -330,7 +330,7 @@
         },
         {
             "text": "FC",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Welcome",
@@ -350,15 +350,15 @@
         },
         {
             "text": "Phoenix",
-            "value": 1
+            "value": 2
         },
         {
             "text": "almost",
-            "value": 1
+            "value": 2
         },
         {
             "text": "time",
-            "value": 1
+            "value": 4
         },
         {
             "text": "Tune",
@@ -370,11 +370,11 @@
         },
         {
             "text": "Let",
-            "value": 1
+            "value": 2
         },
         {
             "text": "go",
-            "value": 1
+            "value": 3
         },
         {
             "text": "flood",
@@ -382,7 +382,7 @@
         },
         {
             "text": "across",
-            "value": 1
+            "value": 2
         },
         {
             "text": "path",
@@ -434,15 +434,995 @@
         },
         {
             "text": "posted",
-            "value": 3
+            "value": 5
         },
         {
             "text": "photo",
-            "value": 3
+            "value": 5
         },
         {
             "text": "CENTREPIECE",
             "value": 3
+        },
+        {
+            "text": "forever",
+            "value": 1
+        },
+        {
+            "text": "grateful",
+            "value": 1
+        },
+        {
+            "text": "memories",
+            "value": 1
+        },
+        {
+            "text": "Rest",
+            "value": 1
+        },
+        {
+            "text": "easy",
+            "value": 1
+        },
+        {
+            "text": "man",
+            "value": 2
+        },
+        {
+            "text": "See",
+            "value": 1
+        },
+        {
+            "text": "Dreams",
+            "value": 1
+        },
+        {
+            "text": "electric",
+            "value": 1
+        },
+        {
+            "text": "Superb",
+            "value": 2
+        },
+        {
+            "text": "morn",
+            "value": 1
+        },
+        {
+            "text": "little",
+            "value": 1
+        },
+        {
+            "text": "crowded",
+            "value": 1
+        },
+        {
+            "text": "Olivia",
+            "value": 2
+        },
+        {
+            "text": "Walk",
+            "value": 2
+        },
+        {
+            "text": "Wellness",
+            "value": 2
+        },
+        {
+            "text": "although",
+            "value": 1
+        },
+        {
+            "text": "managed",
+            "value": 1
+        },
+        {
+            "text": "30",
+            "value": 1
+        },
+        {
+            "text": "pace",
+            "value": 1
+        },
+        {
+            "text": "double",
+            "value": 1
+        },
+        {
+            "text": "customary",
+            "value": 1
+        },
+        {
+            "text": "sprint",
+            "value": 1
+        },
+        {
+            "text": "finish",
+            "value": 1
+        },
+        {
+            "text": "brings",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 1
+        },
+        {
+            "text": "light",
+            "value": 1
+        },
+        {
+            "text": "Cancer",
+            "value": 1
+        },
+        {
+            "text": "great",
+            "value": 1
+        },
+        {
+            "text": "cause",
+            "value": 1
+        },
+        {
+            "text": "done",
+            "value": 1
+        },
+        {
+            "text": "Doors",
+            "value": 1
+        },
+        {
+            "text": "open",
+            "value": 1
+        },
+        {
+            "text": "crowd",
+            "value": 1
+        },
+        {
+            "text": "building",
+            "value": 1
+        },
+        {
+            "text": "forget",
+            "value": 1
+        },
+        {
+            "text": "buy",
+            "value": 1
+        },
+        {
+            "text": "merch",
+            "value": 1
+        },
+        {
+            "text": "United",
+            "value": 1
+        },
+        {
+            "text": "Lacroix",
+            "value": 1
+        },
+        {
+            "text": "goal",
+            "value": 1
+        },
+        {
+            "text": "Maclaren",
+            "value": 1
+        },
+        {
+            "text": "Milanovic",
+            "value": 1
+        },
+        {
+            "text": "49",
+            "value": 1
+        },
+        {
+            "text": "51",
+            "value": 1
+        },
+        {
+            "text": "9",
+            "value": 1
+        },
+        {
+            "text": "Come",
+            "value": 1
+        },
+        {
+            "text": "City",
+            "value": 2
+        },
+        {
+            "text": "Boys",
+            "value": 1
+        },
+        {
+            "text": "Melbourne's",
+            "value": 1
+        },
+        {
+            "text": "Red",
+            "value": 1
+        },
+        {
+            "text": "White",
+            "value": 1
+        },
+        {
+            "text": "Blue",
+            "value": 1
+        },
+        {
+            "text": "Go",
+            "value": 1
+        },
+        {
+            "text": "nervy",
+            "value": 1
+        },
+        {
+            "text": "end",
+            "value": 1
+        },
+        {
+            "text": "W",
+            "value": 2
+        },
+        {
+            "text": "ty",
+            "value": 1
+        },
+        {
+            "text": "3",
+            "value": 1
+        },
+        {
+            "text": "points",
+            "value": 1
+        },
+        {
+            "text": "Lacriox",
+            "value": 1
+        },
+        {
+            "text": "kick",
+            "value": 2
+        },
+        {
+            "text": "baby",
+            "value": 1
+        },
+        {
+            "text": "Home",
+            "value": 1
+        },
+        {
+            "text": "Kangaroos",
+            "value": 1
+        },
+        {
+            "text": "beat",
+            "value": 1
+        },
+        {
+            "text": "Swans",
+            "value": 1
+        },
+        {
+            "text": "Sunny",
+            "value": 1
+        },
+        {
+            "text": "footy",
+            "value": 4
+        },
+        {
+            "text": "Burnley",
+            "value": 3
+        },
+        {
+            "text": "Tunnel",
+            "value": 3
+        },
+        {
+            "text": "M1",
+            "value": 2
+        },
+        {
+            "text": "lanes",
+            "value": 2
+        },
+        {
+            "text": "closed",
+            "value": 4
+        },
+        {
+            "text": "eastbound",
+            "value": 2
+        },
+        {
+            "text": "left",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 2
+        },
+        {
+            "text": "I'm",
+            "value": 2
+        },
+        {
+            "text": "Tram",
+            "value": 1
+        },
+        {
+            "text": "Stop",
+            "value": 1
+        },
+        {
+            "text": "7C",
+            "value": 1
+        },
+        {
+            "text": "Hisense",
+            "value": 1
+        },
+        {
+            "text": "East",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "National",
+            "value": 1
+        },
+        {
+            "text": "Tennis",
+            "value": 1
+        },
+        {
+            "text": "Centre",
+            "value": 1
+        },
+        {
+            "text": "start",
+            "value": 1
+        },
+        {
+            "text": "plenty",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
+            "text": "front",
+            "value": 1
+        },
+        {
+            "text": "Solid",
+            "value": 1
+        },
+        {
+            "text": "performance",
+            "value": 1
+        },
+        {
+            "text": "Roogirls",
+            "value": 1
+        },
+        {
+            "text": "Awesome",
+            "value": 1
+        },
+        {
+            "text": "watch",
+            "value": 2
+        },
+        {
+            "text": "basketball",
+            "value": 3
+        },
+        {
+            "text": "watching",
+            "value": 1
+        },
+        {
+            "text": "shined",
+            "value": 1
+        },
+        {
+            "text": "OT",
+            "value": 1
+        },
+        {
+            "text": "massive",
+            "value": 1
+        },
+        {
+            "text": "hater",
+            "value": 1
+        },
+        {
+            "text": "years",
+            "value": 1
+        },
+        {
+            "text": "mainly",
+            "value": 1
+        },
+        {
+            "text": "lacking",
+            "value": 1
+        },
+        {
+            "text": "skill",
+            "value": 1
+        },
+        {
+            "text": "talent",
+            "value": 1
+        },
+        {
+            "text": "2022",
+            "value": 5
+        },
+        {
+            "text": "year",
+            "value": 1
+        },
+        {
+            "text": "changes",
+            "value": 1
+        },
+        {
+            "text": "fully",
+            "value": 1
+        },
+        {
+            "text": "invested",
+            "value": 1
+        },
+        {
+            "text": "league",
+            "value": 1
+        },
+        {
+            "text": "Love",
+            "value": 1
+        },
+        {
+            "text": "far",
+            "value": 1
+        },
+        {
+            "text": "come",
+            "value": 1
+        },
+        {
+            "text": "country",
+            "value": 1
+        },
+        {
+            "text": "continues",
+            "value": 1
+        },
+        {
+            "text": "strive",
+            "value": 1
+        },
+        {
+            "text": "Last",
+            "value": 2
+        },
+        {
+            "text": "epic",
+            "value": 1
+        },
+        {
+            "text": "show",
+            "value": 1
+        },
+        {
+            "text": "Monster",
+            "value": 2
+        },
+        {
+            "text": "Jam",
+            "value": 2
+        },
+        {
+            "text": "Awesomee",
+            "value": 1
+        },
+        {
+            "text": "first",
+            "value": 3
+        },
+        {
+            "text": "22",
+            "value": 1
+        },
+        {
+            "text": "23",
+            "value": 3
+        },
+        {
+            "text": "season",
+            "value": 2
+        },
+        {
+            "text": "Father",
+            "value": 1
+        },
+        {
+            "text": "Day",
+            "value": 2
+        },
+        {
+            "text": "present",
+            "value": 1
+        },
+        {
+            "text": "delivered",
+            "value": 1
+        },
+        {
+            "text": "Ripper",
+            "value": 1
+        },
+        {
+            "text": "opening",
+            "value": 1
+        },
+        {
+            "text": "round",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 1
+        },
+        {
+            "text": "TRUCKS",
+            "value": 2
+        },
+        {
+            "text": "NBL",
+            "value": 2
+        },
+        {
+            "text": "underway",
+            "value": 1
+        },
+        {
+            "text": "Pit",
+            "value": 1
+        },
+        {
+            "text": "Party",
+            "value": 1
+        },
+        {
+            "text": "Great",
+            "value": 2
+        },
+        {
+            "text": "MONSTER",
+            "value": 1
+        },
+        {
+            "text": "Living",
+            "value": 1
+        },
+        {
+            "text": "best",
+            "value": 3
+        },
+        {
+            "text": "life",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 1
+        },
+        {
+            "text": "First",
+            "value": 1
+        },
+        {
+            "text": "halfway",
+            "value": 1
+        },
+        {
+            "text": "world",
+            "value": 1
+        },
+        {
+            "text": "Ready",
+            "value": 1
+        },
+        {
+            "text": "tomorrow",
+            "value": 1
+        },
+        {
+            "text": "coffee",
+            "value": 1
+        },
+        {
+            "text": "said",
+            "value": 1
+        },
+        {
+            "text": "Tigies",
+            "value": 1
+        },
+        {
+            "text": "Richmond",
+            "value": 2
+        },
+        {
+            "text": "funky",
+            "value": 1
+        },
+        {
+            "text": "tunes",
+            "value": 1
+        },
+        {
+            "text": "till",
+            "value": 1
+        },
+        {
+            "text": "late",
+            "value": 1
+        },
+        {
+            "text": "Pink",
+            "value": 1
+        },
+        {
+            "text": "Lemonade",
+            "value": 1
+        },
+        {
+            "text": "Iconic",
+            "value": 1
+        },
+        {
+            "text": "Cremorne",
+            "value": 1
+        },
+        {
+            "text": "Middle",
+            "value": 1
+        },
+        {
+            "text": "Burnlety",
+            "value": 1
+        },
+        {
+            "text": "weather",
+            "value": 1
+        },
+        {
+            "text": "conditions",
+            "value": 1
+        },
+        {
+            "text": "post",
+            "value": 1
+        },
+        {
+            "text": "Grand",
+            "value": 3
+        },
+        {
+            "text": "Final",
+            "value": 3
+        },
+        {
+            "text": "see",
+            "value": 2
+        },
+        {
+            "text": "numbers",
+            "value": 1
+        },
+        {
+            "text": "including",
+            "value": 1
+        },
+        {
+            "text": "young",
+            "value": 1
+        },
+        {
+            "text": "newbies",
+            "value": 1
+        },
+        {
+            "text": "joining",
+            "value": 1
+        },
+        {
+            "text": "Run",
+            "value": 1
+        },
+        {
+            "text": "Melb",
+            "value": 1
+        },
+        {
+            "text": "next",
+            "value": 1
+        },
+        {
+            "text": "Sunday",
+            "value": 1
+        },
+        {
+            "text": "luck",
+            "value": 1
+        },
+        {
+            "text": "everyone",
+            "value": 1
+        },
+        {
+            "text": "participating",
+            "value": 1
+        },
+        {
+            "text": "Relax",
+            "value": 1
+        },
+        {
+            "text": "give",
+            "value": 1
+        },
+        {
+            "text": "well",
+            "value": 1
+        },
+        {
+            "text": "Always",
+            "value": 1
+        },
+        {
+            "text": "crew",
+            "value": 1
+        },
+        {
+            "text": "working",
+            "value": 1
+        },
+        {
+            "text": "together",
+            "value": 1
+        },
+        {
+            "text": "Might",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 1
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "mane",
+            "value": 1
+        },
+        {
+            "text": "tain",
+            "value": 1
+        },
+        {
+            "text": "Punt",
+            "value": 2
+        },
+        {
+            "text": "Road",
+            "value": 2
+        },
+        {
+            "text": "Oval",
+            "value": 2
+        },
+        {
+            "text": "MCG",
+            "value": 2
+        },
+        {
+            "text": "Broadcasting",
+            "value": 1
+        },
+        {
+            "text": "live",
+            "value": 1
+        },
+        {
+            "text": "cheeseboard",
+            "value": 1
+        },
+        {
+            "text": "Lib",
+            "value": 1
+        },
+        {
+            "text": "spoil",
+            "value": 1
+        },
+        {
+            "text": "decadent",
+            "value": 1
+        },
+        {
+            "text": "lemon",
+            "value": 1
+        },
+        {
+            "text": "tart",
+            "value": 1
+        },
+        {
+            "text": "Fine",
+            "value": 1
+        },
+        {
+            "text": "dining",
+            "value": 1
+        },
+        {
+            "text": "Made",
+            "value": 1
+        },
+        {
+            "text": "lessgo",
+            "value": 1
+        },
+        {
+            "text": "bad",
+            "value": 1
+        },
+        {
+            "text": "AFL",
+            "value": 1
+        },
+        {
+            "text": "since",
+            "value": 1
+        },
+        {
+            "text": "2019",
+            "value": 1
+        },
+        {
+            "text": "Back",
+            "value": 1
+        },
+        {
+            "text": "selfies",
+            "value": 1
+        },
+        {
+            "text": "Pre",
+            "value": 1
+        },
+        {
+            "text": "event",
+            "value": 1
+        },
+        {
+            "text": "Lock",
+            "value": 2
+        },
+        {
+            "text": "number",
+            "value": 2
+        },
+        {
+            "text": "two",
+            "value": 2
+        },
+        {
+            "text": "Yeah",
+            "value": 1
+        },
+        {
+            "text": "normally",
+            "value": 1
+        },
+        {
+            "text": "city",
+            "value": 1
+        },
+        {
+            "text": "skyline",
+            "value": 1
+        },
+        {
+            "text": "fog",
+            "value": 1
+        },
+        {
+            "text": "friends",
+            "value": 1
+        },
+        {
+            "text": "Naarm",
+            "value": 1
+        },
+        {
+            "text": "Country",
+            "value": 1
+        },
+        {
+            "text": "melbourne",
+            "value": 1
+        },
+        {
+            "text": "Happier",
+            "value": 1
+        },
+        {
+            "text": "Ever",
+            "value": 1
+        },
+        {
+            "text": "World",
+            "value": 1
+        },
+        {
+            "text": "Tour",
+            "value": 1
+        },
+        {
+            "text": "Gallivanting",
+            "value": 1
+        },
+        {
+            "text": "around",
+            "value": 1
+        },
+        {
+            "text": "Europe",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "weeks",
+            "value": 1
+        },
+        {
+            "text": "fun",
+            "value": 1
+        },
+        {
+            "text": "home",
+            "value": 1
+        },
+        {
+            "text": "September",
+            "value": 1
         }
     ]
 }

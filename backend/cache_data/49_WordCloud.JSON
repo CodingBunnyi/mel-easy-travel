@@ -2,11 +2,11 @@
     "word_freq": [
         {
             "text": "posted",
-            "value": 1
+            "value": 2
         },
         {
             "text": "photo",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Heartattack",
@@ -42,7 +42,7 @@
         },
         {
             "text": "Carlton",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Jeff",
@@ -70,7 +70,7 @@
         },
         {
             "text": "5",
-            "value": 1
+            "value": 2
         },
         {
             "text": "500",
@@ -258,6 +258,366 @@
         },
         {
             "text": "Roasters",
+            "value": 1
+        },
+        {
+            "text": "Tonight",
+            "value": 1
+        },
+        {
+            "text": "Cinema",
+            "value": 1
+        },
+        {
+            "text": "Nova",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 1
+        },
+        {
+            "text": "former",
+            "value": 1
+        },
+        {
+            "text": "Australian",
+            "value": 1
+        },
+        {
+            "text": "Army",
+            "value": 1
+        },
+        {
+            "text": "lawyer",
+            "value": 1
+        },
+        {
+            "text": "David",
+            "value": 1
+        },
+        {
+            "text": "McBride",
+            "value": 1
+        },
+        {
+            "text": "said",
+            "value": 1
+        },
+        {
+            "text": "screening",
+            "value": 1
+        },
+        {
+            "text": "documentary",
+            "value": 1
+        },
+        {
+            "text": "Declassified",
+            "value": 1
+        },
+        {
+            "text": "Momentum",
+            "value": 1
+        },
+        {
+            "text": "everything",
+            "value": 1
+        },
+        {
+            "text": "going",
+            "value": 1
+        },
+        {
+            "text": "win",
+            "value": 1
+        },
+        {
+            "text": "Continued",
+            "value": 1
+        },
+        {
+            "text": "comments",
+            "value": 1
+        },
+        {
+            "text": "Ready",
+            "value": 1
+        },
+        {
+            "text": "Netflix",
+            "value": 1
+        },
+        {
+            "text": "Pub",
+            "value": 1
+        },
+        {
+            "text": "Clyde",
+            "value": 1
+        },
+        {
+            "text": "Hotel",
+            "value": 1
+        },
+        {
+            "text": "Perfect",
+            "value": 1
+        },
+        {
+            "text": "afternoon",
+            "value": 1
+        },
+        {
+            "text": "drinking",
+            "value": 1
+        },
+        {
+            "text": "iced",
+            "value": 1
+        },
+        {
+            "text": "filter",
+            "value": 1
+        },
+        {
+            "text": "help",
+            "value": 1
+        },
+        {
+            "text": "feel",
+            "value": 1
+        },
+        {
+            "text": "grateful",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 1
+        },
+        {
+            "text": "took",
+            "value": 1
+        },
+        {
+            "text": "cafe",
+            "value": 1
+        },
+        {
+            "text": "turn",
+            "value": 1
+        },
+        {
+            "text": "rebrand",
+            "value": 1
+        },
+        {
+            "text": "whole",
+            "value": 1
+        },
+        {
+            "text": "local",
+            "value": 1
+        },
+        {
+            "text": "fancy",
+            "value": 1
+        },
+        {
+            "text": "pub",
+            "value": 1
+        },
+        {
+            "text": "minute",
+            "value": 1
+        },
+        {
+            "text": "detail",
+            "value": 1
+        },
+        {
+            "text": "TWO",
+            "value": 1
+        },
+        {
+            "text": "DAYS",
+            "value": 1
+        },
+        {
+            "text": "GO",
+            "value": 1
+        },
+        {
+            "text": "Long",
+            "value": 1
+        },
+        {
+            "text": "Drive",
+            "value": 1
+        },
+        {
+            "text": "Together",
+            "value": 1
+        },
+        {
+            "text": "opens",
+            "value": 1
+        },
+        {
+            "text": "Mon",
+            "value": 1
+        },
+        {
+            "text": "3",
+            "value": 1
+        },
+        {
+            "text": "Oct",
+            "value": 2
+        },
+        {
+            "text": "til",
+            "value": 1
+        },
+        {
+            "text": "Sun",
+            "value": 1
+        },
+        {
+            "text": "9",
+            "value": 3
+        },
+        {
+            "text": "6",
+            "value": 1
+        },
+        {
+            "text": "30PM",
+            "value": 1
+        },
+        {
+            "text": "Lou",
+            "value": 1
+        },
+        {
+            "text": "Sebial",
+            "value": 1
+        },
+        {
+            "text": "Part",
+            "value": 1
+        },
+        {
+            "text": "Tix",
+            "value": 1
+        },
+        {
+            "text": "Senior",
+            "value": 1
+        },
+        {
+            "text": "mens",
+            "value": 1
+        },
+        {
+            "text": "training",
+            "value": 1
+        },
+        {
+            "text": "tomorrow",
+            "value": 1
+        },
+        {
+            "text": "Saturday",
+            "value": 1
+        },
+        {
+            "text": "1st",
+            "value": 1
+        },
+        {
+            "text": "October",
+            "value": 1
+        },
+        {
+            "text": "30",
+            "value": 1
+        },
+        {
+            "text": "11",
+            "value": 1
+        },
+        {
+            "text": "30am",
+            "value": 1
+        },
+        {
+            "text": "Holmes",
+            "value": 2
+        },
+        {
+            "text": "Todd",
+            "value": 2
+        },
+        {
+            "text": "oval",
+            "value": 1
+        },
+        {
+            "text": "nets",
+            "value": 1
+        },
+        {
+            "text": "Oval",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "cinematography",
+            "value": 1
+        },
+        {
+            "text": "Filmmaking",
+            "value": 1
+        },
+        {
+            "text": "Fundamentals",
+            "value": 1
+        },
+        {
+            "text": "courses",
+            "value": 1
+        },
+        {
+            "text": "open",
+            "value": 1
+        },
+        {
+            "text": "enrolment",
+            "value": 1
+        },
+        {
+            "text": "Jan",
+            "value": 1
+        },
+        {
+            "text": "13",
+            "value": 1
+        },
+        {
+            "text": "2023",
+            "value": 1
+        },
+        {
+            "text": "Dancehouse",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
             "value": 1
         }
     ]

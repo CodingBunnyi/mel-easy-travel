@@ -6,11 +6,11 @@
         },
         {
             "text": "almost",
-            "value": 1
+            "value": 2
         },
         {
             "text": "time",
-            "value": 1
+            "value": 3
         },
         {
             "text": "suit",
@@ -18,11 +18,11 @@
         },
         {
             "text": "Good",
-            "value": 2
+            "value": 4
         },
         {
             "text": "night",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Bad",
@@ -34,11 +34,11 @@
         },
         {
             "text": "AAMI",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Park",
-            "value": 1
+            "value": 3
         },
         {
             "text": "atmosphere",
@@ -62,7 +62,7 @@
         },
         {
             "text": "back",
-            "value": 1
+            "value": 3
         },
         {
             "text": "0",
@@ -70,11 +70,11 @@
         },
         {
             "text": "vs",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Western",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Sydney",
@@ -86,11 +86,11 @@
         },
         {
             "text": "1",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Goals",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Mr",
@@ -102,11 +102,11 @@
         },
         {
             "text": "TIME",
-            "value": 1
+            "value": 2
         },
         {
             "text": "POSSESION",
-            "value": 1
+            "value": 2
         },
         {
             "text": "61",
@@ -118,15 +118,15 @@
         },
         {
             "text": "SHOTS",
-            "value": 1
+            "value": 2
         },
         {
             "text": "GOAL",
-            "value": 1
+            "value": 2
         },
         {
             "text": "2",
-            "value": 4
+            "value": 6
         },
         {
             "text": "Seagulls",
@@ -138,7 +138,7 @@
         },
         {
             "text": "4",
-            "value": 1
+            "value": 2
         },
         {
             "text": "formation",
@@ -150,7 +150,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 1
+            "value": 6
         },
         {
             "text": "Victory",
@@ -166,11 +166,11 @@
         },
         {
             "text": "FC",
-            "value": 1
+            "value": 3
         },
         {
             "text": "Let",
-            "value": 1
+            "value": 2
         },
         {
             "text": "go",
@@ -178,7 +178,7 @@
         },
         {
             "text": "Punt",
-            "value": 2
+            "value": 4
         },
         {
             "text": "Rd",
@@ -186,15 +186,15 @@
         },
         {
             "text": "Cremorne",
-            "value": 2
+            "value": 4
         },
         {
             "text": "lanes",
-            "value": 3
+            "value": 5
         },
         {
             "text": "closed",
-            "value": 4
+            "value": 8
         },
         {
             "text": "southbound",
@@ -202,11 +202,11 @@
         },
         {
             "text": "left",
-            "value": 1
+            "value": 2
         },
         {
             "text": "lane",
-            "value": 1
+            "value": 3
         },
         {
             "text": "approaching",
@@ -218,6 +218,514 @@
         },
         {
             "text": "Monash",
+            "value": 1
+        },
+        {
+            "text": "forever",
+            "value": 1
+        },
+        {
+            "text": "grateful",
+            "value": 1
+        },
+        {
+            "text": "memories",
+            "value": 1
+        },
+        {
+            "text": "Rest",
+            "value": 1
+        },
+        {
+            "text": "easy",
+            "value": 1
+        },
+        {
+            "text": "big",
+            "value": 1
+        },
+        {
+            "text": "man",
+            "value": 1
+        },
+        {
+            "text": "See",
+            "value": 1
+        },
+        {
+            "text": "Dreams",
+            "value": 1
+        },
+        {
+            "text": "United",
+            "value": 1
+        },
+        {
+            "text": "Lacroix",
+            "value": 1
+        },
+        {
+            "text": "goal",
+            "value": 1
+        },
+        {
+            "text": "Maclaren",
+            "value": 1
+        },
+        {
+            "text": "Milanovic",
+            "value": 1
+        },
+        {
+            "text": "49",
+            "value": 1
+        },
+        {
+            "text": "51",
+            "value": 1
+        },
+        {
+            "text": "9",
+            "value": 1
+        },
+        {
+            "text": "Come",
+            "value": 1
+        },
+        {
+            "text": "City",
+            "value": 2
+        },
+        {
+            "text": "Boys",
+            "value": 1
+        },
+        {
+            "text": "Melbourne's",
+            "value": 1
+        },
+        {
+            "text": "Red",
+            "value": 1
+        },
+        {
+            "text": "White",
+            "value": 1
+        },
+        {
+            "text": "Blue",
+            "value": 1
+        },
+        {
+            "text": "Go",
+            "value": 1
+        },
+        {
+            "text": "nervy",
+            "value": 1
+        },
+        {
+            "text": "end",
+            "value": 1
+        },
+        {
+            "text": "W",
+            "value": 1
+        },
+        {
+            "text": "ty",
+            "value": 1
+        },
+        {
+            "text": "3",
+            "value": 1
+        },
+        {
+            "text": "points",
+            "value": 1
+        },
+        {
+            "text": "Lacriox",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 2
+        },
+        {
+            "text": "photo",
+            "value": 2
+        },
+        {
+            "text": "Frederic",
+            "value": 1
+        },
+        {
+            "text": "kick",
+            "value": 2
+        },
+        {
+            "text": "baby",
+            "value": 1
+        },
+        {
+            "text": "Home",
+            "value": 1
+        },
+        {
+            "text": "Kangaroos",
+            "value": 1
+        },
+        {
+            "text": "beat",
+            "value": 1
+        },
+        {
+            "text": "Swans",
+            "value": 1
+        },
+        {
+            "text": "Sunny",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 2
+        },
+        {
+            "text": "footy",
+            "value": 3
+        },
+        {
+            "text": "I'm",
+            "value": 2
+        },
+        {
+            "text": "Tram",
+            "value": 1
+        },
+        {
+            "text": "Stop",
+            "value": 1
+        },
+        {
+            "text": "7C",
+            "value": 1
+        },
+        {
+            "text": "Hisense",
+            "value": 1
+        },
+        {
+            "text": "Arena",
+            "value": 1
+        },
+        {
+            "text": "East",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 2
+        },
+        {
+            "text": "National",
+            "value": 1
+        },
+        {
+            "text": "Tennis",
+            "value": 1
+        },
+        {
+            "text": "Centre",
+            "value": 1
+        },
+        {
+            "text": "Solid",
+            "value": 1
+        },
+        {
+            "text": "performance",
+            "value": 1
+        },
+        {
+            "text": "Roogirls",
+            "value": 1
+        },
+        {
+            "text": "Awesome",
+            "value": 1
+        },
+        {
+            "text": "Last",
+            "value": 1
+        },
+        {
+            "text": "epic",
+            "value": 1
+        },
+        {
+            "text": "show",
+            "value": 1
+        },
+        {
+            "text": "Monster",
+            "value": 2
+        },
+        {
+            "text": "Jam",
+            "value": 2
+        },
+        {
+            "text": "Awesomee",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 1
+        },
+        {
+            "text": "TRUCKS",
+            "value": 2
+        },
+        {
+            "text": "Pit",
+            "value": 1
+        },
+        {
+            "text": "Party",
+            "value": 1
+        },
+        {
+            "text": "Great",
+            "value": 1
+        },
+        {
+            "text": "MONSTER",
+            "value": 1
+        },
+        {
+            "text": "Burnley",
+            "value": 3
+        },
+        {
+            "text": "Tunnel",
+            "value": 4
+        },
+        {
+            "text": "M1",
+            "value": 2
+        },
+        {
+            "text": "eastbound",
+            "value": 2
+        },
+        {
+            "text": "Living",
+            "value": 1
+        },
+        {
+            "text": "best",
+            "value": 2
+        },
+        {
+            "text": "life",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 1
+        },
+        {
+            "text": "First",
+            "value": 1
+        },
+        {
+            "text": "halfway",
+            "value": 1
+        },
+        {
+            "text": "across",
+            "value": 1
+        },
+        {
+            "text": "world",
+            "value": 1
+        },
+        {
+            "text": "coffee",
+            "value": 1
+        },
+        {
+            "text": "first",
+            "value": 1
+        },
+        {
+            "text": "said",
+            "value": 1
+        },
+        {
+            "text": "Tigies",
+            "value": 1
+        },
+        {
+            "text": "Richmond",
+            "value": 4
+        },
+        {
+            "text": "AfterParty",
+            "value": 1
+        },
+        {
+            "text": "PrecinctHotel",
+            "value": 1
+        },
+        {
+            "text": "funky",
+            "value": 1
+        },
+        {
+            "text": "tunes",
+            "value": 1
+        },
+        {
+            "text": "till",
+            "value": 1
+        },
+        {
+            "text": "late",
+            "value": 1
+        },
+        {
+            "text": "Pink",
+            "value": 1
+        },
+        {
+            "text": "Lemonade",
+            "value": 1
+        },
+        {
+            "text": "Middle",
+            "value": 1
+        },
+        {
+            "text": "Burnlety",
+            "value": 1
+        },
+        {
+            "text": "going",
+            "value": 1
+        },
+        {
+            "text": "CARN",
+            "value": 1
+        },
+        {
+            "text": "CATTAS",
+            "value": 1
+        },
+        {
+            "text": "Might",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 1
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "mane",
+            "value": 1
+        },
+        {
+            "text": "tain",
+            "value": 1
+        },
+        {
+            "text": "Road",
+            "value": 2
+        },
+        {
+            "text": "Oval",
+            "value": 2
+        },
+        {
+            "text": "Back",
+            "value": 1
+        },
+        {
+            "text": "selfies",
+            "value": 1
+        },
+        {
+            "text": "Lock",
+            "value": 2
+        },
+        {
+            "text": "number",
+            "value": 2
+        },
+        {
+            "text": "two",
+            "value": 2
+        },
+        {
+            "text": "Walking",
+            "value": 1
+        },
+        {
+            "text": "billboard",
+            "value": 1
+        },
+        {
+            "text": "Corner",
+            "value": 1
+        },
+        {
+            "text": "Hotel",
+            "value": 1
+        },
+        {
+            "text": "Gallivanting",
+            "value": 1
+        },
+        {
+            "text": "around",
+            "value": 1
+        },
+        {
+            "text": "Europe",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "weeks",
+            "value": 1
+        },
+        {
+            "text": "fun",
+            "value": 1
+        },
+        {
+            "text": "home",
+            "value": 1
+        },
+        {
+            "text": "23",
+            "value": 1
+        },
+        {
+            "text": "September",
+            "value": 1
+        },
+        {
+            "text": "2022",
             "value": 1
         }
     ]

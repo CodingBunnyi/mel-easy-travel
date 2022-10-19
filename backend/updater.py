@@ -13,6 +13,9 @@ import locator
 import wordcloud
 from tweet import tweet
 
+DEFAULT_RADIUS = 0.5
+CACHE_DAYS = 30
+
 
 # Save a dictionary to JSON file
 # You won't need this
@@ -30,7 +33,7 @@ def str_to_datetime(date_time_string: str):
 
 # Update data for one location
 def update_location_data(loc_id: str):
-    keep_days = 7
+    keep_days = CACHE_DAYS
 
     coord_radius = locator.get_coord_radius(loc_id)
 
@@ -56,7 +59,7 @@ def update_location_data(loc_id: str):
                 if time_gap < max_time_range:
                     days = (time_gap.total_seconds() - 11) / 86400
                     new_dict = json.loads(
-                        tweet.search_tweet(coord_radius[0], coord_radius[1], coord_radius[2], days=days, recent10=False))
+                        tweet.search_tweet(coord_radius[0], coord_radius[1], DEFAULT_RADIUS, days=days, recent10=False))
 
                     until_data_time = current_date_time - max_time_range
                     for record in old_dict['data']:
@@ -67,10 +70,10 @@ def update_location_data(loc_id: str):
                             break
                 else:
                     new_dict = json.loads(
-                        tweet.search_tweet(coord_radius[0], coord_radius[1], coord_radius[2], days=keep_days, recent10=False))
+                        tweet.search_tweet(coord_radius[0], coord_radius[1], DEFAULT_RADIUS, days=keep_days, recent10=False))
             else:
                 new_dict = json.loads(
-                    tweet.search_tweet(coord_radius[0], coord_radius[1], coord_radius[2], days=keep_days, recent10=False))
+                    tweet.search_tweet(coord_radius[0], coord_radius[1], DEFAULT_RADIUS, days=keep_days, recent10=False))
 
             save_dict_json(new_dict, path)
 

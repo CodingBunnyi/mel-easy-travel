@@ -46,7 +46,7 @@
         },
         {
             "text": "Docklands",
-            "value": 10
+            "value": 20
         },
         {
             "text": "lot",
@@ -58,7 +58,7 @@
         },
         {
             "text": "one",
-            "value": 1
+            "value": 3
         },
         {
             "text": "still",
@@ -226,7 +226,7 @@
         },
         {
             "text": "Good",
-            "value": 1
+            "value": 2
         },
         {
             "text": "beer",
@@ -242,7 +242,7 @@
         },
         {
             "text": "I'm",
-            "value": 2
+            "value": 7
         },
         {
             "text": "Gooness",
@@ -250,11 +250,11 @@
         },
         {
             "text": "Melbourne",
-            "value": 1
+            "value": 5
         },
         {
             "text": "VIC",
-            "value": 2
+            "value": 9
         },
         {
             "text": "Another",
@@ -262,19 +262,19 @@
         },
         {
             "text": "day",
-            "value": 1
+            "value": 2
         },
         {
             "text": "another",
-            "value": 1
+            "value": 2
         },
         {
             "text": "coffee",
-            "value": 1
+            "value": 2
         },
         {
             "text": "big",
-            "value": 1
+            "value": 2
         },
         {
             "text": "couple",
@@ -290,7 +290,7 @@
         },
         {
             "text": "home",
-            "value": 2
+            "value": 3
         },
         {
             "text": "find",
@@ -318,7 +318,7 @@
         },
         {
             "text": "brunch",
-            "value": 1
+            "value": 2
         },
         {
             "text": "replacing",
@@ -394,6 +394,742 @@
         },
         {
             "text": "air",
+            "value": 1
+        },
+        {
+            "text": "Spanish",
+            "value": 1
+        },
+        {
+            "text": "donuts",
+            "value": 1
+        },
+        {
+            "text": "breakfast",
+            "value": 2
+        },
+        {
+            "text": "posted",
+            "value": 2
+        },
+        {
+            "text": "photo",
+            "value": 2
+        },
+        {
+            "text": "Victoria",
+            "value": 6
+        },
+        {
+            "text": "Airport",
+            "value": 1
+        },
+        {
+            "text": "bound",
+            "value": 1
+        },
+        {
+            "text": "SkyBus",
+            "value": 1
+        },
+        {
+            "text": "Terminal",
+            "value": 1
+        },
+        {
+            "text": "people",
+            "value": 1
+        },
+        {
+            "text": "Brilliant",
+            "value": 1
+        },
+        {
+            "text": "see",
+            "value": 1
+        },
+        {
+            "text": "crowd",
+            "value": 1
+        },
+        {
+            "text": "2022",
+            "value": 1
+        },
+        {
+            "text": "keen",
+            "value": 1
+        },
+        {
+            "text": "hear",
+            "value": 1
+        },
+        {
+            "text": "rock",
+            "value": 1
+        },
+        {
+            "text": "star",
+            "value": 1
+        },
+        {
+            "text": "panel",
+            "value": 1
+        },
+        {
+            "text": "tell",
+            "value": 1
+        },
+        {
+            "text": "us",
+            "value": 1
+        },
+        {
+            "text": "make",
+            "value": 2
+        },
+        {
+            "text": "womens",
+            "value": 1
+        },
+        {
+            "text": "sport",
+            "value": 1
+        },
+        {
+            "text": "even",
+            "value": 1
+        },
+        {
+            "text": "visible",
+            "value": 1
+        },
+        {
+            "text": "viable",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 2
+        },
+        {
+            "text": "equitable",
+            "value": 1
+        },
+        {
+            "text": "tasty",
+            "value": 1
+        },
+        {
+            "text": "lil",
+            "value": 1
+        },
+        {
+            "text": "melbourne",
+            "value": 1
+        },
+        {
+            "text": "please",
+            "value": 1
+        },
+        {
+            "text": "ignore",
+            "value": 1
+        },
+        {
+            "text": "phone",
+            "value": 1
+        },
+        {
+            "text": "shadow",
+            "value": 1
+        },
+        {
+            "text": "crab",
+            "value": 1
+        },
+        {
+            "text": "toast",
+            "value": 1
+        },
+        {
+            "text": "could",
+            "value": 1
+        },
+        {
+            "text": "tried",
+            "value": 1
+        },
+        {
+            "text": "better",
+            "value": 1
+        },
+        {
+            "text": "pic",
+            "value": 2
+        },
+        {
+            "text": "hungry",
+            "value": 1
+        },
+        {
+            "text": "Eggholic",
+            "value": 2
+        },
+        {
+            "text": "Sandwich",
+            "value": 1
+        },
+        {
+            "text": "Cbd",
+            "value": 1
+        },
+        {
+            "text": "office",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 1
+        },
+        {
+            "text": "need",
+            "value": 1
+        },
+        {
+            "text": "early",
+            "value": 1
+        },
+        {
+            "text": "St",
+            "value": 1
+        },
+        {
+            "text": "Brew",
+            "value": 1
+        },
+        {
+            "text": "Vic",
+            "value": 1
+        },
+        {
+            "text": "Little",
+            "value": 1
+        },
+        {
+            "text": "bear",
+            "value": 1
+        },
+        {
+            "text": "says",
+            "value": 1
+        },
+        {
+            "text": "beware",
+            "value": 1
+        },
+        {
+            "text": "NSW",
+            "value": 1
+        },
+        {
+            "text": "Trainlink",
+            "value": 1
+        },
+        {
+            "text": "Sydney",
+            "value": 1
+        },
+        {
+            "text": "Night",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "pics",
+            "value": 1
+        },
+        {
+            "text": "feature",
+            "value": 1
+        },
+        {
+            "text": "socks",
+            "value": 1
+        },
+        {
+            "text": "legs",
+            "value": 1
+        },
+        {
+            "text": "Broke",
+            "value": 1
+        },
+        {
+            "text": "hoodoo",
+            "value": 1
+        },
+        {
+            "text": "flying",
+            "value": 1
+        },
+        {
+            "text": "first",
+            "value": 1
+        },
+        {
+            "text": "time",
+            "value": 1
+        },
+        {
+            "text": "watch",
+            "value": 1
+        },
+        {
+            "text": "Lions",
+            "value": 1
+        },
+        {
+            "text": "play",
+            "value": 1
+        },
+        {
+            "text": "away",
+            "value": 1
+        },
+        {
+            "text": "win",
+            "value": 2
+        },
+        {
+            "text": "vs",
+            "value": 1
+        },
+        {
+            "text": "Saints",
+            "value": 1
+        },
+        {
+            "text": "Marvel",
+            "value": 2
+        },
+        {
+            "text": "stadium",
+            "value": 1
+        },
+        {
+            "text": "Let",
+            "value": 1
+        },
+        {
+            "text": "hope",
+            "value": 1
+        },
+        {
+            "text": "next",
+            "value": 2
+        },
+        {
+            "text": "trip",
+            "value": 1
+        },
+        {
+            "text": "watching",
+            "value": 1
+        },
+        {
+            "text": "MCG",
+            "value": 1
+        },
+        {
+            "text": "season",
+            "value": 1
+        },
+        {
+            "text": "Look",
+            "value": 1
+        },
+        {
+            "text": "service",
+            "value": 1
+        },
+        {
+            "text": "biscuits",
+            "value": 1
+        },
+        {
+            "text": "arrived",
+            "value": 1
+        },
+        {
+            "text": "thanks",
+            "value": 2
+        },
+        {
+            "text": "much",
+            "value": 1
+        },
+        {
+            "text": "prompt",
+            "value": 1
+        },
+        {
+            "text": "response",
+            "value": 1
+        },
+        {
+            "text": "morning",
+            "value": 1
+        },
+        {
+            "text": "Darkness",
+            "value": 1
+        },
+        {
+            "text": "Mine",
+            "value": 1
+        },
+        {
+            "text": "Well",
+            "value": 1
+        },
+        {
+            "text": "looks",
+            "value": 1
+        },
+        {
+            "text": "little",
+            "value": 1
+        },
+        {
+            "text": "familiar",
+            "value": 1
+        },
+        {
+            "text": "really",
+            "value": 1
+        },
+        {
+            "text": "turned",
+            "value": 1
+        },
+        {
+            "text": "weather",
+            "value": 1
+        },
+        {
+            "text": "miserable",
+            "value": 1
+        },
+        {
+            "text": "Southern",
+            "value": 3
+        },
+        {
+            "text": "Cross",
+            "value": 3
+        },
+        {
+            "text": "railway",
+            "value": 1
+        },
+        {
+            "text": "station",
+            "value": 2
+        },
+        {
+            "text": "En",
+            "value": 1
+        },
+        {
+            "text": "route",
+            "value": 1
+        },
+        {
+            "text": "Geelong",
+            "value": 1
+        },
+        {
+            "text": "Station",
+            "value": 1
+        },
+        {
+            "text": "Stadium",
+            "value": 1
+        },
+        {
+            "text": "Car",
+            "value": 1
+        },
+        {
+            "text": "Park",
+            "value": 1
+        },
+        {
+            "text": "train",
+            "value": 3
+        },
+        {
+            "text": "seymour",
+            "value": 1
+        },
+        {
+            "text": "waited",
+            "value": 1
+        },
+        {
+            "text": "6pm",
+            "value": 1
+        },
+        {
+            "text": "touch",
+            "value": 1
+        },
+        {
+            "text": "risky",
+            "value": 1
+        },
+        {
+            "text": "given",
+            "value": 1
+        },
+        {
+            "text": "left",
+            "value": 2
+        },
+        {
+            "text": "18",
+            "value": 1
+        },
+        {
+            "text": "02",
+            "value": 1
+        },
+        {
+            "text": "didnt",
+            "value": 1
+        },
+        {
+            "text": "get",
+            "value": 1
+        },
+        {
+            "text": "peak",
+            "value": 1
+        },
+        {
+            "text": "fare",
+            "value": 1
+        },
+        {
+            "text": "look",
+            "value": 1
+        },
+        {
+            "text": "sg",
+            "value": 1
+        },
+        {
+            "text": "vlocity",
+            "value": 1
+        },
+        {
+            "text": "cafe",
+            "value": 1
+        },
+        {
+            "text": "bar",
+            "value": 1
+        },
+        {
+            "text": "closed",
+            "value": 1
+        },
+        {
+            "text": "tho",
+            "value": 1
+        },
+        {
+            "text": "Railway",
+            "value": 1
+        },
+        {
+            "text": "omg",
+            "value": 1
+        },
+        {
+            "text": "fumes",
+            "value": 1
+        },
+        {
+            "text": "southern",
+            "value": 1
+        },
+        {
+            "text": "cross",
+            "value": 1
+        },
+        {
+            "text": "interchange",
+            "value": 1
+        },
+        {
+            "text": "traralgon",
+            "value": 1
+        },
+        {
+            "text": "theory",
+            "value": 1
+        },
+        {
+            "text": "8",
+            "value": 1
+        },
+        {
+            "text": "minutes",
+            "value": 1
+        },
+        {
+            "text": "cut",
+            "value": 1
+        },
+        {
+            "text": "rly",
+            "value": 1
+        },
+        {
+            "text": "close",
+            "value": 1
+        },
+        {
+            "text": "getting",
+            "value": 1
+        },
+        {
+            "text": "red",
+            "value": 1
+        },
+        {
+            "text": "rooster",
+            "value": 1
+        },
+        {
+            "text": "enjoy",
+            "value": 1
+        },
+        {
+            "text": "picture",
+            "value": 1
+        },
+        {
+            "text": "took",
+            "value": 1
+        },
+        {
+            "text": "thats",
+            "value": 1
+        },
+        {
+            "text": "wrong",
+            "value": 1
+        },
+        {
+            "text": "way",
+            "value": 1
+        },
+        {
+            "text": "round",
+            "value": 1
+        },
+        {
+            "text": "chips",
+            "value": 1
+        },
+        {
+            "text": "stage",
+            "value": 1
+        },
+        {
+            "text": "insane",
+            "value": 1
+        },
+        {
+            "text": "journey",
+            "value": 1
+        },
+        {
+            "text": "commences",
+            "value": 1
+        },
+        {
+            "text": "Dymocks",
+            "value": 1
+        },
+        {
+            "text": "Waurn",
+            "value": 1
+        },
+        {
+            "text": "Ponds",
+            "value": 1
+        },
+        {
+            "text": "Someone",
+            "value": 1
+        },
+        {
+            "text": "Ticket",
+            "value": 1
+        },
+        {
+            "text": "Ride",
+            "value": 1
+        },
+        {
+            "text": "Europe",
+            "value": 1
+        },
+        {
+            "text": "edition",
+            "value": 1
+        },
+        {
+            "text": "outside",
+            "value": 1
+        },
+        {
+            "text": "Salvos",
+            "value": 1
+        },
+        {
+            "text": "op",
+            "value": 1
+        },
+        {
+            "text": "shop",
+            "value": 1
+        },
+        {
+            "text": "nerd",
+            "value": 1
+        },
+        {
+            "text": "many",
+            "value": 1
+        },
+        {
+            "text": "emotions",
+            "value": 1
+        },
+        {
+            "text": "right",
+            "value": 1
+        },
+        {
+            "text": "going",
             "value": 1
         }
     ]

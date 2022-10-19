@@ -10,7 +10,7 @@
         },
         {
             "text": "Kensington",
-            "value": 3
+            "value": 4
         },
         {
             "text": "one",
@@ -118,6 +118,22 @@
         },
         {
             "text": "area",
+            "value": 1
+        },
+        {
+            "text": "Cawfee",
+            "value": 1
+        },
+        {
+            "text": "Local",
+            "value": 1
+        },
+        {
+            "text": "Folk",
+            "value": 1
+        },
+        {
+            "text": "Vic",
             "value": 1
         }
     ]

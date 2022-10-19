@@ -2,19 +2,19 @@
     "word_freq": [
         {
             "text": "North",
-            "value": 2
+            "value": 7
         },
         {
             "text": "Melbourne",
-            "value": 2
+            "value": 12
         },
         {
             "text": "Recreation",
-            "value": 2
+            "value": 6
         },
         {
             "text": "Reserve",
-            "value": 2
+            "value": 6
         },
         {
             "text": "MONDAY",
@@ -190,6 +190,118 @@
         },
         {
             "text": "time",
+            "value": 1
+        },
+        {
+            "text": "Abbotsford",
+            "value": 1
+        },
+        {
+            "text": "St",
+            "value": 1
+        },
+        {
+            "text": "Road",
+            "value": 1
+        },
+        {
+            "text": "Closed",
+            "value": 1
+        },
+        {
+            "text": "Emergency",
+            "value": 1
+        },
+        {
+            "text": "Services",
+            "value": 1
+        },
+        {
+            "text": "Access",
+            "value": 1
+        },
+        {
+            "text": "Commercial",
+            "value": 1
+        },
+        {
+            "text": "Building",
+            "value": 1
+        },
+        {
+            "text": "8",
+            "value": 1
+        },
+        {
+            "text": "October",
+            "value": 1
+        },
+        {
+            "text": "2022",
+            "value": 1
+        },
+        {
+            "text": "Arden",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 1
+        },
+        {
+            "text": "Oval",
+            "value": 1
+        },
+        {
+            "text": "Welcome",
+            "value": 1
+        },
+        {
+            "text": "Griffin",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 1
+        },
+        {
+            "text": "Darcy",
+            "value": 1
+        },
+        {
+            "text": "NMFC",
+            "value": 1
+        },
+        {
+            "text": "Family",
+            "value": 1
+        },
+        {
+            "text": "Looking",
+            "value": 1
+        },
+        {
+            "text": "forward",
+            "value": 1
+        },
+        {
+            "text": "journey",
+            "value": 1
+        },
+        {
+            "text": "Shinboners",
+            "value": 1
+        },
+        {
+            "text": "fireball",
+            "value": 1
+        },
+        {
+            "text": "Hazy",
+            "value": 1
+        },
+        {
+            "text": "City",
             "value": 1
         }
     ]

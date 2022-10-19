@@ -58,7 +58,7 @@
         },
         {
             "text": "I'm",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Talad",
@@ -66,15 +66,15 @@
         },
         {
             "text": "Thai",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Abbotsford",
-            "value": 1
+            "value": 2
         },
         {
             "text": "VIC",
-            "value": 1
+            "value": 2
         },
         {
             "text": "lowlights",
@@ -86,7 +86,7 @@
         },
         {
             "text": "back",
-            "value": 1
+            "value": 2
         },
         {
             "text": "recovery",
@@ -110,10 +110,470 @@
         },
         {
             "text": "Strong",
-            "value": 1
+            "value": 4
         },
         {
             "text": "Zone",
+            "value": 4
+        },
+        {
+            "text": "favourite",
+            "value": 1
+        },
+        {
+            "text": "bit",
+            "value": 1
+        },
+        {
+            "text": "development",
+            "value": 1
+        },
+        {
+            "text": "eroding",
+            "value": 1
+        },
+        {
+            "text": "corner",
+            "value": 1
+        },
+        {
+            "text": "Everything",
+            "value": 1
+        },
+        {
+            "text": "else",
+            "value": 1
+        },
+        {
+            "text": "clearly",
+            "value": 1
+        },
+        {
+            "text": "maximising",
+            "value": 1
+        },
+        {
+            "text": "footprint",
+            "value": 1
+        },
+        {
+            "text": "extrusion",
+            "value": 1
+        },
+        {
+            "text": "Slowly",
+            "value": 1
+        },
+        {
+            "text": "recovering",
+            "value": 1
+        },
+        {
+            "text": "bad",
+            "value": 1
+        },
+        {
+            "text": "stretching",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 1
+        },
+        {
+            "text": "limbering",
+            "value": 1
+        },
+        {
+            "text": "baby",
+            "value": 1
+        },
+        {
+            "text": "lifts",
+            "value": 1
+        },
+        {
+            "text": "Hoddle",
+            "value": 3
+        },
+        {
+            "text": "St",
+            "value": 4
+        },
+        {
+            "text": "Collingwood",
+            "value": 1
+        },
+        {
+            "text": "Traffic",
+            "value": 1
+        },
+        {
+            "text": "Alert",
+            "value": 1
+        },
+        {
+            "text": "traffic",
+            "value": 1
+        },
+        {
+            "text": "lights",
+            "value": 1
+        },
+        {
+            "text": "flashing",
+            "value": 1
+        },
+        {
+            "text": "yellow",
+            "value": 1
+        },
+        {
+            "text": "intersection",
+            "value": 1
+        },
+        {
+            "text": "East",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 3
+        },
+        {
+            "text": "lanes",
+            "value": 2
+        },
+        {
+            "text": "closed",
+            "value": 4
+        },
+        {
+            "text": "southbound",
+            "value": 4
+        },
+        {
+            "text": "One",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 2
+        },
+        {
+            "text": "near",
+            "value": 1
+        },
+        {
+            "text": "Egan",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 1
+        },
+        {
+            "text": "Tom",
+            "value": 1
+        },
+        {
+            "text": "Toon",
+            "value": 1
+        },
+        {
+            "text": "Noodle",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "Extroooooooooosion",
+            "value": 1
+        },
+        {
+            "text": "Darling",
+            "value": 3
+        },
+        {
+            "text": "Square",
+            "value": 3
+        },
+        {
+            "text": "Simple",
+            "value": 1
+        },
+        {
+            "text": "satisfying",
+            "value": 1
+        },
+        {
+            "text": "neo",
+            "value": 1
+        },
+        {
+            "text": "laneway",
+            "value": 4
+        },
+        {
+            "text": "house",
+            "value": 1
+        },
+        {
+            "text": "sprung",
+            "value": 1
+        },
+        {
+            "text": "behind",
+            "value": 1
+        },
+        {
+            "text": "Greg",
+            "value": 1
+        },
+        {
+            "text": "office",
+            "value": 1
+        },
+        {
+            "text": "since",
+            "value": 1
+        },
+        {
+            "text": "worked",
+            "value": 1
+        },
+        {
+            "text": "West",
+            "value": 4
+        },
+        {
+            "text": "Richmond",
+            "value": 4
+        },
+        {
+            "text": "railway",
+            "value": 4
+        },
+        {
+            "text": "station",
+            "value": 4
+        },
+        {
+            "text": "Neat",
+            "value": 1
+        },
+        {
+            "text": "little",
+            "value": 1
+        },
+        {
+            "text": "pigeon",
+            "value": 1
+        },
+        {
+            "text": "pair",
+            "value": 1
+        },
+        {
+            "text": "know",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 1
+        },
+        {
+            "text": "parapet",
+            "value": 2
+        },
+        {
+            "text": "quirk",
+            "value": 1
+        },
+        {
+            "text": "roof",
+            "value": 1
+        },
+        {
+            "text": "flows",
+            "value": 1
+        },
+        {
+            "text": "arches",
+            "value": 1
+        },
+        {
+            "text": "Usually",
+            "value": 1
+        },
+        {
+            "text": "seen",
+            "value": 1
+        },
+        {
+            "text": "commercial",
+            "value": 1
+        },
+        {
+            "text": "buildings",
+            "value": 1
+        },
+        {
+            "text": "domestically",
+            "value": 1
+        },
+        {
+            "text": "usually",
+            "value": 1
+        },
+        {
+            "text": "pointless",
+            "value": 1
+        },
+        {
+            "text": "plaque",
+            "value": 1
+        },
+        {
+            "text": "Go",
+            "value": 1
+        },
+        {
+            "text": "ers",
+            "value": 1
+        },
+        {
+            "text": "Walking",
+            "value": 1
+        },
+        {
+            "text": "Simpson",
+            "value": 1
+        },
+        {
+            "text": "neighbour",
+            "value": 1
+        },
+        {
+            "text": "gone",
+            "value": 1
+        },
+        {
+            "text": "redevelopment",
+            "value": 1
+        },
+        {
+            "text": "spectacular",
+            "value": 1
+        },
+        {
+            "text": "home",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "long",
+            "value": 1
+        },
+        {
+            "text": "given",
+            "value": 1
+        },
+        {
+            "text": "opposite",
+            "value": 1
+        },
+        {
+            "text": "Powlett",
+            "value": 1
+        },
+        {
+            "text": "Reserve",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 1
+        },
+        {
+            "text": "photo",
+            "value": 1
+        },
+        {
+            "text": "Lib",
+            "value": 1
+        },
+        {
+            "text": "pub",
+            "value": 1
+        },
+        {
+            "text": "feed",
+            "value": 1
+        },
+        {
+            "text": "walk",
+            "value": 1
+        },
+        {
+            "text": "G",
+            "value": 1
+        },
+        {
+            "text": "Looking",
+            "value": 1
+        },
+        {
+            "text": "forward",
+            "value": 1
+        },
+        {
+            "text": "great",
+            "value": 1
+        },
+        {
+            "text": "game",
+            "value": 1
+        },
+        {
+            "text": "Seriously",
+            "value": 1
+        },
+        {
+            "text": "considered",
+            "value": 1
+        },
+        {
+            "text": "Bunnings",
+            "value": 1
+        },
+        {
+            "text": "sausage",
+            "value": 1
+        },
+        {
+            "text": "bread",
+            "value": 1
+        },
+        {
+            "text": "lunch",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 1
+        },
+        {
+            "text": "Left",
+            "value": 1
+        },
+        {
+            "text": "Elizabeth",
             "value": 1
         }
     ]

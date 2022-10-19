@@ -38,7 +38,7 @@
         },
         {
             "text": "Australia",
-            "value": 1
+            "value": 2
         },
         {
             "text": "Superstar",
@@ -106,23 +106,23 @@
         },
         {
             "text": "Gardens",
-            "value": 2
+            "value": 6
         },
         {
             "text": "essay",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Ellie",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Stathaki",
-            "value": 2
+            "value": 3
         },
         {
             "text": "DIA",
-            "value": 2
+            "value": 4
         },
         {
             "text": "lowlights",
@@ -134,7 +134,7 @@
         },
         {
             "text": "back",
-            "value": 3
+            "value": 4
         },
         {
             "text": "recovery",
@@ -154,11 +154,11 @@
         },
         {
             "text": "Strong",
-            "value": 1
+            "value": 4
         },
         {
             "text": "Zone",
-            "value": 1
+            "value": 4
         },
         {
             "text": "Returned",
@@ -210,7 +210,7 @@
         },
         {
             "text": "walk",
-            "value": 1
+            "value": 2
         },
         {
             "text": "sets",
@@ -222,6 +222,502 @@
         },
         {
             "text": "23sec",
+            "value": 1
+        },
+        {
+            "text": "little",
+            "value": 1
+        },
+        {
+            "text": "bit",
+            "value": 2
+        },
+        {
+            "text": "Great",
+            "value": 1
+        },
+        {
+            "text": "Ayton",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 3
+        },
+        {
+            "text": "Cooks'",
+            "value": 1
+        },
+        {
+            "text": "Cottage",
+            "value": 1
+        },
+        {
+            "text": "That's",
+            "value": 1
+        },
+        {
+            "text": "nah",
+            "value": 1
+        },
+        {
+            "text": "ye",
+            "value": 1
+        },
+        {
+            "text": "make",
+            "value": 1
+        },
+        {
+            "text": "porridge",
+            "value": 1
+        },
+        {
+            "text": "err",
+            "value": 1
+        },
+        {
+            "text": "Fitzroy",
+            "value": 4
+        },
+        {
+            "text": "maybe",
+            "value": 1
+        },
+        {
+            "text": "sure",
+            "value": 1
+        },
+        {
+            "text": "favourite",
+            "value": 1
+        },
+        {
+            "text": "development",
+            "value": 1
+        },
+        {
+            "text": "eroding",
+            "value": 1
+        },
+        {
+            "text": "corner",
+            "value": 1
+        },
+        {
+            "text": "Everything",
+            "value": 1
+        },
+        {
+            "text": "else",
+            "value": 1
+        },
+        {
+            "text": "clearly",
+            "value": 1
+        },
+        {
+            "text": "maximising",
+            "value": 1
+        },
+        {
+            "text": "footprint",
+            "value": 1
+        },
+        {
+            "text": "extrusion",
+            "value": 1
+        },
+        {
+            "text": "Slowly",
+            "value": 1
+        },
+        {
+            "text": "recovering",
+            "value": 1
+        },
+        {
+            "text": "bad",
+            "value": 1
+        },
+        {
+            "text": "stretching",
+            "value": 1
+        },
+        {
+            "text": "amp",
+            "value": 1
+        },
+        {
+            "text": "limbering",
+            "value": 1
+        },
+        {
+            "text": "baby",
+            "value": 1
+        },
+        {
+            "text": "lifts",
+            "value": 1
+        },
+        {
+            "text": "Men",
+            "value": 1
+        },
+        {
+            "text": "Rosary",
+            "value": 1
+        },
+        {
+            "text": "Crusade",
+            "value": 1
+        },
+        {
+            "text": "opposite",
+            "value": 2
+        },
+        {
+            "text": "St",
+            "value": 2
+        },
+        {
+            "text": "Patrick",
+            "value": 1
+        },
+        {
+            "text": "Cathedral",
+            "value": 1
+        },
+        {
+            "text": "October",
+            "value": 1
+        },
+        {
+            "text": "7",
+            "value": 1
+        },
+        {
+            "text": "2022",
+            "value": 1
+        },
+        {
+            "text": "Lansdowne",
+            "value": 1
+        },
+        {
+            "text": "East",
+            "value": 1
+        },
+        {
+            "text": "lanes",
+            "value": 1
+        },
+        {
+            "text": "closed",
+            "value": 2
+        },
+        {
+            "text": "northbound",
+            "value": 2
+        },
+        {
+            "text": "Right",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 1
+        },
+        {
+            "text": "Albert",
+            "value": 1
+        },
+        {
+            "text": "folk",
+            "value": 1
+        },
+        {
+            "text": "fucking",
+            "value": 1
+        },
+        {
+            "text": "amazing",
+            "value": 1
+        },
+        {
+            "text": "Movement",
+            "value": 1
+        },
+        {
+            "text": "former",
+            "value": 1
+        },
+        {
+            "text": "Harry",
+            "value": 2
+        },
+        {
+            "text": "Potter",
+            "value": 2
+        },
+        {
+            "text": "themed",
+            "value": 1
+        },
+        {
+            "text": "Store",
+            "value": 2
+        },
+        {
+            "text": "Requirement",
+            "value": 2
+        },
+        {
+            "text": "Installation",
+            "value": 1
+        },
+        {
+            "text": "glimpse",
+            "value": 1
+        },
+        {
+            "text": "Dale",
+            "value": 1
+        },
+        {
+            "text": "Cox",
+            "value": 1
+        },
+        {
+            "text": "Retreat",
+            "value": 1
+        },
+        {
+            "text": "Australian",
+            "value": 1
+        },
+        {
+            "text": "Galleries",
+            "value": 1
+        },
+        {
+            "text": "Extroooooooooosion",
+            "value": 1
+        },
+        {
+            "text": "Darling",
+            "value": 3
+        },
+        {
+            "text": "Square",
+            "value": 3
+        },
+        {
+            "text": "know",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 1
+        },
+        {
+            "text": "parapet",
+            "value": 2
+        },
+        {
+            "text": "quirk",
+            "value": 1
+        },
+        {
+            "text": "roof",
+            "value": 1
+        },
+        {
+            "text": "flows",
+            "value": 1
+        },
+        {
+            "text": "arches",
+            "value": 1
+        },
+        {
+            "text": "Usually",
+            "value": 1
+        },
+        {
+            "text": "seen",
+            "value": 1
+        },
+        {
+            "text": "commercial",
+            "value": 1
+        },
+        {
+            "text": "buildings",
+            "value": 1
+        },
+        {
+            "text": "domestically",
+            "value": 1
+        },
+        {
+            "text": "usually",
+            "value": 1
+        },
+        {
+            "text": "pointless",
+            "value": 1
+        },
+        {
+            "text": "plaque",
+            "value": 1
+        },
+        {
+            "text": "Go",
+            "value": 1
+        },
+        {
+            "text": "ers",
+            "value": 1
+        },
+        {
+            "text": "neighbour",
+            "value": 1
+        },
+        {
+            "text": "gone",
+            "value": 1
+        },
+        {
+            "text": "redevelopment",
+            "value": 1
+        },
+        {
+            "text": "spectacular",
+            "value": 1
+        },
+        {
+            "text": "home",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 1
+        },
+        {
+            "text": "long",
+            "value": 1
+        },
+        {
+            "text": "given",
+            "value": 1
+        },
+        {
+            "text": "Powlett",
+            "value": 1
+        },
+        {
+            "text": "Reserve",
+            "value": 1
+        },
+        {
+            "text": "Attend",
+            "value": 1
+        },
+        {
+            "text": "Design",
+            "value": 1
+        },
+        {
+            "text": "Show",
+            "value": 1
+        },
+        {
+            "text": "earn",
+            "value": 1
+        },
+        {
+            "text": "CPD",
+            "value": 1
+        },
+        {
+            "text": "points",
+            "value": 1
+        },
+        {
+            "text": "career",
+            "value": 1
+        },
+        {
+            "text": "Nighttime",
+            "value": 1
+        },
+        {
+            "text": "daffodil",
+            "value": 2
+        },
+        {
+            "text": "game",
+            "value": 2
+        },
+        {
+            "text": "strong",
+            "value": 1
+        },
+        {
+            "text": "spring",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 1
+        },
+        {
+            "text": "photo",
+            "value": 1
+        },
+        {
+            "text": "Lib",
+            "value": 1
+        },
+        {
+            "text": "pub",
+            "value": 1
+        },
+        {
+            "text": "feed",
+            "value": 1
+        },
+        {
+            "text": "G",
+            "value": 1
+        },
+        {
+            "text": "Looking",
+            "value": 1
+        },
+        {
+            "text": "forward",
+            "value": 1
+        },
+        {
+            "text": "great",
+            "value": 1
+        },
+        {
+            "text": "Grovey",
+            "value": 1
+        },
+        {
+            "text": "avenue",
+            "value": 1
+        },
+        {
+            "text": "giving",
+            "value": 1
+        },
+        {
+            "text": "good",
             "value": 1
         }
     ]
