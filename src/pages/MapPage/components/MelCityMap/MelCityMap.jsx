@@ -31,7 +31,7 @@ import ListItemText from '@mui/material/ListItemText';
 import ListItemAvatar from '@mui/material/ListItemAvatar';
 import Divider from '@mui/material/Divider';
 import BusRouteLayer from './components/BusRouteLayer';
-import BicycleRouteLayer from './components/BicycleRoute';
+import BicycleRouteLayer from './components/BicycleRouteLayer';
 import BusMetroRouteLayer from './components/BusMetroRouteLayer';
 
 
