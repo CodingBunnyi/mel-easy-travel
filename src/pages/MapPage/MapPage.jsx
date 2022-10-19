@@ -1,5 +1,5 @@
 import React from 'react';
-import MelCityMap from './components/MelCityMap'
+import MelCityMap from './components/MelCityMap/MelCityMap'
 
 const MapPage = () => (
   <div>

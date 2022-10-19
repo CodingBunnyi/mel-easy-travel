@@ -48,7 +48,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 > 2. Create a python virtual environment at the backend folder:<br>
 > `python -m venv env` or `python3 -m venv env`
 > 3. Active the python virtual environment:<br>
-> `env\Scripts\activate`  
+> `source env\Scripts\activate`  
 > 4. Install the reqired python libraries:<br>
 > `pip install -r requirements.txt`
 > 5. Run backend server:<br>

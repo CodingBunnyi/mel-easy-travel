@@ -111,16 +111,6 @@ const App = () => {
     updatePageName();
   }, []);
 
-  useEffect(() => {
-    const getCurrentTwitterData= async () => {
-      const {status, data} = await getTwitterData();
-      if (status === 200) {
-        console.log(data)
-      }
-    }
-    getCurrentTwitterData();
-  }, []);
-
   return ( 
     <ThemeProvider theme={ mdTheme }>
       <Box sx={ { display: 'flex' } }>
