@@ -1,5 +1,5 @@
 {
-    "count": 8,
+    "count": 3,
     "data": [
         {
             "tid": 1581098795634667520,
@@ -44,81 +44,6 @@
             "place_type": "city",
             "longitude": 144.90422958,
             "latitude": -37.83300062,
-            "photo_urls": []
-        },
-        {
-            "tid": 1579696048586756096,
-            "uid": 18147028,
-            "author": "VicTraffic",
-            "time": "2022-10-11 04:51:01 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "West Gate Fwy  (M1), Port Melbourne - lanes closed outbound, Two right lanes closed outbound on the… https://t.co/13zp9av9t3 #victraffic",
-            "clean_text": "West Gate Fwy M1 Port Melbourne lanes closed outbound Two right lanes closed outbound on the",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.90432906,
-            "latitude": -37.83304148,
-            "photo_urls": []
-        },
-        {
-            "tid": 1577154053770862593,
-            "uid": 18147028,
-            "author": "VicTraffic",
-            "time": "2022-10-04 04:30:03 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "West Gate Fwy  (M1), Port Melbourne - lanes closed outbound, Two right lanes closed outbound on the… https://t.co/iRbGqckuZ4 #victraffic",
-            "clean_text": "West Gate Fwy M1 Port Melbourne lanes closed outbound Two right lanes closed outbound on the",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.90510013,
-            "latitude": -37.83332977,
-            "photo_urls": []
-        },
-        {
-            "tid": 1576663319196278784,
-            "uid": 18147028,
-            "author": "VicTraffic",
-            "time": "2022-10-02 20:00:02 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "West Gate Fwy  (M1), Port Melbourne - lanes closed outbound, Two left lanes are closed outbound on the… https://t.co/g4j6zIUlbS #victraffic",
-            "clean_text": "West Gate Fwy M1 Port Melbourne lanes closed outbound Two left lanes are closed outbound on the",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.90454188,
-            "latitude": -37.83312707,
-            "photo_urls": []
-        },
-        {
-            "tid": 1574606013600526336,
-            "uid": 18147028,
-            "author": "VicTraffic",
-            "time": "2022-09-27 03:45:03 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Cook St , Port Melbourne - lanes closed westbound, Far-left turn lane from Cook Street onto Todd Road… https://t.co/ELxH24tjN1 #victraffic",
-            "clean_text": "Cook St Port Melbourne lanes closed westbound Far left turn lane from Cook Street onto Todd Road",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.91227013,
-            "latitude": -37.83238021,
-            "photo_urls": []
-        },
-        {
-            "tid": 1571735598884605953,
-            "uid": 18147028,
-            "author": "VicTraffic",
-            "time": "2022-09-19 05:39:02 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "West Gate Fwy  (M1), Port Melbourne - lanes closed outbound, Two right lanes closed outbound on the… https://t.co/zflYxEL1oj #victraffic",
-            "clean_text": "West Gate Fwy M1 Port Melbourne lanes closed outbound Two right lanes closed outbound on the",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.90253911,
-            "latitude": -37.83215096,
             "photo_urls": []
         }
     ]

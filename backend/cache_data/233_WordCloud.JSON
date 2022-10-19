@@ -2,19 +2,19 @@
     "word_freq": [
         {
             "text": "posted",
-            "value": 14
+            "value": 4
         },
         {
             "text": "photo",
-            "value": 14
+            "value": 4
         },
         {
             "text": "Northside",
-            "value": 15
+            "value": 4
         },
         {
             "text": "Records",
-            "value": 15
+            "value": 4
         },
         {
             "text": "Prof",
@@ -54,7 +54,7 @@
         },
         {
             "text": "Australia",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Superstar",
@@ -86,7 +86,7 @@
         },
         {
             "text": "legend",
-            "value": 2
+            "value": 1
         },
         {
             "text": "person",
@@ -122,7 +122,7 @@
         },
         {
             "text": "Sunday",
-            "value": 3
+            "value": 2
         },
         {
             "text": "night",
@@ -186,31 +186,31 @@
         },
         {
             "text": "Archie's",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Day",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Gardens",
-            "value": 6
+            "value": 2
         },
         {
             "text": "essay",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Ellie",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Stathaki",
-            "value": 3
+            "value": 2
         },
         {
             "text": "DIA",
-            "value": 4
+            "value": 2
         },
         {
             "text": "fabulous",
@@ -222,7 +222,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 4
+            "value": 1
         },
         {
             "text": "rounded",
@@ -246,7 +246,7 @@
         },
         {
             "text": "favourite",
-            "value": 2
+            "value": 1
         },
         {
             "text": "bars",
@@ -266,7 +266,7 @@
         },
         {
             "text": "back",
-            "value": 5
+            "value": 3
         },
         {
             "text": "recovery",
@@ -286,11 +286,11 @@
         },
         {
             "text": "Strong",
-            "value": 4
+            "value": 1
         },
         {
             "text": "Zone",
-            "value": 4
+            "value": 1
         },
         {
             "text": "Friday",
@@ -306,7 +306,7 @@
         },
         {
             "text": "two",
-            "value": 3
+            "value": 2
         },
         {
             "text": "childhood",
@@ -326,7 +326,7 @@
         },
         {
             "text": "amp",
-            "value": 4
+            "value": 2
         },
         {
             "text": "mushrooms",
@@ -398,7 +398,7 @@
         },
         {
             "text": "St",
-            "value": 6
+            "value": 3
         },
         {
             "text": "Collingwood",
@@ -426,7 +426,7 @@
         },
         {
             "text": "Mollies",
-            "value": 2
+            "value": 1
         },
         {
             "text": "love",
@@ -506,7 +506,7 @@
         },
         {
             "text": "Fitzroy",
-            "value": 7
+            "value": 1
         },
         {
             "text": "Victoria",
@@ -534,7 +534,7 @@
         },
         {
             "text": "walk",
-            "value": 2
+            "value": 1
         },
         {
             "text": "sets",
@@ -546,838 +546,6 @@
         },
         {
             "text": "23sec",
-            "value": 1
-        },
-        {
-            "text": "That's",
-            "value": 1
-        },
-        {
-            "text": "nah",
-            "value": 1
-        },
-        {
-            "text": "ye",
-            "value": 1
-        },
-        {
-            "text": "make",
-            "value": 2
-        },
-        {
-            "text": "porridge",
-            "value": 1
-        },
-        {
-            "text": "err",
-            "value": 1
-        },
-        {
-            "text": "maybe",
-            "value": 1
-        },
-        {
-            "text": "sure",
-            "value": 1
-        },
-        {
-            "text": "Luke's",
-            "value": 1
-        },
-        {
-            "text": "Conformation",
-            "value": 1
-        },
-        {
-            "text": "Patrick's",
-            "value": 1
-        },
-        {
-            "text": "Cathedral",
-            "value": 3
-        },
-        {
-            "text": "Burger",
-            "value": 1
-        },
-        {
-            "text": "Masters",
-            "value": 1
-        },
-        {
-            "text": "bit",
-            "value": 1
-        },
-        {
-            "text": "development",
-            "value": 1
-        },
-        {
-            "text": "eroding",
-            "value": 1
-        },
-        {
-            "text": "corner",
-            "value": 1
-        },
-        {
-            "text": "Everything",
-            "value": 1
-        },
-        {
-            "text": "else",
-            "value": 1
-        },
-        {
-            "text": "clearly",
-            "value": 1
-        },
-        {
-            "text": "maximising",
-            "value": 1
-        },
-        {
-            "text": "footprint",
-            "value": 1
-        },
-        {
-            "text": "extrusion",
-            "value": 1
-        },
-        {
-            "text": "Breakfastlet",
-            "value": 1
-        },
-        {
-            "text": "en",
-            "value": 1
-        },
-        {
-            "text": "route",
-            "value": 1
-        },
-        {
-            "text": "Rose",
-            "value": 1
-        },
-        {
-            "text": "old",
-            "value": 1
-        },
-        {
-            "text": "flat",
-            "value": 1
-        },
-        {
-            "text": "warming",
-            "value": 1
-        },
-        {
-            "text": "Gabriel",
-            "value": 2
-        },
-        {
-            "text": "special",
-            "value": 2
-        },
-        {
-            "text": "ended",
-            "value": 1
-        },
-        {
-            "text": "3",
-            "value": 1
-        },
-        {
-            "text": "times",
-            "value": 1
-        },
-        {
-            "text": "days",
-            "value": 1
-        },
-        {
-            "text": "Slowly",
-            "value": 1
-        },
-        {
-            "text": "recovering",
-            "value": 1
-        },
-        {
-            "text": "bad",
-            "value": 1
-        },
-        {
-            "text": "stretching",
-            "value": 1
-        },
-        {
-            "text": "limbering",
-            "value": 1
-        },
-        {
-            "text": "baby",
-            "value": 1
-        },
-        {
-            "text": "lifts",
-            "value": 1
-        },
-        {
-            "text": "Men",
-            "value": 1
-        },
-        {
-            "text": "Rosary",
-            "value": 1
-        },
-        {
-            "text": "Crusade",
-            "value": 1
-        },
-        {
-            "text": "opposite",
-            "value": 1
-        },
-        {
-            "text": "Patrick",
-            "value": 1
-        },
-        {
-            "text": "October",
-            "value": 1
-        },
-        {
-            "text": "7",
-            "value": 1
-        },
-        {
-            "text": "2022",
-            "value": 7
-        },
-        {
-            "text": "Wow",
-            "value": 1
-        },
-        {
-            "text": "20",
-            "value": 2
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "funk",
-            "value": 1
-        },
-        {
-            "text": "come",
-            "value": 1
-        },
-        {
-            "text": "Lansdowne",
-            "value": 1
-        },
-        {
-            "text": "East",
-            "value": 1
-        },
-        {
-            "text": "lanes",
-            "value": 1
-        },
-        {
-            "text": "closed",
-            "value": 2
-        },
-        {
-            "text": "northbound",
-            "value": 2
-        },
-        {
-            "text": "Right",
-            "value": 1
-        },
-        {
-            "text": "lane",
-            "value": 1
-        },
-        {
-            "text": "Albert",
-            "value": 1
-        },
-        {
-            "text": "folk",
-            "value": 1
-        },
-        {
-            "text": "fucking",
-            "value": 1
-        },
-        {
-            "text": "amazing",
-            "value": 1
-        },
-        {
-            "text": "Movement",
-            "value": 1
-        },
-        {
-            "text": "former",
-            "value": 1
-        },
-        {
-            "text": "Harry",
-            "value": 2
-        },
-        {
-            "text": "Potter",
-            "value": 2
-        },
-        {
-            "text": "themed",
-            "value": 1
-        },
-        {
-            "text": "Store",
-            "value": 2
-        },
-        {
-            "text": "Requirement",
-            "value": 2
-        },
-        {
-            "text": "Made",
-            "value": 1
-        },
-        {
-            "text": "lovely",
-            "value": 1
-        },
-        {
-            "text": "new",
-            "value": 2
-        },
-        {
-            "text": "friend",
-            "value": 1
-        },
-        {
-            "text": "Mollie's",
-            "value": 1
-        },
-        {
-            "text": "Bar",
-            "value": 1
-        },
-        {
-            "text": "Diner",
-            "value": 1
-        },
-        {
-            "text": "hood",
-            "value": 1
-        },
-        {
-            "text": "Pubcha",
-            "value": 1
-        },
-        {
-            "text": "Installation",
-            "value": 1
-        },
-        {
-            "text": "glimpse",
-            "value": 1
-        },
-        {
-            "text": "Dale",
-            "value": 1
-        },
-        {
-            "text": "Cox",
-            "value": 1
-        },
-        {
-            "text": "Retreat",
-            "value": 1
-        },
-        {
-            "text": "Australian",
-            "value": 2
-        },
-        {
-            "text": "Galleries",
-            "value": 1
-        },
-        {
-            "text": "Inclusivity",
-            "value": 1
-        },
-        {
-            "text": "visit",
-            "value": 1
-        },
-        {
-            "text": "local",
-            "value": 1
-        },
-        {
-            "text": "hip",
-            "value": 1
-        },
-        {
-            "text": "hop",
-            "value": 1
-        },
-        {
-            "text": "drops",
-            "value": 1
-        },
-        {
-            "text": "11th",
-            "value": 1
-        },
-        {
-            "text": "LP",
-            "value": 1
-        },
-        {
-            "text": "LIFE",
-            "value": 1
-        },
-        {
-            "text": "DEATH",
-            "value": 1
-        },
-        {
-            "text": "TRUTH",
-            "value": 1
-        },
-        {
-            "text": "2",
-            "value": 1
-        },
-        {
-            "text": "limited",
-            "value": 1
-        },
-        {
-            "text": "SIGNED",
-            "value": 1
-        },
-        {
-            "text": "load",
-            "value": 1
-        },
-        {
-            "text": "lp",
-            "value": 1
-        },
-        {
-            "text": "pressed",
-            "value": 1
-        },
-        {
-            "text": "order",
-            "value": 1
-        },
-        {
-            "text": "get",
-            "value": 1
-        },
-        {
-            "text": "fast",
-            "value": 1
-        },
-        {
-            "text": "Everleigh",
-            "value": 1
-        },
-        {
-            "text": "cinematic",
-            "value": 1
-        },
-        {
-            "text": "instrumental",
-            "value": 1
-        },
-        {
-            "text": "soul",
-            "value": 1
-        },
-        {
-            "text": "record",
-            "value": 1
-        },
-        {
-            "text": "without",
-            "value": 1
-        },
-        {
-            "text": "massive",
-            "value": 1
-        },
-        {
-            "text": "sword",
-            "value": 1
-        },
-        {
-            "text": "IRL",
-            "value": 1
-        },
-        {
-            "text": "cantripsmusic",
-            "value": 1
-        },
-        {
-            "text": "real",
-            "value": 1
-        },
-        {
-            "text": "Back",
-            "value": 1
-        },
-        {
-            "text": "stock",
-            "value": 1
-        },
-        {
-            "text": "rack",
-            "value": 1
-        },
-        {
-            "text": "Local",
-            "value": 1
-        },
-        {
-            "text": "heat",
-            "value": 1
-        },
-        {
-            "text": "honestly",
-            "value": 1
-        },
-        {
-            "text": "always",
-            "value": 2
-        },
-        {
-            "text": "thought",
-            "value": 1
-        },
-        {
-            "text": "disco",
-            "value": 2
-        },
-        {
-            "text": "balls",
-            "value": 1
-        },
-        {
-            "text": "solid",
-            "value": 1
-        },
-        {
-            "text": "looked",
-            "value": 1
-        },
-        {
-            "text": "like",
-            "value": 1
-        },
-        {
-            "text": "really",
-            "value": 1
-        },
-        {
-            "text": "heavy",
-            "value": 1
-        },
-        {
-            "text": "Attend",
-            "value": 1
-        },
-        {
-            "text": "Design",
-            "value": 1
-        },
-        {
-            "text": "Show",
-            "value": 1
-        },
-        {
-            "text": "earn",
-            "value": 1
-        },
-        {
-            "text": "CPD",
-            "value": 1
-        },
-        {
-            "text": "points",
-            "value": 1
-        },
-        {
-            "text": "career",
-            "value": 1
-        },
-        {
-            "text": "shirt",
-            "value": 1
-        },
-        {
-            "text": "screams",
-            "value": 1
-        },
-        {
-            "text": "never",
-            "value": 1
-        },
-        {
-            "text": "grew",
-            "value": 1
-        },
-        {
-            "text": "emo",
-            "value": 1
-        },
-        {
-            "text": "phase",
-            "value": 1
-        },
-        {
-            "text": "Noise",
-            "value": 1
-        },
-        {
-            "text": "cancelling",
-            "value": 1
-        },
-        {
-            "text": "headphones",
-            "value": 1
-        },
-        {
-            "text": "silent",
-            "value": 1
-        },
-        {
-            "text": "Pickle",
-            "value": 1
-        },
-        {
-            "text": "beer",
-            "value": 1
-        },
-        {
-            "text": "repulsive",
-            "value": 1
-        },
-        {
-            "text": "things",
-            "value": 1
-        },
-        {
-            "text": "combined",
-            "value": 1
-        },
-        {
-            "text": "Truly",
-            "value": 1
-        },
-        {
-            "text": "Halloween",
-            "value": 1
-        },
-        {
-            "text": "horror",
-            "value": 1
-        },
-        {
-            "text": "pictured",
-            "value": 1
-        },
-        {
-            "text": "Smith",
-            "value": 1
-        },
-        {
-            "text": "Street",
-            "value": 1
-        },
-        {
-            "text": "Nighttime",
-            "value": 1
-        },
-        {
-            "text": "daffodil",
-            "value": 2
-        },
-        {
-            "text": "game",
-            "value": 2
-        },
-        {
-            "text": "strong",
-            "value": 1
-        },
-        {
-            "text": "spring",
-            "value": 1
-        },
-        {
-            "text": "Lib",
-            "value": 1
-        },
-        {
-            "text": "pub",
-            "value": 1
-        },
-        {
-            "text": "feed",
-            "value": 1
-        },
-        {
-            "text": "G",
-            "value": 1
-        },
-        {
-            "text": "Looking",
-            "value": 1
-        },
-        {
-            "text": "forward",
-            "value": 1
-        },
-        {
-            "text": "great",
-            "value": 1
-        },
-        {
-            "text": "getting",
-            "value": 1
-        },
-        {
-            "text": "laser",
-            "value": 1
-        },
-        {
-            "text": "eye",
-            "value": 1
-        },
-        {
-            "text": "surgery",
-            "value": 1
-        },
-        {
-            "text": "Evening",
-            "value": 1
-        },
-        {
-            "text": "Hall",
-            "value": 1
-        },
-        {
-            "text": "Catholic",
-            "value": 1
-        },
-        {
-            "text": "University",
-            "value": 1
-        },
-        {
-            "text": "Grovey",
-            "value": 1
-        },
-        {
-            "text": "avenue",
-            "value": 1
-        },
-        {
-            "text": "giving",
-            "value": 1
-        },
-        {
-            "text": "good",
-            "value": 1
-        },
-        {
-            "text": "Yeah",
-            "value": 1
-        },
-        {
-            "text": "probably",
-            "value": 1
-        },
-        {
-            "text": "brought",
-            "value": 1
-        },
-        {
-            "text": "lunch",
-            "value": 1
-        },
-        {
-            "text": "Publicize",
-            "value": 6
-        },
-        {
-            "text": "Test",
-            "value": 6
-        },
-        {
-            "text": "09",
-            "value": 6
-        },
-        {
-            "text": "20T14",
-            "value": 4
-        },
-        {
-            "text": "52",
-            "value": 1
-        },
-        {
-            "text": "02",
-            "value": 1
-        },
-        {
-            "text": "00",
-            "value": 12
-        },
-        {
-            "text": "44",
-            "value": 2
-        },
-        {
-            "text": "28",
-            "value": 2
-        },
-        {
-            "text": "13",
-            "value": 1
-        },
-        {
-            "text": "43",
-            "value": 1
-        },
-        {
-            "text": "50",
-            "value": 1
-        },
-        {
-            "text": "19T09",
-            "value": 2
-        },
-        {
-            "text": "55",
-            "value": 2
-        },
-        {
-            "text": "19",
             "value": 1
         }
     ]

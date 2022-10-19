@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 2,
     "data": [
         {
             "tid": 1580871759829827584,
@@ -30,40 +30,6 @@
             "longitude": 144.92973,
             "latitude": -37.7884,
             "photo_urls": []
-        },
-        {
-            "tid": 1577922082822053888,
-            "uid": 588691911,
-            "author": "Prof. Gavin Reid",
-            "time": "2022-10-06 07:21:55 +0000",
-            "like_no": 20,
-            "language": "en",
-            "text": "I got the tram home from work today and there was only me and one old bloke wearing a mask. Then I sadly realised, there are two old blokes wearing masks on the tram… https://t.co/TemhlGrVTD",
-            "clean_text": "I got the tram home from work today and there was only me and one old bloke wearing a mask Then I sadly realised there are two old blokes wearing masks on the tram",
-            "place_name": "Flemington, Melbourne",
-            "place_type": "neighborhood",
-            "longitude": 144.92143188,
-            "latitude": -37.78727301,
-            "photo_urls": [
-                "https://pbs.twimg.com/tweet_video_thumb/FeXnw-GakAEru3L.jpg"
-            ]
-        },
-        {
-            "tid": 1572815244891942912,
-            "uid": 1585876842,
-            "author": "Adam Murphy",
-            "time": "2022-09-22 05:09:10 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Is this E-Class a little lost? https://t.co/aarIebJkho",
-            "clean_text": "Is this E Class a little lost",
-            "place_name": "Flemington, Melbourne",
-            "place_type": "neighborhood",
-            "longitude": 144.92143188,
-            "latitude": -37.78727301,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FdPDIEmacAAeKj9.jpg"
-            ]
         }
     ]
 }

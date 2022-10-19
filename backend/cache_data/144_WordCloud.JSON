@@ -2,223 +2,23 @@
     "word_freq": [
         {
             "text": "Daily",
-            "value": 16
+            "value": 7
         },
         {
             "text": "walk",
-            "value": 16
+            "value": 7
         },
         {
             "text": "Royal",
-            "value": 36
+            "value": 14
         },
         {
             "text": "Park",
-            "value": 33
+            "value": 14
         },
         {
             "text": "Melbourne",
-            "value": 19
-        },
-        {
-            "text": "Pink",
-            "value": 1
-        },
-        {
-            "text": "flowers",
-            "value": 1
-        },
-        {
-            "text": "turning",
-            "value": 1
-        },
-        {
-            "text": "yellow",
-            "value": 1
-        },
-        {
-            "text": "green",
-            "value": 1
-        },
-        {
-            "text": "leaves",
-            "value": 1
-        },
-        {
-            "text": "beautiful",
-            "value": 1
-        },
-        {
-            "text": "spring",
-            "value": 1
-        },
-        {
-            "text": "2022",
-            "value": 1
-        },
-        {
-            "text": "I'm",
-            "value": 1
-        },
-        {
-            "text": "Australian",
-            "value": 1
-        },
-        {
-            "text": "Native",
-            "value": 1
-        },
-        {
-            "text": "Garden",
-            "value": 1
-        },
-        {
-            "text": "Parkville",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 2
-        },
-        {
-            "text": "photo",
-            "value": 2
-        },
-        {
-            "text": "Children's",
-            "value": 3
-        },
-        {
-            "text": "Hospital",
-            "value": 3
-        },
-        {
-            "text": "Visitors",
-            "value": 1
-        },
-        {
-            "text": "welcome",
-            "value": 1
-        },
-        {
-            "text": "Kelpie",
-            "value": 1
-        },
-        {
-            "text": "ward",
-            "value": 2
-        },
-        {
-            "text": "PM",
-            "value": 1
-        },
-        {
-            "text": "wish",
-            "value": 1
-        },
-        {
-            "text": "see",
-            "value": 1
-        },
-        {
-            "text": "us",
-            "value": 1
-        },
-        {
-            "text": "let",
-            "value": 1
-        },
-        {
-            "text": "u",
-            "value": 1
-        },
-        {
-            "text": "know",
-            "value": 1
-        },
-        {
-            "text": "RMHC",
-            "value": 1
-        },
-        {
-            "text": "DUCKIES",
-            "value": 1
-        },
-        {
-            "text": "Perfectly",
-            "value": 1
-        },
-        {
-            "text": "wonderful",
-            "value": 1
-        },
-        {
-            "text": "afternoon",
-            "value": 1
-        },
-        {
-            "text": "team",
-            "value": 2
-        },
-        {
-            "text": "based",
-            "value": 1
-        },
-        {
-            "text": "MTP",
-            "value": 1
-        },
-        {
-            "text": "visually",
-            "value": 1
-        },
-        {
-            "text": "enhanced",
-            "value": 1
-        },
-        {
-            "text": "mental",
-            "value": 1
-        },
-        {
-            "text": "simulation",
-            "value": 1
-        },
-        {
-            "text": "international",
-            "value": 1
-        },
-        {
-            "text": "Huge",
-            "value": 1
-        },
-        {
-            "text": "thanks",
-            "value": 1
-        },
-        {
-            "text": "Gandel",
-            "value": 1
-        },
-        {
-            "text": "Sim",
-            "value": 1
-        },
-        {
-            "text": "Service",
-            "value": 1
-        },
-        {
-            "text": "members",
-            "value": 1
-        },
-        {
-            "text": "integral",
-            "value": 1
-        },
-        {
-            "text": "contributions",
-            "value": 1
+            "value": 7
         }
     ]
 }

@@ -46,7 +46,7 @@
         },
         {
             "text": "Australia",
-            "value": 2
+            "value": 1
         },
         {
             "text": "day",
@@ -190,14 +190,6 @@
         },
         {
             "text": "quiz",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
             "value": 1
         }
     ]

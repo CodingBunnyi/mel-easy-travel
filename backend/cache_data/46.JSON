@@ -1,5 +1,5 @@
 {
-    "count": 20,
+    "count": 14,
     "data": [
         {
             "tid": 1581978925231525888,
@@ -220,104 +220,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfAwoPfUoAA1jJq.jpg"
             ]
-        },
-        {
-            "tid": 1575302064799772672,
-            "uid": 1100583204094767104,
-            "author": "ARC Centre for Fragment-Based Design",
-            "time": "2022-09-29 01:50:54 +0000",
-            "like_no": 16,
-            "language": "en",
-            "text": "Happening now: FBDD DU 2022 with brilliant speakers and a very engaged audience. Full house @MIPS_Australia looking forward to more talks form @Mirati @Mahta__Mansouri @YildizTasdan @GriffithHack https://t.co/eguNfx12kc",
-            "clean_text": "Happening now FBDD DU 2022 with brilliant speakers and a very engaged audience Full house looking forward to more talks form",
-            "place_name": "Monash University Parkville Campus",
-            "place_type": "poi",
-            "longitude": 144.95885775875317,
-            "latitude": -37.784020309884475,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FdyY4DYVQAEGgQy.jpg"
-            ]
-        },
-        {
-            "tid": 1573244528576040961,
-            "uid": 704118935633788928,
-            "author": "Tahlia Sinclair",
-            "time": "2022-09-23 09:34:59 +0000",
-            "like_no": 4,
-            "language": "en",
-            "text": "Last one for the night 🥰 https://t.co/juBbyFJ5Gk",
-            "clean_text": "Last one for the night",
-            "place_name": "Ikon Park",
-            "place_type": "poi",
-            "longitude": 144.96072378194083,
-            "latitude": -37.78371115478841,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FdVJikwUcAA6UGg.jpg"
-            ]
-        },
-        {
-            "tid": 1573237218398838784,
-            "uid": 112291162,
-            "author": "Shaun Dux",
-            "time": "2022-09-23 09:05:56 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Here Again. This time it’s AFLW. Carlton Vs Melbourne (@ Ikon Park - @carlton_fc for 2022 NAB AFLW Season 7 - Carlton v Melbourne in Carlton North, VIC) https://t.co/gZ3A4vkAux",
-            "clean_text": "Here Again This time it s AFLW Carlton Vs Melbourne Ikon Park for 2022 NAB AFLW Season 7 Carlton v Melbourne in Carlton North VIC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.96072378,
-            "latitude": -37.78371115,
-            "photo_urls": []
-        },
-        {
-            "tid": 1573219511884718080,
-            "uid": 1163616003164475393,
-            "author": "Carlton Women's",
-            "time": "2022-09-23 07:55:35 +0000",
-            "like_no": 36,
-            "language": "en",
-            "text": "Friday night lights. https://t.co/oZLLeOheKK",
-            "clean_text": "Friday night lights",
-            "place_name": "Ikon Park",
-            "place_type": "poi",
-            "longitude": 144.96072378194083,
-            "latitude": -37.78371115478841,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FdUyzViaIAAUF78.jpg"
-            ]
-        },
-        {
-            "tid": 1572109198670041088,
-            "uid": 1019813919311912960,
-            "author": "Dr Cassandra Hatzipantelis",
-            "time": "2022-09-20 06:23:35 +0000",
-            "like_no": 87,
-            "language": "en",
-            "text": "Today was my last day @MIPS_Australia... I've walked through these buildings every day for the last 9 years and it's so bittersweet to walk them one last time 🥺 \n\nThank you everybody @MonashPharm @MIPS_DDB for making my second home a joy to be at, I'll miss you all dearly ❤️ https://t.co/OiY4WHAE1J",
-            "clean_text": "Today was my last day I've walked through these buildings every day for the last 9 years and it's so bittersweet to walk them one last time Thank you everybody for making my second home a joy to be at I'll miss you all dearly",
-            "place_name": "Monash University Parkville Campus",
-            "place_type": "poi",
-            "longitude": 144.95885775875317,
-            "latitude": -37.784020309884475,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FdFA9pbaAAATAN_.jpg"
-            ]
-        },
-        {
-            "tid": 1571795931275591681,
-            "uid": 421599151,
-            "author": "mick aldridge",
-            "time": "2022-09-19 09:38:47 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "@southportsharksafl #greatseason @ Princes Park https://t.co/PoWkK1LNjI",
-            "clean_text": "southportsharksafl Princes Park",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.961667,
-            "latitude": -37.783889,
-            "photo_urls": []
         }
     ]
 }

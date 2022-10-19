@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 2,
     "data": [
         {
             "tid": 1580871759829827584,
@@ -30,38 +30,6 @@
             "longitude": 144.92973,
             "latitude": -37.7884,
             "photo_urls": []
-        },
-        {
-            "tid": 1576343570470285313,
-            "uid": 1338600991948607489,
-            "author": "Eureka (Michael O'Hanlon)",
-            "time": "2022-10-01 22:49:28 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ Flemington, Victoria https://t.co/Lx3H8c8LTz",
-            "clean_text": "Just posted a photo Flemington Victoria",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.932,
-            "latitude": -37.7883,
-            "photo_urls": []
-        },
-        {
-            "tid": 1572094946383114240,
-            "uid": 52994513,
-            "author": "VCOSS",
-            "time": "2022-09-20 05:26:57 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "It was great to have @DannyPearsonMP help us launch our 'Voices of Victoria' report, building on a six-month 'Listening Tour' of communities.\n\nThis is a comprehensive study of how people feel—and what they want—after years of COVID stress and hardship.\n\n📚https://t.co/6CrnkvlcRS https://t.co/02kFTZLN7y",
-            "clean_text": "It was great to have help us launch our 'Voices of Victoria' report building on a six month 'Listening Tour' of communities This is a comprehensive study of how people feel and what they want after years of COVID stress and hardship",
-            "place_name": "Flemington",
-            "place_type": "poi",
-            "longitude": 144.9310067775177,
-            "latitude": -37.787676469359795,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FdEyDYzakAAf_j2.jpg"
-            ]
         }
     ]
 }

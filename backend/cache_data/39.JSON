@@ -1,5 +1,5 @@
 {
-    "count": 10,
+    "count": 3,
     "data": [
         {
             "tid": 1582177635026640896,
@@ -49,119 +49,6 @@
             "latitude": -37.78523755122001,
             "photo_urls": [
                 "https://pbs.twimg.com/media/Fe72dqXVQAEav02.jpg"
-            ]
-        },
-        {
-            "tid": 1578296830357491712,
-            "uid": 35377079,
-            "author": "Matt Berriman",
-            "time": "2022-10-07 08:11:02 +0000",
-            "like_no": 9,
-            "language": "en",
-            "text": "Game time. @MegBerriman @hockeyvictoria https://t.co/Actc7kJ94b",
-            "clean_text": "Game time",
-            "place_name": "State Netball Hockey Centre",
-            "place_type": "poi",
-            "longitude": 144.94758183750625,
-            "latitude": -37.78523755122001,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fec8mLpUAAEPQOY.jpg"
-            ]
-        },
-        {
-            "tid": 1577967625149227011,
-            "uid": 137611265,
-            "author": "Andrew Howard",
-            "time": "2022-10-06 10:22:53 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Closed paths, missing animals, sleeping silverbacks but we couldn’t wipe the smile off #LauraEleanor at @melbourne_zoo today @ Royal Melbourne Zoological Gardens https://t.co/602WK1I6ik",
-            "clean_text": "Closed paths missing animals sleeping silverbacks but we couldn t wipe the smile off at melbourne zoo today Royal Melbourne Zoological Gardens",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95201471,
-            "latitude": -37.78417984,
-            "photo_urls": []
-        },
-        {
-            "tid": 1577558077410521089,
-            "uid": 285513608,
-            "author": "APS Sport",
-            "time": "2022-10-05 07:15:29 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ Netball Victoria https://t.co/fvm4SCb6WX",
-            "clean_text": "Just posted a photo Netball Victoria",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.94661,
-            "latitude": -37.78539,
-            "photo_urls": []
-        },
-        {
-            "tid": 1576391785248854017,
-            "uid": 1677882787,
-            "author": "Carli Saw",
-            "time": "2022-10-02 02:01:04 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Hanging with the Meerkats while I wait for Mr 15 to finish his zoo keeper program. Already brought all of IKEA and Kmart so used my alone time wisely! https://t.co/ubtI74DIdG",
-            "clean_text": "Hanging with the Meerkats while I wait for Mr 15 to finish his zoo keeper program Already brought all of IKEA and Kmart so used my alone time wisely",
-            "place_name": "Melbourne Zoo",
-            "place_type": "poi",
-            "longitude": 144.95258331298828,
-            "latitude": -37.78452019757323,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FeB3-DCaUAAbex7.jpg"
-            ]
-        },
-        {
-            "tid": 1576142256809074690,
-            "uid": 711236422,
-            "author": "Danah alraqum",
-            "time": "2022-10-01 09:29:31 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.\n\n#Australia #honymoon #zoo #butterfly  #محميه_فراشات #استراليه #حديقه_حيونات  #melbournezoo @ Melbourne Zoo https://t.co/ufHGc7fVL6",
-            "clean_text": "Be who you are and say what you feel because those who mind don't matter and those who matter don't mind Melbourne Zoo",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9514939,
-            "latitude": -37.78289976,
-            "photo_urls": []
-        },
-        {
-            "tid": 1572469922034495488,
-            "uid": 498813703,
-            "author": "Michelle Crawford (She/Her) 💁🏻‍♀️",
-            "time": "2022-09-21 06:16:59 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "@ConcernAust Staff Day! So grateful for this time together to meet in person and for all this group does to bring hope to the lives of young people. It’s great to reflect, but even better to think about what lies ahead … https://t.co/I8RocgSz2s",
-            "clean_text": "Staff Day So grateful for this time together to meet in person and for all this group does to bring hope to the lives of young people It s great to reflect but even better to think about what lies ahead",
-            "place_name": "Melbourne Zoo",
-            "place_type": "poi",
-            "longitude": 144.95258331298828,
-            "latitude": -37.78452019757323,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FdKJDZwacAIaoTU.jpg"
-            ]
-        },
-        {
-            "tid": 1572120286656606211,
-            "uid": 125966823,
-            "author": "Dr Bec Szabo",
-            "time": "2022-09-20 07:07:39 +0000",
-            "like_no": 13,
-            "language": "en",
-            "text": "Perfectly wonderful afternoon of team based MTP visually enhanced mental simulation @thewomens with @DrPatCFTan before an international ✈️ Huge thanks to @thewomens @UniMelbMDHS Gandel Sim Service team members @ergopropterdoc @miekefoster for their integral contributions 🙏🏽 https://t.co/bVkt4L6m8M",
-            "clean_text": "Perfectly wonderful afternoon of team based MTP visually enhanced mental simulation with before an international Huge thanks to Gandel Sim Service team members for their integral contributions",
-            "place_name": "Parkville, Melbourne",
-            "place_type": "neighborhood",
-            "longitude": 144.95077314000002,
-            "latitude": -37.787121495,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FdFLEFgaUAAmI9K.jpg"
             ]
         }
     ]

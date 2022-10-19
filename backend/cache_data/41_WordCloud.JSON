@@ -1,20 +1,3 @@
 {
-    "word_freq": [
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "Port",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 1
-        }
-    ]
+    "word_freq": []
 }

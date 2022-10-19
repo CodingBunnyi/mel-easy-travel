@@ -30,7 +30,7 @@
         },
         {
             "text": "Two",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Ton",
@@ -51,34 +51,6 @@
         {
             "text": "going",
             "value": 1
-        },
-        {
-            "text": "Citylink",
-            "value": 1
-        },
-        {
-            "text": "M2",
-            "value": 1
-        },
-        {
-            "text": "North",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 1
-        },
-        {
-            "text": "lanes",
-            "value": 2
-        },
-        {
-            "text": "closed",
-            "value": 2
-        },
-        {
-            "text": "outbound",
-            "value": 2
         }
     ]
 }

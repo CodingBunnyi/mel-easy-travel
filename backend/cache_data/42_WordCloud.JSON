@@ -2,7 +2,7 @@
     "word_freq": [
         {
             "text": "Full",
-            "value": 2
+            "value": 1
         },
         {
             "text": "tourists",
@@ -10,15 +10,15 @@
         },
         {
             "text": "today",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Melbourne",
-            "value": 5
+            "value": 1
         },
         {
             "text": "Zoo",
-            "value": 2
+            "value": 1
         },
         {
             "text": "029",
@@ -34,11 +34,11 @@
         },
         {
             "text": "Princes",
-            "value": 10
+            "value": 9
         },
         {
             "text": "Park",
-            "value": 11
+            "value": 9
         },
         {
             "text": "iPhone",
@@ -74,7 +74,7 @@
         },
         {
             "text": "one",
-            "value": 4
+            "value": 2
         },
         {
             "text": "put",
@@ -122,7 +122,7 @@
         },
         {
             "text": "AFLW",
-            "value": 4
+            "value": 2
         },
         {
             "text": "football",
@@ -154,11 +154,11 @@
         },
         {
             "text": "reflect",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Today",
-            "value": 2
+            "value": 1
         },
         {
             "text": "genuinely",
@@ -182,7 +182,7 @@
         },
         {
             "text": "people",
-            "value": 2
+            "value": 1
         },
         {
             "text": "marquee",
@@ -214,7 +214,7 @@
         },
         {
             "text": "15",
-            "value": 3
+            "value": 2
         },
         {
             "text": "October",
@@ -222,7 +222,7 @@
         },
         {
             "text": "2022",
-            "value": 4
+            "value": 2
         },
         {
             "text": "ESSENDON",
@@ -274,382 +274,6 @@
         },
         {
             "text": "AHHHHHHHHH",
-            "value": 1
-        },
-        {
-            "text": "Closed",
-            "value": 1
-        },
-        {
-            "text": "paths",
-            "value": 1
-        },
-        {
-            "text": "missing",
-            "value": 1
-        },
-        {
-            "text": "animals",
-            "value": 1
-        },
-        {
-            "text": "sleeping",
-            "value": 1
-        },
-        {
-            "text": "silverbacks",
-            "value": 1
-        },
-        {
-            "text": "wipe",
-            "value": 1
-        },
-        {
-            "text": "smile",
-            "value": 1
-        },
-        {
-            "text": "melbourne",
-            "value": 1
-        },
-        {
-            "text": "zoo",
-            "value": 2
-        },
-        {
-            "text": "Royal",
-            "value": 1
-        },
-        {
-            "text": "Zoological",
-            "value": 1
-        },
-        {
-            "text": "Gardens",
-            "value": 1
-        },
-        {
-            "text": "Hanging",
-            "value": 1
-        },
-        {
-            "text": "Meerkats",
-            "value": 1
-        },
-        {
-            "text": "wait",
-            "value": 1
-        },
-        {
-            "text": "Mr",
-            "value": 1
-        },
-        {
-            "text": "finish",
-            "value": 1
-        },
-        {
-            "text": "keeper",
-            "value": 1
-        },
-        {
-            "text": "program",
-            "value": 1
-        },
-        {
-            "text": "Already",
-            "value": 1
-        },
-        {
-            "text": "brought",
-            "value": 1
-        },
-        {
-            "text": "IKEA",
-            "value": 1
-        },
-        {
-            "text": "Kmart",
-            "value": 1
-        },
-        {
-            "text": "used",
-            "value": 1
-        },
-        {
-            "text": "alone",
-            "value": 1
-        },
-        {
-            "text": "time",
-            "value": 4
-        },
-        {
-            "text": "wisely",
-            "value": 1
-        },
-        {
-            "text": "say",
-            "value": 1
-        },
-        {
-            "text": "feel",
-            "value": 1
-        },
-        {
-            "text": "mind",
-            "value": 2
-        },
-        {
-            "text": "matter",
-            "value": 2
-        },
-        {
-            "text": "Happening",
-            "value": 1
-        },
-        {
-            "text": "FBDD",
-            "value": 1
-        },
-        {
-            "text": "DU",
-            "value": 1
-        },
-        {
-            "text": "brilliant",
-            "value": 1
-        },
-        {
-            "text": "speakers",
-            "value": 1
-        },
-        {
-            "text": "engaged",
-            "value": 1
-        },
-        {
-            "text": "audience",
-            "value": 1
-        },
-        {
-            "text": "house",
-            "value": 1
-        },
-        {
-            "text": "looking",
-            "value": 1
-        },
-        {
-            "text": "forward",
-            "value": 1
-        },
-        {
-            "text": "talks",
-            "value": 1
-        },
-        {
-            "text": "form",
-            "value": 1
-        },
-        {
-            "text": "Last",
-            "value": 1
-        },
-        {
-            "text": "night",
-            "value": 2
-        },
-        {
-            "text": "Carlton",
-            "value": 3
-        },
-        {
-            "text": "Vs",
-            "value": 1
-        },
-        {
-            "text": "Ikon",
-            "value": 1
-        },
-        {
-            "text": "NAB",
-            "value": 1
-        },
-        {
-            "text": "Season",
-            "value": 1
-        },
-        {
-            "text": "7",
-            "value": 1
-        },
-        {
-            "text": "v",
-            "value": 1
-        },
-        {
-            "text": "North",
-            "value": 1
-        },
-        {
-            "text": "VIC",
-            "value": 1
-        },
-        {
-            "text": "Friday",
-            "value": 1
-        },
-        {
-            "text": "lights",
-            "value": 1
-        },
-        {
-            "text": "Staff",
-            "value": 1
-        },
-        {
-            "text": "Day",
-            "value": 1
-        },
-        {
-            "text": "grateful",
-            "value": 1
-        },
-        {
-            "text": "together",
-            "value": 1
-        },
-        {
-            "text": "meet",
-            "value": 1
-        },
-        {
-            "text": "person",
-            "value": 1
-        },
-        {
-            "text": "group",
-            "value": 1
-        },
-        {
-            "text": "bring",
-            "value": 1
-        },
-        {
-            "text": "hope",
-            "value": 1
-        },
-        {
-            "text": "lives",
-            "value": 1
-        },
-        {
-            "text": "young",
-            "value": 1
-        },
-        {
-            "text": "great",
-            "value": 1
-        },
-        {
-            "text": "even",
-            "value": 1
-        },
-        {
-            "text": "better",
-            "value": 1
-        },
-        {
-            "text": "think",
-            "value": 1
-        },
-        {
-            "text": "lies",
-            "value": 1
-        },
-        {
-            "text": "ahead",
-            "value": 1
-        },
-        {
-            "text": "last",
-            "value": 3
-        },
-        {
-            "text": "day",
-            "value": 2
-        },
-        {
-            "text": "I've",
-            "value": 1
-        },
-        {
-            "text": "walked",
-            "value": 1
-        },
-        {
-            "text": "buildings",
-            "value": 1
-        },
-        {
-            "text": "every",
-            "value": 1
-        },
-        {
-            "text": "9",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "bittersweet",
-            "value": 1
-        },
-        {
-            "text": "walk",
-            "value": 1
-        },
-        {
-            "text": "Thank",
-            "value": 1
-        },
-        {
-            "text": "everybody",
-            "value": 1
-        },
-        {
-            "text": "making",
-            "value": 1
-        },
-        {
-            "text": "second",
-            "value": 1
-        },
-        {
-            "text": "home",
-            "value": 1
-        },
-        {
-            "text": "joy",
-            "value": 1
-        },
-        {
-            "text": "I'll",
-            "value": 1
-        },
-        {
-            "text": "miss",
-            "value": 1
-        },
-        {
-            "text": "dearly",
-            "value": 1
-        },
-        {
-            "text": "southportsharksafl",
             "value": 1
         }
     ]

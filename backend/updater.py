@@ -14,7 +14,7 @@ import wordcloud
 from tweet import tweet
 
 DEFAULT_RADIUS = 0.5
-CACHE_DAYS = 30
+CACHE_DAYS = 7
 
 
 # Save a dictionary to JSON file
@@ -108,3 +108,7 @@ def update_all_data():
     except:
         flag = 'connection error'
         return flag
+
+
+if __name__ == '__main__':
+    update_all_data()

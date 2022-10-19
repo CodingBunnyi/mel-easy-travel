@@ -2,23 +2,23 @@
     "word_freq": [
         {
             "text": "Daily",
-            "value": 16
+            "value": 7
         },
         {
             "text": "walk",
-            "value": 16
+            "value": 7
         },
         {
             "text": "Royal",
-            "value": 36
+            "value": 14
         },
         {
             "text": "Park",
-            "value": 33
+            "value": 14
         },
         {
             "text": "Melbourne",
-            "value": 19
+            "value": 7
         },
         {
             "text": "K",
@@ -26,98 +26,6 @@
         },
         {
             "text": "muthafukin",
-            "value": 1
-        },
-        {
-            "text": "Spring",
-            "value": 1
-        },
-        {
-            "text": "finally",
-            "value": 1
-        },
-        {
-            "text": "asserting",
-            "value": 1
-        },
-        {
-            "text": "Nature",
-            "value": 1
-        },
-        {
-            "text": "Playground",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 2
-        },
-        {
-            "text": "photo",
-            "value": 2
-        },
-        {
-            "text": "Children's",
-            "value": 3
-        },
-        {
-            "text": "Hospital",
-            "value": 3
-        },
-        {
-            "text": "Visitors",
-            "value": 1
-        },
-        {
-            "text": "welcome",
-            "value": 1
-        },
-        {
-            "text": "Kelpie",
-            "value": 1
-        },
-        {
-            "text": "ward",
-            "value": 2
-        },
-        {
-            "text": "PM",
-            "value": 1
-        },
-        {
-            "text": "wish",
-            "value": 1
-        },
-        {
-            "text": "see",
-            "value": 1
-        },
-        {
-            "text": "us",
-            "value": 1
-        },
-        {
-            "text": "let",
-            "value": 1
-        },
-        {
-            "text": "u",
-            "value": 1
-        },
-        {
-            "text": "know",
-            "value": 1
-        },
-        {
-            "text": "RMHC",
-            "value": 1
-        },
-        {
-            "text": "Hazy",
-            "value": 1
-        },
-        {
-            "text": "City",
             "value": 1
         }
     ]

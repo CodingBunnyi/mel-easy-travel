@@ -10,11 +10,11 @@
         },
         {
             "text": "game",
-            "value": 9
+            "value": 2
         },
         {
             "text": "day",
-            "value": 30
+            "value": 2
         },
         {
             "text": "Boxing",
@@ -22,7 +22,7 @@
         },
         {
             "text": "best",
-            "value": 6
+            "value": 2
         },
         {
             "text": "sport",
@@ -30,19 +30,19 @@
         },
         {
             "text": "world",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Rod",
-            "value": 5
+            "value": 1
         },
         {
             "text": "Laver",
-            "value": 5
+            "value": 1
         },
         {
             "text": "Arena",
-            "value": 16
+            "value": 3
         },
         {
             "text": "Weather",
@@ -50,7 +50,7 @@
         },
         {
             "text": "finally",
-            "value": 2
+            "value": 1
         },
         {
             "text": "turning",
@@ -58,19 +58,19 @@
         },
         {
             "text": "good",
-            "value": 15
+            "value": 1
         },
         {
             "text": "Time",
-            "value": 3
+            "value": 1
         },
         {
             "text": "get",
-            "value": 11
+            "value": 2
         },
         {
             "text": "amp",
-            "value": 14
+            "value": 3
         },
         {
             "text": "Summer",
@@ -78,11 +78,11 @@
         },
         {
             "text": "coming",
-            "value": 2
+            "value": 1
         },
         {
             "text": "want",
-            "value": 3
+            "value": 1
         },
         {
             "text": "fit",
@@ -102,15 +102,15 @@
         },
         {
             "text": "todays",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Crew",
-            "value": 2
+            "value": 1
         },
         {
             "text": "getting",
-            "value": 3
+            "value": 1
         },
         {
             "text": "thru",
@@ -118,15 +118,15 @@
         },
         {
             "text": "run",
-            "value": 3
+            "value": 1
         },
         {
             "text": "big",
-            "value": 3
+            "value": 1
         },
         {
             "text": "week",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Even",
@@ -134,7 +134,7 @@
         },
         {
             "text": "feel",
-            "value": 2
+            "value": 1
         },
         {
             "text": "support",
@@ -170,7 +170,7 @@
         },
         {
             "text": "Team",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Haney",
@@ -182,7 +182,7 @@
         },
         {
             "text": "post",
-            "value": 4
+            "value": 1
         },
         {
             "text": "title",
@@ -202,31 +202,31 @@
         },
         {
             "text": "deliver",
-            "value": 3
-        },
-        {
-            "text": "team",
-            "value": 4
-        },
-        {
-            "text": "10",
             "value": 2
         },
         {
+            "text": "team",
+            "value": 1
+        },
+        {
+            "text": "10",
+            "value": 1
+        },
+        {
             "text": "point",
-            "value": 3
+            "value": 2
         },
         {
             "text": "win",
-            "value": 6
+            "value": 2
         },
         {
             "text": "John",
-            "value": 11
+            "value": 2
         },
         {
             "text": "Cain",
-            "value": 10
+            "value": 2
         },
         {
             "text": "Reflections",
@@ -234,7 +234,7 @@
         },
         {
             "text": "beautiful",
-            "value": 5
+            "value": 1
         },
         {
             "text": "cloudless",
@@ -246,7 +246,7 @@
         },
         {
             "text": "Victoria",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Gardens",
@@ -254,7 +254,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 96
+            "value": 5
         },
         {
             "text": "late",
@@ -266,7 +266,7 @@
         },
         {
             "text": "2022",
-            "value": 13
+            "value": 1
         },
         {
             "text": "fatfreddysdropnz",
@@ -294,11 +294,11 @@
         },
         {
             "text": "Let",
-            "value": 5
+            "value": 3
         },
         {
             "text": "go",
-            "value": 6
+            "value": 1
         },
         {
             "text": "least",
@@ -322,19 +322,19 @@
         },
         {
             "text": "one",
-            "value": 4
+            "value": 1
         },
         {
             "text": "absolute",
-            "value": 3
+            "value": 1
         },
         {
             "text": "cracker",
-            "value": 2
+            "value": 1
         },
         {
             "text": "atmosphere",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Kambosis",
@@ -342,11 +342,11 @@
         },
         {
             "text": "v",
-            "value": 3
+            "value": 1
         },
         {
             "text": "TIME",
-            "value": 2
+            "value": 1
         },
         {
             "text": "facilitates",
@@ -358,7 +358,7 @@
         },
         {
             "text": "8",
-            "value": 4
+            "value": 1
         },
         {
             "text": "85",
@@ -386,7 +386,7 @@
         },
         {
             "text": "Drinking",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Pale",
@@ -398,11 +398,11 @@
         },
         {
             "text": "Welcome",
-            "value": 2
+            "value": 1
         },
         {
             "text": "players",
-            "value": 2
+            "value": 1
         },
         {
             "text": "onto",
@@ -414,11 +414,11 @@
         },
         {
             "text": "Phoenix",
-            "value": 2
+            "value": 1
         },
         {
             "text": "fans",
-            "value": 6
+            "value": 1
         },
         {
             "text": "almost",
@@ -426,7 +426,7 @@
         },
         {
             "text": "time",
-            "value": 11
+            "value": 1
         },
         {
             "text": "Tune",
@@ -438,15 +438,15 @@
         },
         {
             "text": "come",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Big",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Saturday",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Back",
@@ -470,11 +470,11 @@
         },
         {
             "text": "ready",
-            "value": 4
+            "value": 1
         },
         {
             "text": "rumble",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Bring",
@@ -482,15 +482,15 @@
         },
         {
             "text": "posted",
-            "value": 22
+            "value": 4
         },
         {
             "text": "photo",
-            "value": 25
+            "value": 4
         },
         {
             "text": "Park",
-            "value": 4
+            "value": 3
         },
         {
             "text": "deception",
@@ -498,11 +498,11 @@
         },
         {
             "text": "today",
-            "value": 7
+            "value": 1
         },
         {
             "text": "bloody",
-            "value": 2
+            "value": 1
         },
         {
             "text": "gooooo",
@@ -510,27 +510,27 @@
         },
         {
             "text": "Cricket",
-            "value": 65
+            "value": 1
         },
         {
             "text": "Ground",
-            "value": 65
+            "value": 1
         },
         {
             "text": "MCG",
-            "value": 74
+            "value": 1
         },
         {
             "text": "kind",
-            "value": 2
+            "value": 1
         },
         {
             "text": "sad",
-            "value": 2
+            "value": 1
         },
         {
             "text": "water",
-            "value": 3
+            "value": 1
         },
         {
             "text": "fountain",
@@ -566,7 +566,7 @@
         },
         {
             "text": "years",
-            "value": 3
+            "value": 1
         },
         {
             "text": "ago",
@@ -614,7 +614,7 @@
         },
         {
             "text": "love",
-            "value": 4
+            "value": 1
         },
         {
             "text": "strength",
@@ -638,3083 +638,7 @@
         },
         {
             "text": "CENTREPIECE",
-            "value": 3
-        },
-        {
-            "text": "Sunday",
             "value": 2
-        },
-        {
-            "text": "face",
-            "value": 1
-        },
-        {
-            "text": "first",
-            "value": 7
-        },
-        {
-            "text": "warm",
-            "value": 1
-        },
-        {
-            "text": "match",
-            "value": 6
-        },
-        {
-            "text": "play",
-            "value": 2
-        },
-        {
-            "text": "set",
-            "value": 2
-        },
-        {
-            "text": "start",
-            "value": 4
-        },
-        {
-            "text": "2",
-            "value": 2
-        },
-        {
-            "text": "30pm",
-            "value": 2
-        },
-        {
-            "text": "local",
-            "value": 1
-        },
-        {
-            "text": "5",
-            "value": 5
-        },
-        {
-            "text": "30am",
-            "value": 1
-        },
-        {
-            "text": "Zimbabwe",
-            "value": 1
-        },
-        {
-            "text": "DM",
-            "value": 1
-        },
-        {
-            "text": "chance",
-            "value": 1
-        },
-        {
-            "text": "hottest",
-            "value": 1
-        },
-        {
-            "text": "ticket",
-            "value": 1
-        },
-        {
-            "text": "town",
-            "value": 1
-        },
-        {
-            "text": "Olivia",
-            "value": 3
-        },
-        {
-            "text": "Newton",
-            "value": 1
-        },
-        {
-            "text": "John's",
-            "value": 1
-        },
-        {
-            "text": "Walk",
-            "value": 3
-        },
-        {
-            "text": "Wellness",
-            "value": 3
-        },
-        {
-            "text": "fantastic",
-            "value": 1
-        },
-        {
-            "text": "cause",
-            "value": 2
-        },
-        {
-            "text": "Fun",
-            "value": 2
-        },
-        {
-            "text": "4",
-            "value": 4
-        },
-        {
-            "text": "legs",
-            "value": 1
-        },
-        {
-            "text": "electric",
-            "value": 1
-        },
-        {
-            "text": "Superb",
-            "value": 2
-        },
-        {
-            "text": "morn",
-            "value": 1
-        },
-        {
-            "text": "little",
-            "value": 1
-        },
-        {
-            "text": "crowded",
-            "value": 1
-        },
-        {
-            "text": "although",
-            "value": 1
-        },
-        {
-            "text": "managed",
-            "value": 1
-        },
-        {
-            "text": "30",
-            "value": 5
-        },
-        {
-            "text": "pace",
-            "value": 2
-        },
-        {
-            "text": "double",
-            "value": 1
-        },
-        {
-            "text": "customary",
-            "value": 1
-        },
-        {
-            "text": "sprint",
-            "value": 2
-        },
-        {
-            "text": "finish",
-            "value": 1
-        },
-        {
-            "text": "brings",
-            "value": 1
-        },
-        {
-            "text": "light",
-            "value": 1
-        },
-        {
-            "text": "Cancer",
-            "value": 1
-        },
-        {
-            "text": "great",
-            "value": 11
-        },
-        {
-            "text": "done",
-            "value": 4
-        },
-        {
-            "text": "Doors",
-            "value": 1
-        },
-        {
-            "text": "open",
-            "value": 1
-        },
-        {
-            "text": "crowd",
-            "value": 3
-        },
-        {
-            "text": "building",
-            "value": 1
-        },
-        {
-            "text": "forget",
-            "value": 2
-        },
-        {
-            "text": "buy",
-            "value": 1
-        },
-        {
-            "text": "merch",
-            "value": 2
-        },
-        {
-            "text": "yes",
-            "value": 1
-        },
-        {
-            "text": "even",
-            "value": 2
-        },
-        {
-            "text": "RED",
-            "value": 1
-        },
-        {
-            "text": "WINE",
-            "value": 1
-        },
-        {
-            "text": "BAR",
-            "value": 1
-        },
-        {
-            "text": "special",
-            "value": 2
-        },
-        {
-            "text": "Birrarung",
-            "value": 4
-        },
-        {
-            "text": "Marr",
-            "value": 3
-        },
-        {
-            "text": "Burnley",
-            "value": 2
-        },
-        {
-            "text": "Tunnel",
-            "value": 3
-        },
-        {
-            "text": "M1",
-            "value": 2
-        },
-        {
-            "text": "lanes",
-            "value": 3
-        },
-        {
-            "text": "closed",
-            "value": 6
-        },
-        {
-            "text": "eastbound",
-            "value": 1
-        },
-        {
-            "text": "left",
-            "value": 1
-        },
-        {
-            "text": "lane",
-            "value": 3
-        },
-        {
-            "text": "I'm",
-            "value": 7
-        },
-        {
-            "text": "Tram",
-            "value": 1
-        },
-        {
-            "text": "Stop",
-            "value": 1
-        },
-        {
-            "text": "7C",
-            "value": 1
-        },
-        {
-            "text": "Hisense",
-            "value": 1
-        },
-        {
-            "text": "East",
-            "value": 2
-        },
-        {
-            "text": "VIC",
-            "value": 7
-        },
-        {
-            "text": "Happy",
-            "value": 2
-        },
-        {
-            "text": "Birthday",
-            "value": 1
-        },
-        {
-            "text": "Rishabh",
-            "value": 1
-        },
-        {
-            "text": "coolest",
-            "value": 1
-        },
-        {
-            "text": "hifi",
-            "value": 1
-        },
-        {
-            "text": "ever",
-            "value": 1
-        },
-        {
-            "text": "got",
-            "value": 3
-        },
-        {
-            "text": "Federation",
-            "value": 1
-        },
-        {
-            "text": "Bells",
-            "value": 1
-        },
-        {
-            "text": "Good",
-            "value": 5
-        },
-        {
-            "text": "plenty",
-            "value": 1
-        },
-        {
-            "text": "work",
-            "value": 2
-        },
-        {
-            "text": "back",
-            "value": 7
-        },
-        {
-            "text": "front",
-            "value": 1
-        },
-        {
-            "text": "MCC",
-            "value": 1
-        },
-        {
-            "text": "Draught",
-            "value": 1
-        },
-        {
-            "text": "PirateLifeBeer",
-            "value": 1
-        },
-        {
-            "text": "Long",
-            "value": 1
-        },
-        {
-            "text": "Room",
-            "value": 2
-        },
-        {
-            "text": "MelbMara",
-            "value": 1
-        },
-        {
-            "text": "sun",
-            "value": 2
-        },
-        {
-            "text": "shining",
-            "value": 2
-        },
-        {
-            "text": "Vic",
-            "value": 1
-        },
-        {
-            "text": "athlete",
-            "value": 1
-        },
-        {
-            "text": "send",
-            "value": 2
-        },
-        {
-            "text": "National",
-            "value": 1
-        },
-        {
-            "text": "Games",
-            "value": 1
-        },
-        {
-            "text": "thank",
-            "value": 2
-        },
-        {
-            "text": "honouring",
-            "value": 1
-        },
-        {
-            "text": "athletes",
-            "value": 1
-        },
-        {
-            "text": "invisible",
-            "value": 1
-        },
-        {
-            "text": "longer",
-            "value": 1
-        },
-        {
-            "text": "next",
-            "value": 4
-        },
-        {
-            "text": "year",
-            "value": 7
-        },
-        {
-            "text": "Marathon",
-            "value": 4
-        },
-        {
-            "text": "Festival",
-            "value": 6
-        },
-        {
-            "text": "half",
-            "value": 2
-        },
-        {
-            "text": "marathon",
-            "value": 2
-        },
-        {
-            "text": "New",
-            "value": 1
-        },
-        {
-            "text": "PB",
-            "value": 2
-        },
-        {
-            "text": "alongside",
-            "value": 1
-        },
-        {
-            "text": "Talk",
-            "value": 1
-        },
-        {
-            "text": "watch",
-            "value": 3
-        },
-        {
-            "text": "basketball",
-            "value": 3
-        },
-        {
-            "text": "watching",
-            "value": 2
-        },
-        {
-            "text": "Moving",
-            "value": 1
-        },
-        {
-            "text": "magically",
-            "value": 1
-        },
-        {
-            "text": "shined",
-            "value": 1
-        },
-        {
-            "text": "OT",
-            "value": 1
-        },
-        {
-            "text": "morning",
-            "value": 5
-        },
-        {
-            "text": "Massive",
-            "value": 1
-        },
-        {
-            "text": "Well",
-            "value": 5
-        },
-        {
-            "text": "everyone",
-            "value": 4
-        },
-        {
-            "text": "pretty",
-            "value": 2
-        },
-        {
-            "text": "happy",
-            "value": 2
-        },
-        {
-            "text": "Full",
-            "value": 1
-        },
-        {
-            "text": "massive",
-            "value": 1
-        },
-        {
-            "text": "hater",
-            "value": 1
-        },
-        {
-            "text": "mainly",
-            "value": 1
-        },
-        {
-            "text": "lacking",
-            "value": 1
-        },
-        {
-            "text": "skill",
-            "value": 1
-        },
-        {
-            "text": "talent",
-            "value": 1
-        },
-        {
-            "text": "changes",
-            "value": 1
-        },
-        {
-            "text": "fully",
-            "value": 1
-        },
-        {
-            "text": "invested",
-            "value": 1
-        },
-        {
-            "text": "league",
-            "value": 1
-        },
-        {
-            "text": "Love",
-            "value": 1
-        },
-        {
-            "text": "far",
-            "value": 2
-        },
-        {
-            "text": "country",
-            "value": 2
-        },
-        {
-            "text": "continues",
-            "value": 1
-        },
-        {
-            "text": "strive",
-            "value": 1
-        },
-        {
-            "text": "spring",
-            "value": 1
-        },
-        {
-            "text": "event",
-            "value": 3
-        },
-        {
-            "text": "Running",
-            "value": 1
-        },
-        {
-            "text": "Bloon",
-            "value": 1
-        },
-        {
-            "text": "Man",
-            "value": 1
-        },
-        {
-            "text": "11",
-            "value": 2
-        },
-        {
-            "text": "12",
-            "value": 1
-        },
-        {
-            "text": "I'll",
-            "value": 1
-        },
-        {
-            "text": "worried",
-            "value": 1
-        },
-        {
-            "text": "W",
-            "value": 1
-        },
-        {
-            "text": "22",
-            "value": 1
-        },
-        {
-            "text": "23",
-            "value": 2
-        },
-        {
-            "text": "season",
-            "value": 2
-        },
-        {
-            "text": "Father",
-            "value": 2
-        },
-        {
-            "text": "Day",
-            "value": 8
-        },
-        {
-            "text": "present",
-            "value": 1
-        },
-        {
-            "text": "delivered",
-            "value": 1
-        },
-        {
-            "text": "Ripper",
-            "value": 1
-        },
-        {
-            "text": "opening",
-            "value": 1
-        },
-        {
-            "text": "round",
-            "value": 1
-        },
-        {
-            "text": "man",
-            "value": 1
-        },
-        {
-            "text": "NBL",
-            "value": 2
-        },
-        {
-            "text": "underway",
-            "value": 1
-        },
-        {
-            "text": "quote",
-            "value": 1
-        },
-        {
-            "text": "words",
-            "value": 3
-        },
-        {
-            "text": "Japanese",
-            "value": 1
-        },
-        {
-            "text": "Conceptual",
-            "value": 1
-        },
-        {
-            "text": "Artist",
-            "value": 1
-        },
-        {
-            "text": "Barney",
-            "value": 1
-        },
-        {
-            "text": "Fumble",
-            "value": 1
-        },
-        {
-            "text": "Number",
-            "value": 2
-        },
-        {
-            "text": "BUUURRRPPP",
-            "value": 2
-        },
-        {
-            "text": "GUYS",
-            "value": 1
-        },
-        {
-            "text": "THOUGHT",
-            "value": 1
-        },
-        {
-            "text": "CAMERA",
-            "value": 1
-        },
-        {
-            "text": "DIDNT",
-            "value": 1
-        },
-        {
-            "text": "GET",
-            "value": 1
-        },
-        {
-            "text": "PHOTO",
-            "value": 1
-        },
-        {
-            "text": "LOUIS",
-            "value": 1
-        },
-        {
-            "text": "POINTING",
-            "value": 1
-        },
-        {
-            "text": "SHUT",
-            "value": 1
-        },
-        {
-            "text": "Domain",
-            "value": 2
-        },
-        {
-            "text": "westbound",
-            "value": 1
-        },
-        {
-            "text": "Middle",
-            "value": 1
-        },
-        {
-            "text": "due",
-            "value": 2
-        },
-        {
-            "text": "Anyone",
-            "value": 1
-        },
-        {
-            "text": "need",
-            "value": 1
-        },
-        {
-            "text": "anything",
-            "value": 2
-        },
-        {
-            "text": "Iconic",
-            "value": 1
-        },
-        {
-            "text": "Sept",
-            "value": 1
-        },
-        {
-            "text": "2017",
-            "value": 1
-        },
-        {
-            "text": "celebration",
-            "value": 1
-        },
-        {
-            "text": "relief",
-            "value": 1
-        },
-        {
-            "text": "never",
-            "value": 1
-        },
-        {
-            "text": "Great",
-            "value": 4
-        },
-        {
-            "text": "night",
-            "value": 3
-        },
-        {
-            "text": "morganevansmusic",
-            "value": 1
-        },
-        {
-            "text": "Thank",
-            "value": 3
-        },
-        {
-            "text": "Thursday",
-            "value": 1
-        },
-        {
-            "text": "30x100m",
-            "value": 1
-        },
-        {
-            "text": "Hills",
-            "value": 1
-        },
-        {
-            "text": "jog",
-            "value": 1
-        },
-        {
-            "text": "rest",
-            "value": 1
-        },
-        {
-            "text": "easy",
-            "value": 1
-        },
-        {
-            "text": "15",
-            "value": 1
-        },
-        {
-            "text": "16sec",
-            "value": 1
-        },
-        {
-            "text": "1",
-            "value": 6
-        },
-        {
-            "text": "hard",
-            "value": 1
-        },
-        {
-            "text": "13",
-            "value": 2
-        },
-        {
-            "text": "14sec",
-            "value": 1
-        },
-        {
-            "text": "repeat",
-            "value": 1
-        },
-        {
-            "text": "reps",
-            "value": 1
-        },
-        {
-            "text": "Alexandra",
-            "value": 1
-        },
-        {
-            "text": "Av",
-            "value": 1
-        },
-        {
-            "text": "inbound",
-            "value": 2
-        },
-        {
-            "text": "Right",
-            "value": 1
-        },
-        {
-            "text": "Linlithgow",
-            "value": 1
-        },
-        {
-            "text": "Avenue",
-            "value": 1
-        },
-        {
-            "text": "billie",
-            "value": 2
-        },
-        {
-            "text": "eilish",
-            "value": 1
-        },
-        {
-            "text": "concert",
-            "value": 3
-        },
-        {
-            "text": "photos",
-            "value": 1
-        },
-        {
-            "text": "took",
-            "value": 3
-        },
-        {
-            "text": "september",
-            "value": 1
-        },
-        {
-            "text": "24th",
-            "value": 1
-        },
-        {
-            "text": "depression",
-            "value": 1
-        },
-        {
-            "text": "see",
-            "value": 7
-        },
-        {
-            "text": "amazing",
-            "value": 5
-        },
-        {
-            "text": "put",
-            "value": 1
-        },
-        {
-            "text": "show",
-            "value": 6
-        },
-        {
-            "text": "Captain",
-            "value": 1
-        },
-        {
-            "text": "struggle",
-            "value": 1
-        },
-        {
-            "text": "find",
-            "value": 1
-        },
-        {
-            "text": "right",
-            "value": 1
-        },
-        {
-            "text": "know",
-            "value": 2
-        },
-        {
-            "text": "family",
-            "value": 1
-        },
-        {
-            "text": "long",
-            "value": 1
-        },
-        {
-            "text": "always",
-            "value": 1
-        },
-        {
-            "text": "smile",
-            "value": 1
-        },
-        {
-            "text": "like",
-            "value": 1
-        },
-        {
-            "text": "Cheshire",
-            "value": 1
-        },
-        {
-            "text": "Cat",
-            "value": 1
-        },
-        {
-            "text": "tear",
-            "value": 1
-        },
-        {
-            "text": "think",
-            "value": 1
-        },
-        {
-            "text": "last",
-            "value": 4
-        },
-        {
-            "text": "September",
-            "value": 6
-        },
-        {
-            "text": "Joel",
-            "value": 1
-        },
-        {
-            "text": "everything",
-            "value": 1
-        },
-        {
-            "text": "Reflecting",
-            "value": 1
-        },
-        {
-            "text": "72",
-            "value": 1
-        },
-        {
-            "text": "hours",
-            "value": 1
-        },
-        {
-            "text": "later",
-            "value": 2
-        },
-        {
-            "text": "able",
-            "value": 2
-        },
-        {
-            "text": "share",
-            "value": 1
-        },
-        {
-            "text": "two",
-            "value": 2
-        },
-        {
-            "text": "eldest",
-            "value": 1
-        },
-        {
-            "text": "wife",
-            "value": 1
-        },
-        {
-            "text": "final",
-            "value": 7
-        },
-        {
-            "text": "sobbed",
-            "value": 1
-        },
-        {
-            "text": "times",
-            "value": 1
-        },
-        {
-            "text": "life",
-            "value": 1
-        },
-        {
-            "text": "much",
-            "value": 4
-        },
-        {
-            "text": "promised",
-            "value": 1
-        },
-        {
-            "text": "Billie",
-            "value": 2
-        },
-        {
-            "text": "Eilish",
-            "value": 1
-        },
-        {
-            "text": "Waiting",
-            "value": 1
-        },
-        {
-            "text": "real",
-            "value": 1
-        },
-        {
-            "text": "areas",
-            "value": 1
-        },
-        {
-            "text": "premiership",
-            "value": 1
-        },
-        {
-            "text": "captain",
-            "value": 1
-        },
-        {
-            "text": "Matty",
-            "value": 1
-        },
-        {
-            "text": "Vogel",
-            "value": 1
-        },
-        {
-            "text": "weather",
-            "value": 1
-        },
-        {
-            "text": "conditions",
-            "value": 1
-        },
-        {
-            "text": "Grand",
-            "value": 19
-        },
-        {
-            "text": "Final",
-            "value": 17
-        },
-        {
-            "text": "numbers",
-            "value": 1
-        },
-        {
-            "text": "including",
-            "value": 2
-        },
-        {
-            "text": "young",
-            "value": 1
-        },
-        {
-            "text": "newbies",
-            "value": 1
-        },
-        {
-            "text": "joining",
-            "value": 1
-        },
-        {
-            "text": "Last",
-            "value": 1
-        },
-        {
-            "text": "Run",
-            "value": 1
-        },
-        {
-            "text": "Melb",
-            "value": 1
-        },
-        {
-            "text": "luck",
-            "value": 1
-        },
-        {
-            "text": "participating",
-            "value": 1
-        },
-        {
-            "text": "Relax",
-            "value": 1
-        },
-        {
-            "text": "give",
-            "value": 1
-        },
-        {
-            "text": "well",
-            "value": 1
-        },
-        {
-            "text": "Pre",
-            "value": 4
-        },
-        {
-            "text": "Match",
-            "value": 1
-        },
-        {
-            "text": "Entertainment",
-            "value": 1
-        },
-        {
-            "text": "yesterday",
-            "value": 3
-        },
-        {
-            "text": "tribute",
-            "value": 1
-        },
-        {
-            "text": "Shane",
-            "value": 1
-        },
-        {
-            "text": "Warne",
-            "value": 1
-        },
-        {
-            "text": "Farnham",
-            "value": 1
-        },
-        {
-            "text": "sang",
-            "value": 1
-        },
-        {
-            "text": "Loved",
-            "value": 1
-        },
-        {
-            "text": "every",
-            "value": 1
-        },
-        {
-            "text": "minute",
-            "value": 1
-        },
-        {
-            "text": "afternoon",
-            "value": 1
-        },
-        {
-            "text": "Geelong",
-            "value": 3
-        },
-        {
-            "text": "Congrats",
-            "value": 1
-        },
-        {
-            "text": "Alumni",
-            "value": 1
-        },
-        {
-            "text": "Tom",
-            "value": 3
-        },
-        {
-            "text": "Hawkins",
-            "value": 1
-        },
-        {
-            "text": "Atkins",
-            "value": 1
-        },
-        {
-            "text": "Coach",
-            "value": 1
-        },
-        {
-            "text": "Chris",
-            "value": 1
-        },
-        {
-            "text": "Scott",
-            "value": 1
-        },
-        {
-            "text": "part",
-            "value": 4
-        },
-        {
-            "text": "crowned",
-            "value": 1
-        },
-        {
-            "text": "Premiers",
-            "value": 2
-        },
-        {
-            "text": "Loving",
-            "value": 1
-        },
-        {
-            "text": "dead",
-            "value": 1
-        },
-        {
-            "text": "branch",
-            "value": 1
-        },
-        {
-            "text": "head",
-            "value": 1
-        },
-        {
-            "text": "Also",
-            "value": 1
-        },
-        {
-            "text": "taser",
-            "value": 1
-        },
-        {
-            "text": "people",
-            "value": 3
-        },
-        {
-            "text": "scooters",
-            "value": 1
-        },
-        {
-            "text": "Unreal",
-            "value": 1
-        },
-        {
-            "text": "Club",
-            "value": 2
-        },
-        {
-            "text": "marquee",
-            "value": 2
-        },
-        {
-            "text": "supporter",
-            "value": 1
-        },
-        {
-            "text": "absolutely",
-            "value": 1
-        },
-        {
-            "text": "brilliant",
-            "value": 1
-        },
-        {
-            "text": "Take",
-            "value": 1
-        },
-        {
-            "text": "bow",
-            "value": 1
-        },
-        {
-            "text": "vibe",
-            "value": 2
-        },
-        {
-            "text": "look",
-            "value": 1
-        },
-        {
-            "text": "contented",
-            "value": 1
-        },
-        {
-            "text": "skipper",
-            "value": 1
-        },
-        {
-            "text": "played",
-            "value": 2
-        },
-        {
-            "text": "entertainment",
-            "value": 1
-        },
-        {
-            "text": "dump",
-            "value": 3
-        },
-        {
-            "text": "three",
-            "value": 2
-        },
-        {
-            "text": "Photo",
-            "value": 1
-        },
-        {
-            "text": "kicks",
-            "value": 1
-        },
-        {
-            "text": "footy",
-            "value": 4
-        },
-        {
-            "text": "thrill",
-            "value": 1
-        },
-        {
-            "text": "Always",
-            "value": 2
-        },
-        {
-            "text": "G",
-            "value": 9
-        },
-        {
-            "text": "Cats",
-            "value": 5
-        },
-        {
-            "text": "dominant",
-            "value": 1
-        },
-        {
-            "text": "performance",
-            "value": 1
-        },
-        {
-            "text": "AFL",
-            "value": 7
-        },
-        {
-            "text": "IM",
-            "value": 1
-        },
-        {
-            "text": "GETTING",
-            "value": 1
-        },
-        {
-            "text": "FKIN",
-            "value": 1
-        },
-        {
-            "text": "LIT",
-            "value": 1
-        },
-        {
-            "text": "TONIGHT",
-            "value": 1
-        },
-        {
-            "text": "GO",
-            "value": 2
-        },
-        {
-            "text": "FUCKING",
-            "value": 1
-        },
-        {
-            "text": "CATS",
-            "value": 1
-        },
-        {
-            "text": "shame",
-            "value": 1
-        },
-        {
-            "text": "result",
-            "value": 1
-        },
-        {
-            "text": "better",
-            "value": 2
-        },
-        {
-            "text": "sitting",
-            "value": 1
-        },
-        {
-            "text": "100",
-            "value": 2
-        },
-        {
-            "text": "000",
-            "value": 1
-        },
-        {
-            "text": "closest",
-            "value": 1
-        },
-        {
-            "text": "friends",
-            "value": 2
-        },
-        {
-            "text": "football",
-            "value": 1
-        },
-        {
-            "text": "photograph",
-            "value": 1
-        },
-        {
-            "text": "legends",
-            "value": 2
-        },
-        {
-            "text": "NAB",
-            "value": 1
-        },
-        {
-            "text": "turn",
-            "value": 1
-        },
-        {
-            "text": "dance",
-            "value": 1
-        },
-        {
-            "text": "Fina",
-            "value": 1
-        },
-        {
-            "text": "demolition",
-            "value": 1
-        },
-        {
-            "text": "Nobody",
-            "value": 1
-        },
-        {
-            "text": "predicted",
-            "value": 1
-        },
-        {
-            "text": "Bloody",
-            "value": 1
-        },
-        {
-            "text": "thing",
-            "value": 3
-        },
-        {
-            "text": "side",
-            "value": 1
-        },
-        {
-            "text": "number",
-            "value": 1
-        },
-        {
-            "text": "continued",
-            "value": 1
-        },
-        {
-            "text": "public",
-            "value": 1
-        },
-        {
-            "text": "criticism",
-            "value": 1
-        },
-        {
-            "text": "chip",
-            "value": 1
-        },
-        {
-            "text": "shoulder",
-            "value": 1
-        },
-        {
-            "text": "Dangerfield",
-            "value": 1
-        },
-        {
-            "text": "Rohan",
-            "value": 1
-        },
-        {
-            "text": "Kolo",
-            "value": 1
-        },
-        {
-            "text": "Jezza",
-            "value": 1
-        },
-        {
-            "text": "Zutherie",
-            "value": 1
-        },
-        {
-            "text": "Stanley",
-            "value": 1
-        },
-        {
-            "text": "etc",
-            "value": 1
-        },
-        {
-            "text": "Today",
-            "value": 2
-        },
-        {
-            "text": "cryptocomofficial",
-            "value": 1
-        },
-        {
-            "text": "hookup",
-            "value": 1
-        },
-        {
-            "text": "Everyone",
-            "value": 1
-        },
-        {
-            "text": "else",
-            "value": 2
-        },
-        {
-            "text": "lap",
-            "value": 1
-        },
-        {
-            "text": "JC",
-            "value": 1
-        },
-        {
-            "text": "playing",
-            "value": 1
-        },
-        {
-            "text": "AusKick",
-            "value": 1
-        },
-        {
-            "text": "kids",
-            "value": 2
-        },
-        {
-            "text": "Props",
-            "value": 1
-        },
-        {
-            "text": "premiers",
-            "value": 1
-        },
-        {
-            "text": "witness",
-            "value": 1
-        },
-        {
-            "text": "mighty",
-            "value": 1
-        },
-        {
-            "text": "500",
-            "value": 1
-        },
-        {
-            "text": "FREE",
-            "value": 1
-        },
-        {
-            "text": "flights",
-            "value": 1
-        },
-        {
-            "text": "Sure",
-            "value": 1
-        },
-        {
-            "text": "Done",
-            "value": 1
-        },
-        {
-            "text": "Cam",
-            "value": 2
-        },
-        {
-            "text": "First",
-            "value": 3
-        },
-        {
-            "text": "going",
-            "value": 1
-        },
-        {
-            "text": "grand",
-            "value": 4
-        },
-        {
-            "text": "games",
-            "value": 1
-        },
-        {
-            "text": "standing",
-            "value": 1
-        },
-        {
-            "text": "room",
-            "value": 1
-        },
-        {
-            "text": "drink",
-            "value": 1
-        },
-        {
-            "text": "enjoy",
-            "value": 1
-        },
-        {
-            "text": "Robbie",
-            "value": 6
-        },
-        {
-            "text": "Williams",
-            "value": 5
-        },
-        {
-            "text": "fabulous",
-            "value": 1
-        },
-        {
-            "text": "Congratulations",
-            "value": 1
-        },
-        {
-            "text": "bad",
-            "value": 2
-        },
-        {
-            "text": "retirement",
-            "value": 1
-        },
-        {
-            "text": "home",
-            "value": 2
-        },
-        {
-            "text": "largest",
-            "value": 1
-        },
-        {
-            "text": "since",
-            "value": 3
-        },
-        {
-            "text": "1986",
-            "value": 1
-        },
-        {
-            "text": "024",
-            "value": 1
-        },
-        {
-            "text": "incredible",
-            "value": 1
-        },
-        {
-            "text": "soaking",
-            "value": 1
-        },
-        {
-            "text": "sight",
-            "value": 1
-        },
-        {
-            "text": "Sydney",
-            "value": 2
-        },
-        {
-            "text": "really",
-            "value": 1
-        },
-        {
-            "text": "went",
-            "value": 2
-        },
-        {
-            "text": "quarter",
-            "value": 3
-        },
-        {
-            "text": "Imagine",
-            "value": 1
-        },
-        {
-            "text": "paying",
-            "value": 1
-        },
-        {
-            "text": "news",
-            "value": 1
-        },
-        {
-            "text": "check",
-            "value": 1
-        },
-        {
-            "text": "cool",
-            "value": 1
-        },
-        {
-            "text": "crew",
-            "value": 1
-        },
-        {
-            "text": "working",
-            "value": 1
-        },
-        {
-            "text": "together",
-            "value": 1
-        },
-        {
-            "text": "incase",
-            "value": 1
-        },
-        {
-            "text": "anyone",
-            "value": 1
-        },
-        {
-            "text": "doubt",
-            "value": 1
-        },
-        {
-            "text": "thoroughly",
-            "value": 1
-        },
-        {
-            "text": "enjoying",
-            "value": 1
-        },
-        {
-            "text": "Go",
-            "value": 12
-        },
-        {
-            "text": "cats",
-            "value": 3
-        },
-        {
-            "text": "raining",
-            "value": 1
-        },
-        {
-            "text": "goals",
-            "value": 1
-        },
-        {
-            "text": "Guthrie",
-            "value": 1
-        },
-        {
-            "text": "wanted",
-            "value": 1
-        },
-        {
-            "text": "swans",
-            "value": 1
-        },
-        {
-            "text": "1st",
-            "value": 1
-        },
-        {
-            "text": "3",
-            "value": 3
-        },
-        {
-            "text": "fine",
-            "value": 1
-        },
-        {
-            "text": "bet",
-            "value": 1
-        },
-        {
-            "text": "teams",
-            "value": 3
-        },
-        {
-            "text": "fun",
-            "value": 4
-        },
-        {
-            "text": "24",
-            "value": 1
-        },
-        {
-            "text": "rocked",
-            "value": 1
-        },
-        {
-            "text": "pre",
-            "value": 1
-        },
-        {
-            "text": "GAME",
-            "value": 1
-        },
-        {
-            "text": "would",
-            "value": 1
-        },
-        {
-            "text": "bunch",
-            "value": 1
-        },
-        {
-            "text": "Wow",
-            "value": 1
-        },
-        {
-            "text": "Cazaly",
-            "value": 1
-        },
-        {
-            "text": "Broadcasting",
-            "value": 1
-        },
-        {
-            "text": "live",
-            "value": 2
-        },
-        {
-            "text": "married",
-            "value": 1
-        },
-        {
-            "text": "reception",
-            "value": 1
-        },
-        {
-            "text": "simply",
-            "value": 1
-        },
-        {
-            "text": "sensational",
-            "value": 1
-        },
-        {
-            "text": "Swannies",
-            "value": 2
-        },
-        {
-            "text": "Thought",
-            "value": 1
-        },
-        {
-            "text": "I'd",
-            "value": 1
-        },
-        {
-            "text": "Bummed",
-            "value": 1
-        },
-        {
-            "text": "umpiring",
-            "value": 1
-        },
-        {
-            "text": "gig",
-            "value": 1
-        },
-        {
-            "text": "Meat",
-            "value": 1
-        },
-        {
-            "text": "Loaf",
-            "value": 1
-        },
-        {
-            "text": "soooo",
-            "value": 1
-        },
-        {
-            "text": "weekend",
-            "value": 1
-        },
-        {
-            "text": "made",
-            "value": 1
-        },
-        {
-            "text": "Outstanding",
-            "value": 1
-        },
-        {
-            "text": "GF",
-            "value": 2
-        },
-        {
-            "text": "Carn",
-            "value": 1
-        },
-        {
-            "text": "bloods",
-            "value": 1
-        },
-        {
-            "text": "wait",
-            "value": 1
-        },
-        {
-            "text": "temporarily",
-            "value": 1
-        },
-        {
-            "text": "halted",
-            "value": 1
-        },
-        {
-            "text": "cavalcade",
-            "value": 1
-        },
-        {
-            "text": "unemployed",
-            "value": 1
-        },
-        {
-            "text": "Preliminary",
-            "value": 1
-        },
-        {
-            "text": "still",
-            "value": 2
-        },
-        {
-            "text": "Front",
-            "value": 1
-        },
-        {
-            "text": "row",
-            "value": 2
-        },
-        {
-            "text": "seats",
-            "value": 4
-        },
-        {
-            "text": "cheeseboard",
-            "value": 1
-        },
-        {
-            "text": "Lib",
-            "value": 2
-        },
-        {
-            "text": "spoil",
-            "value": 1
-        },
-        {
-            "text": "decadent",
-            "value": 1
-        },
-        {
-            "text": "lemon",
-            "value": 1
-        },
-        {
-            "text": "tart",
-            "value": 1
-        },
-        {
-            "text": "Fine",
-            "value": 1
-        },
-        {
-            "text": "dining",
-            "value": 1
-        },
-        {
-            "text": "Made",
-            "value": 1
-        },
-        {
-            "text": "lessgo",
-            "value": 1
-        },
-        {
-            "text": "greatest",
-            "value": 1
-        },
-        {
-            "text": "performer",
-            "value": 1
-        },
-        {
-            "text": "Seatssssss",
-            "value": 1
-        },
-        {
-            "text": "2019",
-            "value": 1
-        },
-        {
-            "text": "Nearly",
-            "value": 1
-        },
-        {
-            "text": "views",
-            "value": 1
-        },
-        {
-            "text": "Fantastic",
-            "value": 1
-        },
-        {
-            "text": "sunshine",
-            "value": 1
-        },
-        {
-            "text": "fortunate",
-            "value": 1
-        },
-        {
-            "text": "Fingers",
-            "value": 1
-        },
-        {
-            "text": "crossed",
-            "value": 1
-        },
-        {
-            "text": "high",
-            "value": 1
-        },
-        {
-            "text": "scoring",
-            "value": 1
-        },
-        {
-            "text": "close",
-            "value": 1
-        },
-        {
-            "text": "Greatest",
-            "value": 1
-        },
-        {
-            "text": "Game",
-            "value": 1
-        },
-        {
-            "text": "enter",
-            "value": 1
-        },
-        {
-            "text": "excited",
-            "value": 1
-        },
-        {
-            "text": "BLOODY",
-            "value": 1
-        },
-        {
-            "text": "EXCITED",
-            "value": 1
-        },
-        {
-            "text": "Fuck",
-            "value": 1
-        },
-        {
-            "text": "Hello",
-            "value": 1
-        },
-        {
-            "text": "27",
-            "value": 1
-        },
-        {
-            "text": "Swans",
-            "value": 2
-        },
-        {
-            "text": "points",
-            "value": 1
-        },
-        {
-            "text": "Norm",
-            "value": 1
-        },
-        {
-            "text": "Smith",
-            "value": 1
-        },
-        {
-            "text": "Parker",
-            "value": 2
-        },
-        {
-            "text": "goal",
-            "value": 1
-        },
-        {
-            "text": "Stengle",
-            "value": 1
-        },
-        {
-            "text": "bring",
-            "value": 1
-        },
-        {
-            "text": "footyyyy",
-            "value": 1
-        },
-        {
-            "text": "decent",
-            "value": 1
-        },
-        {
-            "text": "view",
-            "value": 1
-        },
-        {
-            "text": "Delta",
-            "value": 1
-        },
-        {
-            "text": "5hour",
-            "value": 1
-        },
-        {
-            "text": "countdown",
-            "value": 1
-        },
-        {
-            "text": "pumped",
-            "value": 1
-        },
-        {
-            "text": "nervous",
-            "value": 1
-        },
-        {
-            "text": "Win",
-            "value": 1
-        },
-        {
-            "text": "lose",
-            "value": 1
-        },
-        {
-            "text": "proud",
-            "value": 1
-        },
-        {
-            "text": "club",
-            "value": 1
-        },
-        {
-            "text": "Let's",
-            "value": 2
-        },
-        {
-            "text": "boys",
-            "value": 1
-        },
-        {
-            "text": "William",
-            "value": 1
-        },
-        {
-            "text": "Auskicker",
-            "value": 1
-        },
-        {
-            "text": "Year",
-            "value": 1
-        },
-        {
-            "text": "Nominee",
-            "value": 1
-        },
-        {
-            "text": "Priceless",
-            "value": 1
-        },
-        {
-            "text": "experience",
-            "value": 1
-        },
-        {
-            "text": "barracking",
-            "value": 1
-        },
-        {
-            "text": "fairytales",
-            "value": 1
-        },
-        {
-            "text": "Shannon",
-            "value": 1
-        },
-        {
-            "text": "Neale",
-            "value": 1
-        },
-        {
-            "text": "wins",
-            "value": 1
-        },
-        {
-            "text": "Heat",
-            "value": 1
-        },
-        {
-            "text": "Sprint",
-            "value": 1
-        },
-        {
-            "text": "chat",
-            "value": 1
-        },
-        {
-            "text": "Touk",
-            "value": 1
-        },
-        {
-            "text": "Miller",
-            "value": 1
-        },
-        {
-            "text": "Christian",
-            "value": 1
-        },
-        {
-            "text": "Petracca",
-            "value": 1
-        },
-        {
-            "text": "stadium",
-            "value": 1
-        },
-        {
-            "text": "Cannot",
-            "value": 1
-        },
-        {
-            "text": "believe",
-            "value": 2
-        },
-        {
-            "text": "Bloods",
-            "value": 1
-        },
-        {
-            "text": "Best",
-            "value": 2
-        },
-        {
-            "text": "sporting",
-            "value": 1
-        },
-        {
-            "text": "calendar",
-            "value": 1
-        },
-        {
-            "text": "goooo",
-            "value": 1
-        },
-        {
-            "text": "Members",
-            "value": 1
-        },
-        {
-            "text": "Dining",
-            "value": 1
-        },
-        {
-            "text": "democracy",
-            "value": 1
-        },
-        {
-            "text": "household",
-            "value": 1
-        },
-        {
-            "text": "voluntarily",
-            "value": 1
-        },
-        {
-            "text": "supporters",
-            "value": 1
-        },
-        {
-            "text": "birth",
-            "value": 1
-        },
-        {
-            "text": "imminent",
-            "value": 1
-        },
-        {
-            "text": "moment",
-            "value": 1
-        },
-        {
-            "text": "Walking",
-            "value": 1
-        },
-        {
-            "text": "behind",
-            "value": 1
-        },
-        {
-            "text": "Inspired",
-            "value": 1
-        },
-        {
-            "text": "Unemployed",
-            "value": 1
-        },
-        {
-            "text": "descended",
-            "value": 1
-        },
-        {
-            "text": "marching",
-            "value": 1
-        },
-        {
-            "text": "band",
-            "value": 1
-        },
-        {
-            "text": "Impending",
-            "value": 1
-        },
-        {
-            "text": "GRAND",
-            "value": 2
-        },
-        {
-            "text": "FINAL",
-            "value": 2
-        },
-        {
-            "text": "DAY",
-            "value": 1
-        },
-        {
-            "text": "BLOODS",
-            "value": 1
-        },
-        {
-            "text": "PREDICTION",
-            "value": 1
-        },
-        {
-            "text": "16",
-            "value": 1
-        },
-        {
-            "text": "7",
-            "value": 2
-        },
-        {
-            "text": "103",
-            "value": 1
-        },
-        {
-            "text": "88",
-            "value": 1
-        },
-        {
-            "text": "Goal",
-            "value": 1
-        },
-        {
-            "text": "Luke",
-            "value": 1
-        },
-        {
-            "text": "NSM",
-            "value": 1
-        },
-        {
-            "text": "Stewart",
-            "value": 1
-        },
-        {
-            "text": "Disposals",
-            "value": 1
-        },
-        {
-            "text": "Callum",
-            "value": 1
-        },
-        {
-            "text": "Mills",
-            "value": 1
-        },
-        {
-            "text": "Attendance",
-            "value": 1
-        },
-        {
-            "text": "99",
-            "value": 1
-        },
-        {
-            "text": "524",
-            "value": 1
-        },
-        {
-            "text": "Pitch",
-            "value": 1
-        },
-        {
-            "text": "Invader",
-            "value": 1
-        },
-        {
-            "text": "Early",
-            "value": 1
-        },
-        {
-            "text": "Meetings",
-            "value": 1
-        },
-        {
-            "text": "catch",
-            "value": 1
-        },
-        {
-            "text": "ups",
-            "value": 1
-        },
-        {
-            "text": "Sun",
-            "value": 1
-        },
-        {
-            "text": "floodlights",
-            "value": 1
-        },
-        {
-            "text": "26th",
-            "value": 1
-        },
-        {
-            "text": "office",
-            "value": 1
-        },
-        {
-            "text": "Cracking",
-            "value": 2
-        },
-        {
-            "text": "8am",
-            "value": 1
-        },
-        {
-            "text": "scenes",
-            "value": 1
-        },
-        {
-            "text": "CARN",
-            "value": 1
-        },
-        {
-            "text": "festive",
-            "value": 1
-        },
-        {
-            "text": "spirit",
-            "value": 1
-        },
-        {
-            "text": "parade",
-            "value": 2
-        },
-        {
-            "text": "certainly",
-            "value": 1
-        },
-        {
-            "text": "step",
-            "value": 1
-        },
-        {
-            "text": "count",
-            "value": 1
-        },
-        {
-            "text": "crews",
-            "value": 1
-        },
-        {
-            "text": "land",
-            "value": 1
-        },
-        {
-            "text": "keeping",
-            "value": 1
-        },
-        {
-            "text": "safe",
-            "value": 1
-        },
-        {
-            "text": "acoustic",
-            "value": 1
-        },
-        {
-            "text": "tonight",
-            "value": 2
-        },
-        {
-            "text": "eve",
-            "value": 2
-        },
-        {
-            "text": "Cool",
-            "value": 1
-        },
-        {
-            "text": "Ponsford",
-            "value": 1
-        },
-        {
-            "text": "Stand",
-            "value": 1
-        },
-        {
-            "text": "tomorrow",
-            "value": 2
-        },
-        {
-            "text": "waiting",
-            "value": 1
-        },
-        {
-            "text": "bottled",
-            "value": 1
-        },
-        {
-            "text": "costs",
-            "value": 1
-        },
-        {
-            "text": "70",
-            "value": 1
-        },
-        {
-            "text": "im",
-            "value": 1
-        },
-        {
-            "text": "fkn",
-            "value": 1
-        },
-        {
-            "text": "mad",
-            "value": 1
-        },
-        {
-            "text": "smidgen",
-            "value": 1
-        },
-        {
-            "text": "early",
-            "value": 1
-        },
-        {
-            "text": "okay",
-            "value": 1
-        },
-        {
-            "text": "Gentleman",
-            "value": 1
-        },
-        {
-            "text": "handed",
-            "value": 1
-        },
-        {
-            "text": "said",
-            "value": 1
-        },
-        {
-            "text": "here's",
-            "value": 1
-        },
-        {
-            "text": "penalty",
-            "value": 1
-        },
-        {
-            "text": "pay",
-            "value": 1
-        },
-        {
-            "text": "Yeah",
-            "value": 1
-        },
-        {
-            "text": "normally",
-            "value": 1
-        },
-        {
-            "text": "city",
-            "value": 1
-        },
-        {
-            "text": "skyline",
-            "value": 1
-        },
-        {
-            "text": "fog",
-            "value": 1
-        },
-        {
-            "text": "Naarm",
-            "value": 1
-        },
-        {
-            "text": "Country",
-            "value": 1
-        },
-        {
-            "text": "melbourne",
-            "value": 1
-        },
-        {
-            "text": "Happier",
-            "value": 1
-        },
-        {
-            "text": "Ever",
-            "value": 1
-        },
-        {
-            "text": "World",
-            "value": 2
-        },
-        {
-            "text": "Tour",
-            "value": 1
-        },
-        {
-            "text": "Interviewed",
-            "value": 1
-        },
-        {
-            "text": "channel",
-            "value": 1
-        },
-        {
-            "text": "mcg",
-            "value": 1
-        },
-        {
-            "text": "Enjoyed",
-            "value": 1
-        },
-        {
-            "text": "Parade",
-            "value": 2
-        },
-        {
-            "text": "Future",
-            "value": 1
-        },
-        {
-            "text": "national",
-            "value": 1
-        },
-        {
-            "text": "sports",
-            "value": 1
-        },
-        {
-            "text": "broadcaster",
-            "value": 1
-        },
-        {
-            "text": "Hanging",
-            "value": 1
-        },
-        {
-            "text": "Dwayne",
-            "value": 1
-        },
-        {
-            "text": "midday",
-            "value": 1
-        },
-        {
-            "text": "madness",
-            "value": 1
-        },
-        {
-            "text": "Presentation",
-            "value": 1
-        },
-        {
-            "text": "Many",
-            "value": 1
-        },
-        {
-            "text": "People",
-            "value": 1
-        },
-        {
-            "text": "tell",
-            "value": 1
-        },
-        {
-            "text": "u",
-            "value": 1
-        },
-        {
-            "text": "must",
-            "value": 1
-        },
-        {
-            "text": "limit",
-            "value": 1
-        },
-        {
-            "text": "saturday",
-            "value": 1
-        },
-        {
-            "text": "billies",
-            "value": 1
-        },
-        {
-            "text": "readdyy",
-            "value": 1
-        },
-        {
-            "text": "pit",
-            "value": 1
-        },
-        {
-            "text": "rockin'",
-            "value": 1
-        },
-        {
-            "text": "us",
-            "value": 1
-        },
-        {
-            "text": "nosebleeds",
-            "value": 1
-        },
-        {
-            "text": "Covering",
-            "value": 1
-        },
-        {
-            "text": "action",
-            "value": 1
-        },
-        {
-            "text": "CS",
-            "value": 1
-        },
-        {
-            "text": "DreamHack",
-            "value": 1
-        },
-        {
-            "text": "Event",
-            "value": 1
-        },
-        {
-            "text": "Production",
-            "value": 1
-        },
-        {
-            "text": "Broadcast",
-            "value": 1
-        },
-        {
-            "text": "Antonio",
-            "value": 1
-        },
-        {
-            "text": "Cafasso",
-            "value": 1
-        },
-        {
-            "text": "Location",
-            "value": 1
-        },
-        {
-            "text": "Tech",
-            "value": 1
-        },
-        {
-            "text": "Ponty",
-            "value": 1
-        },
-        {
-            "text": "Umar",
-            "value": 1
-        },
-        {
-            "text": "seeing",
-            "value": 1
-        },
-        {
-            "text": "ages",
-            "value": 1
-        },
-        {
-            "text": "OLD",
-            "value": 1
-        },
-        {
-            "text": "AGES",
-            "value": 1
-        },
-        {
-            "text": "happening",
-            "value": 1
-        },
-        {
-            "text": "Virgin",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 1
-        },
-        {
-            "text": "Footy",
-            "value": 4
-        },
-        {
-            "text": "pop",
-            "value": 1
-        },
-        {
-            "text": "join",
-            "value": 1
-        },
-        {
-            "text": "created",
-            "value": 1
-        },
-        {
-            "text": "Toyota",
-            "value": 1
-        },
-        {
-            "text": "Clubhouse",
-            "value": 1
-        },
-        {
-            "text": "player",
-            "value": 1
-        },
-        {
-            "text": "appearances",
-            "value": 1
-        },
-        {
-            "text": "giveaways",
-            "value": 1
-        },
-        {
-            "text": "daily",
-            "value": 1
-        },
-        {
-            "text": "sausage",
-            "value": 1
-        },
-        {
-            "text": "sizzle",
-            "value": 1
-        },
-        {
-            "text": "Premiership",
-            "value": 1
-        },
-        {
-            "text": "Cup",
-            "value": 1
-        },
-        {
-            "text": "Rehearsals",
-            "value": 1
-        },
-        {
-            "text": "full",
-            "value": 1
-        },
-        {
-            "text": "swing",
-            "value": 1
-        },
-        {
-            "text": "sounding",
-            "value": 1
-        },
-        {
-            "text": "awesome",
-            "value": 1
-        },
-        {
-            "text": "days",
-            "value": 1
-        },
-        {
-            "text": "say",
-            "value": 1
-        },
-        {
-            "text": "hi",
-            "value": 1
-        },
-        {
-            "text": "Week",
-            "value": 1
-        },
-        {
-            "text": "Media",
-            "value": 2
-        },
-        {
-            "text": "Breakfast",
-            "value": 1
-        },
-        {
-            "text": "Release",
-            "value": 1
-        },
-        {
-            "text": "Abolish",
-            "value": 1
-        },
-        {
-            "text": "Monarchy",
-            "value": 1
-        },
-        {
-            "text": "Rally",
-            "value": 1
-        },
-        {
-            "text": "Mar",
-            "value": 1
-        },
-        {
-            "text": "way",
-            "value": 1
-        },
-        {
-            "text": "winning",
-            "value": 1
-        },
-        {
-            "text": "career",
-            "value": 1
-        },
-        {
-            "text": "cut",
-            "value": 1
-        },
-        {
-            "text": "tragic",
-            "value": 1
-        },
-        {
-            "text": "lack",
-            "value": 1
-        },
-        {
-            "text": "ability",
-            "value": 1
         }
     ]
 }

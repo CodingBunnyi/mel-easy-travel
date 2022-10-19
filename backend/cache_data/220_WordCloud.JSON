@@ -6,11 +6,11 @@
         },
         {
             "text": "night",
-            "value": 2
+            "value": 1
         },
         {
             "text": "dinners",
-            "value": 2
+            "value": 1
         },
         {
             "text": "ice",
@@ -46,11 +46,11 @@
         },
         {
             "text": "posted",
-            "value": 7
+            "value": 2
         },
         {
             "text": "photo",
-            "value": 7
+            "value": 2
         },
         {
             "text": "Terrace",
@@ -58,7 +58,7 @@
         },
         {
             "text": "Exhibition",
-            "value": 5
+            "value": 1
         },
         {
             "text": "st",
@@ -74,7 +74,7 @@
         },
         {
             "text": "former",
-            "value": 2
+            "value": 1
         },
         {
             "text": "warehouse",
@@ -82,7 +82,7 @@
         },
         {
             "text": "Lygon",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Street",
@@ -130,11 +130,11 @@
         },
         {
             "text": "fun",
-            "value": 2
+            "value": 1
         },
         {
             "text": "First",
-            "value": 2
+            "value": 1
         },
         {
             "text": "face",
@@ -162,11 +162,11 @@
         },
         {
             "text": "chair",
-            "value": 2
+            "value": 1
         },
         {
             "text": "cool",
-            "value": 2
+            "value": 1
         },
         {
             "text": "finally",
@@ -218,7 +218,7 @@
         },
         {
             "text": "year",
-            "value": 2
+            "value": 1
         },
         {
             "text": "excited",
@@ -250,11 +250,11 @@
         },
         {
             "text": "2",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Melbourne",
-            "value": 6
+            "value": 2
         },
         {
             "text": "things",
@@ -306,7 +306,7 @@
         },
         {
             "text": "go",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Egyptian",
@@ -326,11 +326,11 @@
         },
         {
             "text": "Restaurant",
-            "value": 4
+            "value": 1
         },
         {
             "text": "amp",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Bar",
@@ -338,11 +338,11 @@
         },
         {
             "text": "Carlton",
-            "value": 15
+            "value": 3
         },
         {
             "text": "VIC",
-            "value": 5
+            "value": 1
         },
         {
             "text": "pics",
@@ -390,7 +390,7 @@
         },
         {
             "text": "favourite",
-            "value": 2
+            "value": 1
         },
         {
             "text": "extra",
@@ -410,11 +410,11 @@
         },
         {
             "text": "Victoria",
-            "value": 6
+            "value": 2
         },
         {
             "text": "Australia",
-            "value": 6
+            "value": 2
         },
         {
             "text": "Rescued",
@@ -438,7 +438,7 @@
         },
         {
             "text": "natural",
-            "value": 2
+            "value": 1
         },
         {
             "text": "habitat",
@@ -502,7 +502,7 @@
         },
         {
             "text": "back",
-            "value": 3
+            "value": 1
         },
         {
             "text": "seat",
@@ -510,607 +510,7 @@
         },
         {
             "text": "Motorclassica",
-            "value": 4
-        },
-        {
-            "text": "Updating",
             "value": 1
-        },
-        {
-            "text": "week",
-            "value": 1
-        },
-        {
-            "text": "something",
-            "value": 1
-        },
-        {
-            "text": "wrong",
-            "value": 1
-        },
-        {
-            "text": "scene",
-            "value": 1
-        },
-        {
-            "text": "couch",
-            "value": 1
-        },
-        {
-            "text": "houndless",
-            "value": 1
-        },
-        {
-            "text": "Monday",
-            "value": 2
-        },
-        {
-            "text": "Charcoal",
-            "value": 1
-        },
-        {
-            "text": "Grill",
-            "value": 1
-        },
-        {
-            "text": "Steakhouse",
-            "value": 1
-        },
-        {
-            "text": "spring",
-            "value": 1
-        },
-        {
-            "text": "fine",
-            "value": 1
-        },
-        {
-            "text": "running",
-            "value": 1
-        },
-        {
-            "text": "great",
-            "value": 1
-        },
-        {
-            "text": "Victorian",
-            "value": 1
-        },
-        {
-            "text": "Trades",
-            "value": 1
-        },
-        {
-            "text": "Hall",
-            "value": 2
-        },
-        {
-            "text": "details",
-            "value": 1
-        },
-        {
-            "text": "hand",
-            "value": 1
-        },
-        {
-            "text": "built",
-            "value": 1
-        },
-        {
-            "text": "cars",
-            "value": 1
-        },
-        {
-            "text": "FRIENDS",
-            "value": 1
-        },
-        {
-            "text": "gt",
-            "value": 7
-        },
-        {
-            "text": "Marion",
-            "value": 1
-        },
-        {
-            "text": "kind",
-            "value": 1
-        },
-        {
-            "text": "paradise",
-            "value": 1
-        },
-        {
-            "text": "Ferrari",
-            "value": 1
-        },
-        {
-            "text": "time",
-            "value": 1
-        },
-        {
-            "text": "Amarillo",
-            "value": 1
-        },
-        {
-            "text": "toilet",
-            "value": 1
-        },
-        {
-            "text": "lighting",
-            "value": 1
-        },
-        {
-            "text": "slaps",
-            "value": 1
-        },
-        {
-            "text": "Medley",
-            "value": 1
-        },
-        {
-            "text": "Hi",
-            "value": 1
-        },
-        {
-            "text": "Folks",
-            "value": 1
-        },
-        {
-            "text": "heading",
-            "value": 1
-        },
-        {
-            "text": "month",
-            "value": 1
-        },
-        {
-            "text": "final",
-            "value": 1
-        },
-        {
-            "text": "market",
-            "value": 1
-        },
-        {
-            "text": "wait",
-            "value": 1
-        },
-        {
-            "text": "see",
-            "value": 3
-        },
-        {
-            "text": "Royal",
-            "value": 4
-        },
-        {
-            "text": "Building",
-            "value": 4
-        },
-        {
-            "text": "AUSSIE",
-            "value": 1
-        },
-        {
-            "text": "derelict",
-            "value": 1
-        },
-        {
-            "text": "Red",
-            "value": 1
-        },
-        {
-            "text": "Cross",
-            "value": 1
-        },
-        {
-            "text": "building",
-            "value": 1
-        },
-        {
-            "text": "Gardens",
-            "value": 4
-        },
-        {
-            "text": "Great",
-            "value": 1
-        },
-        {
-            "text": "weather",
-            "value": 1
-        },
-        {
-            "text": "drink",
-            "value": 1
-        },
-        {
-            "text": "COEDO",
-            "value": 1
-        },
-        {
-            "text": "Yuzu",
-            "value": 1
-        },
-        {
-            "text": "Rice",
-            "value": 1
-        },
-        {
-            "text": "Pale",
-            "value": 1
-        },
-        {
-            "text": "Ale",
-            "value": 1
-        },
-        {
-            "text": "Real",
-            "value": 1
-        },
-        {
-            "text": "real",
-            "value": 1
-        },
-        {
-            "text": "tasty",
-            "value": 1
-        },
-        {
-            "text": "I'm",
-            "value": 3
-        },
-        {
-            "text": "Khabbay",
-            "value": 1
-        },
-        {
-            "text": "ball",
-            "value": 1
-        },
-        {
-            "text": "co",
-            "value": 2
-        },
-        {
-            "text": "chairing",
-            "value": 1
-        },
-        {
-            "text": "first",
-            "value": 1
-        },
-        {
-            "text": "session",
-            "value": 1
-        },
-        {
-            "text": "morning",
-            "value": 1
-        },
-        {
-            "text": "Thank",
-            "value": 1
-        },
-        {
-            "text": "amazing",
-            "value": 1
-        },
-        {
-            "text": "panel",
-            "value": 1
-        },
-        {
-            "text": "Cynthia",
-            "value": 1
-        },
-        {
-            "text": "Kenyon",
-            "value": 1
-        },
-        {
-            "text": "Well",
-            "value": 1
-        },
-        {
-            "text": "Moonage",
-            "value": 1
-        },
-        {
-            "text": "Daydream",
-            "value": 1
-        },
-        {
-            "text": "IMAX",
-            "value": 2
-        },
-        {
-            "text": "try",
-            "value": 1
-        },
-        {
-            "text": "get",
-            "value": 1
-        },
-        {
-            "text": "cup",
-            "value": 1
-        },
-        {
-            "text": "tea",
-            "value": 1
-        },
-        {
-            "text": "3pm",
-            "value": 1
-        },
-        {
-            "text": "afternoon",
-            "value": 1
-        },
-        {
-            "text": "Everywhere",
-            "value": 1
-        },
-        {
-            "text": "closed",
-            "value": 1
-        },
-        {
-            "text": "Impossible",
-            "value": 1
-        },
-        {
-            "text": "unless",
-            "value": 1
-        },
-        {
-            "text": "want",
-            "value": 1
-        },
-        {
-            "text": "suffocated",
-            "value": 1
-        },
-        {
-            "text": "stench",
-            "value": 1
-        },
-        {
-            "text": "popcorn",
-            "value": 1
-        },
-        {
-            "text": "Hilby",
-            "value": 1
-        },
-        {
-            "text": "Colombian",
-            "value": 1
-        },
-        {
-            "text": "brunch",
-            "value": 1
-        },
-        {
-            "text": "Sonido",
-            "value": 1
-        },
-        {
-            "text": "Almost",
-            "value": 1
-        },
-        {
-            "text": "hidden",
-            "value": 1
-        },
-        {
-            "text": "Spring",
-            "value": 2
-        },
-        {
-            "text": "1",
-            "value": 1
-        },
-        {
-            "text": "melbourne",
-            "value": 1
-        },
-        {
-            "text": "3D",
-            "value": 1
-        },
-        {
-            "text": "2009",
-            "value": 1
-        },
-        {
-            "text": "Lots",
-            "value": 1
-        },
-        {
-            "text": "oohs",
-            "value": 1
-        },
-        {
-            "text": "ahhhs",
-            "value": 1
-        },
-        {
-            "text": "chasing",
-            "value": 1
-        },
-        {
-            "text": "moths",
-            "value": 1
-        },
-        {
-            "text": "walls",
-            "value": 1
-        },
-        {
-            "text": "fish",
-            "value": 1
-        },
-        {
-            "text": "crabs",
-            "value": 1
-        },
-        {
-            "text": "across",
-            "value": 1
-        },
-        {
-            "text": "floor",
-            "value": 1
-        },
-        {
-            "text": "Tyama",
-            "value": 3
-        },
-        {
-            "text": "immersive",
-            "value": 2
-        },
-        {
-            "text": "experience",
-            "value": 2
-        },
-        {
-            "text": "CHAH",
-            "value": 1
-        },
-        {
-            "text": "MUH",
-            "value": 1
-        },
-        {
-            "text": "Keerray",
-            "value": 1
-        },
-        {
-            "text": "Woorroong",
-            "value": 1
-        },
-        {
-            "text": "language",
-            "value": 1
-        },
-        {
-            "text": "verb",
-            "value": 1
-        },
-        {
-            "text": "know",
-            "value": 1
-        },
-        {
-            "text": "connect",
-            "value": 1
-        },
-        {
-            "text": "world",
-            "value": 1
-        },
-        {
-            "text": "storytelling",
-            "value": 1
-        },
-        {
-            "text": "Museum",
-            "value": 1
-        },
-        {
-            "text": "Grounded",
-            "value": 1
-        },
-        {
-            "text": "Peoples",
-            "value": 1
-        },
-        {
-            "text": "knowledge",
-            "value": 1
-        },
-        {
-            "text": "blends",
-            "value": 1
-        },
-        {
-            "text": "physical",
-            "value": 1
-        },
-        {
-            "text": "digital",
-            "value": 1
-        },
-        {
-            "text": "create",
-            "value": 1
-        },
-        {
-            "text": "fantastic",
-            "value": 1
-        },
-        {
-            "text": "Universal",
-            "value": 1
-        },
-        {
-            "text": "World",
-            "value": 1
-        },
-        {
-            "text": "Heritage",
-            "value": 1
-        },
-        {
-            "text": "Listed",
-            "value": 1
-        },
-        {
-            "text": "lit",
-            "value": 1
-        },
-        {
-            "text": "Purple",
-            "value": 1
-        },
-        {
-            "text": "tribute",
-            "value": 1
-        },
-        {
-            "text": "Elizabeth",
-            "value": 1
-        },
-        {
-            "text": "II",
-            "value": 1
-        },
-        {
-            "text": "Beautiful",
-            "value": 2
-        },
-        {
-            "text": "brickwork",
-            "value": 2
-        },
-        {
-            "text": "one",
-            "value": 2
-        },
-        {
-            "text": "stopping",
-            "value": 2
-        },
-        {
-            "text": "take",
-            "value": 2
-        },
-        {
-            "text": "snaps",
-            "value": 2
         }
     ]
 }

@@ -46,7 +46,7 @@
         },
         {
             "text": "Australia",
-            "value": 2
+            "value": 1
         },
         {
             "text": "day",
@@ -174,62 +174,6 @@
         },
         {
             "text": "quiz",
-            "value": 1
-        },
-        {
-            "text": "Punt",
-            "value": 1
-        },
-        {
-            "text": "Rd",
-            "value": 1
-        },
-        {
-            "text": "South",
-            "value": 1
-        },
-        {
-            "text": "Yarra",
-            "value": 1
-        },
-        {
-            "text": "lanes",
-            "value": 1
-        },
-        {
-            "text": "closed",
-            "value": 2
-        },
-        {
-            "text": "southbound",
-            "value": 2
-        },
-        {
-            "text": "left",
-            "value": 1
-        },
-        {
-            "text": "lane",
-            "value": 1
-        },
-        {
-            "text": "near",
-            "value": 1
-        },
-        {
-            "text": "Albion",
-            "value": 1
-        },
-        {
-            "text": "Street",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
             "value": 1
         }
     ]
