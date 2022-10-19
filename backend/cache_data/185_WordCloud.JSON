@@ -410,7 +410,7 @@
         },
         {
             "text": "great",
-            "value": 3
+            "value": 2
         },
         {
             "text": "catch",
@@ -510,7 +510,7 @@
         },
         {
             "text": "gt",
-            "value": 6
+            "value": 4
         },
         {
             "text": "swipe",
@@ -598,7 +598,7 @@
         },
         {
             "text": "rain",
-            "value": 2
+            "value": 1
         },
         {
             "text": "poor",
@@ -706,7 +706,7 @@
         },
         {
             "text": "people",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Den",
@@ -922,34 +922,6 @@
         },
         {
             "text": "instead",
-            "value": 1
-        },
-        {
-            "text": "Despite",
-            "value": 1
-        },
-        {
-            "text": "got",
-            "value": 1
-        },
-        {
-            "text": "turnout",
-            "value": 1
-        },
-        {
-            "text": "asking",
-            "value": 1
-        },
-        {
-            "text": "3pm",
-            "value": 1
-        },
-        {
-            "text": "Learn",
-            "value": 1
-        },
-        {
-            "text": "attend",
             "value": 1
         }
     ]

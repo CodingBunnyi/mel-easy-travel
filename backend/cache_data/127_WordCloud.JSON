@@ -390,7 +390,7 @@
         },
         {
             "text": "time",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Finally",
@@ -874,18 +874,6 @@
         },
         {
             "text": "Grand",
-            "value": 1
-        },
-        {
-            "text": "one",
-            "value": 1
-        },
-        {
-            "text": "favourite",
-            "value": 1
-        },
-        {
-            "text": "paintings",
             "value": 1
         }
     ]

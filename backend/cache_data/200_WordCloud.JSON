@@ -289,6 +289,10 @@
             "value": 1
         },
         {
+            "text": "enphoz",
+            "value": 1
+        },
+        {
             "text": "Terrace",
             "value": 1
         },
@@ -1042,14 +1046,6 @@
         },
         {
             "text": "test",
-            "value": 1
-        },
-        {
-            "text": "wanna",
-            "value": 1
-        },
-        {
-            "text": "live",
             "value": 1
         }
     ]

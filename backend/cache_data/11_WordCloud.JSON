@@ -673,6 +673,10 @@
             "value": 1
         },
         {
+            "text": "enphoz",
+            "value": 1
+        },
+        {
             "text": "opening",
             "value": 1
         },
@@ -1478,14 +1482,6 @@
         },
         {
             "text": "test",
-            "value": 1
-        },
-        {
-            "text": "wanna",
-            "value": 1
-        },
-        {
-            "text": "live",
             "value": 1
         }
     ]

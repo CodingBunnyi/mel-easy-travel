@@ -2,15 +2,15 @@
     "word_freq": [
         {
             "text": "I'm",
-            "value": 5
+            "value": 4
         },
         {
             "text": "Carlton",
-            "value": 7
+            "value": 6
         },
         {
             "text": "Melbourne",
-            "value": 5
+            "value": 4
         },
         {
             "text": "Victoria",
@@ -430,7 +430,7 @@
         },
         {
             "text": "VIC",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Bec",
@@ -986,10 +986,6 @@
         },
         {
             "text": "heritage",
-            "value": 1
-        },
-        {
-            "text": "Connect",
             "value": 1
         }
     ]

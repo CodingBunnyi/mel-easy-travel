@@ -6,7 +6,7 @@
         },
         {
             "text": "chat",
-            "value": 2
+            "value": 1
         },
         {
             "text": "taxonomy",
@@ -1090,7 +1090,7 @@
         },
         {
             "text": "AISA",
-            "value": 2
+            "value": 1
         },
         {
             "text": "CyberCon",
@@ -1118,50 +1118,6 @@
         },
         {
             "text": "proud",
-            "value": 1
-        },
-        {
-            "text": "Front",
-            "value": 1
-        },
-        {
-            "text": "row",
-            "value": 1
-        },
-        {
-            "text": "seats",
-            "value": 1
-        },
-        {
-            "text": "fireside",
-            "value": 1
-        },
-        {
-            "text": "Steve",
-            "value": 2
-        },
-        {
-            "text": "Wozniak",
-            "value": 1
-        },
-        {
-            "text": "first",
-            "value": 1
-        },
-        {
-            "text": "computer",
-            "value": 1
-        },
-        {
-            "text": "Apple",
-            "value": 1
-        },
-        {
-            "text": "c",
-            "value": 1
-        },
-        {
-            "text": "designed",
             "value": 1
         }
     ]

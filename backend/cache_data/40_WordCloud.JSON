@@ -118,7 +118,7 @@
         },
         {
             "text": "I'm",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Argyle",
@@ -314,7 +314,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Egyptian",
@@ -342,11 +342,11 @@
         },
         {
             "text": "Carlton",
-            "value": 2
+            "value": 1
         },
         {
             "text": "VIC",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Bec",
@@ -1026,10 +1026,6 @@
         },
         {
             "text": "heritage",
-            "value": 1
-        },
-        {
-            "text": "Connect",
             "value": 1
         }
     ]

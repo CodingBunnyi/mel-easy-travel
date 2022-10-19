@@ -62,7 +62,7 @@
         },
         {
             "text": "time",
-            "value": 3
+            "value": 2
         },
         {
             "text": "celebrating",
@@ -138,7 +138,7 @@
         },
         {
             "text": "rain",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Oct",
@@ -458,7 +458,7 @@
         },
         {
             "text": "great",
-            "value": 4
+            "value": 3
         },
         {
             "text": "ups",
@@ -750,7 +750,7 @@
         },
         {
             "text": "people",
-            "value": 2
+            "value": 1
         },
         {
             "text": "including",
@@ -891,50 +891,6 @@
         {
             "text": "Grand",
             "value": 1
-        },
-        {
-            "text": "one",
-            "value": 1
-        },
-        {
-            "text": "favourite",
-            "value": 1
-        },
-        {
-            "text": "paintings",
-            "value": 1
-        },
-        {
-            "text": "Despite",
-            "value": 1
-        },
-        {
-            "text": "got",
-            "value": 1
-        },
-        {
-            "text": "turnout",
-            "value": 1
-        },
-        {
-            "text": "asking",
-            "value": 1
-        },
-        {
-            "text": "3pm",
-            "value": 1
-        },
-        {
-            "text": "Learn",
-            "value": 1
-        },
-        {
-            "text": "attend",
-            "value": 1
-        },
-        {
-            "text": "gt",
-            "value": 2
         }
     ]
 }

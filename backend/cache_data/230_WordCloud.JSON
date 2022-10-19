@@ -1,24 +1,188 @@
 {
     "word_freq": [
         {
-            "text": "posted",
-            "value": 119
+            "text": "Mel",
+            "value": 4
         },
         {
-            "text": "photo",
-            "value": 119
+            "text": "bin",
+            "value": 4
+        },
+        {
+            "text": "Aka",
+            "value": 4
+        },
+        {
+            "text": "trip",
+            "value": 4
+        },
+        {
+            "text": "photodump",
+            "value": 4
+        },
+        {
+            "text": "Round",
+            "value": 4
+        },
+        {
+            "text": "5",
+            "value": 2
+        },
+        {
+            "text": "architecture",
+            "value": 2
+        },
+        {
+            "text": "Mostly",
+            "value": 1
+        },
+        {
+            "text": "CBD",
+            "value": 1
+        },
+        {
+            "text": "Chinatown",
+            "value": 1
+        },
+        {
+            "text": "Shrine",
+            "value": 2
+        },
+        {
+            "text": "Remembrance",
+            "value": 2
         },
         {
             "text": "Melbourne",
-            "value": 180
+            "value": 184
         },
         {
             "text": "Victoria",
-            "value": 159
+            "value": 162
         },
         {
             "text": "Australia",
-            "value": 166
+            "value": 169
+        },
+        {
+            "text": "4",
+            "value": 5
+        },
+        {
+            "text": "bunch",
+            "value": 1
+        },
+        {
+            "text": "street",
+            "value": 3
+        },
+        {
+            "text": "art",
+            "value": 4
+        },
+        {
+            "text": "3",
+            "value": 2
+        },
+        {
+            "text": "vs",
+            "value": 1
+        },
+        {
+            "text": "notorious",
+            "value": 1
+        },
+        {
+            "text": "think",
+            "value": 3
+        },
+        {
+            "text": "granteknutson",
+            "value": 1
+        },
+        {
+            "text": "would",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 3
+        },
+        {
+            "text": "2",
+            "value": 3
+        },
+        {
+            "text": "two",
+            "value": 4
+        },
+        {
+            "text": "different",
+            "value": 2
+        },
+        {
+            "text": "botanical",
+            "value": 1
+        },
+        {
+            "text": "gardens",
+            "value": 1
+        },
+        {
+            "text": "ends",
+            "value": 1
+        },
+        {
+            "text": "city",
+            "value": 3
+        },
+        {
+            "text": "stkildabotanicalgardens",
+            "value": 1
+        },
+        {
+            "text": "royalbotanicgardensvic",
+            "value": 1
+        },
+        {
+            "text": "Business",
+            "value": 2
+        },
+        {
+            "text": "usual",
+            "value": 1
+        },
+        {
+            "text": "week",
+            "value": 2
+        },
+        {
+            "text": "posting",
+            "value": 1
+        },
+        {
+            "text": "many",
+            "value": 1
+        },
+        {
+            "text": "photos",
+            "value": 2
+        },
+        {
+            "text": "videos",
+            "value": 2
+        },
+        {
+            "text": "legging",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 118
+        },
+        {
+            "text": "photo",
+            "value": 118
         },
         {
             "text": "Link",
@@ -285,10 +449,6 @@
             "value": 2
         },
         {
-            "text": "photos",
-            "value": 1
-        },
-        {
             "text": "best",
             "value": 3
         },
@@ -339,10 +499,6 @@
         {
             "text": "money",
             "value": 1
-        },
-        {
-            "text": "two",
-            "value": 2
         },
         {
             "text": "ways",
@@ -443,10 +599,6 @@
         {
             "text": "worrying",
             "value": 1
-        },
-        {
-            "text": "think",
-            "value": 2
         },
         {
             "text": "need",
@@ -1109,10 +1261,6 @@
             "value": 1
         },
         {
-            "text": "2",
-            "value": 2
-        },
-        {
             "text": "landscape",
             "value": 1
         },
@@ -1123,10 +1271,6 @@
         {
             "text": "pic",
             "value": 1
-        },
-        {
-            "text": "4",
-            "value": 4
         },
         {
             "text": "shows",
@@ -1329,10 +1473,6 @@
             "value": 2
         },
         {
-            "text": "art",
-            "value": 1
-        },
-        {
             "text": "LIGHT",
             "value": 1
         },
@@ -1355,10 +1495,6 @@
         {
             "text": "world",
             "value": 1
-        },
-        {
-            "text": "love",
-            "value": 2
         },
         {
             "text": "Magnificent",
@@ -1530,10 +1666,6 @@
         },
         {
             "text": "talk",
-            "value": 1
-        },
-        {
-            "text": "videos",
             "value": 1
         },
         {
@@ -1717,10 +1849,6 @@
             "value": 2
         },
         {
-            "text": "city",
-            "value": 2
-        },
-        {
             "text": "Comedy",
             "value": 1
         },
@@ -1746,10 +1874,6 @@
         },
         {
             "text": "sister",
-            "value": 1
-        },
-        {
-            "text": "5",
             "value": 1
         },
         {
@@ -2189,10 +2313,6 @@
             "value": 1
         },
         {
-            "text": "week",
-            "value": 1
-        },
-        {
             "text": "OMG",
             "value": 1
         },
@@ -2294,10 +2414,6 @@
         },
         {
             "text": "creates",
-            "value": 1
-        },
-        {
-            "text": "3",
             "value": 1
         },
         {
@@ -2418,10 +2534,6 @@
         },
         {
             "text": "Secret",
-            "value": 1
-        },
-        {
-            "text": "Business",
             "value": 1
         },
         {
@@ -2773,10 +2885,6 @@
             "value": 1
         },
         {
-            "text": "architecture",
-            "value": 1
-        },
-        {
             "text": "ability",
             "value": 1
         },
@@ -2866,14 +2974,6 @@
         },
         {
             "text": "intersection",
-            "value": 1
-        },
-        {
-            "text": "Shrine",
-            "value": 1
-        },
-        {
-            "text": "Remembrance",
             "value": 1
         },
         {

@@ -330,7 +330,7 @@
         },
         {
             "text": "one",
-            "value": 2
+            "value": 1
         },
         {
             "text": "absolute",
@@ -814,18 +814,6 @@
         },
         {
             "text": "Southgate",
-            "value": 1
-        },
-        {
-            "text": "time",
-            "value": 1
-        },
-        {
-            "text": "favourite",
-            "value": 1
-        },
-        {
-            "text": "paintings",
             "value": 1
         }
     ]

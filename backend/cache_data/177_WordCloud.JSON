@@ -1,6 +1,14 @@
 {
     "word_freq": [
         {
+            "text": "Business",
+            "value": 1
+        },
+        {
+            "text": "usual",
+            "value": 1
+        },
+        {
             "text": "Prof",
             "value": 2
         },
@@ -210,6 +218,10 @@
         },
         {
             "text": "hype",
+            "value": 1
+        },
+        {
+            "text": "enphoz",
             "value": 1
         },
         {

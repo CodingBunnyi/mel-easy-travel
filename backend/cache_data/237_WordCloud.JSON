@@ -102,15 +102,15 @@
         },
         {
             "text": "I'm",
-            "value": 6
+            "value": 5
         },
         {
             "text": "Carlton",
-            "value": 6
+            "value": 5
         },
         {
             "text": "Melbourne",
-            "value": 7
+            "value": 6
         },
         {
             "text": "Victoria",
@@ -222,7 +222,7 @@
         },
         {
             "text": "VIC",
-            "value": 3
+            "value": 2
         },
         {
             "text": "One",
@@ -1078,10 +1078,6 @@
         },
         {
             "text": "heritage",
-            "value": 1
-        },
-        {
-            "text": "Connect",
             "value": 1
         }
     ]

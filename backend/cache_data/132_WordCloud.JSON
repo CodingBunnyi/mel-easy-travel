@@ -1,6 +1,14 @@
 {
     "word_freq": [
         {
+            "text": "Business",
+            "value": 2
+        },
+        {
+            "text": "usual",
+            "value": 1
+        },
+        {
             "text": "posted",
             "value": 14
         },
@@ -606,10 +614,6 @@
         },
         {
             "text": "Secret",
-            "value": 1
-        },
-        {
-            "text": "Business",
             "value": 1
         },
         {

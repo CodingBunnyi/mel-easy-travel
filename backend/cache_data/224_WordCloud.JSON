@@ -34,7 +34,7 @@
         },
         {
             "text": "time",
-            "value": 2
+            "value": 1
         },
         {
             "text": "celebrating",
@@ -246,7 +246,7 @@
         },
         {
             "text": "great",
-            "value": 4
+            "value": 3
         },
         {
             "text": "day",
@@ -566,7 +566,7 @@
         },
         {
             "text": "rain",
-            "value": 2
+            "value": 1
         },
         {
             "text": "poor",
@@ -670,7 +670,7 @@
         },
         {
             "text": "people",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Den",
@@ -738,7 +738,7 @@
         },
         {
             "text": "one",
-            "value": 3
+            "value": 2
         },
         {
             "text": "call",
@@ -799,46 +799,6 @@
         {
             "text": "instead",
             "value": 1
-        },
-        {
-            "text": "favourite",
-            "value": 1
-        },
-        {
-            "text": "paintings",
-            "value": 1
-        },
-        {
-            "text": "Despite",
-            "value": 1
-        },
-        {
-            "text": "got",
-            "value": 1
-        },
-        {
-            "text": "turnout",
-            "value": 1
-        },
-        {
-            "text": "asking",
-            "value": 1
-        },
-        {
-            "text": "3pm",
-            "value": 1
-        },
-        {
-            "text": "Learn",
-            "value": 1
-        },
-        {
-            "text": "attend",
-            "value": 1
-        },
-        {
-            "text": "gt",
-            "value": 2
         }
     ]
 }

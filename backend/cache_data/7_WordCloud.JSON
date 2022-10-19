@@ -1,6 +1,82 @@
 {
     "word_freq": [
         {
+            "text": "Good",
+            "value": 2
+        },
+        {
+            "text": "Morning",
+            "value": 1
+        },
+        {
+            "text": "Australian",
+            "value": 1
+        },
+        {
+            "text": "Field",
+            "value": 1
+        },
+        {
+            "text": "Office",
+            "value": 1
+        },
+        {
+            "text": "Btw",
+            "value": 1
+        },
+        {
+            "text": "coffee",
+            "value": 2
+        },
+        {
+            "text": "machine",
+            "value": 1
+        },
+        {
+            "text": "broken",
+            "value": 1
+        },
+        {
+            "text": "given",
+            "value": 1
+        },
+        {
+            "text": "snubs",
+            "value": 1
+        },
+        {
+            "text": "getting",
+            "value": 1
+        },
+        {
+            "text": "shots",
+            "value": 1
+        },
+        {
+            "text": "cute",
+            "value": 1
+        },
+        {
+            "text": "barista",
+            "value": 1
+        },
+        {
+            "text": "downstairs",
+            "value": 1
+        },
+        {
+            "text": "affects",
+            "value": 1
+        },
+        {
+            "text": "data",
+            "value": 1
+        },
+        {
+            "text": "monkeys",
+            "value": 1
+        },
+        {
             "text": "Late",
             "value": 1
         },
@@ -381,10 +457,6 @@
             "value": 1
         },
         {
-            "text": "Good",
-            "value": 1
-        },
-        {
             "text": "beer",
             "value": 1
         },
@@ -483,10 +555,6 @@
         {
             "text": "another",
             "value": 2
-        },
-        {
-            "text": "coffee",
-            "value": 1
         },
         {
             "text": "Madison",

@@ -42,7 +42,7 @@ def generate_paginator(query: str, time_range: datetime.timedelta, recent10: boo
                                      end_time=end, max_results=result_limit,
                                      tweet_fields=['id', 'author_id', 'created_at', 'public_metrics',
                                                    'lang', 'text', 'entities', 'geo'],
-                                     user_fields=['username'],
+                                     user_fields=['username', 'profile_image_url'],
                                      place_fields=['full_name', 'place_type', 'geo'],
                                      media_fields=['url', 'preview_image_url'],
                                      expansions=['author_id', 'geo.place_id', 'attachments.media_keys'])
@@ -66,7 +66,7 @@ def generate_paginator(query: str, time_range: datetime.timedelta, recent10: boo
                                      start_time=start, end_time=end, max_results=result_limit,
                                      tweet_fields=['id', 'author_id', 'created_at', 'public_metrics',
                                                    'lang', 'text', 'entities', 'geo'],
-                                     user_fields=['username'],
+                                     user_fields=['username', 'profile_image_url'],
                                      place_fields=['full_name', 'place_type', 'geo'],
                                      media_fields=['url', 'preview_image_url'],
                                      expansions=['author_id', 'geo.place_id', 'attachments.media_keys'])
@@ -110,7 +110,7 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
         request_time = 0
 
     # Information to collect
-    columns = ['tid', 'uid', 'author', 'time', 'like_no', 'language', 'text', 'clean_text',
+    columns = ['tid', 'uid', 'author', 'user_img', 'time', 'like_no', 'language', 'text', 'clean_text',
                'place_name', 'place_type', 'longitude', 'latitude', 'photo_urls']
 
     # Create result dictionary list to store results
@@ -126,6 +126,7 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
         try:
             users = page.includes['users']
             username_dict = {user.id: user.name for user in users}
+            userpic_dict = {user.id: user.profile_image_url for user in users}
         except (KeyError, TypeError):
             username_dict = {}
 
@@ -160,6 +161,7 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
             # User info
             temp_result['uid'] = tweet.author_id
             temp_result['author'] = username_dict[tweet.author_id]
+            temp_result['user_img'] = userpic_dict[tweet.author_id]
 
             # Impact info
             if tweet.public_metrics is None:  # There is a bug where a tweet might not have public metrics

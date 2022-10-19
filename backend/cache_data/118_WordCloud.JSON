@@ -1,12 +1,88 @@
 {
     "word_freq": [
         {
+            "text": "Good",
+            "value": 2
+        },
+        {
+            "text": "Morning",
+            "value": 1
+        },
+        {
+            "text": "Australian",
+            "value": 1
+        },
+        {
+            "text": "Field",
+            "value": 1
+        },
+        {
+            "text": "Office",
+            "value": 1
+        },
+        {
+            "text": "Btw",
+            "value": 1
+        },
+        {
+            "text": "coffee",
+            "value": 1
+        },
+        {
+            "text": "machine",
+            "value": 1
+        },
+        {
+            "text": "broken",
+            "value": 1
+        },
+        {
+            "text": "given",
+            "value": 1
+        },
+        {
+            "text": "snubs",
+            "value": 1
+        },
+        {
+            "text": "getting",
+            "value": 2
+        },
+        {
+            "text": "shots",
+            "value": 1
+        },
+        {
+            "text": "cute",
+            "value": 1
+        },
+        {
+            "text": "barista",
+            "value": 1
+        },
+        {
+            "text": "downstairs",
+            "value": 1
+        },
+        {
+            "text": "affects",
+            "value": 1
+        },
+        {
+            "text": "data",
+            "value": 1
+        },
+        {
+            "text": "monkeys",
+            "value": 1
+        },
+        {
             "text": "Come",
             "value": 1
         },
         {
             "text": "chat",
-            "value": 2
+            "value": 1
         },
         {
             "text": "taxonomy",
@@ -557,10 +633,6 @@
             "value": 1
         },
         {
-            "text": "getting",
-            "value": 1
-        },
-        {
             "text": "smol",
             "value": 1
         },
@@ -894,10 +966,6 @@
         },
         {
             "text": "guys",
-            "value": 1
-        },
-        {
-            "text": "Good",
             "value": 1
         },
         {
@@ -1514,7 +1582,7 @@
         },
         {
             "text": "AISA",
-            "value": 2
+            "value": 1
         },
         {
             "text": "CyberCon",
@@ -1538,50 +1606,6 @@
         },
         {
             "text": "proud",
-            "value": 1
-        },
-        {
-            "text": "Front",
-            "value": 1
-        },
-        {
-            "text": "row",
-            "value": 1
-        },
-        {
-            "text": "seats",
-            "value": 1
-        },
-        {
-            "text": "fireside",
-            "value": 1
-        },
-        {
-            "text": "Steve",
-            "value": 2
-        },
-        {
-            "text": "Wozniak",
-            "value": 1
-        },
-        {
-            "text": "first",
-            "value": 1
-        },
-        {
-            "text": "computer",
-            "value": 1
-        },
-        {
-            "text": "Apple",
-            "value": 1
-        },
-        {
-            "text": "c",
-            "value": 1
-        },
-        {
-            "text": "designed",
             "value": 1
         }
     ]

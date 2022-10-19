@@ -6,7 +6,7 @@
         },
         {
             "text": "chat",
-            "value": 2
+            "value": 1
         },
         {
             "text": "taxonomy",
@@ -90,7 +90,7 @@
         },
         {
             "text": "great",
-            "value": 4
+            "value": 3
         },
         {
             "text": "results",
@@ -646,7 +646,7 @@
         },
         {
             "text": "turnout",
-            "value": 2
+            "value": 1
         },
         {
             "text": "today",
@@ -1326,7 +1326,7 @@
         },
         {
             "text": "rain",
-            "value": 2
+            "value": 1
         },
         {
             "text": "poor",
@@ -1430,7 +1430,7 @@
         },
         {
             "text": "people",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Den",
@@ -1606,7 +1606,7 @@
         },
         {
             "text": "AISA",
-            "value": 2
+            "value": 1
         },
         {
             "text": "CyberCon",
@@ -1679,78 +1679,6 @@
         {
             "text": "instead",
             "value": 1
-        },
-        {
-            "text": "Front",
-            "value": 1
-        },
-        {
-            "text": "row",
-            "value": 1
-        },
-        {
-            "text": "seats",
-            "value": 1
-        },
-        {
-            "text": "fireside",
-            "value": 1
-        },
-        {
-            "text": "Steve",
-            "value": 2
-        },
-        {
-            "text": "Wozniak",
-            "value": 1
-        },
-        {
-            "text": "first",
-            "value": 1
-        },
-        {
-            "text": "computer",
-            "value": 1
-        },
-        {
-            "text": "Apple",
-            "value": 1
-        },
-        {
-            "text": "c",
-            "value": 1
-        },
-        {
-            "text": "designed",
-            "value": 1
-        },
-        {
-            "text": "Despite",
-            "value": 1
-        },
-        {
-            "text": "got",
-            "value": 1
-        },
-        {
-            "text": "asking",
-            "value": 1
-        },
-        {
-            "text": "3pm",
-            "value": 1
-        },
-        {
-            "text": "Learn",
-            "value": 1
-        },
-        {
-            "text": "attend",
-            "value": 1
-        },
-        {
-            "text": "gt",
-            "value": 2
         }
     ]
 }

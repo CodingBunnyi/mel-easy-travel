@@ -94,7 +94,7 @@
         },
         {
             "text": "Carlton",
-            "value": 2
+            "value": 1
         },
         {
             "text": "browse",
@@ -278,7 +278,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Bec",
@@ -970,18 +970,6 @@
         },
         {
             "text": "heritage",
-            "value": 1
-        },
-        {
-            "text": "I'm",
-            "value": 1
-        },
-        {
-            "text": "Connect",
-            "value": 1
-        },
-        {
-            "text": "VIC",
             "value": 1
         }
     ]
