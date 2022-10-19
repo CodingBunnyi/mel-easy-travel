@@ -5,10 +5,11 @@ import updater
 import wordcloud
 # import history
 import realtime
+import counter
 import sys
 
 # DEFAULT VALUES
-from backend import counter
+
 
 DEFAULT_LOCATION = 'UniversityOfMelbourne'
 DEFAULT_LONG = 144.9610
