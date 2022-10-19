@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState, useEffect } from 'react';
 import { makeStyles } from '@material-ui/core/styles'
 import Checkbox from '@mui/material/Checkbox';
@@ -17,20 +18,12 @@ const useStyles = makeStyles(() => ({
   },
 }))
 
-function ControlPanel(props) {
+function ControlPanel({ layerStatus, setLayerStatus }) {
   const classes = useStyles()
 
-  const [checkStatus, setcheckStatus] = useState(false);
-
-  function handleChangeCheck (e) {
-    const status= e.target.checked
-    setcheckStatus(status)
-    props.getValue(status)
-
-  } 
-  useEffect(() => {
-    
-  }, [checkStatus]);
+  const handleBusLayerChange = (layer) => {
+    setLayerStatus({...layerStatus, [layer]: !layerStatus[layer]})
+  }
   
   return (
     <div className= { classes.controlPanel } >
@@ -38,11 +31,16 @@ function ControlPanel(props) {
 
       <FormGroup>
         <FormControlLabel 
-          control= { <Checkbox defaultChecked onChange= { handleChangeCheck } /> } 
+          control= { <Checkbox checked={ layerStatus.POI } onChange= { () => handleBusLayerChange('POI') } /> } 
           label="Point of Interest" 
-          />
+        />
 
         <FormControlLabel control= { <Checkbox /> } label="Restaurant" />
+
+        <FormControlLabel 
+          control= { <Checkbox checked={ layerStatus.busRoute } onChange= { () => handleBusLayerChange('busRoute') } /> } 
+          label="Bus Route" 
+        />
       </FormGroup>
     </div>
 

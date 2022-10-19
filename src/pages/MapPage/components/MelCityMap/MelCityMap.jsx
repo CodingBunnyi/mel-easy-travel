@@ -30,6 +30,7 @@ import ListItem from '@mui/material/ListItem';
 import ListItemText from '@mui/material/ListItemText';
 import ListItemAvatar from '@mui/material/ListItemAvatar';
 import Divider from '@mui/material/Divider';
+import BusRouteLayer from './components/BusRouteLayer';
 
 
 // Tab
@@ -74,10 +75,13 @@ export default function MelCityMap() {
   "pk.eyJ1Ijoib25lbm5pbmUiLCJhIjoiY2w5NDd2OHFtMDFyYzN2dGJlN3hqb29uciJ9.adU0kBOA9mvrm5lkSpcHvQ"
 
   const [selected, setSelected] = useState(null); //onClick status of Mel_POIs_Data
-  const [checkStatus, setcheckStatus] = useState(true); //checkBox status of Mel_POIs_Data
-  // eslint-disable-next-line no-unused-vars
   const [selectedTwitterInfo, setSelectedTwitterInfo] = useState({count: 0, data: []});
   const [wordCloud, setWordCould] = useState([]);
+  const [layerStatus, setLayerStatus] = useState({
+    'POI': true,
+    'restaurant': false,
+    'busRoute': false,
+  });
 
   const [value, setValue] = React.useState(0); //Tab
 
@@ -103,12 +107,7 @@ export default function MelCityMap() {
 
   useEffect(() => {
     
-  }, [selected, checkStatus, selectedTwitterInfo]);
-
-  //pass & reveive data from ControlPanel
-  const getChiledrenValue = (val) => {
-    setcheckStatus(val)
-  }
+  }, [selected, selectedTwitterInfo]);
 
   const pins = useMemo(
     () =>
@@ -130,22 +129,23 @@ export default function MelCityMap() {
     
     <Map
       initialViewState={ {
-        latitude: -37.810454,
         longitude: 144.962379,
+        latitude: -37.810454,
         zoom: 14,
         bearing: 0,
         pitch: 0
       } }
       style = { {width: '100vw' , height: '100vh'} }
-      mapStyle="mapbox://styles/mapbox/outdoors-v11"
+      mapStyle="mapbox://styles/mapbox/streets-v9"
       mapboxAccessToken = { MAPBOX_TOKEN }
     >
       <FullscreenControl position="top-left" />
       <ScaleControl position="bottom-left" />
       <NavigationControl position="top-left" />
-      <ControlPanel position="top-left" getValue={ getChiledrenValue } />
+      <ControlPanel position="top-left" layerStatus={ layerStatus } setLayerStatus={ setLayerStatus }/>
+      <BusRouteLayer layerStatus={ layerStatus }/>
 
-      {checkStatus ? (
+      {layerStatus.POI ? (
         [pins]
       ):true }
 
@@ -236,11 +236,7 @@ export default function MelCityMap() {
               
                       <Divider variant="inset" component="li" />
                     </>
-
-                    
-
                     )) }
-
                 </List>
               </scroll-view>
             </TabPanel>
