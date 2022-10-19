@@ -8,7 +8,7 @@ const useStyles = makeStyles(() => ({
   controlPanel: {
     position: 'absolute',
     top: 0,
-    right: 0,
+    left: 50,
     maxWidth: 300,
     background: '#fff',
     padding: 12,
@@ -40,7 +40,6 @@ function ControlPanel(props) {
         <FormControlLabel 
           control= { <Checkbox defaultChecked onChange= { handleChangeCheck } /> } 
           label="Point of Interest" 
-          
           />
 
         <FormControlLabel control= { <Checkbox /> } label="Restaurant" />
