@@ -41,6 +41,16 @@ function ControlPanel({ layerStatus, setLayerStatus }) {
           control= { <Checkbox checked={ layerStatus.busRoute } onChange= { () => handleBusLayerChange('busRoute') } /> } 
           label="Bus Route" 
         />
+
+        <FormControlLabel 
+          control= { <Checkbox checked={ layerStatus.busMetroRoute } onChange= { () => handleBusLayerChange('busMetroRoute') } /> } 
+          label="Bus Metro Route" 
+        />
+
+        <FormControlLabel 
+          control= { <Checkbox checked={ layerStatus.bicycleRoute } onChange= { () => handleBusLayerChange('bicycleRoute') } /> } 
+          label="Bicycle Route" 
+        />
       </FormGroup>
     </div>
 

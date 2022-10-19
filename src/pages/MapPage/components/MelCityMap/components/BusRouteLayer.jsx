@@ -14,7 +14,7 @@ const BusRouteLayer = ({layerStatus}) => {
       'line-cap': 'round'
     },
     paint: {
-      'line-color': '#888',
+      'line-color': '#4dd0e1',
       'line-width': 2
     }
   };

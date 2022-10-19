@@ -31,6 +31,8 @@ import ListItemText from '@mui/material/ListItemText';
 import ListItemAvatar from '@mui/material/ListItemAvatar';
 import Divider from '@mui/material/Divider';
 import BusRouteLayer from './components/BusRouteLayer';
+import BicycleRouteLayer from './components/BicycleRoute';
+import BusMetroRouteLayer from './components/BusMetroRouteLayer';
 
 
 // Tab
@@ -81,6 +83,8 @@ export default function MelCityMap() {
     'POI': true,
     'restaurant': false,
     'busRoute': false,
+    'busMetroRoute': false,
+    'bicycleRoute': false,
   });
 
   const [value, setValue] = React.useState(0); //Tab
@@ -144,6 +148,8 @@ export default function MelCityMap() {
       <NavigationControl position="top-left" />
       <ControlPanel position="top-left" layerStatus={ layerStatus } setLayerStatus={ setLayerStatus }/>
       <BusRouteLayer layerStatus={ layerStatus }/>
+      <BicycleRouteLayer layerStatus={ layerStatus }/>
+      <BusMetroRouteLayer layerStatus={ layerStatus }/>
 
       {layerStatus.POI ? (
         [pins]
