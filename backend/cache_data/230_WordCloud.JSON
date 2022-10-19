@@ -1,6 +1,70 @@
 {
     "word_freq": [
         {
+            "text": "Speak",
+            "value": 1
+        },
+        {
+            "text": "mind",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 187
+        },
+        {
+            "text": "Victoria",
+            "value": 165
+        },
+        {
+            "text": "Australia",
+            "value": 171
+        },
+        {
+            "text": "mermaid",
+            "value": 1
+        },
+        {
+            "text": "sparkles",
+            "value": 1
+        },
+        {
+            "text": "know",
+            "value": 1
+        },
+        {
+            "text": "earrings",
+            "value": 3
+        },
+        {
+            "text": "made",
+            "value": 3
+        },
+        {
+            "text": "small",
+            "value": 2
+        },
+        {
+            "text": "batches",
+            "value": 1
+        },
+        {
+            "text": "one",
+            "value": 3
+        },
+        {
+            "text": "kind",
+            "value": 2
+        },
+        {
+            "text": "Click",
+            "value": 1
+        },
+        {
+            "text": "details",
+            "value": 1
+        },
+        {
             "text": "hanging",
             "value": 1
         },
@@ -15,18 +79,6 @@
         {
             "text": "rockthiscountrypr",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 185
-        },
-        {
-            "text": "Victoria",
-            "value": 163
-        },
-        {
-            "text": "Australia",
-            "value": 169
         },
         {
             "text": "Second",
@@ -337,10 +389,6 @@
             "value": 3
         },
         {
-            "text": "I'm",
-            "value": 2
-        },
-        {
             "text": "VIC",
             "value": 2
         },
@@ -423,10 +471,6 @@
         {
             "text": "art",
             "value": 4
-        },
-        {
-            "text": "vs",
-            "value": 1
         },
         {
             "text": "notorious",
@@ -690,10 +734,6 @@
         },
         {
             "text": "dangle",
-            "value": 1
-        },
-        {
-            "text": "earrings",
             "value": 1
         },
         {
@@ -1185,10 +1225,6 @@
             "value": 1
         },
         {
-            "text": "one",
-            "value": 2
-        },
-        {
             "text": "Boon",
             "value": 1
         },
@@ -1303,10 +1339,6 @@
         {
             "text": "takeover",
             "value": 1
-        },
-        {
-            "text": "made",
-            "value": 2
         },
         {
             "text": "nice",
@@ -1746,10 +1778,6 @@
         },
         {
             "text": "site",
-            "value": 1
-        },
-        {
-            "text": "small",
             "value": 1
         },
         {
@@ -2354,10 +2382,6 @@
         },
         {
             "text": "detailed",
-            "value": 1
-        },
-        {
-            "text": "kind",
             "value": 1
         },
         {

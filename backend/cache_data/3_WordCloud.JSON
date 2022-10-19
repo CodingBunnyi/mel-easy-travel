@@ -1,6 +1,70 @@
 {
     "word_freq": [
         {
+            "text": "Speak",
+            "value": 1
+        },
+        {
+            "text": "mind",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 206
+        },
+        {
+            "text": "Victoria",
+            "value": 171
+        },
+        {
+            "text": "Australia",
+            "value": 175
+        },
+        {
+            "text": "mermaid",
+            "value": 1
+        },
+        {
+            "text": "sparkles",
+            "value": 1
+        },
+        {
+            "text": "know",
+            "value": 3
+        },
+        {
+            "text": "earrings",
+            "value": 3
+        },
+        {
+            "text": "made",
+            "value": 3
+        },
+        {
+            "text": "small",
+            "value": 2
+        },
+        {
+            "text": "batches",
+            "value": 1
+        },
+        {
+            "text": "one",
+            "value": 4
+        },
+        {
+            "text": "kind",
+            "value": 1
+        },
+        {
+            "text": "Click",
+            "value": 5
+        },
+        {
+            "text": "details",
+            "value": 1
+        },
+        {
             "text": "hanging",
             "value": 1
         },
@@ -15,18 +79,6 @@
         {
             "text": "rockthiscountrypr",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 205
-        },
-        {
-            "text": "Victoria",
-            "value": 170
-        },
-        {
-            "text": "Australia",
-            "value": 174
         },
         {
             "text": "Second",
@@ -353,10 +405,6 @@
             "value": 2
         },
         {
-            "text": "Click",
-            "value": 4
-        },
-        {
             "text": "apply",
             "value": 8
         },
@@ -485,10 +533,6 @@
             "value": 3
         },
         {
-            "text": "I'm",
-            "value": 16
-        },
-        {
             "text": "JnM",
             "value": 4
         },
@@ -567,10 +611,6 @@
         {
             "text": "art",
             "value": 4
-        },
-        {
-            "text": "vs",
-            "value": 1
         },
         {
             "text": "notorious",
@@ -913,10 +953,6 @@
             "value": 1
         },
         {
-            "text": "earrings",
-            "value": 1
-        },
-        {
             "text": "sterling",
             "value": 1
         },
@@ -934,7 +970,7 @@
         },
         {
             "text": "line",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Still",
@@ -1254,7 +1290,7 @@
         },
         {
             "text": "time",
-            "value": 5
+            "value": 4
         },
         {
             "text": "Sorter",
@@ -1447,10 +1483,6 @@
         {
             "text": "large",
             "value": 1
-        },
-        {
-            "text": "one",
-            "value": 3
         },
         {
             "text": "Boon",
@@ -1667,10 +1699,6 @@
         {
             "text": "takeover",
             "value": 1
-        },
-        {
-            "text": "made",
-            "value": 2
         },
         {
             "text": "nice",
@@ -2021,10 +2049,6 @@
             "value": 2
         },
         {
-            "text": "know",
-            "value": 2
-        },
-        {
             "text": "company",
             "value": 2
         },
@@ -2245,10 +2269,6 @@
             "value": 2
         },
         {
-            "text": "small",
-            "value": 1
-        },
-        {
             "text": "lake",
             "value": 1
         },
@@ -2270,7 +2290,7 @@
         },
         {
             "text": "tree",
-            "value": 3
+            "value": 2
         },
         {
             "text": "converted",
@@ -3759,34 +3779,6 @@
         {
             "text": "Miss",
             "value": 1
-        },
-        {
-            "text": "year",
-            "value": 1
-        },
-        {
-            "text": "approaching",
-            "value": 1
-        },
-        {
-            "text": "fast",
-            "value": 1
-        },
-        {
-            "text": "Christmas",
-            "value": 2
-        },
-        {
-            "text": "lights",
-            "value": 1
-        },
-        {
-            "text": "sparkly",
-            "value": 1
-        },
-        {
-            "text": "decorations",
-            "value": 2
         }
     ]
 }

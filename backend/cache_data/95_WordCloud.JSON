@@ -2,19 +2,19 @@
     "word_freq": [
         {
             "text": "posted",
-            "value": 13
+            "value": 12
         },
         {
             "text": "photo",
-            "value": 13
+            "value": 12
         },
         {
             "text": "PAX",
-            "value": 10
+            "value": 9
         },
         {
             "text": "AU",
-            "value": 10
+            "value": 9
         },
         {
             "text": "receiving",
@@ -942,10 +942,6 @@
         },
         {
             "text": "VIC",
-            "value": 1
-        },
-        {
-            "text": "I'm",
             "value": 1
         },
         {

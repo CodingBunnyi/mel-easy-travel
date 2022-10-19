@@ -1,5 +1,5 @@
 {
-    "count": 76,
+    "count": 75,
     "data": [
         {
             "tid": 1582833895049166848,
@@ -1286,22 +1286,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/Fe6ES7aVEAA5Q52.jpg"
             ]
-        },
-        {
-            "tid": 1580303669656190976,
-            "uid": 138433701,
-            "author": "Althea Quin",
-            "user_img": "https://pbs.twimg.com/profile_images/504915799983656961/eaDiHdmW_normal.jpeg",
-            "time": "2022-10-12 21:05:30 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ PAX AU https://t.co/qsSiRPkVmh",
-            "clean_text": "Just posted a photo PAX AU",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95394752,
-            "latitude": -37.82493063,
-            "photo_urls": []
         }
     ]
 }
