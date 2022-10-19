@@ -9,6 +9,7 @@ import Map, {
 
 import 'mapbox-gl/dist/mapbox-gl.css';
 import { getTwitterData } from '../../../utils/twitterDataApi';
+
 import Mel_POIs_Data from '../../../data/Melbourne_POIs_MGA.json'
 import ChurchPin from './ChurchPin';
 import {createRoot} from 'react-dom/client';
@@ -64,39 +65,6 @@ function a11yProps(index) {
     id: `simple-tab-${ index }`,
     'aria-controls': `simple-tabpanel-${ index }`,
   };
-}
-
-//Avatar
-function stringAvatar(name) {
-  return {
-    sx: {
-      bgcolor: stringToColor(name),
-      width: 40, 
-      height: 40
-    },
-    children: `${ name.split(' ')[0][0] }`,
-  };
-}
-
-//Avatar Color
-function stringToColor(string) {
-  let hash = 0;
-  let i;
-
-  /* eslint-disable no-bitwise */
-  for (i = 0; i < string.length; i += 1) {
-    hash = string.charCodeAt(i) + ((hash << 5) - hash);
-  }
-
-  let color = '#';
-
-  for (i = 0; i < 3; i += 1) {
-    const value = (hash >> (i * 8)) & 0xff;
-    color += `00${value.toString(16)}`.slice(-2);
-  }
-  /* eslint-enable no-bitwise */
-
-  return color;
 }
 
 export default function MelCityMap() {
@@ -223,7 +191,7 @@ export default function MelCityMap() {
                         key={ tweet.tid }
                       >
                         <ListItemAvatar>
-                          <Avatar { ...stringAvatar(tweet.author) } />
+                          <Avatar src={ tweet.user_img } />
                         </ListItemAvatar>
 
                         <ListItemText
@@ -239,14 +207,24 @@ export default function MelCityMap() {
 
                               </Typography>
 
-                              {tweet.clean_text}
+                              {tweet.text}
 
                             </React.Fragment>
                           }
                         />
 
                       </ListItem>
+
+                      {(selectedTwitterInfo.photo_urls == 0  ) ? (
                     
+                        <Divider variant="inset" component="li" />
+      
+                      ) : null }  
+                      
+                      <Box>
+                        <img src={ tweet.photo_urls[0] } width={ 390 } />
+                      </Box>
+              
                       <Divider variant="inset" component="li" />
                     </>
 

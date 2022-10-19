@@ -34,7 +34,7 @@ function ControlPanel(props) {
   
   return (
     <div className= { classes.controlPanel } >
-      <h3>Melbourne CBD Tourist Guide</h3>
+      <h3>Melbourne Tourist Guide</h3>
 
       <FormGroup>
         <FormControlLabel 
