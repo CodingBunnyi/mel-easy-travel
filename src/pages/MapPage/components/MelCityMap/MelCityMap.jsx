@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import React, { useEffect, useState, useMemo } from 'react';
 import Map, { 
   Marker, 
@@ -33,7 +32,8 @@ import Divider from '@mui/material/Divider';
 import BusRouteLayer from './components/BusRouteLayer';
 import BicycleRouteLayer from './components/BicycleRouteLayer';
 import BusMetroRouteLayer from './components/BusMetroRouteLayer';
-
+import { HeatMapLayer, CircleLayer }from './components/HeatMapLayer';
+import { getHeatMapData } from '../../../../utils/twitterDataApi';
 
 // Tab
 function TabPanel(props) {
@@ -85,9 +85,11 @@ export default function MelCityMap() {
     'busRoute': false,
     'busMetroRoute': false,
     'bicycleRoute': false,
+    'heatMap': false,
   });
 
   const [value, setValue] = React.useState(0); //Tab
+  const [heatMapData, setHeatMapData] = useState({})
 
   // Tab
   const handleChange = (event, newValue) => {
@@ -110,8 +112,19 @@ export default function MelCityMap() {
   }
 
   useEffect(() => {
-    
+
   }, [selected, selectedTwitterInfo]);
+
+
+  useEffect(() => {
+    const fetchHeatMapData = async () => {
+      const {status, data} = await getHeatMapData();
+      if (status === 200) {
+        setHeatMapData(data)
+      }
+    }
+    fetchHeatMapData();
+  }, []);
 
   const pins = useMemo(
     () =>
@@ -150,6 +163,8 @@ export default function MelCityMap() {
       <BusRouteLayer layerStatus={ layerStatus }/>
       <BicycleRouteLayer layerStatus={ layerStatus }/>
       <BusMetroRouteLayer layerStatus={ layerStatus }/>
+      <HeatMapLayer layerStatus={ layerStatus } heatMapData={ heatMapData }/>
+      <CircleLayer layerStatus={ layerStatus } heatMapData={ heatMapData }/>
 
       {layerStatus.POI ? (
         [pins]
