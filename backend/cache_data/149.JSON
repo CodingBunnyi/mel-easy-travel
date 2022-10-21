@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 3,
     "data": [
         {
             "tid": 1583388253297602560,
@@ -50,25 +50,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfPau7zacAAo5jL.jpg",
                 "https://pbs.twimg.com/media/FfPau7zaYAElOuh.jpg"
-            ]
-        },
-        {
-            "tid": 1580879960214212612,
-            "uid": 2819770981,
-            "author": "Vanessa Wiggenraad",
-            "user_img": "https://pbs.twimg.com/profile_images/1563278501620228098/wnR5M74H_normal.jpg",
-            "time": "2022-10-14 11:15:28 +0000",
-            "like_no": 12,
-            "language": "en",
-            "text": "This space at the Botanical Gardens is everything. Instead of removing this ancient tree after it died, the limbs were left where they fell and were reshaped as seats. #gardenscapes @RBG_Victoria https://t.co/BOrumdAjLk",
-            "clean_text": "This space at the Botanical Gardens is everything Instead of removing this ancient tree after it died the limbs were left where they fell and were reshaped as seats",
-            "place_name": "Royal Botanic Gardens",
-            "place_type": "poi",
-            "longitude": 144.97987747192383,
-            "latitude": -37.83093781796033,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfBp72YagAAS8gX.jpg",
-                "https://pbs.twimg.com/media/FfBp72YaAAAzTJV.jpg"
             ]
         }
     ]

@@ -91,6 +91,25 @@ def update_location_data(loc_id: str):
         return 'unknown'
 
 
+# Combine all word_cloud data
+def combine_word_cloud():
+    locations = locator.get_locations()
+    combined_wordcloud = {}
+    for loc_id in locations.keys():
+        loc_wordcloud = json.loads(wordcloud.word_cloud_data(loc_id))
+        for word_dict in loc_wordcloud['word_freq']:
+            try:
+                combined_wordcloud[word_dict['text']] += word_dict['value']
+            except KeyError:
+                combined_wordcloud[word_dict['text']] = word_dict['value']
+
+    output_list = []
+    for key, value in combined_wordcloud.items():
+        output_list.append({'text': key, 'value': value})
+
+    save_dict_json({'word_freq': output_list}, './cache_data/Overall_WordCloud.JSON')
+
+
 # Update all locations in the LOCATIONS dictionary
 def update_all_data():
 
@@ -111,6 +130,9 @@ def update_all_data():
 
             if flag != 'success':
                 return flag
+
+        combine_word_cloud()
+        print('Wordcloud combined.')
 
         flag = 'success'
 

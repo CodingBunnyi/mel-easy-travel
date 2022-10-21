@@ -1,6 +1,70 @@
 {
     "word_freq": [
         {
+            "text": "Western",
+            "value": 2
+        },
+        {
+            "text": "United",
+            "value": 1
+        },
+        {
+            "text": "Macarthur",
+            "value": 1
+        },
+        {
+            "text": "FC",
+            "value": 2
+        },
+        {
+            "text": "Goals",
+            "value": 2
+        },
+        {
+            "text": "Millar",
+            "value": 1
+        },
+        {
+            "text": "head",
+            "value": 1
+        },
+        {
+            "text": "Wales",
+            "value": 1
+        },
+        {
+            "text": "TIME",
+            "value": 3
+        },
+        {
+            "text": "POSSESION",
+            "value": 2
+        },
+        {
+            "text": "SHOTS",
+            "value": 2
+        },
+        {
+            "text": "GOAL",
+            "value": 2
+        },
+        {
+            "text": "10pm",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 8
+        },
+        {
+            "text": "Started",
+            "value": 1
+        },
+        {
+            "text": "pouring",
+            "value": 2
+        },
+        {
             "text": "BREAKING",
             "value": 1
         },
@@ -217,10 +281,6 @@
             "value": 1
         },
         {
-            "text": "pouring",
-            "value": 1
-        },
-        {
             "text": "BEST",
             "value": 1
         },
@@ -267,10 +327,6 @@
         {
             "text": "35pm",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 7
         },
         {
             "text": "nothing",
@@ -861,10 +917,6 @@
             "value": 1
         },
         {
-            "text": "TIME",
-            "value": 2
-        },
-        {
             "text": "sets",
             "value": 1
         },
@@ -885,10 +937,6 @@
             "value": 1
         },
         {
-            "text": "Western",
-            "value": 1
-        },
-        {
             "text": "Sydney",
             "value": 2
         },
@@ -897,27 +945,11 @@
             "value": 1
         },
         {
-            "text": "Goals",
-            "value": 1
-        },
-        {
             "text": "Mr",
             "value": 1
         },
         {
             "text": "ela",
-            "value": 1
-        },
-        {
-            "text": "POSSESION",
-            "value": 1
-        },
-        {
-            "text": "SHOTS",
-            "value": 1
-        },
-        {
-            "text": "GOAL",
             "value": 1
         },
         {
@@ -954,10 +986,6 @@
         },
         {
             "text": "Wanders",
-            "value": 1
-        },
-        {
-            "text": "FC",
             "value": 1
         },
         {

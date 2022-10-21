@@ -41,3 +41,16 @@ def word_cloud_data(loc_id: str):
         return 'No such location'
 
     return json.dumps(cache_dict, indent=4, ensure_ascii=False).encode('utf8')
+
+
+# Get overall word cloud data ([{word: str, freq: int}]) based on cached twitter data
+def overall_word_cloud_data():
+    path = f'./cache_data/Overall_WordCloud.JSON'
+
+    try:
+        with open(path, 'r', encoding='utf-8') as file:
+            cache_dict = json.load(file)
+    except FileNotFoundError:
+        return 'No such file.'
+
+    return json.dumps(cache_dict, indent=4, ensure_ascii=False).encode('utf8')

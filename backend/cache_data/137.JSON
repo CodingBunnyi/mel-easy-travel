@@ -1,6 +1,22 @@
 {
-    "count": 9,
+    "count": 10,
     "data": [
+        {
+            "tid": 1583433385661599745,
+            "uid": 148870532,
+            "author": "Football-Lineups.com",
+            "user_img": "https://pbs.twimg.com/profile_images/458955445437087744/oYaNl4o6_normal.jpeg",
+            "time": "2022-10-21 12:21:52 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "🇦🇺 #Australia #ALeague -  Western United 1 vs  Macarthur FC 1   \n\n ⚽ Goals : Millar (head), Wales \n  \n ⚖️TIME POSSESION : 61 - 39  %     \n SHOTS ON GOAL : 7 - 5    \n\n    https://t.co/bSiB4qsVrd https://t.co/MQaFQI3NMl",
+            "clean_text": "Western United 1 vs Macarthur FC 1 Goals Millar head Wales TIME POSSESION 61 39 SHOTS ON GOAL 7 5",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98388889,
+            "latitude": -37.82527778,
+            "photo_urls": []
+        },
         {
             "tid": 1582993779791130624,
             "uid": 112291162,

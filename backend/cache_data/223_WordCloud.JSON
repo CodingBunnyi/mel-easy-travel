@@ -1,6 +1,26 @@
 {
     "word_freq": [
         {
+            "text": "posted",
+            "value": 13
+        },
+        {
+            "text": "photo",
+            "value": 13
+        },
+        {
+            "text": "Melbourne",
+            "value": 16
+        },
+        {
+            "text": "Recital",
+            "value": 3
+        },
+        {
+            "text": "Centre",
+            "value": 4
+        },
+        {
             "text": "amazing",
             "value": 2
         },
@@ -23,26 +43,6 @@
         {
             "text": "Towers",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 15
-        },
-        {
-            "text": "posted",
-            "value": 12
-        },
-        {
-            "text": "photo",
-            "value": 12
-        },
-        {
-            "text": "Recital",
-            "value": 2
-        },
-        {
-            "text": "Centre",
-            "value": 3
         },
         {
             "text": "attempt",

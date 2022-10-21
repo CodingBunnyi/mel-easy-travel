@@ -76,6 +76,14 @@ def get_heat_map():
     return heatmap.heat_map_data()
 
 
+# Get overall word cloud data ([{word: str, freq: int}]) based on cached twitter data
+# Also cached in file.
+@app.route('/overall-word-cloud-data', methods=['get'])
+def get_overall_word_cloud():
+
+    return wordcloud.overall_word_cloud_data()
+
+
 # Get word cloud data ([{word: str, freq: int}]) based on cached twitter data
 # Also cached in file.
 # Need location id.

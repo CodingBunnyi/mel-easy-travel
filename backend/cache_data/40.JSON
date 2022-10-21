@@ -1,5 +1,5 @@
 {
-    "count": 20,
+    "count": 19,
     "data": [
         {
             "tid": 1583250204333309952,
@@ -325,26 +325,6 @@
             "longitude": 144.96359012,
             "latitude": -37.80274136,
             "photo_urls": []
-        },
-        {
-            "tid": 1580880169480654849,
-            "uid": 883692703598354433,
-            "author": "Ahmed Hassan",
-            "user_img": "https://pbs.twimg.com/profile_images/1062681481527492610/yB1oiwm7_normal.jpg",
-            "time": "2022-10-14 11:16:18 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "@melbfashionweek with @azmeenahussain @TasChop @Aliahmed1942 https://t.co/3SDGrFdrTS",
-            "clean_text": "with",
-            "place_name": "Arts House Meat Market",
-            "place_type": "poi",
-            "longitude": 144.95440960583835,
-            "latitude": -37.801288673271905,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfBqHrSaAAEcVew.jpg",
-                "https://pbs.twimg.com/media/FfBqHrSaYAcUtC6.jpg",
-                "https://pbs.twimg.com/media/FfBqHrTaAAAF2_9.jpg"
-            ]
         }
     ]
 }

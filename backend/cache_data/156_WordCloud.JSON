@@ -1,6 +1,26 @@
 {
     "word_freq": [
         {
+            "text": "posted",
+            "value": 4
+        },
+        {
+            "text": "photo",
+            "value": 4
+        },
+        {
+            "text": "Melbourne",
+            "value": 14
+        },
+        {
+            "text": "Recital",
+            "value": 3
+        },
+        {
+            "text": "Centre",
+            "value": 4
+        },
+        {
             "text": "night",
             "value": 3
         },
@@ -17,10 +37,6 @@
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 13
-        },
-        {
             "text": "Weather",
             "value": 2
         },
@@ -31,22 +47,6 @@
         {
             "text": "Scary",
             "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 3
-        },
-        {
-            "text": "photo",
-            "value": 3
-        },
-        {
-            "text": "Recital",
-            "value": 2
-        },
-        {
-            "text": "Centre",
-            "value": 3
         },
         {
             "text": "Langham",

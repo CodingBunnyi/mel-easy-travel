@@ -1,5 +1,5 @@
 {
-    "count": 38,
+    "count": 37,
     "data": [
         {
             "tid": 1583372346194206720,
@@ -633,25 +633,6 @@
             "longitude": 144.96445,
             "latitude": -37.80486,
             "photo_urls": []
-        },
-        {
-            "tid": 1580885753382731779,
-            "uid": 1492148720468893696,
-            "author": "himbo gaymer",
-            "user_img": "https://pbs.twimg.com/profile_images/1571768839872061442/qB2BYsIu_normal.jpg",
-            "time": "2022-10-14 11:38:29 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Les go! https://t.co/JnABjric6q",
-            "clean_text": "Les go",
-            "place_name": "Victorian Trades Hall",
-            "place_type": "poi",
-            "longitude": 144.96624138592315,
-            "latitude": -37.80678509401727,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfBvM7KakAEJMJf.jpg",
-                "https://pbs.twimg.com/media/FfBvM6kakAUJnx7.jpg"
-            ]
         }
     ]
 }

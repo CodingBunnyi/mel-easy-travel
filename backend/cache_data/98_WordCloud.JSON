@@ -1,6 +1,26 @@
 {
     "word_freq": [
         {
+            "text": "posted",
+            "value": 121
+        },
+        {
+            "text": "photo",
+            "value": 121
+        },
+        {
+            "text": "Melbourne",
+            "value": 187
+        },
+        {
+            "text": "Victoria",
+            "value": 182
+        },
+        {
+            "text": "Australia",
+            "value": 184
+        },
+        {
             "text": "amazing",
             "value": 2
         },
@@ -71,18 +91,6 @@
         {
             "text": "Rollins",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 186
-        },
-        {
-            "text": "Victoria",
-            "value": 181
-        },
-        {
-            "text": "Australia",
-            "value": 183
         },
         {
             "text": "Excited",
@@ -159,14 +167,6 @@
         {
             "text": "solomon",
             "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 120
-        },
-        {
-            "text": "photo",
-            "value": 120
         },
         {
             "text": "Time",

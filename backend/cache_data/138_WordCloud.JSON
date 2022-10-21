@@ -1,6 +1,22 @@
 {
     "word_freq": [
         {
+            "text": "10pm",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 3
+        },
+        {
+            "text": "Started",
+            "value": 1
+        },
+        {
+            "text": "pouring",
+            "value": 2
+        },
+        {
             "text": "BREAKING",
             "value": 1
         },
@@ -217,10 +233,6 @@
             "value": 1
         },
         {
-            "text": "pouring",
-            "value": 1
-        },
-        {
             "text": "BEST",
             "value": 1
         },
@@ -267,10 +279,6 @@
         {
             "text": "35pm",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 2
         },
         {
             "text": "nothing",
