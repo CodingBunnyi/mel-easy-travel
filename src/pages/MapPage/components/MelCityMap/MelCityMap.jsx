@@ -149,17 +149,19 @@ export default function MelCityMap() {
 
   const pins = useMemo(
     () =>
-      Mel_POIs_Data?.map(poi => (
-        <Marker 
-          longitude= { poi.longitude }
-          latitude= { poi.latitude }
-          color= 'red'
-          key = { poi.ID }
-          onClick= { (e) => handleClickPOI(e, poi) }
+      Mel_POIs_Data?.map(poi => {
+        console.log(poi)
+        return(
+          <Marker 
+            longitude= { poi.longitude }
+            latitude= { poi.latitude }
+            color= 'red'
+            key = { poi.ID }
+            onClick= { (e) => handleClickPOI(e, poi) }
         >
-          <ChurchPin value={ poi }/>
-        </Marker>
-      )),
+            <ChurchPin poi={ poi }/>
+          </Marker>
+        )}),
     []
   );
 
