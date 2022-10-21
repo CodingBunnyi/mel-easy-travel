@@ -25,7 +25,7 @@ const AboutMelEasyTravelPage = () => {
               flexDirection: 'column',
             } }
           >
-            <h1 className="about-title">About us</h1>
+            <h1 className="about-title">About MelEasyTravel</h1>
             <p1 className="p1">MelEasyTravel is xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br></br>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br></br>xxxxxxxxxxxxxxxxxxx.</p1>
             <h2 className="contact-title">Contact us</h2>
 
