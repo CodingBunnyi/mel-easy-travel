@@ -77,6 +77,7 @@ const mdTheme = createTheme();
 const App = () => {
   const [open, setOpen] = useState(true);
   const [page, setPage] = useState('Dashboard');
+  const [weatherLoading, setWeatherLoading] = useState(false);
 
   const updatePageName = () => {
     // eslint-disable-next-line no-undef
@@ -97,13 +98,15 @@ const App = () => {
 
   useEffect(() => {
     const getCurrentCityWeather = async () => {
+      setWeatherLoading(true);
       const {status, data} = await getOneCallWeatherData();
       if (status === 200) {
+        setWeatherLoading(false);
         setWeatherData(data)
       }
     }
     getCurrentCityWeather();
-  }, []);
+  }, [page]);
 
   useEffect(() => {
     updatePageName();
@@ -186,9 +189,9 @@ const App = () => {
             } }
         >
             <Routes>
-              <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } setPage={ setPage } /> } />
-              <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } setPage={ setPage }/> } />
-              <Route path="/weather" element={ <WeatherPage weatherData={ weatherData } /> } />
+              <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage } /> } />
+              <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage }/> } />
+              <Route path="/weather" element={ <WeatherPage weatherData={ weatherData } weatherLoading={ weatherLoading } /> } />
               <Route path="/map" element={ <MapPage /> } />
               <Route path="/about-mel-easy-travel" element={ <AboutMelEasyTravelPage /> } />
             </Routes>

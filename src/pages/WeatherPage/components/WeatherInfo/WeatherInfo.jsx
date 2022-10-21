@@ -9,9 +9,10 @@ import timeConverter24To12 from '../../../../utils/timeConverter24To12';
 import timeConverter from'../../../../utils/timeConverter';
 import capitalizeFirstLetter from '../../../../utils/capitalizeFirstLetter';
 import getWindSpeedDescription from '../../../../utils/getWindSpeedDescription';
+import LoadingBox from '../../../../app/components/LoadingBox/LoadingBox';
 import './WeatherInfo.scss';
 
-const WeatherInfo = ({ weatherData }) => {
+const WeatherInfo = ({ weatherData, weatherLoading }) => {
   const [time, setTime] = useState(new Date().toLocaleTimeString());
   const windDirection = degToCompass(weatherData.current.wind_deg)
 
@@ -39,7 +40,8 @@ const WeatherInfo = ({ weatherData }) => {
         height: 550,
       } }
       className="weather-info-paper"
-    >
+    > <></>
+      {weatherLoading ? <LoadingBox /> : 
       <div className="current-info-container">
         <Typography color="text.secondary" sx={ { flex: 1 } }>
           <span className="time">{new Date().toDateString()} {time}</span>
@@ -98,11 +100,12 @@ const WeatherInfo = ({ weatherData }) => {
             <span>Sunset: {getSunriseAndSunset(weatherData.current.sunset)}</span>
           </Typography>
         </div>
-      </div>
+      </div>}
 
       <div className="weather-map-container">
         <WeatherMap />
       </div>
+      
     </Paper>
 )}
 

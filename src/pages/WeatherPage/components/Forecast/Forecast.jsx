@@ -9,9 +9,10 @@ import TableRow from '@mui/material/TableRow';
 import timeConverter from '../../../../utils/timeConverter';
 import { Typography } from '@mui/material';
 import Row from './components/Row'
+import LoadingBox from '../../../../app/components/LoadingBox/LoadingBox';
 import './Forecast.scss';
 
-const Forecast = ({ weatherData }) => {
+const Forecast = ({ weatherData, weatherLoading }) => {
   const createData = (date, weatherIcon, temperature, description, info) => {
     return {
       date,
@@ -51,6 +52,7 @@ const Forecast = ({ weatherData }) => {
           8-day forecast
         </Typography>
 
+        {weatherLoading ? <LoadingBox /> : 
         <Table stickyHeader aria-label="collapsible table" size="small">
           <TableHead>
             <TableRow>
@@ -67,7 +69,8 @@ const Forecast = ({ weatherData }) => {
               <Row key={ row.date } row={ row }/>
             ))}
           </TableBody>
-        </Table>
+        </Table>}
+        
       </TableContainer>
     </Paper>
   )

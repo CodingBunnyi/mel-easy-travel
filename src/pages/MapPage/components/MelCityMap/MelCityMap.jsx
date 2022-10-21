@@ -14,7 +14,7 @@ import ChurchPin from './components/ChurchPin';
 import {createRoot} from 'react-dom/client';
 import ControlPanel from './components/ControlPanel';
 import WordCloudContent from './components/WordCloudContent';
-import CircularProgress from '@mui/material/CircularProgress';
+import LoadingBox from '../../../../app/components/LoadingBox/LoadingBox';
 //import TabTwitter from './TabTwitter';
 
 import Box from '@mui/material/Box';
@@ -116,14 +116,14 @@ export default function MelCityMap() {
 
     const twitterResponse = await getTwitterData(poi.longitude, poi.latitude, 0.5, 10)
     if (twitterResponse.status === 200) {
-      setLoading({...loading, twitterData: false});
       setSelectedTwitterInfo(twitterResponse.data)
+      setLoading({...loading, twitterData: false});
     }
 
     const wordCloudResponse = await getWordCloudData(poi.ID)
     if (wordCloudResponse.status === 200) {
-      setLoading({...loading, wordCloud: false});
       setWordCould(wordCloudResponse.data.word_freq)
+      setLoading({...loading, wordCloud: false});
     }
 
     // const wikiDataResponse = await getWiKiPediaData(`${poi.FeatureName}`)
@@ -198,8 +198,8 @@ export default function MelCityMap() {
           onClose= { () => {
             setSelected(null);
           } }
-          maxWidth= { '600px' }
-          style= { { width: '600px !important' } }        
+          maxWidth= { '620px' }
+          style= { { width: '620px !important' } }        
         >
           <Box>
             <Typography variant="h6" >
@@ -215,7 +215,7 @@ export default function MelCityMap() {
             </Tabs>
           </Box>
 
-          <Box sx={ { width: '600px' , height: 450 , overflow: 'scroll'} } >
+          <Box sx={ { width: '600px' , height: 450 , overflowY: 'scroll'} } >
 
             <TabPanel 
               value={ value } 
@@ -227,14 +227,7 @@ export default function MelCityMap() {
                 <List sx={ { width: '100%',  bgcolor: 'background.paper' } }  >
                 
                   {loading.twitterData ?
-                    <Box
-                      display="flex"
-                      alignItems="center"
-                    >
-                      <CircularProgress />
-                      <div style={ {'margin-left': '16px'} }>LOADING...</div>
-                    </Box> 
-                  
+                    <LoadingBox />
                     : ((selectedTwitterInfo.count == 0  ) ? (
                       <Box>
                         <Typography variant="body2" >

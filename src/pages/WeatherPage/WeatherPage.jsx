@@ -8,21 +8,21 @@ import Forecast from './components/Forecast/Forecast';
 
 import './WeatherPage.scss';
 
-const WeatherPage = ({weatherData}) => {
+const WeatherPage = ({weatherData, weatherLoading}) => {
 
   return(
     <Container sx={ { mt: 4, mb: 4 } }>
       <Grid container spacing={ 3 }>
         <Grid item xs={ 12 } md={ 6 } lg={ 5 }>
-          <WeatherInfo weatherData={ weatherData } />
+          <WeatherInfo weatherData={ weatherData } weatherLoading={ weatherLoading }/>
         </Grid>
 
         <Grid item xs={ 12 } md={ 6 } lg={ 7 }>
-          <Forecast weatherData={ weatherData } />
+          <Forecast weatherData={ weatherData } weatherLoading={ weatherLoading }/>
         </Grid>
 
         <Grid item xs={ 12 } md={ 12 } lg={ 12 }>
-          <WeatherChart weatherData={ weatherData }/>
+          <WeatherChart weatherData={ weatherData } weatherLoading={ weatherLoading }/>
         </Grid>
       </Grid>
     </Container>   

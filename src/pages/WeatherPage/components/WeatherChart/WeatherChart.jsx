@@ -6,8 +6,9 @@ import { useTheme } from '@mui/material/styles';
 import Paper from '@mui/material/Paper';
 import { Typography } from '@mui/material';
 import './WeatherChart.scss';
+import LoadingBox from '../../../../app/components/LoadingBox/LoadingBox';
 
-const WeatherChart = ({ weatherData }) => {
+const WeatherChart = ({ weatherData, weatherLoading }) => {
   const theme = useTheme();
 
   const createData = (time, temp, rain, windSpeed) => {
@@ -56,6 +57,7 @@ const WeatherChart = ({ weatherData }) => {
         Hourly forecast
       </Typography>
 
+      {weatherLoading ? <LoadingBox /> : 
       <ComposedChart width={ 1100 } height={ 250 } data={ getData() }
         margin={ { top: 5, right: 30, left: 20, bottom: 5 } }>
         <CartesianGrid strokeDasharray="3 3" />
@@ -113,7 +115,7 @@ const WeatherChart = ({ weatherData }) => {
           stroke={ theme.palette.primary.main }
           dot={ false }
         />
-      </ComposedChart>
+      </ComposedChart>}
     </Paper>
   )
 }
