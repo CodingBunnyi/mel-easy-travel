@@ -30,7 +30,7 @@ function ControlPanel({ layerStatus, setLayerStatus }) {
 
         <FormControlLabel 
           control= { <Checkbox checked={ layerStatus.heatMap } onChange= { () => handleBusLayerChange('heatMap') } /> } 
-          label="Point of Interest Footfall" 
+          label="Social Network HeatMap" 
         />
 
         <FormControlLabel control= { <Checkbox /> } label="Restaurant" />

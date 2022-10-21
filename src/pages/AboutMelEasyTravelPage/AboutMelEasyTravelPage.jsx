@@ -73,7 +73,7 @@ const AboutMelEasyTravelPage = () => {
                   <Box sx={ { display: 'flex', flexDirection: 'column', overflowY: 'scroll' } } >
                     <CardContent sx={ { flex: '1 0 auto' } }>
                       <Typography component="div" variant="h5">
-                        Yuhan Qian
+                        Cheng Chen
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
@@ -104,7 +104,7 @@ const AboutMelEasyTravelPage = () => {
                   <Box sx={ { display: 'flex', flexDirection: 'column', overflowY: 'scroll' } } >
                     <CardContent sx={ { flex: '1 0 auto' } }>
                       <Typography component="div" variant="h5">
-                        Yuhan Qian
+                        XiaoXi Zhang
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
@@ -135,7 +135,7 @@ const AboutMelEasyTravelPage = () => {
                   <Box sx={ { display: 'flex', flexDirection: 'column', overflowY: 'scroll' } } >
                     <CardContent sx={ { flex: '1 0 auto' } }>
                       <Typography component="div" variant="h5">
-                        Yuhan Qian
+                        Shangguan
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
