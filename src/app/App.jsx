@@ -9,10 +9,8 @@ import ListItems from './components/ListItems/ListItems';
 import Typography from '@mui/material/Typography';
 import Divider from '@mui/material/Divider';
 import IconButton from '@mui/material/IconButton';
-import Badge from '@mui/material/Badge';
 import MenuIcon from '@mui/icons-material/Menu';
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
-import NotificationsIcon from '@mui/icons-material/Notifications';
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import WeatherPage from '../pages/WeatherPage/WeatherPage';
 import MapPage from '../pages/MapPage/MapPage';
@@ -145,12 +143,6 @@ const App = () => {
             >
                 {page}
               </Typography>
-
-              <IconButton color="inherit">
-                <Badge badgeContent={ 4 } color="secondary">
-                  <NotificationsIcon />
-                </Badge>
-              </IconButton>
             </Toolbar>
           </AppBar>
 
