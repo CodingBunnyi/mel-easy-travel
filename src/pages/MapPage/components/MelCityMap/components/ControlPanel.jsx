@@ -21,7 +21,7 @@ function ControlPanel({ layerStatus, setLayerStatus }) {
       borderRadius: 20,
       color: '#6b6b76',
     } } >
-      <h3>Melbourne Tourist Guide</h3>
+      <h2>Melbourne Tourist Guide</h2>
 
       <FormGroup>
         <FormControlLabel 

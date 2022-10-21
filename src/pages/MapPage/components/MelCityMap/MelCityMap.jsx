@@ -11,6 +11,8 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 import { getTwitterData, getWordCloudData, getTwitterDailyData } from '../../../../utils/twitterDataApi';
 import Mel_POIs_Data from '../../../../data/Melbourne_POIs_MGA.json'
 import restaurant from '../../../../data/restaurant.json'
+//import CityCircle_TramStops from '../../../../data/CityCircle_TramStops.json'
+
 
 import ChurchPin from './components/ChurchPin';
 import Pin from './components/Pin';
