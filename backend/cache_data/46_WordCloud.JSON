@@ -1,16 +1,64 @@
 {
     "word_freq": [
         {
-            "text": "Street",
+            "text": "Ready",
+            "value": 1
+        },
+        {
+            "text": "another",
+            "value": 1
+        },
+        {
+            "text": "season",
+            "value": 1
+        },
+        {
+            "text": "Massive",
+            "value": 1
+        },
+        {
+            "text": "thanks",
+            "value": 1
+        },
+        {
+            "text": "stuartkranzbuhler",
+            "value": 1
+        },
+        {
+            "text": "justinlampard",
+            "value": 1
+        },
+        {
+            "text": "everyone",
+            "value": 1
+        },
+        {
+            "text": "graynicolls",
+            "value": 1
+        },
+        {
+            "text": "ausnz",
+            "value": 1
+        },
+        {
+            "text": "refurbing",
+            "value": 1
+        },
+        {
+            "text": "beauties",
             "value": 1
         },
         {
             "text": "Princes",
-            "value": 9
+            "value": 10
         },
         {
             "text": "Park",
-            "value": 9
+            "value": 10
+        },
+        {
+            "text": "Street",
+            "value": 1
         },
         {
             "text": "iPhone",
@@ -194,22 +242,6 @@
         },
         {
             "text": "ready",
-            "value": 1
-        },
-        {
-            "text": "happy",
-            "value": 1
-        },
-        {
-            "text": "BEST",
-            "value": 1
-        },
-        {
-            "text": "DAY",
-            "value": 1
-        },
-        {
-            "text": "EVER",
             "value": 1
         }
     ]

@@ -1,6 +1,162 @@
 {
     "word_freq": [
         {
+            "text": "Awesome",
+            "value": 1
+        },
+        {
+            "text": "exec",
+            "value": 2
+        },
+        {
+            "text": "security",
+            "value": 2
+        },
+        {
+            "text": "simulation",
+            "value": 1
+        },
+        {
+            "text": "AWS",
+            "value": 1
+        },
+        {
+            "text": "forum",
+            "value": 1
+        },
+        {
+            "text": "afternoon",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 1
+        },
+        {
+            "text": "morning",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "Thursday",
+            "value": 1
+        },
+        {
+            "text": "Hills",
+            "value": 1
+        },
+        {
+            "text": "2x6x200",
+            "value": 1
+        },
+        {
+            "text": "jog",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "Alternating",
+            "value": 1
+        },
+        {
+            "text": "easy",
+            "value": 1
+        },
+        {
+            "text": "hard",
+            "value": 1
+        },
+        {
+            "text": "30sec",
+            "value": 1
+        },
+        {
+            "text": "good",
+            "value": 1
+        },
+        {
+            "text": "come",
+            "value": 2
+        },
+        {
+            "text": "crying",
+            "value": 1
+        },
+        {
+            "text": "midnights",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "hey",
+            "value": 1
+        },
+        {
+            "text": "mob",
+            "value": 1
+        },
+        {
+            "text": "organised",
+            "value": 1
+        },
+        {
+            "text": "hyperpop",
+            "value": 1
+        },
+        {
+            "text": "night",
+            "value": 1
+        },
+        {
+            "text": "coming",
+            "value": 2
+        },
+        {
+            "text": "saturday",
+            "value": 1
+        },
+        {
+            "text": "loop",
+            "value": 1
+        },
+        {
+            "text": "bar",
+            "value": 1
+        },
+        {
+            "text": "slay",
+            "value": 1
+        },
+        {
+            "text": "along",
+            "value": 1
+        },
+        {
+            "text": "give",
+            "value": 1
+        },
+        {
+            "text": "big",
+            "value": 1
+        },
+        {
+            "text": "kiss",
+            "value": 1
+        },
+        {
+            "text": "promise",
+            "value": 1
+        },
+        {
             "text": "Prof",
             "value": 1
         },
@@ -109,10 +265,6 @@
             "value": 1
         },
         {
-            "text": "coming",
-            "value": 1
-        },
-        {
             "text": "tell",
             "value": 1
         },
@@ -150,10 +302,6 @@
         },
         {
             "text": "arrived",
-            "value": 1
-        },
-        {
-            "text": "morning",
             "value": 1
         },
         {
@@ -277,71 +425,7 @@
             "value": 1
         },
         {
-            "text": "exec",
-            "value": 1
-        },
-        {
             "text": "fight",
-            "value": 1
-        },
-        {
-            "text": "St",
-            "value": 1
-        },
-        {
-            "text": "Vincents",
-            "value": 1
-        },
-        {
-            "text": "Mercy",
-            "value": 1
-        },
-        {
-            "text": "Private",
-            "value": 1
-        },
-        {
-            "text": "Fitzroy",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
-            "value": 1
-        },
-        {
-            "text": "Thursday",
-            "value": 1
-        },
-        {
-            "text": "Hills",
-            "value": 1
-        },
-        {
-            "text": "3x4x150m",
-            "value": 1
-        },
-        {
-            "text": "jog",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 2
-        },
-        {
-            "text": "rec",
-            "value": 1
-        },
-        {
-            "text": "walk",
-            "value": 1
-        },
-        {
-            "text": "sets",
-            "value": 1
-        },
-        {
-            "text": "23sec",
             "value": 1
         }
     ]

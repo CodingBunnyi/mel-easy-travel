@@ -1,19 +1,311 @@
 {
     "word_freq": [
         {
+            "text": "Sales",
+            "value": 1
+        },
+        {
+            "text": "job",
+            "value": 9
+        },
+        {
+            "text": "might",
+            "value": 4
+        },
+        {
+            "text": "great",
+            "value": 3
+        },
+        {
+            "text": "fit",
+            "value": 2
+        },
+        {
+            "text": "Click",
+            "value": 1
+        },
+        {
+            "text": "link",
+            "value": 5
+        },
+        {
+            "text": "bio",
+            "value": 5
+        },
+        {
+            "text": "see",
+            "value": 1
+        },
+        {
+            "text": "Senior",
+            "value": 5
+        },
+        {
+            "text": "Solution",
+            "value": 2
+        },
+        {
+            "text": "Engineer",
+            "value": 4
+        },
+        {
+            "text": "Epicor",
+            "value": 2
+        },
+        {
+            "text": "road",
+            "value": 1
+        },
+        {
+            "text": "trip",
+            "value": 1
+        },
+        {
+            "text": "Mastercard",
+            "value": 2
+        },
+        {
+            "text": "strive",
+            "value": 1
+        },
+        {
+            "text": "create",
+            "value": 1
+        },
+        {
+            "text": "culture",
+            "value": 1
+        },
+        {
+            "text": "decency",
+            "value": 1
+        },
+        {
+            "text": "belonging",
+            "value": 1
+        },
+        {
+            "text": "looking",
+            "value": 2
+        },
+        {
+            "text": "company",
+            "value": 2
+        },
+        {
+            "text": "belong",
+            "value": 2
+        },
+        {
+            "text": "check",
+            "value": 1
+        },
+        {
+            "text": "latest",
+            "value": 4
+        },
+        {
+            "text": "posting",
+            "value": 1
+        },
+        {
+            "text": "Managing",
+            "value": 2
+        },
+        {
+            "text": "Consultant",
+            "value": 4
+        },
+        {
+            "text": "Advisors",
+            "value": 2
+        },
+        {
+            "text": "Client",
+            "value": 2
+        },
+        {
+            "text": "Services",
+            "value": 2
+        },
+        {
+            "text": "VIC",
+            "value": 15
+        },
+        {
+            "text": "posted",
+            "value": 7
+        },
+        {
+            "text": "photo",
+            "value": 7
+        },
+        {
+            "text": "Schmucks",
+            "value": 4
+        },
+        {
+            "text": "Bagels",
+            "value": 4
+        },
+        {
+            "text": "Join",
+            "value": 1
+        },
+        {
+            "text": "Getinge",
+            "value": 2
+        },
+        {
+            "text": "team",
+            "value": 2
+        },
+        {
+            "text": "See",
+            "value": 3
+        },
+        {
+            "text": "opening",
+            "value": 1
+        },
+        {
+            "text": "Madison",
+            "value": 2
+        },
+        {
+            "text": "Tower",
+            "value": 2
+        },
+        {
+            "text": "Upper",
+            "value": 2
+        },
+        {
+            "text": "West",
+            "value": 2
+        },
+        {
+            "text": "Side",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 20
+        },
+        {
+            "text": "vic",
+            "value": 2
+        },
+        {
+            "text": "Lonsdale",
+            "value": 1
+        },
+        {
+            "text": "St",
+            "value": 2
+        },
+        {
+            "text": "lanes",
+            "value": 2
+        },
+        {
+            "text": "closed",
+            "value": 2
+        },
+        {
+            "text": "eastbound",
+            "value": 2
+        },
+        {
+            "text": "Queen",
+            "value": 1
+        },
+        {
+            "text": "curious",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 1
+        },
+        {
+            "text": "learn",
+            "value": 1
+        },
+        {
+            "text": "want",
+            "value": 1
+        },
+        {
+            "text": "constantly",
+            "value": 1
+        },
+        {
+            "text": "get",
+            "value": 2
+        },
+        {
+            "text": "better",
+            "value": 1
+        },
+        {
+            "text": "SS",
+            "value": 3
+        },
+        {
+            "text": "Technologies",
+            "value": 2
+        },
+        {
+            "text": "perfect",
+            "value": 1
+        },
+        {
+            "text": "career",
+            "value": 1
+        },
+        {
+            "text": "opportunity",
+            "value": 2
+        },
+        {
+            "text": "Nice",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "warm",
+            "value": 1
+        },
+        {
+            "text": "welcome",
+            "value": 1
+        },
+        {
+            "text": "Basement",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "Bar",
+            "value": 3
+        },
+        {
             "text": "Networking",
             "value": 1
         },
         {
             "text": "everywhere",
-            "value": 1
-        },
-        {
-            "text": "Mastercard",
-            "value": 1
-        },
-        {
-            "text": "looking",
             "value": 1
         },
         {
@@ -23,18 +315,6 @@
         {
             "text": "like",
             "value": 4
-        },
-        {
-            "text": "See",
-            "value": 2
-        },
-        {
-            "text": "latest",
-            "value": 2
-        },
-        {
-            "text": "job",
-            "value": 6
         },
         {
             "text": "openings",
@@ -61,56 +341,12 @@
             "value": 2
         },
         {
-            "text": "link",
-            "value": 4
-        },
-        {
-            "text": "bio",
-            "value": 4
-        },
-        {
-            "text": "VIC",
-            "value": 13
-        },
-        {
-            "text": "posted",
-            "value": 6
-        },
-        {
-            "text": "photo",
-            "value": 6
-        },
-        {
-            "text": "Schmucks",
-            "value": 3
-        },
-        {
-            "text": "Bagels",
-            "value": 3
-        },
-        {
-            "text": "might",
-            "value": 3
-        },
-        {
-            "text": "great",
-            "value": 2
-        },
-        {
-            "text": "fit",
-            "value": 1
-        },
-        {
             "text": "Principal",
             "value": 1
         },
         {
             "text": "ERP",
             "value": 2
-        },
-        {
-            "text": "Consultant",
-            "value": 3
         },
         {
             "text": "value",
@@ -169,10 +405,6 @@
             "value": 1
         },
         {
-            "text": "team",
-            "value": 1
-        },
-        {
             "text": "Sound",
             "value": 1
         },
@@ -189,20 +421,12 @@
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 23
-        },
-        {
             "text": "Victorian",
             "value": 1
         },
         {
             "text": "Australia",
-            "value": 6
-        },
-        {
-            "text": "opportunity",
-            "value": 1
+            "value": 4
         },
         {
             "text": "click",
@@ -211,22 +435,6 @@
         {
             "text": "apply",
             "value": 3
-        },
-        {
-            "text": "Senior",
-            "value": 3
-        },
-        {
-            "text": "Solution",
-            "value": 1
-        },
-        {
-            "text": "Engineer",
-            "value": 3
-        },
-        {
-            "text": "Epicor",
-            "value": 1
         },
         {
             "text": "Espresso",
@@ -251,10 +459,6 @@
         {
             "text": "Coffee",
             "value": 1
-        },
-        {
-            "text": "Bar",
-            "value": 2
         },
         {
             "text": "Commonwealth",
@@ -313,14 +517,6 @@
             "value": 1
         },
         {
-            "text": "SS",
-            "value": 2
-        },
-        {
-            "text": "Technologies",
-            "value": 1
-        },
-        {
             "text": "asking",
             "value": 1
         },
@@ -330,10 +526,6 @@
         },
         {
             "text": "way",
-            "value": 1
-        },
-        {
-            "text": "get",
             "value": 1
         },
         {
@@ -350,10 +542,6 @@
         },
         {
             "text": "King",
-            "value": 1
-        },
-        {
-            "text": "St",
             "value": 1
         },
         {
@@ -374,7 +562,7 @@
         },
         {
             "text": "Victoria",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Smart",
@@ -429,30 +617,6 @@
             "value": 1
         },
         {
-            "text": "Madison",
-            "value": 2
-        },
-        {
-            "text": "Tower",
-            "value": 2
-        },
-        {
-            "text": "Upper",
-            "value": 2
-        },
-        {
-            "text": "West",
-            "value": 2
-        },
-        {
-            "text": "Side",
-            "value": 2
-        },
-        {
-            "text": "vic",
-            "value": 2
-        },
-        {
             "text": "Docklands",
             "value": 1
         },
@@ -470,7 +634,7 @@
         },
         {
             "text": "CBD",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Thrive",
@@ -497,31 +661,11 @@
             "value": 1
         },
         {
-            "text": "belong",
-            "value": 1
-        },
-        {
             "text": "Unlock",
             "value": 1
         },
         {
             "text": "potential",
-            "value": 1
-        },
-        {
-            "text": "Managing",
-            "value": 1
-        },
-        {
-            "text": "Advisors",
-            "value": 1
-        },
-        {
-            "text": "Client",
-            "value": 1
-        },
-        {
-            "text": "Services",
             "value": 1
         },
         {
@@ -553,19 +697,11 @@
             "value": 1
         },
         {
-            "text": "Getinge",
-            "value": 1
-        },
-        {
             "text": "look",
             "value": 1
         },
         {
             "text": "know",
-            "value": 1
-        },
-        {
-            "text": "company",
             "value": 1
         },
         {
@@ -594,110 +730,6 @@
         },
         {
             "text": "Street",
-            "value": 1
-        },
-        {
-            "text": "Dreams",
-            "value": 1
-        },
-        {
-            "text": "Come",
-            "value": 1
-        },
-        {
-            "text": "True",
-            "value": 1
-        },
-        {
-            "text": "rideshare",
-            "value": 1
-        },
-        {
-            "text": "HELLOOO",
-            "value": 1
-        },
-        {
-            "text": "FLAMINGO",
-            "value": 1
-        },
-        {
-            "text": "missed",
-            "value": 1
-        },
-        {
-            "text": "excited",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 2
-        },
-        {
-            "text": "tonight",
-            "value": 1
-        },
-        {
-            "text": "throw",
-            "value": 1
-        },
-        {
-            "text": "HEAVIES",
-            "value": 1
-        },
-        {
-            "text": "Aviary",
-            "value": 1
-        },
-        {
-            "text": "2am",
-            "value": 1
-        },
-        {
-            "text": "swipe",
-            "value": 1
-        },
-        {
-            "text": "see",
-            "value": 1
-        },
-        {
-            "text": "clips",
-            "value": 1
-        },
-        {
-            "text": "Flamingo",
-            "value": 1
-        },
-        {
-            "text": "Club",
-            "value": 1
-        },
-        {
-            "text": "cannot",
-            "value": 1
-        },
-        {
-            "text": "control",
-            "value": 2
-        },
-        {
-            "text": "past",
-            "value": 1
-        },
-        {
-            "text": "go",
-            "value": 1
-        },
-        {
-            "text": "next",
-            "value": 1
-        },
-        {
-            "text": "Post",
-            "value": 1
-        },
-        {
-            "text": "McDonald's",
             "value": 1
         }
     ]

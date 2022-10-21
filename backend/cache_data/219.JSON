@@ -1,6 +1,70 @@
 {
-    "count": 33,
+    "count": 34,
     "data": [
+        {
+            "tid": 1583046441651490818,
+            "uid": 601712763,
+            "author": "BNA - Basketball News Australia",
+            "user_img": "https://pbs.twimg.com/profile_images/1514223682368905222/VdkFA2bY_normal.jpg",
+            "time": "2022-10-20 10:44:17 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@keanupinder lifts the @cairnstaipans over the @semelbphoenix @ John Cain Arena https://t.co/3a4fUwqu3X",
+            "clean_text": "lifts the over the John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582993838854897664,
+            "uid": 112291162,
+            "author": "Shaun Dux",
+            "user_img": "https://pbs.twimg.com/profile_images/919524483555213314/t1cW9PWM_normal.jpg",
+            "time": "2022-10-20 07:15:16 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at AAMI Park Gym https://t.co/QnhXa7sggI",
+            "clean_text": "I'm at AAMI Park Gym",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.982409,
+            "latitude": -37.824832,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582993779791130624,
+            "uid": 112291162,
+            "author": "Shaun Dux",
+            "user_img": "https://pbs.twimg.com/profile_images/919524483555213314/t1cW9PWM_normal.jpg",
+            "time": "2022-10-20 07:15:02 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at @AAMIPark in Melbourne, VIC https://t.co/3af7YPbtjc",
+            "clean_text": "I'm at in Melbourne VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98395305,
+            "latitude": -37.82480505,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582993748317065216,
+            "uid": 112291162,
+            "author": "Shaun Dux",
+            "user_img": "https://pbs.twimg.com/profile_images/919524483555213314/t1cW9PWM_normal.jpg",
+            "time": "2022-10-20 07:14:54 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at Melbourne Football Club Administration in Melbourne https://t.co/fnnLZe9Dny",
+            "clean_text": "I'm at Melbourne Football Club Administration in Melbourne",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98362184,
+            "latitude": -37.82439409,
+            "photo_urls": []
+        },
         {
             "tid": 1582635690512486402,
             "uid": 773066231876243456,
@@ -530,59 +594,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfEH6WFaMAATUNF.jpg"
             ]
-        },
-        {
-            "tid": 1580799061908549638,
-            "uid": 351432484,
-            "author": "Will Carter",
-            "user_img": "https://pbs.twimg.com/profile_images/1519909631627493376/i7RQ76xE_normal.jpg",
-            "time": "2022-10-14 05:54:00 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Let’s bloody gooooo! https://t.co/S6PyDRQDLv",
-            "clean_text": "Let s bloody gooooo",
-            "place_name": "Rod Laver Arena",
-            "place_type": "poi",
-            "longitude": 144.97856855392456,
-            "latitude": -37.82159899843773,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1580798938696716288/pu/img/RUD6ShtZLG1s7Pk6.jpg"
-            ]
-        },
-        {
-            "tid": 1580724566959132672,
-            "uid": 16806737,
-            "author": "Andrew Wrathall",
-            "user_img": "https://pbs.twimg.com/profile_images/953118741402861569/ki31Po6u_normal.jpg",
-            "time": "2022-10-14 00:57:59 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Yes, let’s commemorate the Aboriginal women of Victoria, but let’s also celebrate their future and hope that it is filled with love, strength and triumph, without the bullshit that they they’ve had to endure. ❤️💛🖤 https://t.co/LisnwsKekK",
-            "clean_text": "Yes let s commemorate the Aboriginal women of Victoria but let s also celebrate their future and hope that it is filled with love strength and triumph without the bullshit that they they ve had to endure",
-            "place_name": "Pioneer Women's Garden",
-            "place_type": "poi",
-            "longitude": 144.97618728621828,
-            "latitude": -37.82507489554566,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe_cmsxVsAQ-r88.jpg",
-                "https://pbs.twimg.com/media/Fe_cmsKVIAAHO3s.jpg"
-            ]
-        },
-        {
-            "tid": 1580449615434117120,
-            "uid": 2419977829,
-            "author": "Charles Kares",
-            "user_img": "https://pbs.twimg.com/profile_images/1338737684160733186/fUIvMJXV_normal.jpg",
-            "time": "2022-10-13 06:45:26 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ CENTREPIECE at Melbourne Park https://t.co/tDc2Ad8yX5",
-            "clean_text": "Just posted a photo CENTREPIECE at Melbourne Park",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.98126,
-            "latitude": -37.82464,
-            "photo_urls": []
         }
     ]
 }

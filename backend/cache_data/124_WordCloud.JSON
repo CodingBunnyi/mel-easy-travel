@@ -6,7 +6,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 5
+            "value": 4
         },
         {
             "text": "IMAX",
@@ -42,11 +42,11 @@
         },
         {
             "text": "Carlton",
-            "value": 5
+            "value": 2
         },
         {
             "text": "Victoria",
-            "value": 4
+            "value": 2
         },
         {
             "text": "Sunday",
@@ -202,138 +202,6 @@
         },
         {
             "text": "entry",
-            "value": 1
-        },
-        {
-            "text": "Egyptian",
-            "value": 1
-        },
-        {
-            "text": "din",
-            "value": 2
-        },
-        {
-            "text": "Cairo",
-            "value": 1
-        },
-        {
-            "text": "Nights",
-            "value": 1
-        },
-        {
-            "text": "Restaurant",
-            "value": 1
-        },
-        {
-            "text": "Bar",
-            "value": 1
-        },
-        {
-            "text": "VIC",
-            "value": 1
-        },
-        {
-            "text": "pics",
-            "value": 1
-        },
-        {
-            "text": "penguins",
-            "value": 1
-        },
-        {
-            "text": "Strictly",
-            "value": 1
-        },
-        {
-            "text": "allowed",
-            "value": 1
-        },
-        {
-            "text": "Phillip",
-            "value": 1
-        },
-        {
-            "text": "Island",
-            "value": 1
-        },
-        {
-            "text": "Penguin",
-            "value": 1
-        },
-        {
-            "text": "Parade",
-            "value": 1
-        },
-        {
-            "text": "recent",
-            "value": 1
-        },
-        {
-            "text": "visit",
-            "value": 1
-        },
-        {
-            "text": "Ceratopsia",
-            "value": 1
-        },
-        {
-            "text": "favourite",
-            "value": 1
-        },
-        {
-            "text": "extra",
-            "value": 1
-        },
-        {
-            "text": "serving",
-            "value": 1
-        },
-        {
-            "text": "attitude",
-            "value": 1
-        },
-        {
-            "text": "please",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 2
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "Rescued",
-            "value": 1
-        },
-        {
-            "text": "Bl",
-            "value": 1
-        },
-        {
-            "text": "haj",
-            "value": 1
-        },
-        {
-            "text": "today",
-            "value": 1
-        },
-        {
-            "text": "returned",
-            "value": 1
-        },
-        {
-            "text": "natural",
-            "value": 1
-        },
-        {
-            "text": "habitat",
             "value": 1
         }
     ]

@@ -1,24 +1,4 @@
 {
-    "count": 1,
-    "data": [
-        {
-            "tid": 1580696097001181184,
-            "uid": 1936226504,
-            "author": "Caitlin Minney",
-            "user_img": "https://pbs.twimg.com/profile_images/1413093721361420291/pXR5MPHe_normal.jpg",
-            "time": "2022-10-13 23:04:52 +0000",
-            "like_no": 19,
-            "language": "en",
-            "text": "Woke up to a river outside my house. This is the Maribyrnong at a moderate flood level. Everyone on the street is safe and dry but slightly shocked at how quickly the street can flood #vicfloods https://t.co/GSmWDLpuO3",
-            "clean_text": "Woke up to a river outside my house This is the Maribyrnong at a moderate flood level Everyone on the street is safe and dry but slightly shocked at how quickly the street can flood",
-            "place_name": "Ascot Vale, Melbourne",
-            "place_type": "neighborhood",
-            "longitude": 144.91643562,
-            "latitude": -37.77984747,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe_CtlAakAADds3.jpg",
-                "https://pbs.twimg.com/media/Fe_CuGOaUAIINLg.jpg"
-            ]
-        }
-    ]
+    "count": 0,
+    "data": []
 }

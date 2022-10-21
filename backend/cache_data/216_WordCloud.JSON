@@ -1,6 +1,82 @@
 {
     "word_freq": [
         {
+            "text": "Awesome",
+            "value": 1
+        },
+        {
+            "text": "exec",
+            "value": 1
+        },
+        {
+            "text": "security",
+            "value": 2
+        },
+        {
+            "text": "simulation",
+            "value": 1
+        },
+        {
+            "text": "AWS",
+            "value": 1
+        },
+        {
+            "text": "forum",
+            "value": 1
+        },
+        {
+            "text": "afternoon",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 1
+        },
+        {
+            "text": "morning",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "Thursday",
+            "value": 1
+        },
+        {
+            "text": "Hills",
+            "value": 1
+        },
+        {
+            "text": "2x6x200",
+            "value": 1
+        },
+        {
+            "text": "jog",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "Alternating",
+            "value": 1
+        },
+        {
+            "text": "easy",
+            "value": 1
+        },
+        {
+            "text": "hard",
+            "value": 1
+        },
+        {
+            "text": "30sec",
+            "value": 1
+        },
+        {
             "text": "Prof",
             "value": 1
         },
@@ -130,42 +206,6 @@
         },
         {
             "text": "AgileAus2022",
-            "value": 1
-        },
-        {
-            "text": "Thursday",
-            "value": 1
-        },
-        {
-            "text": "Hills",
-            "value": 1
-        },
-        {
-            "text": "3x4x150m",
-            "value": 1
-        },
-        {
-            "text": "jog",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 2
-        },
-        {
-            "text": "rec",
-            "value": 1
-        },
-        {
-            "text": "walk",
-            "value": 1
-        },
-        {
-            "text": "sets",
-            "value": 1
-        },
-        {
-            "text": "23sec",
             "value": 1
         }
     ]

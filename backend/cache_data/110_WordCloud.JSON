@@ -34,11 +34,11 @@
         },
         {
             "text": "District",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Docklands",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Khadijah",
@@ -86,38 +86,6 @@
         },
         {
             "text": "Ping",
-            "value": 1
-        },
-        {
-            "text": "can't",
-            "value": 1
-        },
-        {
-            "text": "tell",
-            "value": 1
-        },
-        {
-            "text": "one",
-            "value": 2
-        },
-        {
-            "text": "dandylion",
-            "value": 1
-        },
-        {
-            "text": "cookie",
-            "value": 1
-        },
-        {
-            "text": "bake",
-            "value": 1
-        },
-        {
-            "text": "nerd",
-            "value": 1
-        },
-        {
-            "text": "oz",
             "value": 1
         }
     ]

@@ -1,6 +1,94 @@
 {
     "word_freq": [
         {
+            "text": "Queen",
+            "value": 3
+        },
+        {
+            "text": "Victoria",
+            "value": 3
+        },
+        {
+            "text": "Market",
+            "value": 2
+        },
+        {
+            "text": "St",
+            "value": 1
+        },
+        {
+            "text": "North",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 8
+        },
+        {
+            "text": "lanes",
+            "value": 1
+        },
+        {
+            "text": "closed",
+            "value": 2
+        },
+        {
+            "text": "westbound",
+            "value": 2
+        },
+        {
+            "text": "Left",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 1
+        },
+        {
+            "text": "Peel",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 1
+        },
+        {
+            "text": "due",
+            "value": 1
+        },
+        {
+            "text": "Nice",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "warm",
+            "value": 1
+        },
+        {
+            "text": "welcome",
+            "value": 1
+        },
+        {
+            "text": "Basement",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "Bar",
+            "value": 1
+        },
+        {
             "text": "Networking",
             "value": 1
         },
@@ -113,10 +201,6 @@
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 11
-        },
-        {
             "text": "Victorian",
             "value": 1
         },
@@ -182,7 +266,7 @@
         },
         {
             "text": "City",
-            "value": 5
+            "value": 3
         },
         {
             "text": "Mart",
@@ -227,10 +311,6 @@
         {
             "text": "weekend",
             "value": 1
-        },
-        {
-            "text": "Queen",
-            "value": 2
         },
         {
             "text": "Vic",
@@ -290,11 +370,11 @@
         },
         {
             "text": "RMIT",
-            "value": 4
+            "value": 2
         },
         {
             "text": "campus",
-            "value": 4
+            "value": 2
         },
         {
             "text": "Dirty",
@@ -345,195 +425,7 @@
             "value": 1
         },
         {
-            "text": "Victoria",
-            "value": 3
-        },
-        {
-            "text": "Market",
-            "value": 1
-        },
-        {
             "text": "Discipline",
-            "value": 1
-        },
-        {
-            "text": "example",
-            "value": 1
-        },
-        {
-            "text": "exciting",
-            "value": 1
-        },
-        {
-            "text": "life",
-            "value": 1
-        },
-        {
-            "text": "Nice",
-            "value": 1
-        },
-        {
-            "text": "finally",
-            "value": 1
-        },
-        {
-            "text": "try",
-            "value": 1
-        },
-        {
-            "text": "famous",
-            "value": 1
-        },
-        {
-            "text": "nice",
-            "value": 1
-        },
-        {
-            "text": "indeed",
-            "value": 1
-        },
-        {
-            "text": "burger",
-            "value": 1
-        },
-        {
-            "text": "since",
-            "value": 1
-        },
-        {
-            "text": "opened",
-            "value": 1
-        },
-        {
-            "text": "outlet",
-            "value": 1
-        },
-        {
-            "text": "Travel",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 1
-        },
-        {
-            "text": "force",
-            "value": 1
-        },
-        {
-            "text": "good",
-            "value": 1
-        },
-        {
-            "text": "done",
-            "value": 1
-        },
-        {
-            "text": "right",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "reminder",
-            "value": 1
-        },
-        {
-            "text": "Oxford",
-            "value": 1
-        },
-        {
-            "text": "Scholar",
-            "value": 1
-        },
-        {
-            "text": "Hotel",
-            "value": 1
-        },
-        {
-            "text": "Hey",
-            "value": 2
-        },
-        {
-            "text": "calling",
-            "value": 1
-        },
-        {
-            "text": "yall",
-            "value": 1
-        },
-        {
-            "text": "landslide",
-            "value": 1
-        },
-        {
-            "text": "reported",
-            "value": 1
-        },
-        {
-            "text": "near",
-            "value": 1
-        },
-        {
-            "text": "Lorne",
-            "value": 1
-        },
-        {
-            "text": "Great",
-            "value": 1
-        },
-        {
-            "text": "Ocean",
-            "value": 1
-        },
-        {
-            "text": "Road",
-            "value": 1
-        },
-        {
-            "text": "issued",
-            "value": 1
-        },
-        {
-            "text": "advice",
-            "value": 1
-        },
-        {
-            "text": "warning",
-            "value": 1
-        },
-        {
-            "text": "stay",
-            "value": 1
-        },
-        {
-            "text": "away",
-            "value": 1
-        },
-        {
-            "text": "area",
-            "value": 1
-        },
-        {
-            "text": "may",
-            "value": 1
-        },
-        {
-            "text": "continue",
-            "value": 1
-        },
-        {
-            "text": "move",
-            "value": 1
-        },
-        {
-            "text": "hours",
-            "value": 1
-        },
-        {
-            "text": "days",
             "value": 1
         }
     ]

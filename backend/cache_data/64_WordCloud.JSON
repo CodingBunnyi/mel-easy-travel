@@ -1,6 +1,74 @@
 {
     "word_freq": [
         {
+            "text": "look",
+            "value": 1
+        },
+        {
+            "text": "away",
+            "value": 1
+        },
+        {
+            "text": "minute",
+            "value": 1
+        },
+        {
+            "text": "new",
+            "value": 2
+        },
+        {
+            "text": "books",
+            "value": 1
+        },
+        {
+            "text": "shiny",
+            "value": 1
+        },
+        {
+            "text": "ones",
+            "value": 1
+        },
+        {
+            "text": "hitting",
+            "value": 1
+        },
+        {
+            "text": "shelves",
+            "value": 1
+        },
+        {
+            "text": "soon",
+            "value": 1
+        },
+        {
+            "text": "let",
+            "value": 1
+        },
+        {
+            "text": "us",
+            "value": 1
+        },
+        {
+            "text": "know",
+            "value": 1
+        },
+        {
+            "text": "particularly",
+            "value": 1
+        },
+        {
+            "text": "want",
+            "value": 1
+        },
+        {
+            "text": "fast",
+            "value": 1
+        },
+        {
+            "text": "tracked",
+            "value": 1
+        },
+        {
             "text": "Pretty",
             "value": 1
         },
@@ -130,22 +198,6 @@
         },
         {
             "text": "Centre",
-            "value": 1
-        },
-        {
-            "text": "Back",
-            "value": 1
-        },
-        {
-            "text": "old",
-            "value": 1
-        },
-        {
-            "text": "stomping",
-            "value": 1
-        },
-        {
-            "text": "grounds",
             "value": 1
         }
     ]

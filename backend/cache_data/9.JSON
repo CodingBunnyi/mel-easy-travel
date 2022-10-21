@@ -1,6 +1,22 @@
 {
-    "count": 12,
+    "count": 10,
     "data": [
+        {
+            "tid": 1583199132403236864,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "user_img": "https://pbs.twimg.com/profile_images/1090064003982811136/jrnsNv5F_normal.jpg",
+            "time": "2022-10-20 20:51:02 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Victoria St , North Melbourne - lanes closed westbound, Left lane closed westbound at Peel Street due… https://t.co/i9e2Fsqvoa #victraffic",
+            "clean_text": "Victoria St North Melbourne lanes closed westbound Left lane closed westbound at Peel Street due",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.95589308,
+            "latitude": -37.80586818,
+            "photo_urls": []
+        },
         {
             "tid": 1582630313213448192,
             "uid": 22417709,
@@ -155,60 +171,6 @@
                 "https://pbs.twimg.com/media/FfBqHrSaAAEcVew.jpg",
                 "https://pbs.twimg.com/media/FfBqHrSaYAcUtC6.jpg",
                 "https://pbs.twimg.com/media/FfBqHrTaAAAF2_9.jpg"
-            ]
-        },
-        {
-            "tid": 1580465252717580288,
-            "uid": 911430326,
-            "author": "Melbourne Law School",
-            "user_img": "https://pbs.twimg.com/profile_images/1087935700408913920/96YeK14Z_normal.jpg",
-            "time": "2022-10-13 07:47:34 +0000",
-            "like_no": 8,
-            "language": "en",
-            "text": "Thank you, @MarkDreyfusKCMP for delivering an insightful presentation on the rule of law in Australia and internationally at tonight’s Seabrook Chambers Public Lecture. https://t.co/wNgKP8YvHG",
-            "clean_text": "Thank you for delivering an insightful presentation on the rule of law in Australia and internationally at tonight s Seabrook Chambers Public Lecture",
-            "place_name": "Law Building GM-15 - Melbourne University",
-            "place_type": "poi",
-            "longitude": 144.95959117881173,
-            "latitude": -37.80245502035752,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7wxA2UcAA51_l.jpg"
-            ]
-        },
-        {
-            "tid": 1580457877633847296,
-            "uid": 911430326,
-            "author": "Melbourne Law School",
-            "user_img": "https://pbs.twimg.com/profile_images/1087935700408913920/96YeK14Z_normal.jpg",
-            "time": "2022-10-13 07:18:16 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "@MarkDreyfusKCMP discusses the latest findings of the Australian Law Commission Report on judicial bias, Without Fear or Favour: Judicial Impartiality and the Law on Bias.\n \n“As Attorney General, I have an important role to play in safeguarding and promoting the rule of law.” https://t.co/7whDMFdzh5",
-            "clean_text": "discusses the latest findings of the Australian Law Commission Report on judicial bias Without Fear or Favour Judicial Impartiality and the Law on Bias As Attorney General I have an important role to play in safeguarding and promoting the rule of law",
-            "place_name": "Law Building GM-15 - Melbourne University",
-            "place_type": "poi",
-            "longitude": 144.95959117881173,
-            "latitude": -37.80245502035752,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7qDu_VQAExgf2.jpg"
-            ]
-        },
-        {
-            "tid": 1580457865982095362,
-            "uid": 911430326,
-            "author": "Melbourne Law School",
-            "user_img": "https://pbs.twimg.com/profile_images/1087935700408913920/96YeK14Z_normal.jpg",
-            "time": "2022-10-13 07:18:13 +0000",
-            "like_no": 76,
-            "language": "en",
-            "text": "We’re delighted to welcome the Attorney-General of Australia Mark Dreyfus KC MP to present the 2022 Seabrook Chambers Public Lecture at Melbourne Law School tonight.\n \n@MarkDreyfusKCMP will share his thoughts on the need to strengthen the rule of law in this country. https://t.co/9d529BIpzP",
-            "clean_text": "We re delighted to welcome the Attorney General of Australia Mark Dreyfus KC MP to present the 2022 Seabrook Chambers Public Lecture at Melbourne Law School tonight will share his thoughts on the need to strengthen the rule of law in this country",
-            "place_name": "Law Building GM-15 - Melbourne University",
-            "place_type": "poi",
-            "longitude": 144.95959117881173,
-            "latitude": -37.80245502035752,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7qDCaVUAAMkBp.jpg"
             ]
         }
     ]

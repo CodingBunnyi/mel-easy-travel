@@ -272,9 +272,10 @@ def count_tweet(long: float, lat: float, radius: float, thirty: bool = False, gr
     result_data = result.data
 
     for i, record_dict in enumerate(result_data):
-        id_dict = {'id': i}
-        id_dict.update(record_dict)
-        result_data[i] = id_dict
+        del record_dict['end']
+        start_datetime = record_dict.pop('start')
+        start_date = datetime.datetime.strptime(start_datetime[0:10], '%Y-%m-%d').date()
+        record_dict['date'] = str(start_date)
 
     count = result.meta['total_tweet_count']
 

@@ -1,6 +1,62 @@
 {
     "word_freq": [
         {
+            "text": "Ready",
+            "value": 1
+        },
+        {
+            "text": "another",
+            "value": 1
+        },
+        {
+            "text": "season",
+            "value": 1
+        },
+        {
+            "text": "Massive",
+            "value": 1
+        },
+        {
+            "text": "thanks",
+            "value": 1
+        },
+        {
+            "text": "stuartkranzbuhler",
+            "value": 1
+        },
+        {
+            "text": "justinlampard",
+            "value": 1
+        },
+        {
+            "text": "everyone",
+            "value": 1
+        },
+        {
+            "text": "graynicolls",
+            "value": 1
+        },
+        {
+            "text": "ausnz",
+            "value": 1
+        },
+        {
+            "text": "refurbing",
+            "value": 1
+        },
+        {
+            "text": "beauties",
+            "value": 1
+        },
+        {
+            "text": "Princes",
+            "value": 10
+        },
+        {
+            "text": "Park",
+            "value": 10
+        },
+        {
             "text": "Full",
             "value": 1
         },
@@ -23,14 +79,6 @@
         {
             "text": "Street",
             "value": 1
-        },
-        {
-            "text": "Princes",
-            "value": 9
-        },
-        {
-            "text": "Park",
-            "value": 9
         },
         {
             "text": "iPhone",
@@ -214,34 +262,6 @@
         },
         {
             "text": "ready",
-            "value": 1
-        },
-        {
-            "text": "happy",
-            "value": 1
-        },
-        {
-            "text": "BEST",
-            "value": 1
-        },
-        {
-            "text": "DAY",
-            "value": 1
-        },
-        {
-            "text": "EVER",
-            "value": 1
-        },
-        {
-            "text": "SAW",
-            "value": 1
-        },
-        {
-            "text": "PLATYPUS",
-            "value": 1
-        },
-        {
-            "text": "AHHHHHHHHH",
             "value": 1
         }
     ]

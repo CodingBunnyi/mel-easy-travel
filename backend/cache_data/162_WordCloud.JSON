@@ -1,28 +1,112 @@
 {
     "word_freq": [
         {
+            "text": "posted",
+            "value": 6
+        },
+        {
+            "text": "photo",
+            "value": 6
+        },
+        {
+            "text": "Schmucks",
+            "value": 4
+        },
+        {
+            "text": "Bagels",
+            "value": 4
+        },
+        {
+            "text": "Madison",
+            "value": 2
+        },
+        {
+            "text": "Tower",
+            "value": 2
+        },
+        {
+            "text": "Upper",
+            "value": 2
+        },
+        {
+            "text": "West",
+            "value": 2
+        },
+        {
+            "text": "Side",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 18
+        },
+        {
+            "text": "vic",
+            "value": 2
+        },
+        {
+            "text": "Lonsdale",
+            "value": 1
+        },
+        {
+            "text": "St",
+            "value": 2
+        },
+        {
+            "text": "lanes",
+            "value": 2
+        },
+        {
+            "text": "closed",
+            "value": 2
+        },
+        {
+            "text": "eastbound",
+            "value": 2
+        },
+        {
+            "text": "Queen",
+            "value": 2
+        },
+        {
+            "text": "Nice",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "warm",
+            "value": 1
+        },
+        {
+            "text": "welcome",
+            "value": 1
+        },
+        {
+            "text": "Basement",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "Bar",
+            "value": 3
+        },
+        {
             "text": "Networking",
             "value": 1
         },
         {
             "text": "everywhere",
             "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 5
-        },
-        {
-            "text": "photo",
-            "value": 5
-        },
-        {
-            "text": "Schmucks",
-            "value": 3
-        },
-        {
-            "text": "Bagels",
-            "value": 3
         },
         {
             "text": "Gianluca",
@@ -33,16 +117,12 @@
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 18
-        },
-        {
             "text": "Victorian",
             "value": 1
         },
         {
             "text": "Australia",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Espresso",
@@ -69,10 +149,6 @@
             "value": 1
         },
         {
-            "text": "Bar",
-            "value": 2
-        },
-        {
             "text": "Commonwealth",
             "value": 1
         },
@@ -86,10 +162,6 @@
         },
         {
             "text": "King",
-            "value": 1
-        },
-        {
-            "text": "St",
             "value": 1
         },
         {
@@ -125,30 +197,6 @@
             "value": 1
         },
         {
-            "text": "Madison",
-            "value": 2
-        },
-        {
-            "text": "Tower",
-            "value": 2
-        },
-        {
-            "text": "Upper",
-            "value": 2
-        },
-        {
-            "text": "West",
-            "value": 2
-        },
-        {
-            "text": "Side",
-            "value": 2
-        },
-        {
-            "text": "vic",
-            "value": 2
-        },
-        {
             "text": "Docklands",
             "value": 1
         },
@@ -165,71 +213,11 @@
             "value": 1
         },
         {
-            "text": "Queen",
-            "value": 1
-        },
-        {
             "text": "Market",
             "value": 1
         },
         {
             "text": "CBD",
-            "value": 1
-        },
-        {
-            "text": "rideshare",
-            "value": 1
-        },
-        {
-            "text": "Travel",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 1
-        },
-        {
-            "text": "force",
-            "value": 1
-        },
-        {
-            "text": "good",
-            "value": 1
-        },
-        {
-            "text": "done",
-            "value": 1
-        },
-        {
-            "text": "right",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "reminder",
-            "value": 1
-        },
-        {
-            "text": "cannot",
-            "value": 1
-        },
-        {
-            "text": "control",
-            "value": 2
-        },
-        {
-            "text": "past",
-            "value": 1
-        },
-        {
-            "text": "go",
-            "value": 1
-        },
-        {
-            "text": "next",
             "value": 1
         }
     ]

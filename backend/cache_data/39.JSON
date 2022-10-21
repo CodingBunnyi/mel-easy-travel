@@ -1,5 +1,5 @@
 {
-    "count": 3,
+    "count": 1,
     "data": [
         {
             "tid": 1582177635026640896,
@@ -16,43 +16,6 @@
             "longitude": 144.952095,
             "latitude": -37.784762,
             "photo_urls": []
-        },
-        {
-            "tid": 1580698290743824393,
-            "uid": 4854843496,
-            "author": "AKIRA アキラ",
-            "user_img": "https://pbs.twimg.com/profile_images/1572593191550861313/5nz1LScc_normal.jpg",
-            "time": "2022-10-13 23:13:35 +0000",
-            "like_no": 45,
-            "language": "en",
-            "text": "I SAW A PLATYPUS AHHHHHHHHH https://t.co/NJNEytjpWN",
-            "clean_text": "I SAW A PLATYPUS AHHHHHHHHH",
-            "place_name": "Melbourne Zoo",
-            "place_type": "poi",
-            "longitude": 144.95258331298828,
-            "latitude": -37.78452019757323,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe_EsbsWAAAmJGJ.jpg",
-                "https://pbs.twimg.com/media/Fe_EtZLXgAUpPdZ.jpg"
-            ]
-        },
-        {
-            "tid": 1580471515329413120,
-            "uid": 1309684286220427264,
-            "author": "Chloe S",
-            "user_img": "https://pbs.twimg.com/profile_images/1554354035939213312/6GDLE3zL_normal.jpg",
-            "time": "2022-10-13 08:12:27 +0000",
-            "like_no": 25,
-            "language": "en",
-            "text": "I was feeling flat so I got a coffee, then I remembered last time I was here was the last normal 12 hours of my life and I had no idea so now I'm anxious. I guess I'll have heaps to leave on the court tonight! https://t.co/kgVPdb0cDE",
-            "clean_text": "I was feeling flat so I got a coffee then I remembered last time I was here was the last normal 12 hours of my life and I had no idea so now I'm anxious I guess I'll have heaps to leave on the court tonight",
-            "place_name": "State Netball Hockey Centre",
-            "place_type": "poi",
-            "longitude": 144.94758183750625,
-            "latitude": -37.78523755122001,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe72dqXVQAEav02.jpg"
-            ]
         }
     ]
 }

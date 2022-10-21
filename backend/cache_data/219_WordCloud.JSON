@@ -1,6 +1,54 @@
 {
     "word_freq": [
         {
+            "text": "lifts",
+            "value": 1
+        },
+        {
+            "text": "John",
+            "value": 4
+        },
+        {
+            "text": "Cain",
+            "value": 4
+        },
+        {
+            "text": "Arena",
+            "value": 5
+        },
+        {
+            "text": "AAMI",
+            "value": 2
+        },
+        {
+            "text": "Park",
+            "value": 3
+        },
+        {
+            "text": "Gym",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 5
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "Football",
+            "value": 1
+        },
+        {
+            "text": "Club",
+            "value": 1
+        },
+        {
+            "text": "Administration",
+            "value": 1
+        },
+        {
             "text": "Gal",
             "value": 1
         },
@@ -79,18 +127,6 @@
         {
             "text": "australianmensnetball",
             "value": 1
-        },
-        {
-            "text": "John",
-            "value": 3
-        },
-        {
-            "text": "Cain",
-            "value": 3
-        },
-        {
-            "text": "Arena",
-            "value": 4
         },
         {
             "text": "Get",
@@ -253,14 +289,6 @@
             "value": 1
         },
         {
-            "text": "AAMI",
-            "value": 1
-        },
-        {
-            "text": "Park",
-            "value": 3
-        },
-        {
             "text": "shake",
             "value": 1
         },
@@ -350,7 +378,7 @@
         },
         {
             "text": "Let",
-            "value": 4
+            "value": 3
         },
         {
             "text": "go",
@@ -481,10 +509,6 @@
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 3
-        },
-        {
             "text": "Victory",
             "value": 1
         },
@@ -610,11 +634,11 @@
         },
         {
             "text": "posted",
-            "value": 2
+            "value": 1
         },
         {
             "text": "photo",
-            "value": 2
+            "value": 1
         },
         {
             "text": "deception",
@@ -622,86 +646,6 @@
         },
         {
             "text": "today",
-            "value": 1
-        },
-        {
-            "text": "bloody",
-            "value": 1
-        },
-        {
-            "text": "gooooo",
-            "value": 1
-        },
-        {
-            "text": "Yes",
-            "value": 1
-        },
-        {
-            "text": "let",
-            "value": 2
-        },
-        {
-            "text": "commemorate",
-            "value": 1
-        },
-        {
-            "text": "Aboriginal",
-            "value": 1
-        },
-        {
-            "text": "women",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
-            "value": 1
-        },
-        {
-            "text": "also",
-            "value": 1
-        },
-        {
-            "text": "celebrate",
-            "value": 1
-        },
-        {
-            "text": "future",
-            "value": 1
-        },
-        {
-            "text": "hope",
-            "value": 1
-        },
-        {
-            "text": "filled",
-            "value": 1
-        },
-        {
-            "text": "love",
-            "value": 1
-        },
-        {
-            "text": "strength",
-            "value": 1
-        },
-        {
-            "text": "triumph",
-            "value": 1
-        },
-        {
-            "text": "without",
-            "value": 1
-        },
-        {
-            "text": "bullshit",
-            "value": 1
-        },
-        {
-            "text": "endure",
-            "value": 1
-        },
-        {
-            "text": "CENTREPIECE",
             "value": 1
         }
     ]

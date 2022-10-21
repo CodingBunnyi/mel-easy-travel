@@ -1,6 +1,54 @@
 {
-    "count": 25,
+    "count": 24,
     "data": [
+        {
+            "tid": 1583364232351219713,
+            "uid": 131486158,
+            "author": "David Witteveen",
+            "user_img": "https://pbs.twimg.com/profile_images/1201735878663524352/rIE6NN94_normal.jpg",
+            "time": "2022-10-21 07:47:05 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Table confirmed for the #Hallozeen Zine Fair. 1 week to go! @ The Mission to Seafarers - Victoria https://t.co/jytLeOWT6b",
+            "clean_text": "Table confirmed for the Zine Fair 1 week to go The Mission to Seafarers Victoria",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.95129585,
+            "latitude": -37.82253124,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583324463202205696,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "user_img": "https://pbs.twimg.com/profile_images/1090064003982811136/jrnsNv5F_normal.jpg",
+            "time": "2022-10-21 05:09:03 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "West Gate Fwy  (M1), Docklands - lanes closed inbound, Left lane closed inbound at Montague Street,… https://t.co/SVR7wsGgey #victraffic",
+            "clean_text": "West Gate Fwy M1 Docklands lanes closed inbound Left lane closed inbound at Montague Street",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9490208,
+            "latitude": -37.82649766,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583183846610448385,
+            "uid": 248967794,
+            "author": "tre dallas",
+            "user_img": "https://pbs.twimg.com/profile_images/598816920498876416/aTvPWhST_normal.jpg",
+            "time": "2022-10-20 19:50:17 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Melbourne Convention and Exhibition Centre (MCEC) https://t.co/zKDLx9fm48",
+            "clean_text": "Just posted a photo Melbourne Convention and Exhibition Centre MCEC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.95289588,
+            "latitude": -37.82531574,
+            "photo_urls": []
+        },
         {
             "tid": 1582592892488413185,
             "uid": 18147028,
@@ -358,75 +406,6 @@
             "latitude": -37.823717709049966,
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfD5W0SVQAI2lnj.jpg"
-            ]
-        },
-        {
-            "tid": 1580856335109066752,
-            "uid": 741966875932823553,
-            "author": "Yvonne Gao",
-            "user_img": "https://pbs.twimg.com/profile_images/1577178029578924032/m5WJv-A1_normal.jpg",
-            "time": "2022-10-14 09:41:35 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "🎉 What a great way to wrap up today with John's smile and some drinks in the city. @johnmcinerney11 @eramanda Go Monash Radiography @Monash_FMNHS https://t.co/vCCreBUnYL",
-            "clean_text": "What a great way to wrap up today with John's smile and some drinks in the city Go Monash Radiography",
-            "place_name": "Deakin Downtown",
-            "place_type": "poi",
-            "longitude": 144.95029,
-            "latitude": -37.82058,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfBUc-HacAEhifY.jpg",
-                "https://pbs.twimg.com/media/FfBUdUFaAAApOB4.jpg"
-            ]
-        },
-        {
-            "tid": 1580855316954374144,
-            "uid": 223578165,
-            "author": "Tenma Yuuki (Nelson)",
-            "user_img": "https://pbs.twimg.com/profile_images/1508783176327786501/YkMUBmYU_normal.jpg",
-            "time": "2022-10-14 09:37:33 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Just posted a photo @ Melbourne Convention and Exhibition Centre (MCEC) https://t.co/xQ6pdsoHhi",
-            "clean_text": "Just posted a photo Melbourne Convention and Exhibition Centre MCEC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95289588,
-            "latitude": -37.82531574,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580663696095072256,
-            "uid": 1038335580,
-            "author": "Darren: Bouncelight Photographer † 🔜Bris Supanova",
-            "user_img": "https://pbs.twimg.com/profile_images/739974800777449473/XX0HY8QX_normal.jpg",
-            "time": "2022-10-13 20:56:07 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ Melbourne Convention and Exhibition Centre (MCEC) https://t.co/oEP1vd0GO2",
-            "clean_text": "Just posted a photo Melbourne Convention and Exhibition Centre MCEC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95289588,
-            "latitude": -37.82531574,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580345984919298048,
-            "uid": 895274092307267584,
-            "author": "Abu Noman",
-            "user_img": "https://pbs.twimg.com/profile_images/1320991604576972800/VIxu_lSH_normal.jpg",
-            "time": "2022-10-12 23:53:38 +0000",
-            "like_no": 7,
-            "language": "en",
-            "text": "Attending #DeakinCIE22 organized by @DeakinCIE https://t.co/Y4Gt5yOGEH",
-            "clean_text": "Attending organized by",
-            "place_name": "Deakin Downtown",
-            "place_type": "poi",
-            "longitude": 144.95029,
-            "latitude": -37.82058,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe6ES7aVEAA5Q52.jpg"
             ]
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "count": 8,
+    "count": 3,
     "data": [
         {
             "tid": 1582640807747940352,
@@ -52,93 +52,6 @@
             "longitude": 144.90443611,
             "latitude": -37.78841659,
             "photo_urls": []
-        },
-        {
-            "tid": 1580815832891867136,
-            "uid": 892652559910944768,
-            "author": "Dean Williams",
-            "user_img": "https://pbs.twimg.com/profile_images/892655707467661312/o_gi85PQ_normal.jpg",
-            "time": "2022-10-14 07:00:39 +0000",
-            "like_no": 26,
-            "language": "en",
-            "text": "This is what investment in tracks and infrastructure gets you. Flooding 50m away from the @FlemingtonVRC  course proper and the course proper is looking outstanding. https://t.co/MwnfMEFKC9 https://t.co/uXhsqklBi7",
-            "clean_text": "This is what investment in tracks and infrastructure gets you Flooding 50m away from the course proper and the course proper is looking outstanding",
-            "place_name": "Flemington Racecourse",
-            "place_type": "poi",
-            "longitude": 144.91005420684814,
-            "latitude": -37.787894850036565,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1580815773047541760/pu/img/gLrno7evmVSP7n_G.jpg",
-                "https://pbs.twimg.com/ext_tw_video_thumb/1580815772959399936/pu/img/6-VsOPlM8c-3zGpP.jpg"
-            ]
-        },
-        {
-            "tid": 1580805952437379074,
-            "uid": 113552141,
-            "author": "Jodi Vuleta 💉💉💉",
-            "user_img": "https://pbs.twimg.com/profile_images/1132788800965337088/P5nYb0M6_normal.jpg",
-            "time": "2022-10-14 06:21:23 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ Maribyrnong River Trail https://t.co/ayVfVrnAQg",
-            "clean_text": "Just posted a photo Maribyrnong River Trail",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.90356,
-            "latitude": -37.78505,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580751380457099264,
-            "uid": 273813407,
-            "author": "Dr Marcus Zipper 💉💉💉💉",
-            "user_img": "https://pbs.twimg.com/profile_images/1211505780228157445/LRQZgOMq_normal.jpg",
-            "time": "2022-10-14 02:44:32 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Great to be at the Victorian Chamber of Commerce Melbourne Cup Carnival Lunch. Guest panel is Damien Oliver and Emma Freedman #vcci https://t.co/P8XxQ4LJjv",
-            "clean_text": "Great to be at the Victorian Chamber of Commerce Melbourne Cup Carnival Lunch Guest panel is Damien Oliver and Emma Freedman",
-            "place_name": "Flemington Racecourse",
-            "place_type": "poi",
-            "longitude": 144.91005420684814,
-            "latitude": -37.787894850036565,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe_0_5yaYAAn0jj.jpg"
-            ]
-        },
-        {
-            "tid": 1580730368483000320,
-            "uid": 18147028,
-            "author": "VicTraffic",
-            "user_img": "https://pbs.twimg.com/profile_images/1090064003982811136/jrnsNv5F_normal.jpg",
-            "time": "2022-10-14 01:21:03 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Farnsworth Av , Ascot Vale - Road Closed, Farnsworth Avenue is closed in both directions due to… https://t.co/zI4oxVqOta #victraffic",
-            "clean_text": "Farnsworth Av Ascot Vale Road Closed Farnsworth Avenue is closed in both directions due to",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9051243,
-            "latitude": -37.78628021,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580343469562003456,
-            "uid": 57905508,
-            "author": "Sharona King",
-            "user_img": "https://pbs.twimg.com/profile_images/1579565123165114368/aKc0GJYE_normal.jpg",
-            "time": "2022-10-12 23:43:39 +0000",
-            "like_no": 9,
-            "language": "en",
-            "text": "The babies learning the ropes #Racing #Flemington #Headquarters #Horses #Love #Gallop #RichEnuff #Colt https://t.co/7vOUUw35js",
-            "clean_text": "The babies learning the ropes",
-            "place_name": "Flemington Racecourse",
-            "place_type": "poi",
-            "longitude": 144.91005420684814,
-            "latitude": -37.787894850036565,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1580343043596881920/pu/img/IIgeWsl6sG6EZ6aA.jpg"
-            ]
         }
     ]
 }

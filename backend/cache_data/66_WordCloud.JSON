@@ -1,24 +1,1872 @@
 {
     "word_freq": [
         {
+            "text": "amazing",
+            "value": 2
+        },
+        {
+            "text": "eve",
+            "value": 1
+        },
+        {
+            "text": "Basically",
+            "value": 1
+        },
+        {
+            "text": "men",
+            "value": 2
+        },
+        {
+            "text": "afraid",
+            "value": 1
+        },
+        {
+            "text": "women",
+            "value": 5
+        },
+        {
+            "text": "handle",
+            "value": 2
+        },
+        {
+            "text": "fact",
+            "value": 1
+        },
+        {
+            "text": "came",
+            "value": 1
+        },
+        {
+            "text": "thing",
+            "value": 2
+        },
+        {
+            "text": "spend",
+            "value": 3
+        },
+        {
+            "text": "rest",
+            "value": 1
+        },
+        {
+            "text": "lives",
+            "value": 1
+        },
+        {
+            "text": "trying",
+            "value": 1
+        },
+        {
+            "text": "get",
+            "value": 8
+        },
+        {
+            "text": "back",
+            "value": 3
+        },
+        {
+            "text": "Henry",
+            "value": 1
+        },
+        {
+            "text": "Rollins",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 187
+        },
+        {
+            "text": "Victoria",
+            "value": 179
+        },
+        {
+            "text": "Australia",
+            "value": 184
+        },
+        {
+            "text": "Excited",
+            "value": 1
+        },
+        {
+            "text": "new",
+            "value": 7
+        },
+        {
+            "text": "shoes",
+            "value": 1
+        },
+        {
+            "text": "Miss",
+            "value": 1
+        },
+        {
+            "text": "excited",
+            "value": 1
+        },
+        {
+            "text": "shoe",
+            "value": 1
+        },
+        {
+            "text": "box",
+            "value": 1
+        },
+        {
+            "text": "Jazz",
+            "value": 3
+        },
+        {
+            "text": "cheese",
+            "value": 1
+        },
+        {
+            "text": "platter",
+            "value": 1
+        },
+        {
+            "text": "perfect",
+            "value": 2
+        },
+        {
+            "text": "evening",
+            "value": 2
+        },
+        {
+            "text": "Kelvin",
+            "value": 1
+        },
+        {
+            "text": "International",
+            "value": 1
+        },
+        {
+            "text": "Festival",
+            "value": 1
+        },
+        {
+            "text": "weekend",
+            "value": 6
+        },
+        {
+            "text": "Fresh",
+            "value": 2
+        },
+        {
+            "text": "digis",
+            "value": 1
+        },
+        {
+            "text": "solomon",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 127
+        },
+        {
+            "text": "photo",
+            "value": 125
+        },
+        {
+            "text": "Cambodia",
+            "value": 1
+        },
+        {
+            "text": "Kitchen",
+            "value": 1
+        },
+        {
+            "text": "Time",
+            "value": 1
+        },
+        {
+            "text": "party",
+            "value": 1
+        },
+        {
+            "text": "fiesta",
+            "value": 1
+        },
+        {
+            "text": "cactus",
+            "value": 1
+        },
+        {
+            "text": "earrings",
+            "value": 4
+        },
+        {
+            "text": "Available",
+            "value": 1
+        },
+        {
+            "text": "link",
+            "value": 11
+        },
+        {
+            "text": "bio",
+            "value": 17
+        },
+        {
+            "text": "Masons",
+            "value": 1
+        },
+        {
+            "text": "News",
+            "value": 1
+        },
+        {
+            "text": "flash",
+            "value": 1
+        },
+        {
+            "text": "big",
+            "value": 2
+        },
+        {
+            "text": "acoustic",
+            "value": 1
+        },
+        {
+            "text": "shed",
+            "value": 1
+        },
+        {
+            "text": "City",
+            "value": 7
+        },
+        {
+            "text": "Square",
+            "value": 3
+        },
+        {
+            "text": "coming",
+            "value": 6
+        },
+        {
+            "text": "Thanks",
+            "value": 8
+        },
+        {
+            "text": "colour",
+            "value": 1
+        },
+        {
+            "text": "good",
+            "value": 5
+        },
+        {
+            "text": "times",
+            "value": 4
+        },
+        {
+            "text": "Exciting",
+            "value": 2
+        },
+        {
+            "text": "ahead",
+            "value": 2
+        },
+        {
+            "text": "Sales",
+            "value": 1
+        },
+        {
+            "text": "job",
+            "value": 15
+        },
+        {
+            "text": "might",
+            "value": 7
+        },
+        {
+            "text": "great",
+            "value": 10
+        },
+        {
+            "text": "fit",
+            "value": 3
+        },
+        {
+            "text": "Click",
+            "value": 7
+        },
+        {
+            "text": "see",
+            "value": 8
+        },
+        {
+            "text": "Senior",
+            "value": 5
+        },
+        {
+            "text": "Solution",
+            "value": 2
+        },
+        {
+            "text": "Engineer",
+            "value": 4
+        },
+        {
+            "text": "Epicor",
+            "value": 2
+        },
+        {
+            "text": "Crane",
+            "value": 1
+        },
+        {
+            "text": "Restaurant",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 19
+        },
+        {
+            "text": "Want",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 2
+        },
+        {
+            "text": "UPS",
+            "value": 7
+        },
+        {
+            "text": "We're",
+            "value": 3
+        },
+        {
+            "text": "hiring",
+            "value": 4
+        },
+        {
+            "text": "details",
+            "value": 2
+        },
+        {
+            "text": "Storeperson",
+            "value": 2
+        },
+        {
+            "text": "JnM",
+            "value": 5
+        },
+        {
+            "text": "Friday",
+            "value": 3
+        },
+        {
+            "text": "Reflect",
+            "value": 1
+        },
+        {
+            "text": "Recharge",
+            "value": 1
+        },
+        {
+            "text": "Reset",
+            "value": 1
+        },
+        {
+            "text": "think",
+            "value": 4
+        },
+        {
+            "text": "flood",
+            "value": 1
+        },
+        {
+            "text": "affected",
+            "value": 1
+        },
+        {
+            "text": "regions",
+            "value": 1
+        },
+        {
+            "text": "help",
+            "value": 1
+        },
+        {
+            "text": "Todays",
+            "value": 1
+        },
+        {
+            "text": "soundtrack",
+            "value": 1
+        },
+        {
+            "text": "brought",
+            "value": 1
+        },
+        {
+            "text": "legendary",
+            "value": 2
+        },
+        {
+            "text": "icon",
+            "value": 1
+        },
+        {
+            "text": "Still",
+            "value": 2
+        },
+        {
+            "text": "Got",
+            "value": 2
+        },
+        {
+            "text": "STREAM",
+            "value": 1
+        },
+        {
+            "text": "Awesome",
+            "value": 1
+        },
+        {
+            "text": "exec",
+            "value": 1
+        },
+        {
+            "text": "security",
+            "value": 2
+        },
+        {
+            "text": "simulation",
+            "value": 1
+        },
+        {
+            "text": "AWS",
+            "value": 1
+        },
+        {
+            "text": "forum",
+            "value": 1
+        },
+        {
+            "text": "afternoon",
+            "value": 1
+        },
+        {
+            "text": "always",
+            "value": 3
+        },
+        {
+            "text": "catch",
+            "value": 2
+        },
+        {
+            "text": "bro",
+            "value": 2
+        },
+        {
+            "text": "Benji",
+            "value": 1
+        },
+        {
+            "text": "Miu",
+            "value": 1
+        },
+        {
+            "text": "Musical",
+            "value": 1
+        },
+        {
+            "text": "Genius",
+            "value": 1
+        },
+        {
+            "text": "Teachers",
+            "value": 1
+        },
+        {
+            "text": "BOOK",
+            "value": 1
+        },
+        {
+            "text": "Afternoon",
+            "value": 1
+        },
+        {
+            "text": "snack",
+            "value": 1
+        },
+        {
+            "text": "road",
+            "value": 1
+        },
+        {
+            "text": "trip",
+            "value": 5
+        },
+        {
+            "text": "caption",
+            "value": 1
+        },
+        {
+            "text": "need",
+            "value": 3
+        },
+        {
+            "text": "Exhibition",
+            "value": 1
+        },
+        {
+            "text": "St",
+            "value": 1
+        },
+        {
+            "text": "lanes",
+            "value": 1
+        },
+        {
+            "text": "closed",
+            "value": 1
+        },
+        {
+            "text": "southbound",
+            "value": 2
+        },
+        {
+            "text": "Middle",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 1
+        },
+        {
+            "text": "blocked",
+            "value": 1
+        },
+        {
+            "text": "Flinders",
+            "value": 4
+        },
+        {
+            "text": "Ah",
+            "value": 1
+        },
+        {
+            "text": "less",
+            "value": 2
+        },
+        {
+            "text": "pretty",
+            "value": 1
+        },
+        {
+            "text": "bitchy",
+            "value": 1
+        },
+        {
+            "text": "sibling",
+            "value": 1
+        },
+        {
+            "text": "Sydney",
+            "value": 1
+        },
+        {
+            "text": "personality",
+            "value": 1
+        },
+        {
+            "text": "attraction",
+            "value": 1
+        },
+        {
+            "text": "say",
+            "value": 1
+        },
+        {
+            "text": "committed",
+            "value": 1
+        },
+        {
+            "text": "establishing",
+            "value": 1
+        },
+        {
+            "text": "second",
+            "value": 1
+        },
+        {
+            "text": "injecting",
+            "value": 1
+        },
+        {
+            "text": "centre",
+            "value": 1
+        },
+        {
+            "text": "CBD",
+            "value": 2
+        },
+        {
+            "text": "Ken",
+            "value": 1
+        },
+        {
+            "text": "Lay",
+            "value": 1
+        },
+        {
+            "text": "lot",
+            "value": 1
+        },
+        {
+            "text": "scoping",
+            "value": 1
+        },
+        {
+            "text": "around",
+            "value": 3
+        },
+        {
+            "text": "location",
+            "value": 1
+        },
+        {
+            "text": "Arts",
+            "value": 1
+        },
+        {
+            "text": "light",
+            "value": 1
+        },
+        {
+            "text": "photography",
+            "value": 1
+        },
+        {
+            "text": "encouraged",
+            "value": 1
+        },
+        {
+            "text": "prepping",
+            "value": 1
+        },
+        {
+            "text": "start",
+            "value": 1
+        },
+        {
+            "text": "buddy",
+            "value": 1
+        },
+        {
+            "text": "Harv",
+            "value": 1
+        },
+        {
+            "text": "let",
+            "value": 1
+        },
+        {
+            "text": "go",
+            "value": 1
+        },
+        {
+            "text": "Mastercard",
+            "value": 2
+        },
+        {
+            "text": "strive",
+            "value": 1
+        },
+        {
+            "text": "create",
+            "value": 1
+        },
+        {
+            "text": "culture",
+            "value": 2
+        },
+        {
+            "text": "decency",
+            "value": 1
+        },
+        {
+            "text": "belonging",
+            "value": 1
+        },
+        {
+            "text": "looking",
+            "value": 3
+        },
+        {
+            "text": "company",
+            "value": 3
+        },
+        {
+            "text": "belong",
+            "value": 2
+        },
+        {
+            "text": "check",
+            "value": 2
+        },
+        {
+            "text": "latest",
+            "value": 5
+        },
+        {
+            "text": "posting",
+            "value": 2
+        },
+        {
+            "text": "Managing",
+            "value": 2
+        },
+        {
+            "text": "Consultant",
+            "value": 4
+        },
+        {
+            "text": "Advisors",
+            "value": 2
+        },
+        {
+            "text": "Client",
+            "value": 2
+        },
+        {
+            "text": "Services",
+            "value": 2
+        },
+        {
+            "text": "Knowing",
+            "value": 1
+        },
+        {
+            "text": "survive",
+            "value": 1
+        },
+        {
+            "text": "matter",
+            "value": 1
+        },
+        {
+            "text": "happens",
+            "value": 1
+        },
+        {
+            "text": "place",
+            "value": 2
+        },
+        {
+            "text": "focus",
+            "value": 2
+        },
+        {
+            "text": "life",
+            "value": 2
+        },
+        {
+            "text": "overwhelms",
+            "value": 1
+        },
+        {
+            "text": "Library",
+            "value": 6
+        },
+        {
+            "text": "When's",
+            "value": 1
+        },
+        {
+            "text": "Halloween",
+            "value": 1
+        },
+        {
+            "text": "Join",
+            "value": 1
+        },
+        {
+            "text": "Getinge",
+            "value": 2
+        },
+        {
+            "text": "team",
+            "value": 3
+        },
+        {
+            "text": "See",
+            "value": 3
+        },
+        {
+            "text": "opening",
+            "value": 1
+        },
+        {
+            "text": "Boon",
+            "value": 2
+        },
+        {
+            "text": "Wurrung",
+            "value": 3
+        },
+        {
+            "text": "Land",
+            "value": 2
+        },
+        {
+            "text": "Impressive",
+            "value": 1
+        },
+        {
+            "text": "setting",
+            "value": 2
+        },
+        {
+            "text": "Capitol",
+            "value": 2
+        },
+        {
+            "text": "deliver",
+            "value": 1
+        },
+        {
+            "text": "one",
+            "value": 4
+        },
+        {
+            "text": "pepeha",
+            "value": 1
+        },
+        {
+            "text": "Thank",
+            "value": 1
+        },
+        {
+            "text": "Team",
+            "value": 2
+        },
+        {
+            "text": "Dosa",
+            "value": 1
+        },
+        {
+            "text": "Hut",
+            "value": 1
+        },
+        {
+            "text": "invitation",
+            "value": 1
+        },
+        {
+            "text": "Congratulations",
+            "value": 3
+        },
+        {
+            "text": "25th",
+            "value": 1
+        },
+        {
+            "text": "outlet",
+            "value": 1
+        },
+        {
+            "text": "MElTON",
+            "value": 1
+        },
+        {
+            "text": "inspiring",
+            "value": 1
+        },
+        {
+            "text": "journey",
+            "value": 2
+        },
+        {
+            "text": "Largest",
+            "value": 1
+        },
+        {
+            "text": "Indian",
+            "value": 1
+        },
+        {
+            "text": "Multi",
+            "value": 1
+        },
+        {
+            "text": "Cuisine",
+            "value": 1
+        },
+        {
+            "text": "elected",
+            "value": 2
+        },
+        {
+            "text": "Members",
+            "value": 1
+        },
+        {
+            "text": "First",
+            "value": 4
+        },
+        {
+            "text": "Peoples",
+            "value": 5
+        },
+        {
+            "text": "Assembly",
+            "value": 4
+        },
+        {
+            "text": "ask",
+            "value": 1
+        },
+        {
+            "text": "people",
+            "value": 6
+        },
+        {
+            "text": "whatever",
+            "value": 1
+        },
+        {
+            "text": "background",
+            "value": 1
+        },
+        {
+            "text": "join",
+            "value": 2
+        },
+        {
+            "text": "Treaty",
+            "value": 11
+        },
+        {
+            "text": "educate",
+            "value": 1
+        },
+        {
+            "text": "Aboriginal",
+            "value": 5
+        },
+        {
+            "text": "histories",
+            "value": 1
+        },
+        {
+            "text": "history",
+            "value": 1
+        },
+        {
+            "text": "process",
+            "value": 4
+        },
+        {
+            "text": "online",
+            "value": 1
+        },
+        {
+            "text": "Follow",
+            "value": 4
+        },
+        {
+            "text": "today",
+            "value": 7
+        },
+        {
+            "text": "day",
+            "value": 4
+        },
+        {
+            "text": "celebration",
+            "value": 2
+        },
+        {
+            "text": "thinking",
+            "value": 1
+        },
+        {
+            "text": "comes",
+            "value": 2
+        },
+        {
+            "text": "next",
+            "value": 2
+        },
+        {
+            "text": "Framework",
+            "value": 3
+        },
+        {
+            "text": "Authority",
+            "value": 3
+        },
+        {
+            "text": "Fund",
+            "value": 2
+        },
+        {
+            "text": "agreed",
+            "value": 1
+        },
+        {
+            "text": "implementation",
+            "value": 1
+        },
+        {
+            "text": "hold",
+            "value": 1
+        },
+        {
+            "text": "fresh",
+            "value": 2
+        },
+        {
+            "text": "elections",
+            "value": 1
+        },
+        {
+            "text": "community",
+            "value": 1
+        },
+        {
+            "text": "vote",
+            "value": 1
+        },
+        {
+            "text": "representatives",
+            "value": 1
+        },
+        {
+            "text": "phase",
+            "value": 1
+        },
+        {
+            "text": "Victorian",
+            "value": 2
+        },
+        {
+            "text": "built",
+            "value": 1
+        },
+        {
+            "text": "upon",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 4
+        },
+        {
+            "text": "Centuries",
+            "value": 1
+        },
+        {
+            "text": "resistance",
+            "value": 1
+        },
+        {
+            "text": "activism",
+            "value": 1
+        },
+        {
+            "text": "staunch",
+            "value": 1
+        },
+        {
+            "text": "Elders",
+            "value": 1
+        },
+        {
+            "text": "civil",
+            "value": 1
+        },
+        {
+            "text": "rights",
+            "value": 1
+        },
+        {
+            "text": "movement",
+            "value": 1
+        },
+        {
+            "text": "Working",
+            "value": 1
+        },
+        {
+            "text": "Group",
+            "value": 1
+        },
+        {
+            "text": "Vic",
+            "value": 1
+        },
+        {
+            "text": "Advancement",
+            "value": 1
+        },
+        {
+            "text": "Commissioner",
+            "value": 1
+        },
+        {
+            "text": "democratically",
+            "value": 1
+        },
+        {
+            "text": "genuinely",
+            "value": 1
+        },
+        {
+            "text": "leading",
+            "value": 1
+        },
+        {
+            "text": "way",
+            "value": 3
+        },
+        {
+            "text": "jurisdiction",
+            "value": 1
+        },
+        {
+            "text": "progressing",
+            "value": 1
+        },
+        {
+            "text": "elements",
+            "value": 1
+        },
+        {
+            "text": "called",
+            "value": 1
+        },
+        {
+            "text": "Ulu",
+            "value": 1
+        },
+        {
+            "text": "Statement",
+            "value": 1
+        },
+        {
+            "text": "Heart",
+            "value": 1
+        },
+        {
+            "text": "Voice",
+            "value": 1
+        },
+        {
+            "text": "Truth",
+            "value": 1
+        },
+        {
+            "text": "testimony",
+            "value": 1
+        },
+        {
+            "text": "communities",
+            "value": 2
+        },
+        {
+            "text": "keep",
+            "value": 1
+        },
+        {
+            "text": "fighting",
+            "value": 1
+        },
+        {
+            "text": "stage",
+            "value": 2
+        },
+        {
+            "text": "set",
+            "value": 2
+        },
+        {
+            "text": "Treaties",
+            "value": 2
+        },
+        {
+            "text": "developed",
+            "value": 1
+        },
+        {
+            "text": "Traditional",
+            "value": 4
+        },
+        {
+            "text": "Owner",
+            "value": 3
+        },
+        {
+            "text": "local",
+            "value": 1
+        },
+        {
+            "text": "level",
+            "value": 1
+        },
+        {
+            "text": "designed",
+            "value": 2
+        },
+        {
+            "text": "negotiated",
+            "value": 2
+        },
+        {
+            "text": "groups",
+            "value": 3
+        },
+        {
+            "text": "addition",
+            "value": 1
+        },
+        {
+            "text": "overarching",
+            "value": 1
+        },
+        {
+            "text": "statewide",
+            "value": 1
+        },
+        {
+            "text": "secure",
+            "value": 1
+        },
+        {
+            "text": "meaningful",
+            "value": 1
+        },
+        {
+            "text": "structural",
+            "value": 1
+        },
+        {
+            "text": "reforms",
+            "value": 1
+        },
+        {
+            "text": "Importantly",
+            "value": 1
+        },
+        {
+            "text": "Negotiation",
+            "value": 1
+        },
+        {
+            "text": "finalised",
+            "value": 1
+        },
+        {
+            "text": "signed",
+            "value": 1
+        },
+        {
+            "text": "Wurundjeri",
+            "value": 2
+        },
+        {
+            "text": "Woi",
+            "value": 1
+        },
+        {
+            "text": "Country",
+            "value": 3
+        },
+        {
+            "text": "adopts",
+            "value": 1
+        },
+        {
+            "text": "principles",
+            "value": 1
+        },
+        {
+            "text": "Declaration",
+            "value": 1
+        },
+        {
+            "text": "Rights",
+            "value": 1
+        },
+        {
+            "text": "Indigenous",
+            "value": 1
+        },
+        {
+            "text": "ensures",
+            "value": 1
+        },
+        {
+            "text": "left",
+            "value": 1
+        },
+        {
+            "text": "behind",
+            "value": 2
+        },
+        {
+            "text": "Self",
+            "value": 1
+        },
+        {
+            "text": "Determination",
+            "value": 1
+        },
+        {
+            "text": "drive",
+            "value": 1
+        },
+        {
+            "text": "wealth",
+            "value": 1
+        },
+        {
+            "text": "prosperity",
+            "value": 1
+        },
+        {
+            "text": "long",
+            "value": 2
+        },
+        {
+            "text": "term",
+            "value": 2
+        },
+        {
+            "text": "shorter",
+            "value": 1
+        },
+        {
+            "text": "assist",
+            "value": 1
+        },
+        {
+            "text": "nations",
+            "value": 1
+        },
+        {
+            "text": "across",
+            "value": 2
+        },
+        {
+            "text": "ready",
+            "value": 1
+        },
+        {
+            "text": "independent",
+            "value": 1
+        },
+        {
+            "text": "umpire",
+            "value": 1
+        },
+        {
+            "text": "going",
+            "value": 1
+        },
+        {
+            "text": "forward",
+            "value": 2
+        },
+        {
+            "text": "grounded",
+            "value": 1
+        },
+        {
+            "text": "Lore",
+            "value": 1
+        },
+        {
+            "text": "law",
+            "value": 1
+        },
+        {
+            "text": "subject",
+            "value": 2
+        },
+        {
+            "text": "Ministerial",
+            "value": 1
+        },
+        {
+            "text": "direction",
+            "value": 1
+        },
+        {
+            "text": "insecure",
+            "value": 1
+        },
+        {
+            "text": "funding",
+            "value": 1
+        },
+        {
+            "text": "arrangements",
+            "value": 1
+        },
+        {
+            "text": "past",
+            "value": 1
+        },
+        {
+            "text": "Today",
+            "value": 1
+        },
+        {
+            "text": "signing",
+            "value": 1
+        },
+        {
+            "text": "ceremony",
+            "value": 1
+        },
+        {
+            "text": "banks",
+            "value": 1
+        },
+        {
+            "text": "Birrarung",
+            "value": 1
+        },
+        {
+            "text": "means",
+            "value": 1
+        },
+        {
+            "text": "three",
+            "value": 1
+        },
+        {
+            "text": "pieces",
+            "value": 1
+        },
+        {
+            "text": "crucial",
+            "value": 1
+        },
+        {
+            "text": "architecture",
+            "value": 2
+        },
+        {
+            "text": "Government",
+            "value": 1
+        },
+        {
+            "text": "years",
+            "value": 1
+        },
+        {
+            "text": "bring",
+            "value": 2
+        },
+        {
+            "text": "milestone",
+            "value": 1
+        },
+        {
+            "text": "enough",
+            "value": 2
+        },
+        {
+            "text": "Mariska",
+            "value": 1
+        },
+        {
+            "text": "Meldrum",
+            "value": 1
+        },
+        {
+            "text": "waitlists",
+            "value": 1
+        },
+        {
+            "text": "face",
+            "value": 1
+        },
+        {
+            "text": "access",
+            "value": 1
+        },
+        {
+            "text": "mental",
+            "value": 2
+        },
+        {
+            "text": "health",
+            "value": 3
+        },
+        {
+            "text": "services",
+            "value": 1
+        },
+        {
+            "text": "launch",
+            "value": 4
+        },
+        {
+            "text": "tonight",
+            "value": 4
+        },
+        {
+            "text": "Absolutely",
+            "value": 1
+        },
+        {
+            "text": "huge",
+            "value": 1
+        },
+        {
+            "text": "announcement",
+            "value": 1
+        },
+        {
+            "text": "biggest",
+            "value": 1
+        },
+        {
+            "text": "change",
+            "value": 1
+        },
+        {
+            "text": "generation",
+            "value": 1
+        },
+        {
+            "text": "making",
+            "value": 1
+        },
+        {
+            "text": "led",
+            "value": 1
+        },
+        {
+            "text": "Owners",
+            "value": 1
+        },
+        {
+            "text": "Tonight",
+            "value": 1
+        },
+        {
+            "text": "speaks",
+            "value": 1
+        },
+        {
+            "text": "changing",
+            "value": 1
+        },
+        {
+            "text": "status",
+            "value": 1
+        },
+        {
+            "text": "quo",
+            "value": 1
+        },
+        {
+            "text": "care",
+            "value": 1
+        },
+        {
+            "text": "media",
+            "value": 2
+        },
+        {
+            "text": "articles",
+            "value": 1
+        },
+        {
+            "text": "covid",
+            "value": 1
+        },
+        {
+            "text": "pandemic",
+            "value": 1
+        },
+        {
+            "text": "featured",
+            "value": 2
+        },
+        {
+            "text": "speaking",
+            "value": 1
+        },
+        {
+            "text": "lack",
+            "value": 1
+        },
+        {
+            "text": "representation",
+            "value": 1
+        },
+        {
+            "text": "Centre",
+            "value": 3
+        },
+        {
+            "text": "facilitated",
+            "value": 1
+        },
+        {
+            "text": "gender",
+            "value": 1
+        },
+        {
+            "text": "lens",
+            "value": 1
+        },
+        {
+            "text": "Guess",
+            "value": 1
+        },
+        {
+            "text": "published",
+            "value": 3
+        },
+        {
+            "text": "2nite",
+            "value": 3
+        },
+        {
+            "text": "gr8",
+            "value": 3
+        },
+        {
+            "text": "meeting",
+            "value": 4
+        },
+        {
+            "text": "Ur",
+            "value": 4
+        },
+        {
+            "text": "release",
+            "value": 3
+        },
+        {
+            "text": "book",
+            "value": 4
+        },
+        {
+            "text": "signage",
+            "value": 2
+        },
+        {
+            "text": "SamSam",
+            "value": 1
+        },
+        {
+            "text": "bad",
+            "value": 3
+        },
+        {
+            "text": "stuck",
+            "value": 1
+        },
+        {
+            "text": "traffic",
+            "value": 1
+        },
+        {
+            "text": "apply",
+            "value": 8
+        },
+        {
+            "text": "FREIGHT",
+            "value": 3
+        },
+        {
+            "text": "OFFICER",
+            "value": 3
+        },
+        {
+            "text": "Thursday",
+            "value": 1
+        },
+        {
+            "text": "Stay",
+            "value": 2
+        },
+        {
+            "text": "strong",
+            "value": 1
+        },
+        {
+            "text": "JNM",
+            "value": 1
+        },
+        {
+            "text": "warriors",
+            "value": 1
+        },
+        {
+            "text": "things",
+            "value": 2
+        },
+        {
+            "text": "evolving",
+            "value": 1
+        },
+        {
+            "text": "Colin",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 4
+        },
+        {
+            "text": "curious",
+            "value": 1
+        },
+        {
+            "text": "love",
+            "value": 4
+        },
+        {
+            "text": "learn",
+            "value": 1
+        },
+        {
+            "text": "want",
+            "value": 1
+        },
+        {
+            "text": "constantly",
+            "value": 1
+        },
+        {
+            "text": "better",
+            "value": 1
+        },
+        {
+            "text": "SS",
+            "value": 3
+        },
+        {
+            "text": "Technologies",
+            "value": 2
+        },
+        {
+            "text": "career",
+            "value": 1
+        },
+        {
+            "text": "opportunity",
+            "value": 3
+        },
+        {
+            "text": "bettie",
+            "value": 2
+        },
+        {
+            "text": "bandit",
+            "value": 2
+        },
+        {
+            "text": "sparrowofficial",
+            "value": 1
+        },
+        {
+            "text": "fantasy",
+            "value": 3
+        },
+        {
+            "text": "soul",
+            "value": 4
+        },
+        {
+            "text": "studios",
+            "value": 3
+        },
+        {
+            "text": "Link",
+            "value": 6
+        },
+        {
+            "text": "cynn",
+            "value": 1
+        },
+        {
+            "text": "official",
+            "value": 1
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "worthy",
+            "value": 1
+        },
+        {
+            "text": "open",
+            "value": 2
+        },
+        {
+            "text": "us",
+            "value": 5
+        },
+        {
+            "text": "turn",
+            "value": 2
+        },
+        {
+            "text": "mobile",
+            "value": 2
+        },
+        {
+            "text": "alerts",
+            "value": 2
+        },
+        {
+            "text": "hear",
+            "value": 2
+        },
+        {
+            "text": "jobs",
+            "value": 4
+        },
+        {
+            "text": "like",
+            "value": 9
+        },
+        {
+            "text": "soon",
+            "value": 4
+        },
+        {
+            "text": "they're",
+            "value": 2
+        },
+        {
+            "text": "Ocean",
+            "value": 1
+        },
+        {
+            "text": "Freight",
+            "value": 1
+        },
+        {
+            "text": "Leader",
+            "value": 1
+        },
+        {
             "text": "Speak",
             "value": 1
         },
         {
             "text": "mind",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 193
-        },
-        {
-            "text": "Victoria",
-            "value": 167
-        },
-        {
-            "text": "Australia",
-            "value": 175
         },
         {
             "text": "mermaid",
@@ -33,12 +1881,8 @@
             "value": 3
         },
         {
-            "text": "earrings",
-            "value": 3
-        },
-        {
             "text": "made",
-            "value": 3
+            "value": 2
         },
         {
             "text": "small",
@@ -49,19 +1893,7 @@
             "value": 1
         },
         {
-            "text": "one",
-            "value": 4
-        },
-        {
             "text": "kind",
-            "value": 1
-        },
-        {
-            "text": "Click",
-            "value": 5
-        },
-        {
-            "text": "details",
             "value": 1
         },
         {
@@ -73,16 +1905,12 @@
             "value": 1
         },
         {
-            "text": "soon",
-            "value": 3
-        },
-        {
             "text": "rockthiscountrypr",
             "value": 1
         },
         {
             "text": "Second",
-            "value": 2
+            "value": 1
         },
         {
             "text": "highest",
@@ -101,16 +1929,8 @@
             "value": 2
         },
         {
-            "text": "behind",
-            "value": 1
-        },
-        {
             "text": "Elvis",
             "value": 1
-        },
-        {
-            "text": "bad",
-            "value": 2
         },
         {
             "text": "take",
@@ -125,14 +1945,6 @@
             "value": 1
         },
         {
-            "text": "posted",
-            "value": 123
-        },
-        {
-            "text": "photo",
-            "value": 122
-        },
-        {
             "text": "shots",
             "value": 1
         },
@@ -141,16 +1953,12 @@
             "value": 1
         },
         {
-            "text": "last",
-            "value": 3
-        },
-        {
             "text": "week",
-            "value": 3
+            "value": 2
         },
         {
             "text": "much",
-            "value": 2
+            "value": 1
         },
         {
             "text": "fun",
@@ -177,15 +1985,7 @@
             "value": 1
         },
         {
-            "text": "Thanks",
-            "value": 4
-        },
-        {
             "text": "jackmilligann",
-            "value": 1
-        },
-        {
-            "text": "setting",
             "value": 1
         },
         {
@@ -229,10 +2029,6 @@
             "value": 1
         },
         {
-            "text": "Fresh",
-            "value": 1
-        },
-        {
             "text": "finishing",
             "value": 1
         },
@@ -246,18 +2042,6 @@
         },
         {
             "text": "temps",
-            "value": 1
-        },
-        {
-            "text": "long",
-            "value": 1
-        },
-        {
-            "text": "looking",
-            "value": 2
-        },
-        {
-            "text": "forward",
             "value": 1
         },
         {
@@ -298,23 +2082,11 @@
         },
         {
             "text": "Good",
-            "value": 6
-        },
-        {
-            "text": "evening",
-            "value": 1
+            "value": 5
         },
         {
             "text": "VL15",
             "value": 1
-        },
-        {
-            "text": "Flinders",
-            "value": 3
-        },
-        {
-            "text": "Street",
-            "value": 5
         },
         {
             "text": "Station",
@@ -329,28 +2101,8 @@
             "value": 1
         },
         {
-            "text": "Mastercard",
-            "value": 1
-        },
-        {
             "text": "teammates",
             "value": 1
-        },
-        {
-            "text": "like",
-            "value": 8
-        },
-        {
-            "text": "See",
-            "value": 2
-        },
-        {
-            "text": "latest",
-            "value": 3
-        },
-        {
-            "text": "job",
-            "value": 11
         },
         {
             "text": "openings",
@@ -377,18 +2129,6 @@
             "value": 1
         },
         {
-            "text": "link",
-            "value": 8
-        },
-        {
-            "text": "bio",
-            "value": 13
-        },
-        {
-            "text": "VIC",
-            "value": 15
-        },
-        {
             "text": "Interested",
             "value": 1
         },
@@ -397,36 +2137,12 @@
             "value": 1
         },
         {
-            "text": "great",
-            "value": 8
-        },
-        {
-            "text": "fit",
-            "value": 2
-        },
-        {
-            "text": "apply",
-            "value": 8
-        },
-        {
-            "text": "Storeperson",
-            "value": 1
-        },
-        {
-            "text": "UPS",
-            "value": 5
-        },
-        {
             "text": "Check",
             "value": 5
         },
         {
             "text": "sweet",
             "value": 1
-        },
-        {
-            "text": "new",
-            "value": 4
         },
         {
             "text": "ride",
@@ -442,7 +2158,7 @@
         },
         {
             "text": "morning",
-            "value": 2
+            "value": 1
         },
         {
             "text": "office",
@@ -450,10 +2166,6 @@
         },
         {
             "text": "hours",
-            "value": 1
-        },
-        {
-            "text": "thing",
             "value": 1
         },
         {
@@ -478,7 +2190,7 @@
         },
         {
             "text": "House",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Part",
@@ -489,16 +2201,8 @@
             "value": 1
         },
         {
-            "text": "City",
-            "value": 6
-        },
-        {
-            "text": "Library",
-            "value": 5
-        },
-        {
             "text": "series",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Gothic",
@@ -521,20 +2225,12 @@
             "value": 1
         },
         {
-            "text": "soul",
-            "value": 4
-        },
-        {
             "text": "19th",
             "value": 1
         },
         {
             "text": "October",
-            "value": 3
-        },
-        {
-            "text": "JnM",
-            "value": 4
+            "value": 2
         },
         {
             "text": "Wednesday",
@@ -550,7 +2246,7 @@
         },
         {
             "text": "Forum",
-            "value": 8
+            "value": 1
         },
         {
             "text": "Mel",
@@ -565,10 +2261,6 @@
             "value": 4
         },
         {
-            "text": "trip",
-            "value": 4
-        },
-        {
             "text": "photodump",
             "value": 4
         },
@@ -577,16 +2269,8 @@
             "value": 4
         },
         {
-            "text": "architecture",
-            "value": 1
-        },
-        {
             "text": "Mostly",
             "value": 1
-        },
-        {
-            "text": "CBD",
-            "value": 2
         },
         {
             "text": "Chinatown",
@@ -617,24 +2301,16 @@
             "value": 1
         },
         {
-            "text": "think",
-            "value": 3
-        },
-        {
             "text": "granteknutson",
             "value": 1
         },
         {
             "text": "would",
-            "value": 2
-        },
-        {
-            "text": "love",
-            "value": 3
+            "value": 1
         },
         {
             "text": "two",
-            "value": 5
+            "value": 4
         },
         {
             "text": "different",
@@ -654,7 +2330,7 @@
         },
         {
             "text": "city",
-            "value": 3
+            "value": 2
         },
         {
             "text": "stkildabotanicalgardens",
@@ -666,14 +2342,10 @@
         },
         {
             "text": "Business",
-            "value": 2
-        },
-        {
-            "text": "usual",
             "value": 1
         },
         {
-            "text": "posting",
+            "text": "usual",
             "value": 1
         },
         {
@@ -689,10 +2361,6 @@
             "value": 1
         },
         {
-            "text": "might",
-            "value": 6
-        },
-        {
             "text": "Principal",
             "value": 1
         },
@@ -701,24 +2369,12 @@
             "value": 2
         },
         {
-            "text": "Consultant",
-            "value": 3
-        },
-        {
-            "text": "Link",
-            "value": 5
-        },
-        {
             "text": "Spring",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Daleks",
             "value": 1
-        },
-        {
-            "text": "back",
-            "value": 3
         },
         {
             "text": "GERMINATE",
@@ -735,10 +2391,6 @@
         {
             "text": "energy",
             "value": 1
-        },
-        {
-            "text": "people",
-            "value": 5
         },
         {
             "text": "entrepreneurial",
@@ -781,10 +2433,6 @@
             "value": 1
         },
         {
-            "text": "team",
-            "value": 2
-        },
-        {
             "text": "Sound",
             "value": 1
         },
@@ -805,20 +2453,12 @@
             "value": 2
         },
         {
-            "text": "Centre",
-            "value": 2
-        },
-        {
             "text": "NGV",
             "value": 2
         },
         {
             "text": "18th",
             "value": 1
-        },
-        {
-            "text": "times",
-            "value": 2
         },
         {
             "text": "catching",
@@ -842,7 +2482,7 @@
         },
         {
             "text": "old",
-            "value": 2
+            "value": 1
         },
         {
             "text": "phone",
@@ -913,10 +2553,6 @@
             "value": 1
         },
         {
-            "text": "bro",
-            "value": 1
-        },
-        {
             "text": "nephews",
             "value": 1
         },
@@ -965,20 +2601,16 @@
             "value": 1
         },
         {
-            "text": "Still",
-            "value": 1
-        },
-        {
             "text": "another",
             "value": 2
         },
         {
             "text": "best",
-            "value": 3
+            "value": 2
         },
         {
             "text": "time",
-            "value": 5
+            "value": 4
         },
         {
             "text": "celebrating",
@@ -1001,14 +2633,6 @@
             "value": 1
         },
         {
-            "text": "good",
-            "value": 2
-        },
-        {
-            "text": "catch",
-            "value": 1
-        },
-        {
             "text": "person",
             "value": 1
         },
@@ -1017,27 +2641,7 @@
             "value": 1
         },
         {
-            "text": "opportunity",
-            "value": 2
-        },
-        {
             "text": "click",
-            "value": 1
-        },
-        {
-            "text": "Senior",
-            "value": 3
-        },
-        {
-            "text": "Solution",
-            "value": 1
-        },
-        {
-            "text": "Engineer",
-            "value": 3
-        },
-        {
-            "text": "Epicor",
             "value": 1
         },
         {
@@ -1053,24 +2657,12 @@
             "value": 1
         },
         {
-            "text": "spend",
-            "value": 2
-        },
-        {
-            "text": "less",
-            "value": 1
-        },
-        {
             "text": "Invest",
             "value": 1
         },
         {
             "text": "wisely",
             "value": 1
-        },
-        {
-            "text": "get",
-            "value": 7
         },
         {
             "text": "returns",
@@ -1083,14 +2675,6 @@
         {
             "text": "Call",
             "value": 1
-        },
-        {
-            "text": "us",
-            "value": 6
-        },
-        {
-            "text": "today",
-            "value": 4
         },
         {
             "text": "free",
@@ -1129,14 +2713,6 @@
             "value": 1
         },
         {
-            "text": "need",
-            "value": 2
-        },
-        {
-            "text": "Stay",
-            "value": 2
-        },
-        {
             "text": "tuned",
             "value": 1
         },
@@ -1150,18 +2726,6 @@
         },
         {
             "text": "Jack'n'Molly",
-            "value": 1
-        },
-        {
-            "text": "coming",
-            "value": 2
-        },
-        {
-            "text": "Exciting",
-            "value": 1
-        },
-        {
-            "text": "ahead",
             "value": 1
         },
         {
@@ -1197,10 +2761,6 @@
             "value": 1
         },
         {
-            "text": "amazing",
-            "value": 1
-        },
-        {
             "text": "talent",
             "value": 1
         },
@@ -1230,7 +2790,7 @@
         },
         {
             "text": "Queer",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Futurism",
@@ -1238,11 +2798,7 @@
         },
         {
             "text": "Come",
-            "value": 3
-        },
-        {
-            "text": "join",
-            "value": 3
+            "value": 1
         },
         {
             "text": "fed",
@@ -1270,58 +2826,14 @@
         },
         {
             "text": "boudoirinspiration",
-            "value": 3
-        },
-        {
-            "text": "scphotoz",
-            "value": 3
-        },
-        {
-            "text": "fantasy",
-            "value": 3
-        },
-        {
-            "text": "studios",
-            "value": 3
-        },
-        {
-            "text": "Federation",
-            "value": 1
-        },
-        {
-            "text": "Square",
             "value": 2
         },
         {
-            "text": "open",
-            "value": 1
+            "text": "scphotoz",
+            "value": 2
         },
         {
-            "text": "Follow",
-            "value": 1
-        },
-        {
-            "text": "turn",
-            "value": 1
-        },
-        {
-            "text": "mobile",
-            "value": 1
-        },
-        {
-            "text": "alerts",
-            "value": 1
-        },
-        {
-            "text": "hear",
-            "value": 1
-        },
-        {
-            "text": "jobs",
-            "value": 3
-        },
-        {
-            "text": "they're",
+            "text": "Federation",
             "value": 1
         },
         {
@@ -1361,24 +2873,8 @@
             "value": 1
         },
         {
-            "text": "Friday",
-            "value": 2
-        },
-        {
             "text": "celebrate",
             "value": 1
-        },
-        {
-            "text": "things",
-            "value": 1
-        },
-        {
-            "text": "We're",
-            "value": 1
-        },
-        {
-            "text": "hiring",
-            "value": 2
         },
         {
             "text": "Center",
@@ -1421,10 +2917,6 @@
             "value": 1
         },
         {
-            "text": "focus",
-            "value": 1
-        },
-        {
             "text": "'Sunk'",
             "value": 1
         },
@@ -1441,23 +2933,11 @@
             "value": 1
         },
         {
-            "text": "see",
-            "value": 6
-        },
-        {
             "text": "Came",
             "value": 1
         },
         {
-            "text": "across",
-            "value": 1
-        },
-        {
             "text": "beautiful",
-            "value": 1
-        },
-        {
-            "text": "big",
             "value": 1
         },
         {
@@ -1466,7 +2946,7 @@
         },
         {
             "text": "whilst",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Sunday",
@@ -1517,18 +2997,6 @@
             "value": 1
         },
         {
-            "text": "Boon",
-            "value": 1
-        },
-        {
-            "text": "Wurrung",
-            "value": 1
-        },
-        {
-            "text": "Land",
-            "value": 1
-        },
-        {
             "text": "rideox4official",
             "value": 1
         },
@@ -1546,7 +3014,7 @@
         },
         {
             "text": "donor",
-            "value": 2
+            "value": 1
         },
         {
             "text": "shy",
@@ -1565,27 +3033,11 @@
             "value": 1
         },
         {
-            "text": "SS",
-            "value": 2
-        },
-        {
-            "text": "Technologies",
-            "value": 1
-        },
-        {
             "text": "asking",
             "value": 1
         },
         {
             "text": "referrals",
-            "value": 1
-        },
-        {
-            "text": "way",
-            "value": 2
-        },
-        {
-            "text": "meeting",
             "value": 1
         },
         {
@@ -1661,10 +3113,6 @@
             "value": 1
         },
         {
-            "text": "weekend",
-            "value": 4
-        },
-        {
             "text": "action",
             "value": 1
         },
@@ -1686,10 +3134,6 @@
         },
         {
             "text": "India",
-            "value": 1
-        },
-        {
-            "text": "legendary",
             "value": 1
         },
         {
@@ -1718,14 +3162,6 @@
         },
         {
             "text": "nice",
-            "value": 1
-        },
-        {
-            "text": "day",
-            "value": 2
-        },
-        {
-            "text": "Got",
             "value": 1
         },
         {
@@ -1774,10 +3210,6 @@
         },
         {
             "text": "Movie",
-            "value": 1
-        },
-        {
-            "text": "release",
             "value": 1
         },
         {
@@ -1881,10 +3313,6 @@
             "value": 1
         },
         {
-            "text": "celebration",
-            "value": 1
-        },
-        {
             "text": "someone",
             "value": 1
         },
@@ -1898,7 +3326,7 @@
         },
         {
             "text": "store",
-            "value": 3
+            "value": 1
         },
         {
             "text": "cute",
@@ -1937,20 +3365,12 @@
             "value": 1
         },
         {
-            "text": "life",
-            "value": 1
-        },
-        {
             "text": "NEVER",
             "value": 1
         },
         {
-            "text": "Capitol",
-            "value": 2
-        },
-        {
             "text": "Theatre",
-            "value": 2
+            "value": 1
         },
         {
             "text": "begin",
@@ -1963,10 +3383,6 @@
         {
             "text": "tour",
             "value": 1
-        },
-        {
-            "text": "around",
-            "value": 2
         },
         {
             "text": "seven",
@@ -2057,19 +3473,7 @@
             "value": 5
         },
         {
-            "text": "FREIGHT",
-            "value": 2
-        },
-        {
-            "text": "OFFICER",
-            "value": 2
-        },
-        {
             "text": "look",
-            "value": 2
-        },
-        {
-            "text": "company",
             "value": 2
         },
         {
@@ -2153,10 +3557,6 @@
             "value": 1
         },
         {
-            "text": "featured",
-            "value": 1
-        },
-        {
             "text": "Network",
             "value": 1
         },
@@ -2222,14 +3622,10 @@
         },
         {
             "text": "tree",
-            "value": 2
-        },
-        {
-            "text": "converted",
             "value": 1
         },
         {
-            "text": "tonight",
+            "text": "converted",
             "value": 1
         },
         {
@@ -2254,10 +3650,6 @@
         },
         {
             "text": "cream",
-            "value": 1
-        },
-        {
-            "text": "enough",
             "value": 1
         },
         {
@@ -2291,10 +3683,6 @@
         {
             "text": "ozdiveshow",
             "value": 2
-        },
-        {
-            "text": "check",
-            "value": 1
         },
         {
             "text": "Small",
@@ -2370,7 +3758,7 @@
         },
         {
             "text": "NEWS",
-            "value": 2
+            "value": 1
         },
         {
             "text": "SALE",
@@ -2454,7 +3842,7 @@
         },
         {
             "text": "event",
-            "value": 2
+            "value": 1
         },
         {
             "text": "prettiest",
@@ -2545,10 +3933,6 @@
             "value": 1
         },
         {
-            "text": "bring",
-            "value": 1
-        },
-        {
             "text": "spark",
             "value": 1
         },
@@ -2618,7 +4002,7 @@
         },
         {
             "text": "World",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Cup",
@@ -2705,31 +4089,11 @@
             "value": 1
         },
         {
-            "text": "belong",
-            "value": 1
-        },
-        {
             "text": "Unlock",
             "value": 1
         },
         {
             "text": "potential",
-            "value": 1
-        },
-        {
-            "text": "Managing",
-            "value": 1
-        },
-        {
-            "text": "Advisors",
-            "value": 1
-        },
-        {
-            "text": "Client",
-            "value": 1
-        },
-        {
-            "text": "Services",
             "value": 1
         },
         {
@@ -2769,10 +4133,6 @@
             "value": 1
         },
         {
-            "text": "Getinge",
-            "value": 1
-        },
-        {
             "text": "Hope",
             "value": 1
         },
@@ -2802,7 +4162,7 @@
         },
         {
             "text": "Bourke",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Adriano",
@@ -2838,746 +4198,6 @@
         },
         {
             "text": "Suits",
-            "value": 1
-        },
-        {
-            "text": "Dreams",
-            "value": 1
-        },
-        {
-            "text": "True",
-            "value": 1
-        },
-        {
-            "text": "Golden",
-            "value": 1
-        },
-        {
-            "text": "Wattle",
-            "value": 1
-        },
-        {
-            "text": "Gimlet",
-            "value": 1
-        },
-        {
-            "text": "Cavendish",
-            "value": 1
-        },
-        {
-            "text": "Nick",
-            "value": 1
-        },
-        {
-            "text": "Nora's",
-            "value": 1
-        },
-        {
-            "text": "Another",
-            "value": 1
-        },
-        {
-            "text": "Build",
-            "value": 1
-        },
-        {
-            "text": "Three",
-            "value": 1
-        },
-        {
-            "text": "generations",
-            "value": 1
-        },
-        {
-            "text": "frame",
-            "value": 2
-        },
-        {
-            "text": "Hyacinth",
-            "value": 1
-        },
-        {
-            "text": "Nicholas",
-            "value": 1
-        },
-        {
-            "text": "Building",
-            "value": 1
-        },
-        {
-            "text": "Reflect",
-            "value": 1
-        },
-        {
-            "text": "Recharge",
-            "value": 1
-        },
-        {
-            "text": "Reset",
-            "value": 1
-        },
-        {
-            "text": "warriors",
-            "value": 1
-        },
-        {
-            "text": "Yoo",
-            "value": 1
-        },
-        {
-            "text": "MAMA",
-            "value": 1
-        },
-        {
-            "text": "Information",
-            "value": 1
-        },
-        {
-            "text": "Wealth",
-            "value": 1
-        },
-        {
-            "text": "Inbox",
-            "value": 1
-        },
-        {
-            "text": "let",
-            "value": 1
-        },
-        {
-            "text": "discuss",
-            "value": 1
-        },
-        {
-            "text": "detailed",
-            "value": 1
-        },
-        {
-            "text": "Udon",
-            "value": 1
-        },
-        {
-            "text": "Yasan",
-            "value": 1
-        },
-        {
-            "text": "Vic",
-            "value": 2
-        },
-        {
-            "text": "Emotional",
-            "value": 1
-        },
-        {
-            "text": "NEW",
-            "value": 1
-        },
-        {
-            "text": "Available",
-            "value": 1
-        },
-        {
-            "text": "website",
-            "value": 1
-        },
-        {
-            "text": "OPENING",
-            "value": 1
-        },
-        {
-            "text": "HOUR",
-            "value": 1
-        },
-        {
-            "text": "1PM",
-            "value": 1
-        },
-        {
-            "text": "8PM",
-            "value": 1
-        },
-        {
-            "text": "MON",
-            "value": 1
-        },
-        {
-            "text": "SUN",
-            "value": 1
-        },
-        {
-            "text": "Shop",
-            "value": 2
-        },
-        {
-            "text": "Worldwide",
-            "value": 1
-        },
-        {
-            "text": "Shipping",
-            "value": 1
-        },
-        {
-            "text": "Japanese",
-            "value": 1
-        },
-        {
-            "text": "bowls",
-            "value": 1
-        },
-        {
-            "text": "champagne",
-            "value": 1
-        },
-        {
-            "text": "cork",
-            "value": 1
-        },
-        {
-            "text": "Acrylic",
-            "value": 1
-        },
-        {
-            "text": "board",
-            "value": 1
-        },
-        {
-            "text": "150x120mm",
-            "value": 1
-        },
-        {
-            "text": "Ash",
-            "value": 1
-        },
-        {
-            "text": "postage",
-            "value": 1
-        },
-        {
-            "text": "stlukeartistcolourmen",
-            "value": 1
-        },
-        {
-            "text": "12x15",
-            "value": 1
-        },
-        {
-            "text": "boards",
-            "value": 1
-        },
-        {
-            "text": "Looking",
-            "value": 1
-        },
-        {
-            "text": "score",
-            "value": 1
-        },
-        {
-            "text": "luck",
-            "value": 1
-        },
-        {
-            "text": "description",
-            "value": 1
-        },
-        {
-            "text": "information",
-            "value": 1
-        },
-        {
-            "text": "Ocean",
-            "value": 1
-        },
-        {
-            "text": "Freight",
-            "value": 1
-        },
-        {
-            "text": "Team",
-            "value": 1
-        },
-        {
-            "text": "Leader",
-            "value": 1
-        },
-        {
-            "text": "View",
-            "value": 1
-        },
-        {
-            "text": "heavy",
-            "value": 1
-        },
-        {
-            "text": "rains",
-            "value": 1
-        },
-        {
-            "text": "OMG",
-            "value": 1
-        },
-        {
-            "text": "Flood",
-            "value": 1
-        },
-        {
-            "text": "Warning",
-            "value": 1
-        },
-        {
-            "text": "issued",
-            "value": 1
-        },
-        {
-            "text": "Maribyrnong",
-            "value": 1
-        },
-        {
-            "text": "Safe",
-            "value": 1
-        },
-        {
-            "text": "Everyone",
-            "value": 1
-        },
-        {
-            "text": "using",
-            "value": 1
-        },
-        {
-            "text": "skills",
-            "value": 1
-        },
-        {
-            "text": "investigate",
-            "value": 1
-        },
-        {
-            "text": "secretive",
-            "value": 2
-        },
-        {
-            "text": "fertility",
-            "value": 1
-        },
-        {
-            "text": "industry",
-            "value": 1
-        },
-        {
-            "text": "words",
-            "value": 1
-        },
-        {
-            "text": "deeply",
-            "value": 1
-        },
-        {
-            "text": "unethical",
-            "value": 1
-        },
-        {
-            "text": "pathologically",
-            "value": 1
-        },
-        {
-            "text": "business",
-            "value": 1
-        },
-        {
-            "text": "makes",
-            "value": 1
-        },
-        {
-            "text": "millions",
-            "value": 1
-        },
-        {
-            "text": "practitioners",
-            "value": 1
-        },
-        {
-            "text": "little",
-            "value": 1
-        },
-        {
-            "text": "concern",
-            "value": 1
-        },
-        {
-            "text": "human",
-            "value": 1
-        },
-        {
-            "text": "beings",
-            "value": 1
-        },
-        {
-            "text": "creates",
-            "value": 1
-        },
-        {
-            "text": "Based",
-            "value": 1
-        },
-        {
-            "text": "award",
-            "value": 1
-        },
-        {
-            "text": "winning",
-            "value": 1
-        },
-        {
-            "text": "investigative",
-            "value": 1
-        },
-        {
-            "text": "journalist",
-            "value": 1
-        },
-        {
-            "text": "Sarah",
-            "value": 2
-        },
-        {
-            "text": "discovery",
-            "value": 1
-        },
-        {
-            "text": "age",
-            "value": 1
-        },
-        {
-            "text": "man",
-            "value": 1
-        },
-        {
-            "text": "brought",
-            "value": 1
-        },
-        {
-            "text": "loved",
-            "value": 1
-        },
-        {
-            "text": "dearly",
-            "value": 1
-        },
-        {
-            "text": "biological",
-            "value": 1
-        },
-        {
-            "text": "father",
-            "value": 1
-        },
-        {
-            "text": "mother",
-            "value": 1
-        },
-        {
-            "text": "impregnated",
-            "value": 1
-        },
-        {
-            "text": "anonymous",
-            "value": 1
-        },
-        {
-            "text": "sperm",
-            "value": 1
-        },
-        {
-            "text": "fight",
-            "value": 1
-        },
-        {
-            "text": "goes",
-            "value": 1
-        },
-        {
-            "text": "uncover",
-            "value": 1
-        },
-        {
-            "text": "truth",
-            "value": 1
-        },
-        {
-            "text": "DCA",
-            "value": 1
-        },
-        {
-            "text": "excited",
-            "value": 1
-        },
-        {
-            "text": "announce",
-            "value": 1
-        },
-        {
-            "text": "advocate",
-            "value": 1
-        },
-        {
-            "text": "documentary",
-            "value": 1
-        },
-        {
-            "text": "Inconceivable",
-            "value": 1
-        },
-        {
-            "text": "Secret",
-            "value": 1
-        },
-        {
-            "text": "Breeding",
-            "value": 1
-        },
-        {
-            "text": "Humans",
-            "value": 1
-        },
-        {
-            "text": "Tues",
-            "value": 1
-        },
-        {
-            "text": "Nov",
-            "value": 1
-        },
-        {
-            "text": "30pm",
-            "value": 1
-        },
-        {
-            "text": "Peace",
-            "value": 1
-        },
-        {
-            "text": "ended",
-            "value": 1
-        },
-        {
-            "text": "happy",
-            "value": 1
-        },
-        {
-            "text": "pray",
-            "value": 1
-        },
-        {
-            "text": "MQFF",
-            "value": 1
-        },
-        {
-            "text": "Program",
-            "value": 1
-        },
-        {
-            "text": "Launched",
-            "value": 1
-        },
-        {
-            "text": "book",
-            "value": 1
-        },
-        {
-            "text": "Films",
-            "value": 1
-        },
-        {
-            "text": "choose",
-            "value": 1
-        },
-        {
-            "text": "Cedar",
-            "value": 1
-        },
-        {
-            "text": "Atlantica",
-            "value": 1
-        },
-        {
-            "text": "wonderful",
-            "value": 1
-        },
-        {
-            "text": "true",
-            "value": 1
-        },
-        {
-            "text": "box",
-            "value": 1
-        },
-        {
-            "text": "character",
-            "value": 1
-        },
-        {
-            "text": "Keep",
-            "value": 1
-        },
-        {
-            "text": "calm",
-            "value": 1
-        },
-        {
-            "text": "Post",
-            "value": 1
-        },
-        {
-            "text": "McDonald's",
-            "value": 1
-        },
-        {
-            "text": "stayed",
-            "value": 1
-        },
-        {
-            "text": "worse",
-            "value": 1
-        },
-        {
-            "text": "must",
-            "value": 1
-        },
-        {
-            "text": "ever",
-            "value": 2
-        },
-        {
-            "text": "seen",
-            "value": 1
-        },
-        {
-            "text": "needed",
-            "value": 1
-        },
-        {
-            "text": "justinhawkinsta",
-            "value": 1
-        },
-        {
-            "text": "supplied",
-            "value": 1
-        },
-        {
-            "text": "ATTENTION",
-            "value": 1
-        },
-        {
-            "text": "Mars",
-            "value": 1
-        },
-        {
-            "text": "King",
-            "value": 1
-        },
-        {
-            "text": "Pop",
-            "value": 1
-        },
-        {
-            "text": "Store",
-            "value": 1
-        },
-        {
-            "text": "Lukcy",
-            "value": 1
-        },
-        {
-            "text": "Draw",
-            "value": 1
-        },
-        {
-            "text": "Event",
-            "value": 1
-        },
-        {
-            "text": "participate",
-            "value": 1
-        },
-        {
-            "text": "Purchasing",
-            "value": 1
-        },
-        {
-            "text": "chance",
-            "value": 1
-        },
-        {
-            "text": "purchasing",
-            "value": 1
-        },
-        {
-            "text": "chances",
-            "value": 1
-        },
-        {
-            "text": "BREAKING",
-            "value": 1
-        },
-        {
-            "text": "Rain",
-            "value": 1
-        },
-        {
-            "text": "falls",
-            "value": 1
-        },
-        {
-            "text": "state",
-            "value": 1
-        },
-        {
-            "text": "remains",
-            "value": 1
-        },
-        {
-            "text": "dangerous",
-            "value": 1
-        },
-        {
-            "text": "weather",
-            "value": 1
-        },
-        {
-            "text": "alert",
-            "value": 1
-        },
-        {
-            "text": "flash",
-            "value": 1
-        },
-        {
-            "text": "flooding",
-            "value": 1
-        },
-        {
-            "text": "warnings",
-            "value": 1
-        },
-        {
-            "text": "issue",
-            "value": 1
-        },
-        {
-            "text": "Vol",
-            "value": 1
-        },
-        {
-            "text": "Tadaima",
-            "value": 1
-        },
-        {
-            "text": "Hanako",
-            "value": 1
-        },
-        {
-            "text": "Miss",
             "value": 1
         }
     ]

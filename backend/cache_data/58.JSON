@@ -1,6 +1,167 @@
 {
-    "count": 28,
+    "count": 27,
     "data": [
+        {
+            "tid": 1583406589288931328,
+            "uid": 161946589,
+            "author": "BlackEarthNomad",
+            "user_img": "https://pbs.twimg.com/profile_images/464205122466508800/4527yXD9_normal.jpeg",
+            "time": "2022-10-21 10:35:23 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@lalahhathaway was amazing this eve! https://t.co/wKrUrZTzwX",
+            "clean_text": "was amazing this eve",
+            "place_name": "Hamer Hall",
+            "place_type": "poi",
+            "longitude": 144.9684799735824,
+            "latitude": -37.82025301733963,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fflj5WvUcAEyR7r.jpg"
+            ]
+        },
+        {
+            "tid": 1583403256558292992,
+            "uid": 64006146,
+            "author": "@AlindTiwari",
+            "user_img": "https://pbs.twimg.com/profile_images/1574534040618926081/U6OazDvL_normal.jpg",
+            "time": "2022-10-21 10:22:09 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Weather is Crazy and Scary\n\n#Melbourne #Melbourne #BOM @BOM_Vic #Lighting #SkyonFire https://t.co/g9nWeYfE0m",
+            "clean_text": "Weather is Crazy and Scary",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "neighborhood",
+            "longitude": 144.97026606,
+            "latitude": -37.827486495,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1583403233028239360/pu/img/zhD7kyEDTEAzvv7V.jpg"
+            ]
+        },
+        {
+            "tid": 1583387308803268609,
+            "uid": 1267838570,
+            "author": "Troy Raabe",
+            "user_img": "https://pbs.twimg.com/profile_images/1527888811103240192/4Ifa1KBq_normal.jpg",
+            "time": "2022-10-21 09:18:46 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ Melbourne Recital Centre https://t.co/yFZaVUnNWX",
+            "clean_text": "Just posted a photo Melbourne Recital Centre",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96749881,
+            "latitude": -37.82404312,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583355016337063937,
+            "uid": 868327765853913088,
+            "author": "Nam Q. Bùi",
+            "user_img": "https://pbs.twimg.com/profile_images/1393346837612941314/U963lFBO_normal.jpg",
+            "time": "2022-10-21 07:10:27 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ The Langham, Melbourne https://t.co/oeArHHFAUM",
+            "clean_text": "Just posted a photo The Langham Melbourne",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9657,
+            "latitude": -37.82045,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583333226428305408,
+            "uid": 1504036423191605248,
+            "author": "Ashlynn O’Brien",
+            "user_img": "https://pbs.twimg.com/profile_images/1542021096580337664/WsnTfhIj_normal.jpg",
+            "time": "2022-10-21 05:43:52 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Women in Media’s Jill Singer Lecture last night listening to Annika Smethurst’s amazing insight and advice. Thanks @WiMVic and @rmitjsoc for providing the opportunity to attend and be involved!                          Photo credit: @loughlinptrck https://t.co/Ft9rXnfvtn",
+            "clean_text": "Women in Media s Jill Singer Lecture last night listening to Annika Smethurst s amazing insight and advice Thanks and for providing the opportunity to attend and be involved Photo credit",
+            "place_name": "ACMIx",
+            "place_type": "poi",
+            "longitude": 144.9675893977191,
+            "latitude": -37.82181268870184,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfkhLHOVsAAn6l6.jpg",
+                "https://pbs.twimg.com/media/FfkhLHSUUAASne1.jpg"
+            ]
+        },
+        {
+            "tid": 1583288489893691393,
+            "uid": 1456012668855197698,
+            "author": "Maddi",
+            "user_img": "https://pbs.twimg.com/profile_images/1577777320664129536/oQVFrK0I_normal.jpg",
+            "time": "2022-10-21 02:46:06 +0000",
+            "like_no": 46,
+            "language": "en",
+            "text": "Working tonight at club 741 from 9pm hehe! I’m so excited to be back\n\nDon’t be shy and come see me 😈😈😈\n\nMy pussy is throbbing today hehe https://t.co/axxlEvJVZf",
+            "clean_text": "Working tonight at club 741 from 9pm hehe I m so excited to be back Don t be shy and come see me My pussy is throbbing today hehe",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "neighborhood",
+            "longitude": 144.97026606,
+            "latitude": -37.827486495,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffj4fOfVEAA8o3B.jpg"
+            ]
+        },
+        {
+            "tid": 1583031225354113025,
+            "uid": 975983389311254528,
+            "author": "Loughlin Patrick",
+            "user_img": "https://pbs.twimg.com/profile_images/1542245301775663105/5d_MADkO_normal.jpg",
+            "time": "2022-10-20 09:43:50 +0000",
+            "like_no": 7,
+            "language": "en",
+            "text": "The Age state political editor Annika Smethurst treated an engaged audience to plenty of valuable advice and insight — all off-the-record.\n\nCongratulations to the @WiMVic team for putting together tonight’s Jill Singer lecture! https://t.co/9PNiPqCXW2",
+            "clean_text": "The Age state political editor Annika Smethurst treated an engaged audience to plenty of valuable advice and insight all off the record Congratulations to the team for putting together tonight s Jill Singer lecture",
+            "place_name": "ACMIx",
+            "place_type": "poi",
+            "longitude": 144.9675893977191,
+            "latitude": -37.82181268870184,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfgOfgYUcAAYhwS.jpg",
+                "https://pbs.twimg.com/media/FfgOfgXVUAEgZo9.jpg",
+                "https://pbs.twimg.com/media/FfgOfgWUoAAW3cW.jpg",
+                "https://pbs.twimg.com/media/FfgOfgWVIAEKtG9.jpg"
+            ]
+        },
+        {
+            "tid": 1582983760961687554,
+            "uid": 545179822,
+            "author": "SarahGroup.Org",
+            "user_img": "https://pbs.twimg.com/profile_images/1121570925986471936/U2bpeap4_normal.png",
+            "time": "2022-10-20 06:35:13 +0000",
+            "like_no": 7,
+            "language": "en",
+            "text": "At a Vulnerable Road Users consultation today &amp; now heading to Airport on @Skybus_Aus. Imagine my astonishment as we travel Tullamarine Freeway @ 80kph to find no seat belts on double decker bus. Imagine carnage if we crashed! Not best practice #RoadSafety! #DriveSoOthersSurvive https://t.co/7E7IhHJeom",
+            "clean_text": "At a Vulnerable Road Users consultation today now heading to Airport on Imagine my astonishment as we travel Tullamarine Freeway 80kph to find no seat belts on double decker bus Imagine carnage if we crashed Not best practice",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "neighborhood",
+            "longitude": 144.97026606,
+            "latitude": -37.827486495,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FffjT1wUYAAT0Su.jpg",
+                "https://pbs.twimg.com/media/FffjUwDVQAA6VSj.jpg"
+            ]
+        },
+        {
+            "tid": 1582918173300789248,
+            "uid": 868327765853913088,
+            "author": "Nam Q. Bùi",
+            "user_img": "https://pbs.twimg.com/profile_images/1393346837612941314/U963lFBO_normal.jpg",
+            "time": "2022-10-20 02:14:36 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Good Afternoon 🌞. 🍻 Belgium 🇧🇪, Beef 🥩Australia Melbourne. Weather 19C in Melbourne  🇦🇺 🤩 @ Eureka Skydeck https://t.co/zpIukNHQBw",
+            "clean_text": "Good Afternoon Belgium Beef Australia Melbourne Weather 19C in Melbourne Eureka Skydeck",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9647,
+            "latitude": -37.82133,
+            "photo_urls": []
+        },
         {
             "tid": 1582597741087100928,
             "uid": 1208687600644452353,
@@ -319,186 +480,6 @@
             "longitude": 144.96842675,
             "latitude": -37.82137228,
             "photo_urls": []
-        },
-        {
-            "tid": 1580869280597708801,
-            "uid": 1365729813097369602,
-            "author": "- |🀄| -՞ TONY࿓卍 ✧",
-            "user_img": "https://pbs.twimg.com/profile_images/1529160557042946048/xlYieQ_R_normal.jpg",
-            "time": "2022-10-14 10:33:02 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "In to the darkness 😫 https://t.co/zn8NX3MnGc",
-            "clean_text": "In to the darkness",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "neighborhood",
-            "longitude": 144.97026606,
-            "latitude": -37.827486495,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfBgOifaMAczIH-.jpg"
-            ]
-        },
-        {
-            "tid": 1580814709804003329,
-            "uid": 1500694609189433344,
-            "author": "Ryan Cox (SLR_Aus)",
-            "user_img": "https://pbs.twimg.com/profile_images/1507072471941337092/uCZE3Brj_normal.jpg",
-            "time": "2022-10-14 06:56:11 +0000",
-            "like_no": 41,
-            "language": "en",
-            "text": "Flash floods in Melbourne today. Once the room had drained out I was felt to find this. Xbox, rig, capture card, monitor. All destroyed. Not sure how long it’ll be until the room can be renovated and the rig repurchased but looks like no racing for the foreseeable future. Bye 👋 https://t.co/xU5OcoR1oH",
-            "clean_text": "Flash floods in Melbourne today Once the room had drained out I was felt to find this Xbox rig capture card monitor All destroyed Not sure how long it ll be until the room can be renovated and the rig repurchased but looks like no racing for the foreseeable future Bye",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "neighborhood",
-            "longitude": 144.97026606,
-            "latitude": -37.827486495,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfAumO1UYAA-MYq.jpg"
-            ]
-        },
-        {
-            "tid": 1580811817374609408,
-            "uid": 37866535,
-            "author": "Warren Hill",
-            "user_img": "https://pbs.twimg.com/profile_images/1469022487207763969/ZRn29yIX_normal.jpg",
-            "time": "2022-10-14 06:44:41 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Do you like great beer?? Come on down.. @ Belgian Beer Cafe Melbourne https://t.co/ryK48EAIQC",
-            "clean_text": "Do you like great beer Come on down Belgian Beer Cafe Melbourne",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.96426252,
-            "latitude": -37.82143743,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580731057954910209,
-            "uid": 16806737,
-            "author": "Andrew Wrathall",
-            "user_img": "https://pbs.twimg.com/profile_images/953118741402861569/ki31Po6u_normal.jpg",
-            "time": "2022-10-14 01:23:47 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "This is kind of sad. The water fountain is a memorial to a black swan called Cookie, who lived here 50 years ago. #Melbourne https://t.co/cBXXS9wlwa",
-            "clean_text": "This is kind of sad The water fountain is a memorial to a black swan called Cookie who lived here 50 years ago",
-            "place_name": "Alexandra Gardens",
-            "place_type": "poi",
-            "longitude": 144.97197457437386,
-            "latitude": -37.82026649219937,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe_ig6mUoAEOI8i.jpg",
-                "https://pbs.twimg.com/media/Fe_ig6sVQAAl5kJ.jpg"
-            ]
-        },
-        {
-            "tid": 1580716259356049410,
-            "uid": 23027714,
-            "author": "Ben Cull",
-            "user_img": "https://pbs.twimg.com/profile_images/1253574398314819584/d02AkK20_normal.jpg",
-            "time": "2022-10-14 00:24:59 +0000",
-            "like_no": 7,
-            "language": "en",
-            "text": "Kicking off the #anhc (Australian National Homebrew Conference) with some breakfast beers and some great talks! https://t.co/YKLe8Is9N4",
-            "clean_text": "Kicking off the Australian National Homebrew Conference with some breakfast beers and some great talks",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "neighborhood",
-            "longitude": 144.97026606,
-            "latitude": -37.827486495,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe_VDaeaUAASQO_.jpg"
-            ]
-        },
-        {
-            "tid": 1580657458292621312,
-            "uid": 1182697470201085958,
-            "author": "Ali Sheraz",
-            "user_img": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-            "time": "2022-10-13 20:31:19 +0000",
-            "like_no": 12,
-            "language": "en",
-            "text": "#molajutt #TheLegends #FawadKhan Go and watch this movie The Legend of Mola Jutt https://t.co/QCGr2I51zH",
-            "clean_text": "Go and watch this movie The Legend of Mola Jutt",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "neighborhood",
-            "longitude": 144.97026606,
-            "latitude": -37.827486495,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1580656934130438144/pu/img/XdDSppqCWPMBzfZA.jpg"
-            ]
-        },
-        {
-            "tid": 1580536123864281089,
-            "uid": 1360823960301047815,
-            "author": "Stacy Nicholson",
-            "user_img": "https://pbs.twimg.com/profile_images/1571463928202534913/_Sz0um6E_normal.jpg",
-            "time": "2022-10-13 12:29:11 +0000",
-            "like_no": 37,
-            "language": "en",
-            "text": "I invite you to have a look inside amazing work of Roman Newell through his website https://t.co/aGVD2wqkKq or his Amazon page. https://t.co/nwISHgMkr2",
-            "clean_text": "I invite you to have a look inside amazing work of Roman Newell through his website or his Amazon page",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "neighborhood",
-            "longitude": 144.97026606,
-            "latitude": -37.827486495,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe8xOlWaUAE-Rz5.jpg"
-            ]
-        },
-        {
-            "tid": 1580425195378028545,
-            "uid": 21242757,
-            "author": "𝐃𝐚𝐧𝐢𝐞𝐥 𝐉𝐚𝐦𝐞𝐬",
-            "user_img": "https://pbs.twimg.com/profile_images/1582371567765319680/4rL2zr2T_normal.jpg",
-            "time": "2022-10-13 05:08:24 +0000",
-            "like_no": 22,
-            "language": "en",
-            "text": "Nice to be back. https://t.co/PBVSO4FZCK",
-            "clean_text": "Nice to be back",
-            "place_name": "Arts Centre Melbourne",
-            "place_type": "poi",
-            "longitude": 144.968808,
-            "latitude": -37.82162,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7MU40UAAAtBrI.jpg"
-            ]
-        },
-        {
-            "tid": 1580401172761825280,
-            "uid": 1359660442684018689,
-            "author": "UNITEDSIKHS_AUSTRALIA",
-            "user_img": "https://pbs.twimg.com/profile_images/1359661400491061248/x85xGzLX_normal.jpg",
-            "time": "2022-10-13 03:32:56 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "22 yrs ago,an act of terror tore away lives of 202 people,including 88 Australians &amp; 22 https://t.co/8SW0ejtDbO,we stand in solidarity with family \n/friends of those who are no longer with us.12OCT is d only day fountains &amp; lights at reflective pool in Lincoln Square turned off https://t.co/GCpRdWhJjN",
-            "clean_text": "22 yrs ago an act of terror tore away lives of 202 people including 88 Australians 22 we stand in solidarity with family friends of those who are no longer with us 12OCT is d only day fountains lights at reflective pool in Lincoln Square turned off",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "neighborhood",
-            "longitude": 144.97026606,
-            "latitude": -37.827486495,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe62eLEUoAAhISR.jpg",
-                "https://pbs.twimg.com/media/Fe62eLSVEAAKb5V.jpg"
-            ]
-        },
-        {
-            "tid": 1580388581872349184,
-            "uid": 1483999451312422915,
-            "author": "Kennoi 🇦🇺🌄",
-            "user_img": "https://pbs.twimg.com/profile_images/1559388258471415808/Fus5Y7uk_normal.jpg",
-            "time": "2022-10-13 02:42:54 +0000",
-            "like_no": 13,
-            "language": "en",
-            "text": "The only thing I like about Sydney is the weather 🌤️⛈️\n\nMelbourne please stop raining 🌧️🇦🇺 https://t.co/J37LeG8ReV",
-            "clean_text": "The only thing I like about Sydney is the weather Melbourne please stop raining",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "neighborhood",
-            "longitude": 144.97026606,
-            "latitude": -37.827486495,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe6rCgEVIAIThix.jpg"
-            ]
         }
     ]
 }

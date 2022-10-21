@@ -1,40 +1,56 @@
 {
     "word_freq": [
         {
+            "text": "Vegemite",
+            "value": 1
+        },
+        {
+            "text": "smells",
+            "value": 1
+        },
+        {
+            "text": "ripe",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 1
+        },
+        {
             "text": "West",
-            "value": 6
+            "value": 4
         },
         {
             "text": "Gate",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Fwy",
-            "value": 4
+            "value": 3
         },
         {
             "text": "M1",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Port",
-            "value": 4
+            "value": 3
         },
         {
             "text": "Melbourne",
-            "value": 4
+            "value": 3
         },
         {
             "text": "lanes",
-            "value": 7
+            "value": 6
         },
         {
             "text": "closed",
-            "value": 8
+            "value": 6
         },
         {
             "text": "outbound",
-            "value": 4
+            "value": 2
         },
         {
             "text": "Two",
@@ -54,14 +70,6 @@
         },
         {
             "text": "Three",
-            "value": 1
-        },
-        {
-            "text": "Left",
-            "value": 1
-        },
-        {
-            "text": "lane",
             "value": 1
         }
     ]

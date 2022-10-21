@@ -1,6 +1,22 @@
 {
-    "count": 13,
+    "count": 10,
     "data": [
+        {
+            "tid": 1583250204333309952,
+            "uid": 28442657,
+            "author": "Rowden White Library",
+            "user_img": "https://pbs.twimg.com/profile_images/623379290/CIMG1789_normal.JPG",
+            "time": "2022-10-21 00:13:58 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "You look away for a minute and there’s more new books! These shiny new ones from @readingsbooks will be hitting the shelves soon, let us know if there are any you particularly want fast-tracked for you 🏎️📖🏎️📖🏎️📖 https://t.co/iOGduWLbmg",
+            "clean_text": "You look away for a minute and there s more new books These shiny new ones from will be hitting the shelves soon let us know if there are any you particularly want fast tracked for you",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96096392,
+            "latitude": -37.79661117,
+            "photo_urls": []
+        },
         {
             "tid": 1582676212001882113,
             "uid": 1371790259713757185,
@@ -159,78 +175,6 @@
                 "https://pbs.twimg.com/media/FfBqHrSaAAEcVew.jpg",
                 "https://pbs.twimg.com/media/FfBqHrSaYAcUtC6.jpg",
                 "https://pbs.twimg.com/media/FfBqHrTaAAAF2_9.jpg"
-            ]
-        },
-        {
-            "tid": 1580465252717580288,
-            "uid": 911430326,
-            "author": "Melbourne Law School",
-            "user_img": "https://pbs.twimg.com/profile_images/1087935700408913920/96YeK14Z_normal.jpg",
-            "time": "2022-10-13 07:47:34 +0000",
-            "like_no": 8,
-            "language": "en",
-            "text": "Thank you, @MarkDreyfusKCMP for delivering an insightful presentation on the rule of law in Australia and internationally at tonight’s Seabrook Chambers Public Lecture. https://t.co/wNgKP8YvHG",
-            "clean_text": "Thank you for delivering an insightful presentation on the rule of law in Australia and internationally at tonight s Seabrook Chambers Public Lecture",
-            "place_name": "Law Building GM-15 - Melbourne University",
-            "place_type": "poi",
-            "longitude": 144.95959117881173,
-            "latitude": -37.80245502035752,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7wxA2UcAA51_l.jpg"
-            ]
-        },
-        {
-            "tid": 1580457877633847296,
-            "uid": 911430326,
-            "author": "Melbourne Law School",
-            "user_img": "https://pbs.twimg.com/profile_images/1087935700408913920/96YeK14Z_normal.jpg",
-            "time": "2022-10-13 07:18:16 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "@MarkDreyfusKCMP discusses the latest findings of the Australian Law Commission Report on judicial bias, Without Fear or Favour: Judicial Impartiality and the Law on Bias.\n \n“As Attorney General, I have an important role to play in safeguarding and promoting the rule of law.” https://t.co/7whDMFdzh5",
-            "clean_text": "discusses the latest findings of the Australian Law Commission Report on judicial bias Without Fear or Favour Judicial Impartiality and the Law on Bias As Attorney General I have an important role to play in safeguarding and promoting the rule of law",
-            "place_name": "Law Building GM-15 - Melbourne University",
-            "place_type": "poi",
-            "longitude": 144.95959117881173,
-            "latitude": -37.80245502035752,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7qDu_VQAExgf2.jpg"
-            ]
-        },
-        {
-            "tid": 1580457865982095362,
-            "uid": 911430326,
-            "author": "Melbourne Law School",
-            "user_img": "https://pbs.twimg.com/profile_images/1087935700408913920/96YeK14Z_normal.jpg",
-            "time": "2022-10-13 07:18:13 +0000",
-            "like_no": 76,
-            "language": "en",
-            "text": "We’re delighted to welcome the Attorney-General of Australia Mark Dreyfus KC MP to present the 2022 Seabrook Chambers Public Lecture at Melbourne Law School tonight.\n \n@MarkDreyfusKCMP will share his thoughts on the need to strengthen the rule of law in this country. https://t.co/9d529BIpzP",
-            "clean_text": "We re delighted to welcome the Attorney General of Australia Mark Dreyfus KC MP to present the 2022 Seabrook Chambers Public Lecture at Melbourne Law School tonight will share his thoughts on the need to strengthen the rule of law in this country",
-            "place_name": "Law Building GM-15 - Melbourne University",
-            "place_type": "poi",
-            "longitude": 144.95959117881173,
-            "latitude": -37.80245502035752,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7qDCaVUAAMkBp.jpg"
-            ]
-        },
-        {
-            "tid": 1580339977564880896,
-            "uid": 1121798587,
-            "author": "James Banal",
-            "user_img": "https://pbs.twimg.com/profile_images/1581531106272489472/XyvBkGv8_normal.jpg",
-            "time": "2022-10-12 23:29:46 +0000",
-            "like_no": 12,
-            "language": "en",
-            "text": "Back in the old stomping grounds! https://t.co/4QO1BWMUcR",
-            "clean_text": "Back in the old stomping grounds",
-            "place_name": "The University of Melbourne",
-            "place_type": "poi",
-            "longitude": 144.9621703817303,
-            "latitude": -37.79877607670422,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe5-1K_aAAYWnRP.jpg"
             ]
         }
     ]

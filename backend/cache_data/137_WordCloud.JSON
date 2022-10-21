@@ -1,6 +1,26 @@
 {
     "word_freq": [
         {
+            "text": "Melbourne",
+            "value": 4
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "Football",
+            "value": 1
+        },
+        {
+            "text": "Club",
+            "value": 1
+        },
+        {
+            "text": "Administration",
+            "value": 1
+        },
+        {
             "text": "realise",
             "value": 1
         },
@@ -121,10 +141,6 @@
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 1
-        },
-        {
             "text": "Victory",
             "value": 1
         },
@@ -146,50 +162,6 @@
         },
         {
             "text": "go",
-            "value": 1
-        },
-        {
-            "text": "Punt",
-            "value": 2
-        },
-        {
-            "text": "Rd",
-            "value": 2
-        },
-        {
-            "text": "Cremorne",
-            "value": 2
-        },
-        {
-            "text": "lanes",
-            "value": 3
-        },
-        {
-            "text": "closed",
-            "value": 4
-        },
-        {
-            "text": "southbound",
-            "value": 4
-        },
-        {
-            "text": "left",
-            "value": 1
-        },
-        {
-            "text": "lane",
-            "value": 1
-        },
-        {
-            "text": "approaching",
-            "value": 2
-        },
-        {
-            "text": "Two",
-            "value": 1
-        },
-        {
-            "text": "Monash",
             "value": 1
         }
     ]

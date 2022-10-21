@@ -1,6 +1,146 @@
 {
     "word_freq": [
         {
+            "text": "World",
+            "value": 1
+        },
+        {
+            "text": "Supercross",
+            "value": 1
+        },
+        {
+            "text": "Championship",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 3
+        },
+        {
+            "text": "Massive",
+            "value": 1
+        },
+        {
+            "text": "thanks",
+            "value": 1
+        },
+        {
+            "text": "seats",
+            "value": 1
+        },
+        {
+            "text": "nice",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
+            "text": "guys",
+            "value": 2
+        },
+        {
+            "text": "else",
+            "value": 1
+        },
+        {
+            "text": "reeeeally",
+            "value": 1
+        },
+        {
+            "text": "enjoys",
+            "value": 1
+        },
+        {
+            "text": "parents",
+            "value": 1
+        },
+        {
+            "text": "always",
+            "value": 1
+        },
+        {
+            "text": "tell",
+            "value": 1
+        },
+        {
+            "text": "lil",
+            "value": 1
+        },
+        {
+            "text": "kids",
+            "value": 1
+        },
+        {
+            "text": "watch",
+            "value": 1
+        },
+        {
+            "text": "going",
+            "value": 1
+        },
+        {
+            "text": "get",
+            "value": 1
+        },
+        {
+            "text": "way",
+            "value": 1
+        },
+        {
+            "text": "concern",
+            "value": 1
+        },
+        {
+            "text": "Ichi",
+            "value": 1
+        },
+        {
+            "text": "mak",
+            "value": 1
+        },
+        {
+            "text": "Docklands",
+            "value": 15
+        },
+        {
+            "text": "VIC",
+            "value": 5
+        },
+        {
+            "text": "boat",
+            "value": 1
+        },
+        {
+            "text": "show",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 3
+        },
+        {
+            "text": "Crank",
+            "value": 1
+        },
+        {
+            "text": "Em",
+            "value": 1
+        },
+        {
+            "text": "Harbour",
+            "value": 1
+        },
+        {
+            "text": "Portarlington",
+            "value": 1
+        },
+        {
+            "text": "Ferry",
+            "value": 1
+        },
+        {
             "text": "Thanks",
             "value": 1
         },
@@ -186,14 +326,6 @@
         },
         {
             "text": "Tree",
-            "value": 1
-        },
-        {
-            "text": "Docklands",
-            "value": 11
-        },
-        {
-            "text": "Victoria",
             "value": 1
         },
         {
@@ -409,10 +541,6 @@
             "value": 1
         },
         {
-            "text": "guys",
-            "value": 1
-        },
-        {
             "text": "beer",
             "value": 1
         },
@@ -427,14 +555,6 @@
         {
             "text": "Gooness",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 1
-        },
-        {
-            "text": "VIC",
-            "value": 2
         },
         {
             "text": "Another",
@@ -466,7 +586,7 @@
         },
         {
             "text": "home",
-            "value": 2
+            "value": 1
         },
         {
             "text": "find",
@@ -518,42 +638,6 @@
         },
         {
             "text": "introduce",
-            "value": 1
-        },
-        {
-            "text": "Cucumber",
-            "value": 1
-        },
-        {
-            "text": "flavour",
-            "value": 1
-        },
-        {
-            "text": "Farewell",
-            "value": 1
-        },
-        {
-            "text": "calorie",
-            "value": 2
-        },
-        {
-            "text": "deficit",
-            "value": 2
-        },
-        {
-            "text": "enough",
-            "value": 1
-        },
-        {
-            "text": "steps",
-            "value": 1
-        },
-        {
-            "text": "Time",
-            "value": 1
-        },
-        {
-            "text": "go",
             "value": 1
         }
     ]

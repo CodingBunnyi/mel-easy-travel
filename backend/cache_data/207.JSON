@@ -1,6 +1,25 @@
 {
-    "count": 24,
+    "count": 18,
     "data": [
+        {
+            "tid": 1583011267601911808,
+            "uid": 2685187076,
+            "author": "T1gerdude 🐯",
+            "user_img": "https://pbs.twimg.com/profile_images/1357142101327179776/OqBeTbEN_normal.jpg",
+            "time": "2022-10-20 08:24:31 +0000",
+            "like_no": 197,
+            "language": "en",
+            "text": "🐾 Rubber Paws 🐾\n\nFrom @SquirkWerks https://t.co/I1E4xAqPuw",
+            "clean_text": "Rubber Paws From",
+            "place_name": "Fitzroy, Melbourne",
+            "place_type": "neighborhood",
+            "longitude": 144.97916544,
+            "latitude": -37.800917505,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Fff8WebakAEFRBR.jpg",
+                "https://pbs.twimg.com/media/Fff8W4yakAE6jGn.jpg"
+            ]
+        },
         {
             "tid": 1582822664560775168,
             "uid": 27144630,
@@ -287,126 +306,6 @@
             "latitude": -37.800917505,
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfDuP9QVEAAeZPR.jpg"
-            ]
-        },
-        {
-            "tid": 1580863931383394305,
-            "uid": 401126669,
-            "author": "Hazie",
-            "user_img": "https://pbs.twimg.com/profile_images/945398442184110081/4Rx-vLBR_normal.jpg",
-            "time": "2022-10-14 10:11:46 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Egyptian for din din (@ Cairo Nights Restaurant &amp; Bar in Carlton, VIC) https://t.co/iMaHmT69oE https://t.co/ta9YvWZ6fv",
-            "clean_text": "Egyptian for din din Cairo Nights Restaurant Bar in Carlton VIC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.967046,
-            "latitude": -37.801263,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfBbXj7VEAAbZ_t.jpg"
-            ]
-        },
-        {
-            "tid": 1580768756703584256,
-            "uid": 1130062562,
-            "author": ".YTR",
-            "user_img": "https://pbs.twimg.com/profile_images/747477684104531968/4SiFtIfE_normal.jpg",
-            "time": "2022-10-14 03:53:35 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "I'm at Gorman in Fitzroy, VIC https://t.co/uYCzGo7Gpb",
-            "clean_text": "I'm at Gorman in Fitzroy VIC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.97793,
-            "latitude": -37.80021,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580625443320786944,
-            "uid": 27144630,
-            "author": "Slogan Graffiti",
-            "user_img": "https://pbs.twimg.com/profile_images/1486125052/Window_Frames_One_less_Car_-_Daniel_Kaplon_normal.jpg",
-            "time": "2022-10-13 18:24:06 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Are you asking me out on a date? #meetup #or #dropoff #date #graffiti #slogangraffiti #fitzroy #text #words @graffiterati @sevenbreaths https://t.co/Rb79T4HPrW",
-            "clean_text": "Are you asking me out on a date",
-            "place_name": "Fitzroy, Melbourne",
-            "place_type": "neighborhood",
-            "longitude": 144.97916544,
-            "latitude": -37.800917505,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe-CdRDUoAA7bZ-.jpg"
-            ]
-        },
-        {
-            "tid": 1580539884783423489,
-            "uid": 1532834563512487936,
-            "author": "Dr Matthew Prendergast",
-            "user_img": "https://pbs.twimg.com/profile_images/1532840440315412480/i1pMdkyw_normal.jpg",
-            "time": "2022-10-13 12:44:08 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "From a recent visit to Melbourne. Ceratopsia are my favourite. https://t.co/97kxKtwXpE",
-            "clean_text": "From a recent visit to Melbourne Ceratopsia are my favourite",
-            "place_name": "Melbourne Museum",
-            "place_type": "poi",
-            "longitude": 144.9716967344284,
-            "latitude": -37.80348577825057,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe80lG6aAAEimm4.jpg"
-            ]
-        },
-        {
-            "tid": 1580484208446779393,
-            "uid": 22737337,
-            "author": "Rob Escudero",
-            "user_img": "https://pbs.twimg.com/profile_images/1382471298698203136/ql9iZSNM_normal.jpg",
-            "time": "2022-10-13 09:02:53 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Can I have an extra serving of attitude please? @ Carlton, Victoria, Australia https://t.co/dekCDdC2tc",
-            "clean_text": "Can I have an extra serving of attitude please Carlton Victoria Australia",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9684,
-            "latitude": -37.8007,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580472435018981376,
-            "uid": 1008332544893317120,
-            "author": "Yarra City Driving School",
-            "user_img": "https://pbs.twimg.com/profile_images/1348756894119194626/lF-kz1cV_normal.jpg",
-            "time": "2022-10-13 08:16:06 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ Carlton, Victoria, Australia https://t.co/lTtykUy5Mm",
-            "clean_text": "Just posted a photo Carlton Victoria Australia",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9684,
-            "latitude": -37.8007,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580462097325924352,
-            "uid": 793416191184207872,
-            "author": "Luna Joy",
-            "user_img": "https://pbs.twimg.com/profile_images/1569631035167752192/1pRsANGf_normal.jpg",
-            "time": "2022-10-13 07:35:02 +0000",
-            "like_no": 10,
-            "language": "en",
-            "text": "Rescued a Blåhaj today, returned them to their natural habitat ☺️💜 https://t.co/h1KbcSCzqM",
-            "clean_text": "Rescued a Bl haj today returned them to their natural habitat",
-            "place_name": "Melbourne Museum",
-            "place_type": "poi",
-            "longitude": 144.9716967344284,
-            "latitude": -37.80348577825057,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7t3EHVEAAsoXf.jpg"
             ]
         }
     ]

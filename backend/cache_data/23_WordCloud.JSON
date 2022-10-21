@@ -1,12 +1,80 @@
 {
     "word_freq": [
         {
+            "text": "Hareruya",
+            "value": 1
+        },
+        {
+            "text": "Pantry",
+            "value": 1
+        },
+        {
+            "text": "Carlton",
+            "value": 4
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "nice",
+            "value": 2
+        },
+        {
+            "text": "way",
+            "value": 1
+        },
+        {
+            "text": "conclude",
+            "value": 1
+        },
+        {
+            "text": "Machine",
+            "value": 1
+        },
+        {
+            "text": "Learning",
+            "value": 1
+        },
+        {
+            "text": "Applications",
+            "value": 1
+        },
+        {
+            "text": "Health",
+            "value": 1
+        },
+        {
+            "text": "course",
+            "value": 1
+        },
+        {
+            "text": "immersive",
+            "value": 1
+        },
+        {
+            "text": "space",
+            "value": 1
+        },
+        {
+            "text": "honor",
+            "value": 1
+        },
+        {
+            "text": "Tutor",
+            "value": 1
+        },
+        {
+            "text": "team",
+            "value": 1
+        },
+        {
             "text": "Premiere",
             "value": 1
         },
         {
             "text": "Melbourne",
-            "value": 6
+            "value": 5
         },
         {
             "text": "IMAX",
@@ -73,12 +141,8 @@
             "value": 1
         },
         {
-            "text": "Carlton",
-            "value": 6
-        },
-        {
             "text": "Victoria",
-            "value": 4
+            "value": 2
         },
         {
             "text": "Argyle",
@@ -90,11 +154,11 @@
         },
         {
             "text": "posted",
-            "value": 2
+            "value": 1
         },
         {
             "text": "photo",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Internal",
@@ -233,10 +297,6 @@
             "value": 1
         },
         {
-            "text": "nice",
-            "value": 1
-        },
-        {
             "text": "fish",
             "value": 1
         },
@@ -270,7 +330,7 @@
         },
         {
             "text": "Bar",
-            "value": 2
+            "value": 1
         },
         {
             "text": "coffee",
@@ -446,7 +506,7 @@
         },
         {
             "text": "day",
-            "value": 2
+            "value": 1
         },
         {
             "text": "orange",
@@ -486,266 +546,6 @@
         },
         {
             "text": "entry",
-            "value": 1
-        },
-        {
-            "text": "Egyptian",
-            "value": 1
-        },
-        {
-            "text": "din",
-            "value": 2
-        },
-        {
-            "text": "Cairo",
-            "value": 1
-        },
-        {
-            "text": "Nights",
-            "value": 1
-        },
-        {
-            "text": "Restaurant",
-            "value": 1
-        },
-        {
-            "text": "VIC",
-            "value": 1
-        },
-        {
-            "text": "pics",
-            "value": 1
-        },
-        {
-            "text": "penguins",
-            "value": 1
-        },
-        {
-            "text": "Strictly",
-            "value": 1
-        },
-        {
-            "text": "allowed",
-            "value": 1
-        },
-        {
-            "text": "Phillip",
-            "value": 1
-        },
-        {
-            "text": "Island",
-            "value": 1
-        },
-        {
-            "text": "Penguin",
-            "value": 1
-        },
-        {
-            "text": "Parade",
-            "value": 1
-        },
-        {
-            "text": "Bec",
-            "value": 1
-        },
-        {
-            "text": "Lim",
-            "value": 1
-        },
-        {
-            "text": "sharing",
-            "value": 2
-        },
-        {
-            "text": "top",
-            "value": 1
-        },
-        {
-            "text": "tips",
-            "value": 2
-        },
-        {
-            "text": "shifting",
-            "value": 1
-        },
-        {
-            "text": "academia",
-            "value": 1
-        },
-        {
-            "text": "industry",
-            "value": 4
-        },
-        {
-            "text": "PhD",
-            "value": 1
-        },
-        {
-            "text": "forum",
-            "value": 1
-        },
-        {
-            "text": "get",
-            "value": 1
-        },
-        {
-            "text": "jobs",
-            "value": 1
-        },
-        {
-            "text": "important",
-            "value": 1
-        },
-        {
-            "text": "able",
-            "value": 1
-        },
-        {
-            "text": "present",
-            "value": 1
-        },
-        {
-            "text": "differs",
-            "value": 1
-        },
-        {
-            "text": "uni",
-            "value": 1
-        },
-        {
-            "text": "recent",
-            "value": 1
-        },
-        {
-            "text": "visit",
-            "value": 1
-        },
-        {
-            "text": "Ceratopsia",
-            "value": 1
-        },
-        {
-            "text": "favourite",
-            "value": 1
-        },
-        {
-            "text": "extra",
-            "value": 1
-        },
-        {
-            "text": "serving",
-            "value": 1
-        },
-        {
-            "text": "attitude",
-            "value": 1
-        },
-        {
-            "text": "please",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 2
-        },
-        {
-            "text": "Rescued",
-            "value": 1
-        },
-        {
-            "text": "Bl",
-            "value": 1
-        },
-        {
-            "text": "haj",
-            "value": 1
-        },
-        {
-            "text": "today",
-            "value": 2
-        },
-        {
-            "text": "returned",
-            "value": 1
-        },
-        {
-            "text": "natural",
-            "value": 1
-        },
-        {
-            "text": "habitat",
-            "value": 1
-        },
-        {
-            "text": "Great",
-            "value": 1
-        },
-        {
-            "text": "talk",
-            "value": 1
-        },
-        {
-            "text": "Research",
-            "value": 1
-        },
-        {
-            "text": "Fellow",
-            "value": 1
-        },
-        {
-            "text": "insights",
-            "value": 1
-        },
-        {
-            "text": "digital",
-            "value": 1
-        },
-        {
-            "text": "governments",
-            "value": 1
-        },
-        {
-            "text": "career",
-            "value": 1
-        },
-        {
-            "text": "Doctoral",
-            "value": 2
-        },
-        {
-            "text": "Colloquium",
-            "value": 2
-        },
-        {
-            "text": "8th",
-            "value": 1
-        },
-        {
-            "text": "annual",
-            "value": 1
-        },
-        {
-            "text": "kick",
-            "value": 1
-        },
-        {
-            "text": "keynotes",
-            "value": 1
-        },
-        {
-            "text": "Ed",
-            "value": 1
-        },
-        {
-            "text": "Hovy",
-            "value": 1
-        },
-        {
-            "text": "Tim",
-            "value": 1
-        },
-        {
-            "text": "Kariotis",
             "value": 1
         }
     ]

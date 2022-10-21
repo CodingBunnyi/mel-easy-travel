@@ -1,12 +1,108 @@
 {
     "word_freq": [
         {
-            "text": "Premiere",
+            "text": "Looking",
+            "value": 1
+        },
+        {
+            "text": "forward",
+            "value": 1
+        },
+        {
+            "text": "sitting",
+            "value": 1
+        },
+        {
+            "text": "jazzboutiqueband",
+            "value": 1
+        },
+        {
+            "text": "melbournemarriott",
+            "value": 1
+        },
+        {
+            "text": "tonight",
             "value": 1
         },
         {
             "text": "Melbourne",
             "value": 3
+        },
+        {
+            "text": "Marriott",
+            "value": 1
+        },
+        {
+            "text": "Hotel",
+            "value": 1
+        },
+        {
+            "text": "Extinction",
+            "value": 1
+        },
+        {
+            "text": "Rebellion",
+            "value": 1
+        },
+        {
+            "text": "targeting",
+            "value": 1
+        },
+        {
+            "text": "another",
+            "value": 1
+        },
+        {
+            "text": "worthy",
+            "value": 1
+        },
+        {
+            "text": "cause",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 1
+        },
+        {
+            "text": "climate",
+            "value": 1
+        },
+        {
+            "text": "criminals",
+            "value": 1
+        },
+        {
+            "text": "NEW",
+            "value": 1
+        },
+        {
+            "text": "GAS",
+            "value": 1
+        },
+        {
+            "text": "CLIMATE",
+            "value": 1
+        },
+        {
+            "text": "CHAOS",
+            "value": 1
+        },
+        {
+            "text": "FLOODS",
+            "value": 1
+        },
+        {
+            "text": "FIRES",
+            "value": 1
+        },
+        {
+            "text": "EXTINCTION",
+            "value": 1
+        },
+        {
+            "text": "Premiere",
+            "value": 1
         },
         {
             "text": "IMAX",
@@ -266,7 +362,7 @@
         },
         {
             "text": "St",
-            "value": 2
+            "value": 1
         },
         {
             "text": "entry",
@@ -278,126 +374,6 @@
         },
         {
             "text": "go",
-            "value": 1
-        },
-        {
-            "text": "pics",
-            "value": 1
-        },
-        {
-            "text": "penguins",
-            "value": 1
-        },
-        {
-            "text": "Strictly",
-            "value": 1
-        },
-        {
-            "text": "allowed",
-            "value": 1
-        },
-        {
-            "text": "Phillip",
-            "value": 1
-        },
-        {
-            "text": "Island",
-            "value": 1
-        },
-        {
-            "text": "Penguin",
-            "value": 1
-        },
-        {
-            "text": "Parade",
-            "value": 1
-        },
-        {
-            "text": "Vincents",
-            "value": 1
-        },
-        {
-            "text": "Mercy",
-            "value": 1
-        },
-        {
-            "text": "Private",
-            "value": 1
-        },
-        {
-            "text": "Fitzroy",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
-            "value": 1
-        },
-        {
-            "text": "recent",
-            "value": 1
-        },
-        {
-            "text": "visit",
-            "value": 1
-        },
-        {
-            "text": "Ceratopsia",
-            "value": 1
-        },
-        {
-            "text": "favourite",
-            "value": 1
-        },
-        {
-            "text": "Rescued",
-            "value": 1
-        },
-        {
-            "text": "Bl",
-            "value": 1
-        },
-        {
-            "text": "haj",
-            "value": 1
-        },
-        {
-            "text": "today",
-            "value": 1
-        },
-        {
-            "text": "returned",
-            "value": 1
-        },
-        {
-            "text": "natural",
-            "value": 1
-        },
-        {
-            "text": "habitat",
-            "value": 1
-        },
-        {
-            "text": "Shanty",
-            "value": 1
-        },
-        {
-            "text": "Gal",
-            "value": 1
-        },
-        {
-            "text": "bath",
-            "value": 1
-        },
-        {
-            "text": "water",
-            "value": 1
-        },
-        {
-            "text": "Get",
-            "value": 1
-        },
-        {
-            "text": "sparkly",
             "value": 1
         }
     ]

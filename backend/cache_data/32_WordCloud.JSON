@@ -1,27 +1,47 @@
 {
     "word_freq": [
         {
+            "text": "Master",
+            "value": 1
+        },
+        {
+            "text": "Roll",
+            "value": 1
+        },
+        {
+            "text": "Vietnam",
+            "value": 1
+        },
+        {
+            "text": "South",
+            "value": 2
+        },
+        {
+            "text": "Yarra",
+            "value": 2
+        },
+        {
+            "text": "VIC",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "Monster",
+            "value": 1
+        },
+        {
+            "text": "Beast",
+            "value": 1
+        },
+        {
             "text": "Good",
             "value": 1
         },
         {
             "text": "evening",
-            "value": 1
-        },
-        {
-            "text": "build",
-            "value": 1
-        },
-        {
-            "text": "nicer",
-            "value": 1
-        },
-        {
-            "text": "Thats",
-            "value": 1
-        },
-        {
-            "text": "wrap",
             "value": 1
         }
     ]

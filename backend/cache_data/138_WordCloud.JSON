@@ -1,6 +1,494 @@
 {
     "word_freq": [
         {
+            "text": "BREAKING",
+            "value": 1
+        },
+        {
+            "text": "statement",
+            "value": 1
+        },
+        {
+            "text": "PCB",
+            "value": 1
+        },
+        {
+            "text": "Masood's",
+            "value": 1
+        },
+        {
+            "text": "neurological",
+            "value": 1
+        },
+        {
+            "text": "observations",
+            "value": 1
+        },
+        {
+            "text": "normal",
+            "value": 1
+        },
+        {
+            "text": "CT",
+            "value": 1
+        },
+        {
+            "text": "scan",
+            "value": 1
+        },
+        {
+            "text": "shows",
+            "value": 1
+        },
+        {
+            "text": "superficial",
+            "value": 1
+        },
+        {
+            "text": "bruising",
+            "value": 1
+        },
+        {
+            "text": "ball",
+            "value": 2
+        },
+        {
+            "text": "struck",
+            "value": 2
+        },
+        {
+            "text": "currently",
+            "value": 1
+        },
+        {
+            "text": "asymptomatic",
+            "value": 1
+        },
+        {
+            "text": "concussion",
+            "value": 1
+        },
+        {
+            "text": "tested",
+            "value": 1
+        },
+        {
+            "text": "tomorrow",
+            "value": 1
+        },
+        {
+            "text": "Rohit",
+            "value": 4
+        },
+        {
+            "text": "Sharma",
+            "value": 4
+        },
+        {
+            "text": "Rahul",
+            "value": 1
+        },
+        {
+            "text": "Dravid",
+            "value": 1
+        },
+        {
+            "text": "Babar",
+            "value": 1
+        },
+        {
+            "text": "Azam",
+            "value": 1
+        },
+        {
+            "text": "Matthew",
+            "value": 1
+        },
+        {
+            "text": "Hayden",
+            "value": 1
+        },
+        {
+            "text": "Intense",
+            "value": 1
+        },
+        {
+            "text": "discussion",
+            "value": 1
+        },
+        {
+            "text": "captains",
+            "value": 1
+        },
+        {
+            "text": "coaches",
+            "value": 1
+        },
+        {
+            "text": "camps",
+            "value": 1
+        },
+        {
+            "text": "pressure",
+            "value": 1
+        },
+        {
+            "text": "Sunday",
+            "value": 3
+        },
+        {
+            "text": "Watch",
+            "value": 1
+        },
+        {
+            "text": "FULL",
+            "value": 1
+        },
+        {
+            "text": "episode",
+            "value": 1
+        },
+        {
+            "text": "Stopped",
+            "value": 1
+        },
+        {
+            "text": "raining",
+            "value": 1
+        },
+        {
+            "text": "15min",
+            "value": 1
+        },
+        {
+            "text": "passing",
+            "value": 1
+        },
+        {
+            "text": "shower",
+            "value": 1
+        },
+        {
+            "text": "even",
+            "value": 1
+        },
+        {
+            "text": "overs",
+            "value": 1
+        },
+        {
+            "text": "reduced",
+            "value": 1
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "game",
+            "value": 2
+        },
+        {
+            "text": "get",
+            "value": 1
+        },
+        {
+            "text": "every",
+            "value": 1
+        },
+        {
+            "text": "update",
+            "value": 1
+        },
+        {
+            "text": "weather",
+            "value": 2
+        },
+        {
+            "text": "Spoke",
+            "value": 1
+        },
+        {
+            "text": "soon",
+            "value": 1
+        },
+        {
+            "text": "43pm",
+            "value": 1
+        },
+        {
+            "text": "pouring",
+            "value": 1
+        },
+        {
+            "text": "BEST",
+            "value": 1
+        },
+        {
+            "text": "news",
+            "value": 1
+        },
+        {
+            "text": "MCG",
+            "value": 1
+        },
+        {
+            "text": "Met",
+            "value": 1
+        },
+        {
+            "text": "department",
+            "value": 1
+        },
+        {
+            "text": "predicted",
+            "value": 1
+        },
+        {
+            "text": "chance",
+            "value": 1
+        },
+        {
+            "text": "rain",
+            "value": 1
+        },
+        {
+            "text": "afternoon",
+            "value": 1
+        },
+        {
+            "text": "evening",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 2
+        },
+        {
+            "text": "35pm",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 2
+        },
+        {
+            "text": "nothing",
+            "value": 1
+        },
+        {
+            "text": "drops",
+            "value": 1
+        },
+        {
+            "text": "scared",
+            "value": 1
+        },
+        {
+            "text": "India",
+            "value": 4
+        },
+        {
+            "text": "Pak",
+            "value": 1
+        },
+        {
+            "text": "super",
+            "value": 1
+        },
+        {
+            "text": "Dinesh",
+            "value": 2
+        },
+        {
+            "text": "Karthik",
+            "value": 2
+        },
+        {
+            "text": "getting",
+            "value": 1
+        },
+        {
+            "text": "groove",
+            "value": 1
+        },
+        {
+            "text": "big",
+            "value": 2
+        },
+        {
+            "text": "match",
+            "value": 1
+        },
+        {
+            "text": "days",
+            "value": 1
+        },
+        {
+            "text": "captain",
+            "value": 1
+        },
+        {
+            "text": "Md",
+            "value": 2
+        },
+        {
+            "text": "Siraj",
+            "value": 1
+        },
+        {
+            "text": "Shami",
+            "value": 1
+        },
+        {
+            "text": "Arshdee",
+            "value": 1
+        },
+        {
+            "text": "Singh",
+            "value": 1
+        },
+        {
+            "text": "Axar",
+            "value": 1
+        },
+        {
+            "text": "Patel",
+            "value": 1
+        },
+        {
+            "text": "Shardul",
+            "value": 1
+        },
+        {
+            "text": "Thakur",
+            "value": 1
+        },
+        {
+            "text": "Deepak",
+            "value": 1
+        },
+        {
+            "text": "Hooda",
+            "value": 1
+        },
+        {
+            "text": "attended",
+            "value": 1
+        },
+        {
+            "text": "team",
+            "value": 1
+        },
+        {
+            "text": "optional",
+            "value": 1
+        },
+        {
+            "text": "training",
+            "value": 1
+        },
+        {
+            "text": "session",
+            "value": 1
+        },
+        {
+            "text": "Masood",
+            "value": 2
+        },
+        {
+            "text": "leaves",
+            "value": 1
+        },
+        {
+            "text": "ice",
+            "value": 1
+        },
+        {
+            "text": "pack",
+            "value": 1
+        },
+        {
+            "text": "face",
+            "value": 1
+        },
+        {
+            "text": "Nawaz",
+            "value": 1
+        },
+        {
+            "text": "hit",
+            "value": 1
+        },
+        {
+            "text": "shot",
+            "value": 1
+        },
+        {
+            "text": "play",
+            "value": 1
+        },
+        {
+            "text": "place",
+            "value": 1
+        },
+        {
+            "text": "Fakhar",
+            "value": 1
+        },
+        {
+            "text": "Zaman",
+            "value": 1
+        },
+        {
+            "text": "could",
+            "value": 1
+        },
+        {
+            "text": "problem",
+            "value": 1
+        },
+        {
+            "text": "Pakistan",
+            "value": 2
+        },
+        {
+            "text": "Captain",
+            "value": 1
+        },
+        {
+            "text": "BRILLIANT",
+            "value": 1
+        },
+        {
+            "text": "touch",
+            "value": 1
+        },
+        {
+            "text": "nets",
+            "value": 1
+        },
+        {
+            "text": "ahead",
+            "value": 1
+        },
+        {
+            "text": "king",
+            "value": 1
+        },
+        {
+            "text": "Calm",
+            "value": 1
+        },
+        {
+            "text": "storm",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
             "text": "Using",
             "value": 1
         },
@@ -26,30 +514,6 @@
         },
         {
             "text": "AgileAus2022",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 1
-        },
-        {
-            "text": "Cricket",
-            "value": 1
-        },
-        {
-            "text": "Ground",
-            "value": 1
-        },
-        {
-            "text": "MCG",
             "value": 1
         }
     ]

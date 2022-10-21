@@ -1,6 +1,40 @@
 {
-    "count": 4,
+    "count": 6,
     "data": [
+        {
+            "tid": 1583007743065006081,
+            "uid": 703028694311260160,
+            "author": "Andrew Holmes",
+            "user_img": "https://pbs.twimg.com/profile_images/1195037104654303232/L0uWb06K_normal.jpg",
+            "time": "2022-10-20 08:10:31 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Dan Andrews talking now about People ahead of Profit\n\nThis needs to apply across industries, sectors, communities and all areas of Australia \n\nThe hospital system is buckling under the weight of presentstions\n\n@DanielAndrewsMP @3aw693\n\n#sec #electricity #health #internet\n#alfred",
+            "clean_text": "Dan Andrews talking now about People ahead of Profit This needs to apply across industries sectors communities and all areas of Australia The hospital system is buckling under the weight of presentstions",
+            "place_name": "Adamson Hall",
+            "place_type": "poi",
+            "longitude": 144.9828234408157,
+            "latitude": -37.84805525248622,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582977631670403072,
+            "uid": 1561506377054294016,
+            "author": "uoɹɐ∀",
+            "user_img": "https://pbs.twimg.com/profile_images/1582977909513687041/-nMRs0LF_normal.jpg",
+            "time": "2022-10-20 06:10:52 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": ".Surely Bob (@LaborBob @mrinbetween1) can donate some funds from his 9 businesses to the actual business that helps him actually keep sane enough to continue on with life. \n\nDip into the books @TerraceDamo and help the @AlfredHealth.\n\n@TimTam1964 😄 https://t.co/IKnmIJbFJC",
+            "clean_text": "Surely Bob can donate some funds from his 9 businesses to the actual business that helps him actually keep sane enough to continue on with life Dip into the books and help the",
+            "place_name": "The Alfred Hospital",
+            "place_type": "poi",
+            "longitude": 144.98220485110528,
+            "latitude": -37.84591174295989,
+            "photo_urls": [
+                "https://pbs.twimg.com/tweet_video_thumb/FffdwaxaYAEoJlI.jpg"
+            ]
+        },
         {
             "tid": 1582665196153102336,
             "uid": 386943853,

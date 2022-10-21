@@ -1,5 +1,5 @@
 {
-    "count": 24,
+    "count": 20,
     "data": [
         {
             "tid": 1581802140099809281,
@@ -355,80 +355,6 @@
             "latitude": -37.82159899843773,
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfEH6WFaMAATUNF.jpg"
-            ]
-        },
-        {
-            "tid": 1580799061908549638,
-            "uid": 351432484,
-            "author": "Will Carter",
-            "user_img": "https://pbs.twimg.com/profile_images/1519909631627493376/i7RQ76xE_normal.jpg",
-            "time": "2022-10-14 05:54:00 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Let’s bloody gooooo! https://t.co/S6PyDRQDLv",
-            "clean_text": "Let s bloody gooooo",
-            "place_name": "Rod Laver Arena",
-            "place_type": "poi",
-            "longitude": 144.97856855392456,
-            "latitude": -37.82159899843773,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1580798938696716288/pu/img/RUD6ShtZLG1s7Pk6.jpg"
-            ]
-        },
-        {
-            "tid": 1580731057954910209,
-            "uid": 16806737,
-            "author": "Andrew Wrathall",
-            "user_img": "https://pbs.twimg.com/profile_images/953118741402861569/ki31Po6u_normal.jpg",
-            "time": "2022-10-14 01:23:47 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "This is kind of sad. The water fountain is a memorial to a black swan called Cookie, who lived here 50 years ago. #Melbourne https://t.co/cBXXS9wlwa",
-            "clean_text": "This is kind of sad The water fountain is a memorial to a black swan called Cookie who lived here 50 years ago",
-            "place_name": "Alexandra Gardens",
-            "place_type": "poi",
-            "longitude": 144.97197457437386,
-            "latitude": -37.82026649219937,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe_ig6mUoAEOI8i.jpg",
-                "https://pbs.twimg.com/media/Fe_ig6sVQAAl5kJ.jpg"
-            ]
-        },
-        {
-            "tid": 1580724566959132672,
-            "uid": 16806737,
-            "author": "Andrew Wrathall",
-            "user_img": "https://pbs.twimg.com/profile_images/953118741402861569/ki31Po6u_normal.jpg",
-            "time": "2022-10-14 00:57:59 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Yes, let’s commemorate the Aboriginal women of Victoria, but let’s also celebrate their future and hope that it is filled with love, strength and triumph, without the bullshit that they they’ve had to endure. ❤️💛🖤 https://t.co/LisnwsKekK",
-            "clean_text": "Yes let s commemorate the Aboriginal women of Victoria but let s also celebrate their future and hope that it is filled with love strength and triumph without the bullshit that they they ve had to endure",
-            "place_name": "Pioneer Women's Garden",
-            "place_type": "poi",
-            "longitude": 144.97618728621828,
-            "latitude": -37.82507489554566,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe_cmsxVsAQ-r88.jpg",
-                "https://pbs.twimg.com/media/Fe_cmsKVIAAHO3s.jpg"
-            ]
-        },
-        {
-            "tid": 1580425195378028545,
-            "uid": 21242757,
-            "author": "𝐃𝐚𝐧𝐢𝐞𝐥 𝐉𝐚𝐦𝐞𝐬",
-            "user_img": "https://pbs.twimg.com/profile_images/1582371567765319680/4rL2zr2T_normal.jpg",
-            "time": "2022-10-13 05:08:24 +0000",
-            "like_no": 22,
-            "language": "en",
-            "text": "Nice to be back. https://t.co/PBVSO4FZCK",
-            "clean_text": "Nice to be back",
-            "place_name": "Arts Centre Melbourne",
-            "place_type": "poi",
-            "longitude": 144.968808,
-            "latitude": -37.82162,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7MU40UAAAtBrI.jpg"
             ]
         }
     ]

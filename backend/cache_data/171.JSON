@@ -1,5 +1,5 @@
 {
-    "count": 3,
+    "count": 1,
     "data": [
         {
             "tid": 1581086723437518849,
@@ -15,38 +15,6 @@
             "place_type": "city",
             "longitude": 144.91429627,
             "latitude": -37.79458985,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580827011404075008,
-            "uid": 18147028,
-            "author": "VicTraffic",
-            "user_img": "https://pbs.twimg.com/profile_images/1090064003982811136/jrnsNv5F_normal.jpg",
-            "time": "2022-10-14 07:45:04 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Ballarat Rd , Footscray - Road Closed, Ballarat/Smithfield Road closed in both directions at the… https://t.co/JuOvMJ1Idw #victraffic",
-            "clean_text": "Ballarat Rd Footscray Road Closed Ballarat Smithfield Road closed in both directions at the",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.91429627,
-            "latitude": -37.79458985,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580676764447039488,
-            "uid": 18147028,
-            "author": "VicTraffic",
-            "user_img": "https://pbs.twimg.com/profile_images/1090064003982811136/jrnsNv5F_normal.jpg",
-            "time": "2022-10-13 21:48:02 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Ballarat Rd , Kensington - Road Closed, Ballarat/Smithfield Road closed at the Maribyrnong Road in… https://t.co/JuOvMJ1Idw #victraffic",
-            "clean_text": "Ballarat Rd Kensington Road Closed Ballarat Smithfield Road closed at the Maribyrnong Road in",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.91302051,
-            "latitude": -37.79515077,
             "photo_urls": []
         }
     ]

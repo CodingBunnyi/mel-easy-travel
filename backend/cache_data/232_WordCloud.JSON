@@ -1,36 +1,124 @@
 {
     "word_freq": [
         {
+            "text": "Table",
+            "value": 1
+        },
+        {
+            "text": "confirmed",
+            "value": 1
+        },
+        {
+            "text": "Zine",
+            "value": 1
+        },
+        {
+            "text": "Fair",
+            "value": 1
+        },
+        {
+            "text": "week",
+            "value": 1
+        },
+        {
+            "text": "go",
+            "value": 1
+        },
+        {
+            "text": "Mission",
+            "value": 2
+        },
+        {
+            "text": "Seafarers",
+            "value": 2
+        },
+        {
+            "text": "Victoria",
+            "value": 2
+        },
+        {
+            "text": "West",
+            "value": 5
+        },
+        {
+            "text": "Gate",
+            "value": 5
+        },
+        {
+            "text": "Fwy",
+            "value": 4
+        },
+        {
+            "text": "M1",
+            "value": 5
+        },
+        {
+            "text": "Docklands",
+            "value": 5
+        },
+        {
+            "text": "lanes",
+            "value": 6
+        },
+        {
+            "text": "closed",
+            "value": 10
+        },
+        {
+            "text": "inbound",
+            "value": 2
+        },
+        {
+            "text": "Left",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 5
+        },
+        {
+            "text": "Montague",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 4
+        },
+        {
+            "text": "photo",
+            "value": 4
+        },
+        {
+            "text": "Melbourne",
+            "value": 8
+        },
+        {
+            "text": "Convention",
+            "value": 5
+        },
+        {
+            "text": "Exhibition",
+            "value": 5
+        },
+        {
+            "text": "Centre",
+            "value": 5
+        },
+        {
+            "text": "MCEC",
+            "value": 5
+        },
+        {
             "text": "Kings",
             "value": 1
         },
         {
-            "text": "West",
-            "value": 4
-        },
-        {
-            "text": "Gate",
-            "value": 4
-        },
-        {
             "text": "Ramp",
             "value": 1
-        },
-        {
-            "text": "M1",
-            "value": 4
-        },
-        {
-            "text": "Docklands",
-            "value": 4
-        },
-        {
-            "text": "lanes",
-            "value": 5
-        },
-        {
-            "text": "closed",
-            "value": 8
         },
         {
             "text": "outbound",
@@ -39,10 +127,6 @@
         {
             "text": "left",
             "value": 2
-        },
-        {
-            "text": "lane",
-            "value": 4
         },
         {
             "text": "lucky",
@@ -55,10 +139,6 @@
         {
             "text": "travel",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 9
         },
         {
             "text": "present",
@@ -83,10 +163,6 @@
         {
             "text": "full",
             "value": 1
-        },
-        {
-            "text": "Fwy",
-            "value": 3
         },
         {
             "text": "right",
@@ -226,7 +302,7 @@
         },
         {
             "text": "today",
-            "value": 3
+            "value": 2
         },
         {
             "text": "INFORMAS",
@@ -321,22 +397,6 @@
             "value": 1
         },
         {
-            "text": "Convention",
-            "value": 6
-        },
-        {
-            "text": "Exhibition",
-            "value": 6
-        },
-        {
-            "text": "Centre",
-            "value": 6
-        },
-        {
-            "text": "MCEC",
-            "value": 6
-        },
-        {
             "text": "Live",
             "value": 2
         },
@@ -359,14 +419,6 @@
         {
             "text": "support",
             "value": 2
-        },
-        {
-            "text": "posted",
-            "value": 5
-        },
-        {
-            "text": "photo",
-            "value": 5
         },
         {
             "text": "tonight",
@@ -394,18 +446,6 @@
         },
         {
             "text": "lie",
-            "value": 1
-        },
-        {
-            "text": "Mission",
-            "value": 1
-        },
-        {
-            "text": "Seafarers",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
             "value": 1
         },
         {
@@ -442,54 +482,6 @@
         },
         {
             "text": "Shed",
-            "value": 1
-        },
-        {
-            "text": "great",
-            "value": 1
-        },
-        {
-            "text": "way",
-            "value": 1
-        },
-        {
-            "text": "wrap",
-            "value": 1
-        },
-        {
-            "text": "John's",
-            "value": 1
-        },
-        {
-            "text": "smile",
-            "value": 1
-        },
-        {
-            "text": "drinks",
-            "value": 1
-        },
-        {
-            "text": "city",
-            "value": 1
-        },
-        {
-            "text": "Go",
-            "value": 1
-        },
-        {
-            "text": "Monash",
-            "value": 1
-        },
-        {
-            "text": "Radiography",
-            "value": 1
-        },
-        {
-            "text": "Attending",
-            "value": 1
-        },
-        {
-            "text": "organized",
             "value": 1
         }
     ]
