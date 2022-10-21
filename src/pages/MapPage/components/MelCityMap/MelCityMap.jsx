@@ -157,7 +157,7 @@ export default function MelCityMap() {
           key = { poi.ID }
           onClick= { (e) => handleClickPOI(e, poi) }
         >
-          <ChurchPin />
+          <ChurchPin value={ poi }/>
         </Marker>
       )),
     []
