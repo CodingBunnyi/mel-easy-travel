@@ -276,7 +276,7 @@ def count_tweet(long: float, lat: float, radius: float, thirty: bool = False, gr
         del record_dict['end']
         start_datetime = record_dict.pop('start')
         start_date = datetime.datetime.strptime(start_datetime[0:10], '%Y-%m-%d').date()
-        record_dict['date'] = str(start_date)
+        record_dict['date'] = str(start_date)[5:]
 
     count = result.meta['total_tweet_count']
 
