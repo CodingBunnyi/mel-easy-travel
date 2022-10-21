@@ -10,7 +10,10 @@ import Map, {
 import 'mapbox-gl/dist/mapbox-gl.css';
 import { getTwitterData, getWordCloudData, getTwitterDailyData } from '../../../../utils/twitterDataApi';
 import Mel_POIs_Data from '../../../../data/Melbourne_POIs_MGA.json'
+import restaurant from '../../../../data/restaurant.json'
+
 import ChurchPin from './components/ChurchPin';
+import Pin from './components/Pin';
 import {createRoot} from 'react-dom/client';
 import ControlPanel from './components/ControlPanel';
 import WordCloudContent from './components/WordCloudContent';
@@ -79,6 +82,7 @@ export default function MelCityMap() {
   "pk.eyJ1Ijoib25lbm5pbmUiLCJhIjoiY2w5NDd2OHFtMDFyYzN2dGJlN3hqb29uciJ9.adU0kBOA9mvrm5lkSpcHvQ"
 
   const [selected, setSelected] = useState(null); //onClick status of Mel_POIs_Data
+  const [selectedRestaurant, setSelectedRestaurant] = useState(null); //onClick Restaurant of Mel_POIs_Data
   const [selectedTwitterInfo, setSelectedTwitterInfo] = useState({count: 0, data: []});
   const [wordCloud, setWordCould] = useState([]);
   const [twitterDailyData, setTwitterDailyData] = useState([]);
@@ -106,6 +110,7 @@ export default function MelCityMap() {
     setValue(newValue);
   };
 
+  //Point of Interest handle click
   const handleClickPOI = async (e, poi) => {
     e.originalEvent.stopPropagation();
     setSelected(poi)
@@ -137,9 +142,15 @@ export default function MelCityMap() {
     }
   }
 
+  //Restaurant handle click
+  const handleClickRestaurant = async (e, point) =>{
+    e.originalEvent.stopPropagation();
+    setSelectedRestaurant( point )
+  }
+
   useEffect(() => {
 
-  }, [selected, selectedTwitterInfo]);
+  }, [selected, selectedTwitterInfo, selectedRestaurant]);
 
 
   useEffect(() => {
@@ -163,7 +174,24 @@ export default function MelCityMap() {
             key = { poi.ID }
             onClick= { (e) => handleClickPOI(e, poi) }
         >
-            <ChurchPin poi={ poi }/>
+            <ChurchPin poi={ poi } />
+          </Marker>
+        )}),
+    []
+  );
+
+  const restaurantPins = useMemo(
+    () =>
+    restaurant?.map(point => {
+        return(
+          <Marker 
+            longitude= { point.longitude }
+            latitude= { point.latitude }
+            color= 'red'
+            key = { point.ID }
+            onClick= { (e) => handleClickRestaurant(e, point) }
+        >
+            <Pin/>
           </Marker>
         )}),
     []
@@ -195,6 +223,10 @@ export default function MelCityMap() {
 
       {layerStatus.POI ? (
         [pins]
+      ):true }
+
+      {layerStatus.restaurant ? (
+        [restaurantPins]
       ):true }
 
       {selected ? (
@@ -302,6 +334,30 @@ export default function MelCityMap() {
           </Box>
         </Popup>
          ) : null}
+
+      {selectedRestaurant ? (
+        <Popup
+          longitude= { selectedRestaurant.longitude }
+          latitude= { selectedRestaurant.latitude }
+          onClose= { () => {
+            setSelectedRestaurant(null);
+          } }
+          maxWidth= { '620px' }
+          style= { { width: '620px !important' , borderRadius: 25 } }   
+          key = { selectedRestaurant.ID }
+        >
+          <Box>
+            <Typography variant="h6" >
+              { selectedRestaurant.Description }
+            </Typography>
+
+            <Typography variant="title2" >
+              { selectedRestaurant.BusinessAddress }
+            </Typography>
+
+          </Box>
+        </Popup>
+        ) : null }
 
     </Map>
   );

@@ -16,8 +16,9 @@ function ControlPanel({ layerStatus, setLayerStatus }) {
       left: 50,
       maxWidth: 300,
       background: '#fff',
-      padding: 12,
-      margin: 10,
+      paddingLeft: 12,
+      margin: 5,
+      borderRadius: 20,
       color: '#6b6b76',
     } } >
       <h3>Melbourne Tourist Guide</h3>
@@ -33,7 +34,8 @@ function ControlPanel({ layerStatus, setLayerStatus }) {
           label="Social Network HeatMap" 
         />
 
-        <FormControlLabel control= { <Checkbox /> } label="Restaurant" />
+        <FormControlLabel control= { <Checkbox checked={ layerStatus.restaurant } onChange= { () => handleBusLayerChange('restaurant') } />  } 
+          label="Restaurant" />
 
         <FormControlLabel 
           control= { <Checkbox checked={ layerStatus.busRoute } onChange= { () => handleBusLayerChange('busRoute') } /> } 
