@@ -1,5 +1,6 @@
 /* eslint-disable no-unused-vars */
 import { convertLength } from '@mui/material/styles/cssUtils';
+import { pointer } from 'd3-selection';
 import React, {useMemo} from 'react';
 import church from '../../../../../assets/images/church.svg';
 import college from '../../../../../assets/images/college.svg';
@@ -60,6 +61,8 @@ function ChurchPin({ poi }) {
   const customPins = useMemo(
     () =>      
       <img 
+        height={ 20 }
+        style={ { 'cursor': 'pointer'} }
         key= { poi.SubTheme }
         src={ data[poi.SubTheme] }
       />
