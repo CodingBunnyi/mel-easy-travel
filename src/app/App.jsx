@@ -9,20 +9,15 @@ import ListItems from './components/ListItems/ListItems';
 import Typography from '@mui/material/Typography';
 import Divider from '@mui/material/Divider';
 import IconButton from '@mui/material/IconButton';
-import Badge from '@mui/material/Badge';
 import MenuIcon from '@mui/icons-material/Menu';
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
-import NotificationsIcon from '@mui/icons-material/Notifications';
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import WeatherPage from '../pages/WeatherPage/WeatherPage';
 import MapPage from '../pages/MapPage/MapPage';
 import DashboardPage from '../pages/DashboardPage/DashboardPage';
-import AccommodationPage from '../pages/AccommodationPage/AccomondationPage';
-import TouristAttractionPage from '../pages/TouristAttractionPage/TouristAttractionPage';
+import DataPage from '../pages/DataPage/DataPage';
 import AboutMelEasyTravelPage from '../pages/AboutMelEasyTravelPage/AboutMelEasyTravelPage';
 import { getOneCallWeatherData } from '../utils/OpenWeatherApi/OpenWeatherApi';
-// eslint-disable-next-line no-unused-vars
-import { getTwitterData } from '../utils/twitterDataApi';
 import logo from'../assets/images/logo.png';
 import { listItem } from './components/ListItemTable/ListItemTable';
 import './App.scss';
@@ -79,6 +74,7 @@ const mdTheme = createTheme();
 const App = () => {
   const [open, setOpen] = useState(true);
   const [page, setPage] = useState('Dashboard');
+  const [weatherLoading, setWeatherLoading] = useState(false);
 
   const updatePageName = () => {
     // eslint-disable-next-line no-undef
@@ -99,13 +95,15 @@ const App = () => {
 
   useEffect(() => {
     const getCurrentCityWeather = async () => {
+      setWeatherLoading(true);
       const {status, data} = await getOneCallWeatherData();
       if (status === 200) {
+        setWeatherLoading(false);
         setWeatherData(data)
       }
     }
     getCurrentCityWeather();
-  }, []);
+  }, [page]);
 
   useEffect(() => {
     updatePageName();
@@ -145,12 +143,6 @@ const App = () => {
             >
                 {page}
               </Typography>
-
-              <IconButton color="inherit">
-                <Badge badgeContent={ 4 } color="secondary">
-                  <NotificationsIcon />
-                </Badge>
-              </IconButton>
             </Toolbar>
           </AppBar>
 
@@ -188,13 +180,12 @@ const App = () => {
             } }
         >
             <Routes>
-              <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } setPage={ setPage } /> } />
-              <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } setPage={ setPage }/> } />
-              <Route path="/weather" element={ <WeatherPage weatherData={ weatherData } /> } />
+              {/* <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage } /> } /> */}
+              <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage }/> } />
+              <Route path="/weather" element={ <WeatherPage weatherData={ weatherData } weatherLoading={ weatherLoading } /> } />
               <Route path="/map" element={ <MapPage /> } />
-              <Route path="/tourist-attraction" element={ <AccommodationPage /> } />
-              <Route path="/accommodation" element={ <TouristAttractionPage /> } />
               <Route path="/about-mel-easy-travel" element={ <AboutMelEasyTravelPage /> } />
+              <Route path="/data-source" element={ <DataPage /> } />
             </Routes>
           </Box>
         </BrowserRouter>

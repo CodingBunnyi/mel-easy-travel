@@ -1,14 +1,4 @@
-/* eslint-disable no-undef */
 import axios from 'axios';
-
-// export const getTwitterData = axios.create({
-//   baseURL: 'http://localhost:3000/realtime-point-data',
-//   // params: {
-//   //   long,
-//   //   lat,
-//   // }
-// });
-
 
 export const getTwitterData = (long, lat, radius, hours) =>
   axios({
@@ -30,3 +20,24 @@ export const getWordCloudData = (loc_id) =>
       loc_id,
     },
   });
+
+export const getHeatMapData = () =>
+  axios({
+    method: 'get',
+    url: 'http://localhost:3000/heat-map-data',
+  });
+
+export const getWiKiPediaData = (titles) => 
+  axios({
+    method: 'get',
+    url: 'https://en.wikipedia.org/w/api.php',
+    params: {
+      format: 'json',
+      action: 'query',
+      prop: 'extracts',
+      explaintext: 1,
+      redirects: 1,
+      titles,
+      origin: '*',
+    },
+  })

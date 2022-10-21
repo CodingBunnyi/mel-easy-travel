@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import React, { useEffect, useState, useMemo } from 'react';
 import Map, { 
   Marker, 
@@ -15,6 +14,7 @@ import ChurchPin from './components/ChurchPin';
 import {createRoot} from 'react-dom/client';
 import ControlPanel from './components/ControlPanel';
 import WordCloudContent from './components/WordCloudContent';
+import LoadingBox from '../../../../app/components/LoadingBox/LoadingBox';
 //import TabTwitter from './TabTwitter';
 
 import Box from '@mui/material/Box';
@@ -33,7 +33,9 @@ import Divider from '@mui/material/Divider';
 import BusRouteLayer from './components/BusRouteLayer';
 import BicycleRouteLayer from './components/BicycleRouteLayer';
 import BusMetroRouteLayer from './components/BusMetroRouteLayer';
-
+import { HeatMapLayer, CircleLayer }from './components/HeatMapLayer';
+// eslint-disable-next-line no-unused-vars
+import { getHeatMapData, getWiKiPediaData } from '../../../../utils/twitterDataApi';
 
 // Tab
 function TabPanel(props) {
@@ -79,15 +81,23 @@ export default function MelCityMap() {
   const [selected, setSelected] = useState(null); //onClick status of Mel_POIs_Data
   const [selectedTwitterInfo, setSelectedTwitterInfo] = useState({count: 0, data: []});
   const [wordCloud, setWordCould] = useState([]);
+  const [loading, setLoading] = useState({
+    twitterData: false,
+    wordCloud: false,
+  });
+  // eslint-disable-next-line no-unused-vars
+  const [wikiData, setWikiData] = useState([]);
   const [layerStatus, setLayerStatus] = useState({
     'POI': true,
     'restaurant': false,
     'busRoute': false,
     'busMetroRoute': false,
     'bicycleRoute': false,
+    'heatMap': false,
   });
 
   const [value, setValue] = React.useState(0); //Tab
+  const [heatMapData, setHeatMapData] = useState({})
 
   // Tab
   const handleChange = (event, newValue) => {
@@ -97,21 +107,45 @@ export default function MelCityMap() {
   const handleClickPOI = async (e, poi) => {
     e.originalEvent.stopPropagation();
     setSelected(poi)
+    setLoading({
+      twitterData: true,
+      wordCloud: true,
+    });
+    setSelectedTwitterInfo({count: 0, data: []});
+    setWordCould([]);
 
     const twitterResponse = await getTwitterData(poi.longitude, poi.latitude, 0.5, 10)
     if (twitterResponse.status === 200) {
       setSelectedTwitterInfo(twitterResponse.data)
+      setLoading({...loading, twitterData: false});
     }
 
     const wordCloudResponse = await getWordCloudData(poi.ID)
     if (wordCloudResponse.status === 200) {
       setWordCould(wordCloudResponse.data.word_freq)
+      setLoading({...loading, wordCloud: false});
     }
+
+    // const wikiDataResponse = await getWiKiPediaData(`${poi.FeatureName}`)
+    // if (wikiDataResponse.status === 200) {
+    //   // setWikiData()
+    // }
   }
 
   useEffect(() => {
-    
+
   }, [selected, selectedTwitterInfo]);
+
+
+  useEffect(() => {
+    const fetchHeatMapData = async () => {
+      const {status, data} = await getHeatMapData();
+      if (status === 200) {
+        setHeatMapData(data)
+      }
+    }
+    fetchHeatMapData();
+  }, []);
 
   const pins = useMemo(
     () =>
@@ -123,7 +157,7 @@ export default function MelCityMap() {
           key = { poi.ID }
           onClick= { (e) => handleClickPOI(e, poi) }
         >
-          <ChurchPin />
+          <ChurchPin value={ poi }/>
         </Marker>
       )),
     []
@@ -150,6 +184,8 @@ export default function MelCityMap() {
       <BusRouteLayer layerStatus={ layerStatus }/>
       <BicycleRouteLayer layerStatus={ layerStatus }/>
       <BusMetroRouteLayer layerStatus={ layerStatus }/>
+      <HeatMapLayer layerStatus={ layerStatus } heatMapData={ heatMapData }/>
+      <CircleLayer layerStatus={ layerStatus } heatMapData={ heatMapData }/>
 
       {layerStatus.POI ? (
         [pins]
@@ -162,9 +198,9 @@ export default function MelCityMap() {
           onClose= { () => {
             setSelected(null);
           } }
-          maxWidth= { '600px' }  
-          style= { { height:250 } }        
-          >
+          maxWidth= { '620px' }
+          style= { { width: '620px !important' } }        
+        >
           <Box>
             <Typography variant="h6" >
               {selected.FeatureName}
@@ -179,7 +215,7 @@ export default function MelCityMap() {
             </Tabs>
           </Box>
 
-          <Box sx={ { width: '100%' , height: 450 , overflow: 'scroll'} } >
+          <Box sx={ { width: '600px' , height: 450 , overflowY: 'scroll'} } >
 
             <TabPanel 
               value={ value } 
@@ -190,15 +226,16 @@ export default function MelCityMap() {
               <scroll-view scroll-y="true">  
                 <List sx={ { width: '100%',  bgcolor: 'background.paper' } }  >
                 
-                  {(selectedTwitterInfo.count == 0  ) ? (
-                    
-                    <Box>
-                      <Typography variant="body2" >
-                        No Recent Twitter in 7 days.
-                      </Typography>
-                    </Box>
-                
-                  ) : null }
+                  {loading.twitterData ?
+                    <LoadingBox />
+                    : ((selectedTwitterInfo.count == 0  ) ? (
+                      <Box>
+                        <Typography variant="body2" >
+                          No Recent Twitter in 7 days.
+                        </Typography>
+                      </Box>
+                    ) : null 
+                  )}
 
                   {selectedTwitterInfo.data?.map(tweet => (
                     <>
@@ -248,7 +285,7 @@ export default function MelCityMap() {
             </TabPanel>
 
             <TabPanel value={ value } index={ 1 } height={ 100 } style={ {padding: 0} }>
-              <WordCloudContent wordCloud={ wordCloud }/>
+              <WordCloudContent loading={ loading } wordCloud={ wordCloud }/>
             </TabPanel>
 
           </Box>

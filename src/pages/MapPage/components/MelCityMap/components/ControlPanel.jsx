@@ -1,5 +1,4 @@
-/* eslint-disable no-unused-vars */
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { makeStyles } from '@material-ui/core/styles'
 import Checkbox from '@mui/material/Checkbox';
 import FormGroup from '@mui/material/FormGroup';
@@ -35,6 +34,11 @@ function ControlPanel({ layerStatus, setLayerStatus }) {
           label="Point of Interest" 
         />
 
+        <FormControlLabel 
+          control= { <Checkbox checked={ layerStatus.heatMap } onChange= { () => handleBusLayerChange('heatMap') } /> } 
+          label="Point of Interest Footfall" 
+        />
+
         <FormControlLabel control= { <Checkbox /> } label="Restaurant" />
 
         <FormControlLabel 
@@ -51,6 +55,7 @@ function ControlPanel({ layerStatus, setLayerStatus }) {
           control= { <Checkbox checked={ layerStatus.bicycleRoute } onChange= { () => handleBusLayerChange('bicycleRoute') } /> } 
           label="Bicycle Route" 
         />
+
       </FormGroup>
     </div>
 
