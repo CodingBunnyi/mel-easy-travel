@@ -180,7 +180,7 @@ const App = () => {
             } }
         >
             <Routes>
-              {/* <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage } /> } /> */}
+              <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage } /> } />
               <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage }/> } />
               <Route path="/weather" element={ <WeatherPage weatherData={ weatherData } weatherLoading={ weatherLoading } /> } />
               <Route path="/map" element={ <MapPage /> } />

@@ -19,7 +19,6 @@ const DataPage = () => (
             p: 2,
             display: 'flex',
             flexDirection: 'column',
-            // height: 330,
           } }
         >
           <List sx={ { width: '100%',bgcolor: 'background.paper' } }>
@@ -80,6 +79,18 @@ const DataPage = () => (
                 </ListItemAvatar>
 
                 <ListItemText primary="Wind Speed Description" secondary="http://localhost:3000/data/wind-speed-description.json"/>
+              </ListItemButton>
+            </a>
+
+            <a href='https://developer.twitter.com/en/docs/twitter-api' target="_blank" style={ {'text-decoration': 'none', 'color': 'inherit'} } rel="noreferrer">
+              <ListItemButton >
+                <ListItemAvatar>
+                  <Avatar>
+                    <WorkIcon />
+                  </Avatar>
+                </ListItemAvatar>
+
+                <ListItemText primary="Twitter Data Api" secondary="https://developer.twitter.com/en/docs/twitter-api"/>
               </ListItemButton>
             </a>
 
