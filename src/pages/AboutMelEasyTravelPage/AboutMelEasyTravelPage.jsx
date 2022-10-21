@@ -11,6 +11,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
 import Dev1Image from '../../assets/images/dev_1.png';
+import avatarZ from '../../assets/images/avatar.JPG';
 
 const AboutMelEasyTravelPage = () => {
   const theme = useTheme();
@@ -96,15 +97,17 @@ const AboutMelEasyTravelPage = () => {
                 <Card variant="outlined" sx={ { display: 'flex', height: '180px' } }>
                   <CardMedia
                     component="img"
-                    image={ Dev1Image }
+                    image={ avatarZ }
                     alt="dev1 image"
-                    style={ {width: 170} }
+                    style={ {width: 170, 
+                      height: 170,
+                      borderRadius: 150 / 2,} }
                   />
 
                   <Box sx={ { display: 'flex', flexDirection: 'column', overflowY: 'scroll' } } >
                     <CardContent sx={ { flex: '1 0 auto' } }>
                       <Typography component="div" variant="h5">
-                        XiaoXi Zhang
+                        Xiaoxi Zhang
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
@@ -112,11 +115,11 @@ const AboutMelEasyTravelPage = () => {
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
-                        Email: yuhqian1@student.unimelb.edu.au
+                        Email: xiaoxzhang2@student.unimelb.edu.au
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
-                        Controbution: Mac Miller ksafkjnask jdn kjl ndfk j nsd kjlf nlkjsa ndfjk lnsajk dfnj ksdn fkjn sakjf nkjsd nflkjn sakjd fnjksnk fjnsak jnfksn kfjn sakf ndkj sanf jsnk jdfnkj snfkj skfn
+                        Student ID: 1226240
                       </Typography>
                     </CardContent>
                   </Box>
@@ -129,7 +132,7 @@ const AboutMelEasyTravelPage = () => {
                     component="img"
                     image={ Dev1Image }
                     alt="dev1 image"
-                    style={ {width: 170} }
+                    style={ {width: 170, } }
                   />
 
                   <Box sx={ { display: 'flex', flexDirection: 'column', overflowY: 'scroll' } } >
