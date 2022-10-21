@@ -1,5 +1,5 @@
 {
-    "count": 16,
+    "count": 10,
     "data": [
         {
             "tid": 1582746763207004160,
@@ -169,108 +169,6 @@
             "latitude": -37.80512534016568,
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfEPq_7akAAj4He.jpg"
-            ]
-        },
-        {
-            "tid": 1580863931383394305,
-            "uid": 401126669,
-            "author": "Hazie",
-            "user_img": "https://pbs.twimg.com/profile_images/945398442184110081/4Rx-vLBR_normal.jpg",
-            "time": "2022-10-14 10:11:46 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Egyptian for din din (@ Cairo Nights Restaurant &amp; Bar in Carlton, VIC) https://t.co/iMaHmT69oE https://t.co/ta9YvWZ6fv",
-            "clean_text": "Egyptian for din din Cairo Nights Restaurant Bar in Carlton VIC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.967046,
-            "latitude": -37.801263,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfBbXj7VEAAbZ_t.jpg"
-            ]
-        },
-        {
-            "tid": 1580794199766892544,
-            "uid": 229576116,
-            "author": "Grant W. Graves",
-            "user_img": "https://pbs.twimg.com/profile_images/1353711737/G_and_Sea_Snake_normal.jpg",
-            "time": "2022-10-14 05:34:41 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "No pics of the penguins. Strictly not allowed. @ Phillip Island Penguin Parade https://t.co/6HAU1eTQGc",
-            "clean_text": "No pics of the penguins Strictly not allowed Phillip Island Penguin Parade",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9682854,
-            "latitude": -37.805101,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580539884783423489,
-            "uid": 1532834563512487936,
-            "author": "Dr Matthew Prendergast",
-            "user_img": "https://pbs.twimg.com/profile_images/1532840440315412480/i1pMdkyw_normal.jpg",
-            "time": "2022-10-13 12:44:08 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "From a recent visit to Melbourne. Ceratopsia are my favourite. https://t.co/97kxKtwXpE",
-            "clean_text": "From a recent visit to Melbourne Ceratopsia are my favourite",
-            "place_name": "Melbourne Museum",
-            "place_type": "poi",
-            "longitude": 144.9716967344284,
-            "latitude": -37.80348577825057,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe80lG6aAAEimm4.jpg"
-            ]
-        },
-        {
-            "tid": 1580484208446779393,
-            "uid": 22737337,
-            "author": "Rob Escudero",
-            "user_img": "https://pbs.twimg.com/profile_images/1382471298698203136/ql9iZSNM_normal.jpg",
-            "time": "2022-10-13 09:02:53 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Can I have an extra serving of attitude please? @ Carlton, Victoria, Australia https://t.co/dekCDdC2tc",
-            "clean_text": "Can I have an extra serving of attitude please Carlton Victoria Australia",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9684,
-            "latitude": -37.8007,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580472435018981376,
-            "uid": 1008332544893317120,
-            "author": "Yarra City Driving School",
-            "user_img": "https://pbs.twimg.com/profile_images/1348756894119194626/lF-kz1cV_normal.jpg",
-            "time": "2022-10-13 08:16:06 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ Carlton, Victoria, Australia https://t.co/lTtykUy5Mm",
-            "clean_text": "Just posted a photo Carlton Victoria Australia",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9684,
-            "latitude": -37.8007,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580462097325924352,
-            "uid": 793416191184207872,
-            "author": "Luna Joy",
-            "user_img": "https://pbs.twimg.com/profile_images/1569631035167752192/1pRsANGf_normal.jpg",
-            "time": "2022-10-13 07:35:02 +0000",
-            "like_no": 10,
-            "language": "en",
-            "text": "Rescued a Blåhaj today, returned them to their natural habitat ☺️💜 https://t.co/h1KbcSCzqM",
-            "clean_text": "Rescued a Bl haj today returned them to their natural habitat",
-            "place_name": "Melbourne Museum",
-            "place_type": "poi",
-            "longitude": 144.9716967344284,
-            "latitude": -37.80348577825057,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7t3EHVEAAsoXf.jpg"
             ]
         }
     ]

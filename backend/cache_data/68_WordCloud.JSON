@@ -1,6 +1,258 @@
 {
     "word_freq": [
         {
+            "text": "Jazz",
+            "value": 3
+        },
+        {
+            "text": "cheese",
+            "value": 1
+        },
+        {
+            "text": "platter",
+            "value": 1
+        },
+        {
+            "text": "perfect",
+            "value": 1
+        },
+        {
+            "text": "evening",
+            "value": 1
+        },
+        {
+            "text": "Kelvin",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 6
+        },
+        {
+            "text": "International",
+            "value": 1
+        },
+        {
+            "text": "Festival",
+            "value": 1
+        },
+        {
+            "text": "weekend",
+            "value": 1
+        },
+        {
+            "text": "Alexander",
+            "value": 1
+        },
+        {
+            "text": "Hamilton",
+            "value": 1
+        },
+        {
+            "text": "Majesty's",
+            "value": 2
+        },
+        {
+            "text": "Theatre",
+            "value": 2
+        },
+        {
+            "text": "Awesome",
+            "value": 1
+        },
+        {
+            "text": "exec",
+            "value": 1
+        },
+        {
+            "text": "security",
+            "value": 2
+        },
+        {
+            "text": "simulation",
+            "value": 1
+        },
+        {
+            "text": "AWS",
+            "value": 1
+        },
+        {
+            "text": "forum",
+            "value": 1
+        },
+        {
+            "text": "afternoon",
+            "value": 1
+        },
+        {
+            "text": "Exhibition",
+            "value": 1
+        },
+        {
+            "text": "St",
+            "value": 1
+        },
+        {
+            "text": "lanes",
+            "value": 1
+        },
+        {
+            "text": "closed",
+            "value": 1
+        },
+        {
+            "text": "southbound",
+            "value": 2
+        },
+        {
+            "text": "Middle",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 1
+        },
+        {
+            "text": "blocked",
+            "value": 1
+        },
+        {
+            "text": "Flinders",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 1
+        },
+        {
+            "text": "morning",
+            "value": 2
+        },
+        {
+            "text": "drinks1806",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "Thursday",
+            "value": 1
+        },
+        {
+            "text": "Hills",
+            "value": 1
+        },
+        {
+            "text": "2x6x200",
+            "value": 1
+        },
+        {
+            "text": "jog",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "Alternating",
+            "value": 1
+        },
+        {
+            "text": "easy",
+            "value": 1
+        },
+        {
+            "text": "hard",
+            "value": 1
+        },
+        {
+            "text": "30sec",
+            "value": 1
+        },
+        {
+            "text": "good",
+            "value": 1
+        },
+        {
+            "text": "come",
+            "value": 2
+        },
+        {
+            "text": "crying",
+            "value": 1
+        },
+        {
+            "text": "midnights",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "hey",
+            "value": 1
+        },
+        {
+            "text": "mob",
+            "value": 1
+        },
+        {
+            "text": "organised",
+            "value": 1
+        },
+        {
+            "text": "hyperpop",
+            "value": 1
+        },
+        {
+            "text": "night",
+            "value": 1
+        },
+        {
+            "text": "coming",
+            "value": 2
+        },
+        {
+            "text": "saturday",
+            "value": 1
+        },
+        {
+            "text": "loop",
+            "value": 1
+        },
+        {
+            "text": "bar",
+            "value": 1
+        },
+        {
+            "text": "slay",
+            "value": 1
+        },
+        {
+            "text": "along",
+            "value": 1
+        },
+        {
+            "text": "give",
+            "value": 1
+        },
+        {
+            "text": "big",
+            "value": 1
+        },
+        {
+            "text": "kiss",
+            "value": 1
+        },
+        {
+            "text": "promise",
+            "value": 1
+        },
+        {
             "text": "Business",
             "value": 1
         },
@@ -117,10 +369,6 @@
             "value": 1
         },
         {
-            "text": "coming",
-            "value": 1
-        },
-        {
             "text": "tell",
             "value": 1
         },
@@ -134,23 +382,11 @@
         },
         {
             "text": "posted",
-            "value": 3
+            "value": 1
         },
         {
             "text": "photo",
-            "value": 3
-        },
-        {
-            "text": "Majesty's",
             "value": 1
-        },
-        {
-            "text": "Theatre",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 3
         },
         {
             "text": "Harry",
@@ -178,10 +414,6 @@
         },
         {
             "text": "arrived",
-            "value": 1
-        },
-        {
-            "text": "morning",
             "value": 1
         },
         {
@@ -286,74 +518,6 @@
         },
         {
             "text": "treat",
-            "value": 1
-        },
-        {
-            "text": "Gimlet",
-            "value": 1
-        },
-        {
-            "text": "Cavendish",
-            "value": 1
-        },
-        {
-            "text": "House",
-            "value": 1
-        },
-        {
-            "text": "Nick",
-            "value": 1
-        },
-        {
-            "text": "Nora's",
-            "value": 1
-        },
-        {
-            "text": "Udon",
-            "value": 1
-        },
-        {
-            "text": "Yasan",
-            "value": 1
-        },
-        {
-            "text": "Vic",
-            "value": 1
-        },
-        {
-            "text": "Thursday",
-            "value": 1
-        },
-        {
-            "text": "Hills",
-            "value": 1
-        },
-        {
-            "text": "3x4x150m",
-            "value": 1
-        },
-        {
-            "text": "jog",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 2
-        },
-        {
-            "text": "rec",
-            "value": 1
-        },
-        {
-            "text": "walk",
-            "value": 1
-        },
-        {
-            "text": "sets",
-            "value": 1
-        },
-        {
-            "text": "23sec",
             "value": 1
         }
     ]

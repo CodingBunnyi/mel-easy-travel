@@ -1,6 +1,90 @@
 {
     "word_freq": [
         {
+            "text": "Crank",
+            "value": 1
+        },
+        {
+            "text": "Em",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 6
+        },
+        {
+            "text": "photo",
+            "value": 6
+        },
+        {
+            "text": "Schmucks",
+            "value": 4
+        },
+        {
+            "text": "Bagels",
+            "value": 4
+        },
+        {
+            "text": "Madison",
+            "value": 2
+        },
+        {
+            "text": "Tower",
+            "value": 2
+        },
+        {
+            "text": "Upper",
+            "value": 2
+        },
+        {
+            "text": "West",
+            "value": 2
+        },
+        {
+            "text": "Side",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 9
+        },
+        {
+            "text": "vic",
+            "value": 2
+        },
+        {
+            "text": "Nice",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "warm",
+            "value": 1
+        },
+        {
+            "text": "welcome",
+            "value": 1
+        },
+        {
+            "text": "Basement",
+            "value": 1
+        },
+        {
+            "text": "Cafe",
+            "value": 1
+        },
+        {
+            "text": "Bar",
+            "value": 2
+        },
+        {
             "text": "Networking",
             "value": 1
         },
@@ -41,28 +125,8 @@
             "value": 1
         },
         {
-            "text": "posted",
-            "value": 5
-        },
-        {
-            "text": "photo",
-            "value": 5
-        },
-        {
-            "text": "Schmucks",
-            "value": 3
-        },
-        {
-            "text": "Bagels",
-            "value": 3
-        },
-        {
-            "text": "Melbourne",
-            "value": 10
-        },
-        {
             "text": "Australia",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Espresso",
@@ -86,10 +150,6 @@
         },
         {
             "text": "Coffee",
-            "value": 1
-        },
-        {
-            "text": "Bar",
             "value": 1
         },
         {
@@ -133,30 +193,6 @@
             "value": 1
         },
         {
-            "text": "Madison",
-            "value": 2
-        },
-        {
-            "text": "Tower",
-            "value": 2
-        },
-        {
-            "text": "Upper",
-            "value": 2
-        },
-        {
-            "text": "West",
-            "value": 2
-        },
-        {
-            "text": "Side",
-            "value": 2
-        },
-        {
-            "text": "vic",
-            "value": 2
-        },
-        {
             "text": "Docklands",
             "value": 1
         },
@@ -198,26 +234,6 @@
         },
         {
             "text": "dinner",
-            "value": 1
-        },
-        {
-            "text": "cannot",
-            "value": 1
-        },
-        {
-            "text": "control",
-            "value": 2
-        },
-        {
-            "text": "past",
-            "value": 1
-        },
-        {
-            "text": "go",
-            "value": 1
-        },
-        {
-            "text": "next",
             "value": 1
         }
     ]

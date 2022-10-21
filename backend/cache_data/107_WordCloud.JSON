@@ -1,6 +1,54 @@
 {
     "word_freq": [
         {
+            "text": "lifts",
+            "value": 1
+        },
+        {
+            "text": "John",
+            "value": 4
+        },
+        {
+            "text": "Cain",
+            "value": 4
+        },
+        {
+            "text": "Arena",
+            "value": 4
+        },
+        {
+            "text": "AAMI",
+            "value": 2
+        },
+        {
+            "text": "Park",
+            "value": 2
+        },
+        {
+            "text": "Gym",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 4
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "Football",
+            "value": 1
+        },
+        {
+            "text": "Club",
+            "value": 1
+        },
+        {
+            "text": "Administration",
+            "value": 1
+        },
+        {
             "text": "Gal",
             "value": 1
         },
@@ -79,18 +127,6 @@
         {
             "text": "australianmensnetball",
             "value": 1
-        },
-        {
-            "text": "John",
-            "value": 3
-        },
-        {
-            "text": "Cain",
-            "value": 3
-        },
-        {
-            "text": "Arena",
-            "value": 3
         },
         {
             "text": "Get",
@@ -221,14 +257,6 @@
             "value": 1
         },
         {
-            "text": "AAMI",
-            "value": 1
-        },
-        {
-            "text": "Park",
-            "value": 2
-        },
-        {
             "text": "Rashad",
             "value": 1
         },
@@ -345,10 +373,6 @@
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 2
-        },
-        {
             "text": "Victory",
             "value": 1
         },
@@ -406,74 +430,6 @@
         },
         {
             "text": "go",
-            "value": 1
-        },
-        {
-            "text": "flood",
-            "value": 1
-        },
-        {
-            "text": "across",
-            "value": 1
-        },
-        {
-            "text": "path",
-            "value": 1
-        },
-        {
-            "text": "stopping",
-            "value": 1
-        },
-        {
-            "text": "runner",
-            "value": 1
-        },
-        {
-            "text": "Horse",
-            "value": 1
-        },
-        {
-            "text": "Chestnut",
-            "value": 1
-        },
-        {
-            "text": "flowers",
-            "value": 1
-        },
-        {
-            "text": "Giant",
-            "value": 1
-        },
-        {
-            "text": "Spear",
-            "value": 1
-        },
-        {
-            "text": "Lily",
-            "value": 1
-        },
-        {
-            "text": "Doryanthes",
-            "value": 1
-        },
-        {
-            "text": "palmeri",
-            "value": 1
-        },
-        {
-            "text": "heavy",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "CENTREPIECE",
             "value": 1
         }
     ]

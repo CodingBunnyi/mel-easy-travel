@@ -1,6 +1,98 @@
 {
     "word_freq": [
         {
+            "text": "Publicize",
+            "value": 1
+        },
+        {
+            "text": "Test",
+            "value": 1
+        },
+        {
+            "text": "20T08",
+            "value": 1
+        },
+        {
+            "text": "good",
+            "value": 1
+        },
+        {
+            "text": "come",
+            "value": 2
+        },
+        {
+            "text": "crying",
+            "value": 1
+        },
+        {
+            "text": "midnights",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 2
+        },
+        {
+            "text": "hey",
+            "value": 1
+        },
+        {
+            "text": "mob",
+            "value": 1
+        },
+        {
+            "text": "organised",
+            "value": 1
+        },
+        {
+            "text": "hyperpop",
+            "value": 1
+        },
+        {
+            "text": "night",
+            "value": 1
+        },
+        {
+            "text": "coming",
+            "value": 2
+        },
+        {
+            "text": "saturday",
+            "value": 1
+        },
+        {
+            "text": "loop",
+            "value": 1
+        },
+        {
+            "text": "bar",
+            "value": 1
+        },
+        {
+            "text": "slay",
+            "value": 1
+        },
+        {
+            "text": "along",
+            "value": 1
+        },
+        {
+            "text": "give",
+            "value": 1
+        },
+        {
+            "text": "big",
+            "value": 1
+        },
+        {
+            "text": "kiss",
+            "value": 1
+        },
+        {
+            "text": "promise",
+            "value": 1
+        },
+        {
             "text": "Prof",
             "value": 1
         },
@@ -109,10 +201,6 @@
             "value": 1
         },
         {
-            "text": "coming",
-            "value": 1
-        },
-        {
             "text": "tell",
             "value": 1
         },
@@ -158,10 +246,6 @@
         },
         {
             "text": "fabulous",
-            "value": 1
-        },
-        {
-            "text": "day",
             "value": 1
         },
         {
@@ -326,30 +410,6 @@
         },
         {
             "text": "fight",
-            "value": 1
-        },
-        {
-            "text": "St",
-            "value": 1
-        },
-        {
-            "text": "Vincents",
-            "value": 1
-        },
-        {
-            "text": "Mercy",
-            "value": 1
-        },
-        {
-            "text": "Private",
-            "value": 1
-        },
-        {
-            "text": "Fitzroy",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
             "value": 1
         }
     ]

@@ -1,8 +1,160 @@
 {
     "word_freq": [
         {
+            "text": "Weather",
+            "value": 2
+        },
+        {
+            "text": "Crazy",
+            "value": 1
+        },
+        {
+            "text": "Scary",
+            "value": 1
+        },
+        {
+            "text": "Working",
+            "value": 1
+        },
+        {
+            "text": "tonight",
+            "value": 1
+        },
+        {
+            "text": "club",
+            "value": 1
+        },
+        {
+            "text": "9pm",
+            "value": 1
+        },
+        {
+            "text": "hehe",
+            "value": 2
+        },
+        {
+            "text": "excited",
+            "value": 1
+        },
+        {
+            "text": "back",
+            "value": 1
+        },
+        {
+            "text": "shy",
+            "value": 1
+        },
+        {
+            "text": "come",
+            "value": 2
+        },
+        {
+            "text": "see",
+            "value": 1
+        },
+        {
+            "text": "pussy",
+            "value": 1
+        },
+        {
+            "text": "throbbing",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 4
+        },
+        {
+            "text": "Vulnerable",
+            "value": 1
+        },
+        {
+            "text": "Road",
+            "value": 1
+        },
+        {
+            "text": "Users",
+            "value": 1
+        },
+        {
+            "text": "consultation",
+            "value": 1
+        },
+        {
+            "text": "heading",
+            "value": 1
+        },
+        {
+            "text": "Airport",
+            "value": 1
+        },
+        {
+            "text": "Imagine",
+            "value": 2
+        },
+        {
+            "text": "astonishment",
+            "value": 1
+        },
+        {
+            "text": "travel",
+            "value": 1
+        },
+        {
+            "text": "Tullamarine",
+            "value": 1
+        },
+        {
+            "text": "Freeway",
+            "value": 1
+        },
+        {
+            "text": "80kph",
+            "value": 1
+        },
+        {
+            "text": "find",
+            "value": 1
+        },
+        {
+            "text": "seat",
+            "value": 1
+        },
+        {
+            "text": "belts",
+            "value": 1
+        },
+        {
+            "text": "double",
+            "value": 1
+        },
+        {
+            "text": "decker",
+            "value": 1
+        },
+        {
+            "text": "bus",
+            "value": 1
+        },
+        {
+            "text": "carnage",
+            "value": 1
+        },
+        {
+            "text": "crashed",
+            "value": 1
+        },
+        {
+            "text": "best",
+            "value": 1
+        },
+        {
+            "text": "practice",
+            "value": 1
+        },
+        {
             "text": "Melbourne",
-            "value": 8
+            "value": 4
         },
         {
             "text": "sucks",
@@ -22,7 +174,7 @@
         },
         {
             "text": "full",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Pak",
@@ -50,7 +202,7 @@
         },
         {
             "text": "two",
-            "value": 2
+            "value": 1
         },
         {
             "text": "days",
@@ -59,10 +211,6 @@
         {
             "text": "Exploring",
             "value": 1
-        },
-        {
-            "text": "today",
-            "value": 4
         },
         {
             "text": "soaking",
@@ -74,10 +222,6 @@
         },
         {
             "text": "weather",
-            "value": 2
-        },
-        {
-            "text": "Weather",
             "value": 1
         },
         {
@@ -186,7 +330,7 @@
         },
         {
             "text": "love",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Welcome",
@@ -238,10 +382,6 @@
         },
         {
             "text": "Music",
-            "value": 1
-        },
-        {
-            "text": "come",
             "value": 1
         },
         {
@@ -314,7 +454,7 @@
         },
         {
             "text": "beers",
-            "value": 2
+            "value": 1
         },
         {
             "text": "using",
@@ -378,7 +518,7 @@
         },
         {
             "text": "tree",
-            "value": 3
+            "value": 1
         },
         {
             "text": "died",
@@ -402,682 +542,6 @@
         },
         {
             "text": "seats",
-            "value": 1
-        },
-        {
-            "text": "darkness",
-            "value": 1
-        },
-        {
-            "text": "Flash",
-            "value": 1
-        },
-        {
-            "text": "floods",
-            "value": 1
-        },
-        {
-            "text": "room",
-            "value": 2
-        },
-        {
-            "text": "drained",
-            "value": 1
-        },
-        {
-            "text": "felt",
-            "value": 1
-        },
-        {
-            "text": "find",
-            "value": 1
-        },
-        {
-            "text": "Xbox",
-            "value": 1
-        },
-        {
-            "text": "rig",
-            "value": 2
-        },
-        {
-            "text": "capture",
-            "value": 1
-        },
-        {
-            "text": "card",
-            "value": 1
-        },
-        {
-            "text": "monitor",
-            "value": 1
-        },
-        {
-            "text": "destroyed",
-            "value": 1
-        },
-        {
-            "text": "sure",
-            "value": 1
-        },
-        {
-            "text": "long",
-            "value": 1
-        },
-        {
-            "text": "renovated",
-            "value": 1
-        },
-        {
-            "text": "repurchased",
-            "value": 1
-        },
-        {
-            "text": "looks",
-            "value": 1
-        },
-        {
-            "text": "like",
-            "value": 2
-        },
-        {
-            "text": "racing",
-            "value": 1
-        },
-        {
-            "text": "foreseeable",
-            "value": 1
-        },
-        {
-            "text": "future",
-            "value": 2
-        },
-        {
-            "text": "Bye",
-            "value": 1
-        },
-        {
-            "text": "Yes",
-            "value": 1
-        },
-        {
-            "text": "let",
-            "value": 2
-        },
-        {
-            "text": "commemorate",
-            "value": 1
-        },
-        {
-            "text": "Aboriginal",
-            "value": 1
-        },
-        {
-            "text": "women",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
-            "value": 2
-        },
-        {
-            "text": "also",
-            "value": 1
-        },
-        {
-            "text": "celebrate",
-            "value": 1
-        },
-        {
-            "text": "hope",
-            "value": 1
-        },
-        {
-            "text": "filled",
-            "value": 1
-        },
-        {
-            "text": "strength",
-            "value": 1
-        },
-        {
-            "text": "triumph",
-            "value": 1
-        },
-        {
-            "text": "without",
-            "value": 1
-        },
-        {
-            "text": "bullshit",
-            "value": 1
-        },
-        {
-            "text": "endure",
-            "value": 1
-        },
-        {
-            "text": "Victorian",
-            "value": 1
-        },
-        {
-            "text": "Governor",
-            "value": 2
-        },
-        {
-            "text": "home",
-            "value": 1
-        },
-        {
-            "text": "yellow",
-            "value": 1
-        },
-        {
-            "text": "flag",
-            "value": 1
-        },
-        {
-            "text": "flying",
-            "value": 1
-        },
-        {
-            "text": "lucky",
-            "value": 1
-        },
-        {
-            "text": "able",
-            "value": 1
-        },
-        {
-            "text": "look",
-            "value": 2
-        },
-        {
-            "text": "upon",
-            "value": 1
-        },
-        {
-            "text": "large",
-            "value": 1
-        },
-        {
-            "text": "Bunya",
-            "value": 1
-        },
-        {
-            "text": "Pines",
-            "value": 1
-        },
-        {
-            "text": "morning",
-            "value": 1
-        },
-        {
-            "text": "Microseris",
-            "value": 4
-        },
-        {
-            "text": "scapigera",
-            "value": 2
-        },
-        {
-            "text": "looking",
-            "value": 1
-        },
-        {
-            "text": "thick",
-            "value": 1
-        },
-        {
-            "text": "flower",
-            "value": 1
-        },
-        {
-            "text": "summer",
-            "value": 1
-        },
-        {
-            "text": "picture",
-            "value": 1
-        },
-        {
-            "text": "Murnong",
-            "value": 2
-        },
-        {
-            "text": "sign",
-            "value": 1
-        },
-        {
-            "text": "walteri",
-            "value": 1
-        },
-        {
-            "text": "actually",
-            "value": 2
-        },
-        {
-            "text": "planted",
-            "value": 1
-        },
-        {
-            "text": "plants",
-            "value": 1
-        },
-        {
-            "text": "sold",
-            "value": 1
-        },
-        {
-            "text": "TuckerBush",
-            "value": 1
-        },
-        {
-            "text": "lanceolata",
-            "value": 1
-        },
-        {
-            "text": "Kicking",
-            "value": 1
-        },
-        {
-            "text": "Australian",
-            "value": 1
-        },
-        {
-            "text": "National",
-            "value": 1
-        },
-        {
-            "text": "Homebrew",
-            "value": 1
-        },
-        {
-            "text": "Conference",
-            "value": 1
-        },
-        {
-            "text": "breakfast",
-            "value": 1
-        },
-        {
-            "text": "great",
-            "value": 1
-        },
-        {
-            "text": "talks",
-            "value": 1
-        },
-        {
-            "text": "list",
-            "value": 1
-        },
-        {
-            "text": "quite",
-            "value": 1
-        },
-        {
-            "text": "dramatic",
-            "value": 1
-        },
-        {
-            "text": "Go",
-            "value": 2
-        },
-        {
-            "text": "away",
-            "value": 2
-        },
-        {
-            "text": "cannot",
-            "value": 1
-        },
-        {
-            "text": "croissant",
-            "value": 1
-        },
-        {
-            "text": "pond",
-            "value": 1
-        },
-        {
-            "text": "used",
-            "value": 1
-        },
-        {
-            "text": "eels",
-            "value": 1
-        },
-        {
-            "text": "Separation",
-            "value": 1
-        },
-        {
-            "text": "Tree",
-            "value": 1
-        },
-        {
-            "text": "15th",
-            "value": 1
-        },
-        {
-            "text": "November",
-            "value": 1
-        },
-        {
-            "text": "citizens",
-            "value": 1
-        },
-        {
-            "text": "rejoiced",
-            "value": 1
-        },
-        {
-            "text": "receipt",
-            "value": 1
-        },
-        {
-            "text": "news",
-            "value": 1
-        },
-        {
-            "text": "become",
-            "value": 1
-        },
-        {
-            "text": "seperate",
-            "value": 1
-        },
-        {
-            "text": "colony",
-            "value": 1
-        },
-        {
-            "text": "Cabbage",
-            "value": 1
-        },
-        {
-            "text": "Palms",
-            "value": 1
-        },
-        {
-            "text": "Livistona",
-            "value": 1
-        },
-        {
-            "text": "australis",
-            "value": 1
-        },
-        {
-            "text": "juvenile",
-            "value": 1
-        },
-        {
-            "text": "period",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 2
-        },
-        {
-            "text": "start",
-            "value": 1
-        },
-        {
-            "text": "grow",
-            "value": 1
-        },
-        {
-            "text": "trunk",
-            "value": 1
-        },
-        {
-            "text": "rate",
-            "value": 1
-        },
-        {
-            "text": "metre",
-            "value": 1
-        },
-        {
-            "text": "per",
-            "value": 1
-        },
-        {
-            "text": "pretty",
-            "value": 1
-        },
-        {
-            "text": "tall",
-            "value": 1
-        },
-        {
-            "text": "Inconsistent",
-            "value": 1
-        },
-        {
-            "text": "common",
-            "value": 1
-        },
-        {
-            "text": "names",
-            "value": 1
-        },
-        {
-            "text": "breadfruit",
-            "value": 1
-        },
-        {
-            "text": "edible",
-            "value": 1
-        },
-        {
-            "text": "rarely",
-            "value": 1
-        },
-        {
-            "text": "eaten",
-            "value": 1
-        },
-        {
-            "text": "except",
-            "value": 1
-        },
-        {
-            "text": "emergency",
-            "value": 1
-        },
-        {
-            "text": "food",
-            "value": 1
-        },
-        {
-            "text": "watch",
-            "value": 1
-        },
-        {
-            "text": "movie",
-            "value": 1
-        },
-        {
-            "text": "Legend",
-            "value": 1
-        },
-        {
-            "text": "Mola",
-            "value": 1
-        },
-        {
-            "text": "Jutt",
-            "value": 1
-        },
-        {
-            "text": "invite",
-            "value": 1
-        },
-        {
-            "text": "inside",
-            "value": 1
-        },
-        {
-            "text": "amazing",
-            "value": 1
-        },
-        {
-            "text": "work",
-            "value": 1
-        },
-        {
-            "text": "Roman",
-            "value": 1
-        },
-        {
-            "text": "Newell",
-            "value": 1
-        },
-        {
-            "text": "website",
-            "value": 1
-        },
-        {
-            "text": "Amazon",
-            "value": 1
-        },
-        {
-            "text": "page",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "CENTREPIECE",
-            "value": 1
-        },
-        {
-            "text": "Park",
-            "value": 1
-        },
-        {
-            "text": "yrs",
-            "value": 1
-        },
-        {
-            "text": "ago",
-            "value": 1
-        },
-        {
-            "text": "act",
-            "value": 1
-        },
-        {
-            "text": "terror",
-            "value": 1
-        },
-        {
-            "text": "tore",
-            "value": 1
-        },
-        {
-            "text": "lives",
-            "value": 1
-        },
-        {
-            "text": "people",
-            "value": 1
-        },
-        {
-            "text": "including",
-            "value": 1
-        },
-        {
-            "text": "Australians",
-            "value": 1
-        },
-        {
-            "text": "stand",
-            "value": 1
-        },
-        {
-            "text": "solidarity",
-            "value": 1
-        },
-        {
-            "text": "family",
-            "value": 1
-        },
-        {
-            "text": "friends",
-            "value": 1
-        },
-        {
-            "text": "longer",
-            "value": 1
-        },
-        {
-            "text": "us",
-            "value": 1
-        },
-        {
-            "text": "12OCT",
-            "value": 1
-        },
-        {
-            "text": "day",
-            "value": 1
-        },
-        {
-            "text": "fountains",
-            "value": 1
-        },
-        {
-            "text": "lights",
-            "value": 1
-        },
-        {
-            "text": "reflective",
-            "value": 1
-        },
-        {
-            "text": "pool",
-            "value": 1
-        },
-        {
-            "text": "Lincoln",
-            "value": 1
-        },
-        {
-            "text": "Square",
-            "value": 1
-        },
-        {
-            "text": "turned",
-            "value": 1
-        },
-        {
-            "text": "thing",
-            "value": 1
-        },
-        {
-            "text": "Sydney",
-            "value": 1
-        },
-        {
-            "text": "please",
-            "value": 1
-        },
-        {
-            "text": "stop",
-            "value": 1
-        },
-        {
-            "text": "raining",
             "value": 1
         }
     ]

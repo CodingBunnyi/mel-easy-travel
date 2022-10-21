@@ -190,7 +190,7 @@
         },
         {
             "text": "Victoria",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Gardens",
@@ -234,7 +234,7 @@
         },
         {
             "text": "Let",
-            "value": 3
+            "value": 2
         },
         {
             "text": "go",
@@ -286,7 +286,7 @@
         },
         {
             "text": "Nice",
-            "value": 2
+            "value": 1
         },
         {
             "text": "drop",
@@ -458,7 +458,7 @@
         },
         {
             "text": "triumph",
-            "value": 2
+            "value": 1
         },
         {
             "text": "privilege",
@@ -474,126 +474,6 @@
         },
         {
             "text": "today",
-            "value": 1
-        },
-        {
-            "text": "bloody",
-            "value": 1
-        },
-        {
-            "text": "gooooo",
-            "value": 1
-        },
-        {
-            "text": "kind",
-            "value": 1
-        },
-        {
-            "text": "sad",
-            "value": 1
-        },
-        {
-            "text": "water",
-            "value": 1
-        },
-        {
-            "text": "fountain",
-            "value": 1
-        },
-        {
-            "text": "memorial",
-            "value": 1
-        },
-        {
-            "text": "black",
-            "value": 1
-        },
-        {
-            "text": "swan",
-            "value": 1
-        },
-        {
-            "text": "called",
-            "value": 1
-        },
-        {
-            "text": "Cookie",
-            "value": 1
-        },
-        {
-            "text": "lived",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "ago",
-            "value": 1
-        },
-        {
-            "text": "Yes",
-            "value": 1
-        },
-        {
-            "text": "let",
-            "value": 2
-        },
-        {
-            "text": "commemorate",
-            "value": 1
-        },
-        {
-            "text": "Aboriginal",
-            "value": 1
-        },
-        {
-            "text": "women",
-            "value": 1
-        },
-        {
-            "text": "also",
-            "value": 1
-        },
-        {
-            "text": "celebrate",
-            "value": 1
-        },
-        {
-            "text": "future",
-            "value": 1
-        },
-        {
-            "text": "hope",
-            "value": 1
-        },
-        {
-            "text": "filled",
-            "value": 1
-        },
-        {
-            "text": "love",
-            "value": 1
-        },
-        {
-            "text": "strength",
-            "value": 1
-        },
-        {
-            "text": "without",
-            "value": 1
-        },
-        {
-            "text": "bullshit",
-            "value": 1
-        },
-        {
-            "text": "endure",
-            "value": 1
-        },
-        {
-            "text": "back",
             "value": 1
         }
     ]

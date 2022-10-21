@@ -1,6 +1,40 @@
 {
-    "count": 16,
+    "count": 13,
     "data": [
+        {
+            "tid": 1583093499926573057,
+            "uid": 30430287,
+            "author": "Louisa Rankin",
+            "user_img": "https://pbs.twimg.com/profile_images/2554159765/image_normal.jpg",
+            "time": "2022-10-20 13:51:17 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Looking forward to sitting in with @jazzboutiqueband at @melbournemarriott tonight 🎶\n#LouisaRankin #JazzBoutique #jazz #standards #Melbourne #MBar #MelbourneMarriott @ Melbourne Marriott Hotel https://t.co/z5oP95z8to",
+            "clean_text": "Looking forward to sitting in with jazzboutiqueband at melbournemarriott tonight Melbourne Marriott Hotel",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9692291,
+            "latitude": -37.80986,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582844972134301698,
+            "uid": 1255697131681153024,
+            "author": "Flick Law",
+            "user_img": "https://pbs.twimg.com/profile_images/1255697530341355520/BfmlKL6R_normal.jpg",
+            "time": "2022-10-19 21:23:43 +0000",
+            "like_no": 42,
+            "language": "en",
+            "text": "Extinction Rebellion targeting another worthy cause today- climate criminals @originenergy  NEW GAS= CLIMATE CHAOS= FLOODS, FIRES EXTINCTION https://t.co/yv0pUi7hGJ",
+            "clean_text": "Extinction Rebellion targeting another worthy cause today climate criminals NEW GAS CLIMATE CHAOS FLOODS FIRES EXTINCTION",
+            "place_name": "321 Exhibition St",
+            "place_type": "poi",
+            "longitude": 144.96837,
+            "latitude": -37.80849,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1582844920989044739/pu/img/88nLZFmkgBajdlv9.jpg"
+            ]
+        },
         {
             "tid": 1582746763207004160,
             "uid": 4608992299,
@@ -192,92 +226,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfBvM7KakAEJMJf.jpg",
                 "https://pbs.twimg.com/media/FfBvM6kakAUJnx7.jpg"
-            ]
-        },
-        {
-            "tid": 1580794199766892544,
-            "uid": 229576116,
-            "author": "Grant W. Graves",
-            "user_img": "https://pbs.twimg.com/profile_images/1353711737/G_and_Sea_Snake_normal.jpg",
-            "time": "2022-10-14 05:34:41 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "No pics of the penguins. Strictly not allowed. @ Phillip Island Penguin Parade https://t.co/6HAU1eTQGc",
-            "clean_text": "No pics of the penguins Strictly not allowed Phillip Island Penguin Parade",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9682854,
-            "latitude": -37.805101,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580770964861702144,
-            "uid": 1130062562,
-            "author": ".YTR",
-            "user_img": "https://pbs.twimg.com/profile_images/747477684104531968/4SiFtIfE_normal.jpg",
-            "time": "2022-10-14 04:02:21 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "I'm at St. Vincents &amp; Mercy Private in Fitzroy, Victoria https://t.co/d72MHXB85z",
-            "clean_text": "I'm at St Vincents Mercy Private in Fitzroy Victoria",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.97596851,
-            "latitude": -37.80814973,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580539884783423489,
-            "uid": 1532834563512487936,
-            "author": "Dr Matthew Prendergast",
-            "user_img": "https://pbs.twimg.com/profile_images/1532840440315412480/i1pMdkyw_normal.jpg",
-            "time": "2022-10-13 12:44:08 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "From a recent visit to Melbourne. Ceratopsia are my favourite. https://t.co/97kxKtwXpE",
-            "clean_text": "From a recent visit to Melbourne Ceratopsia are my favourite",
-            "place_name": "Melbourne Museum",
-            "place_type": "poi",
-            "longitude": 144.9716967344284,
-            "latitude": -37.80348577825057,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe80lG6aAAEimm4.jpg"
-            ]
-        },
-        {
-            "tid": 1580462097325924352,
-            "uid": 793416191184207872,
-            "author": "Luna Joy",
-            "user_img": "https://pbs.twimg.com/profile_images/1569631035167752192/1pRsANGf_normal.jpg",
-            "time": "2022-10-13 07:35:02 +0000",
-            "like_no": 10,
-            "language": "en",
-            "text": "Rescued a Blåhaj today, returned them to their natural habitat ☺️💜 https://t.co/h1KbcSCzqM",
-            "clean_text": "Rescued a Bl haj today returned them to their natural habitat",
-            "place_name": "Melbourne Museum",
-            "place_type": "poi",
-            "longitude": 144.9716967344284,
-            "latitude": -37.80348577825057,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7t3EHVEAAsoXf.jpg"
-            ]
-        },
-        {
-            "tid": 1580380337645178880,
-            "uid": 60630402,
-            "author": "Dom 🌻",
-            "user_img": "https://pbs.twimg.com/profile_images/1366916999683604481/hkQ4IC5w_normal.jpg",
-            "time": "2022-10-13 02:10:09 +0000",
-            "like_no": 25,
-            "language": "en",
-            "text": "Shanty Gal bath water! Get it while it’s sparkly! ✨✨✨ https://t.co/DdABRjAGHy",
-            "clean_text": "Shanty Gal bath water Get it while it s sparkly",
-            "place_name": "Victorian Trades Hall",
-            "place_type": "poi",
-            "longitude": 144.96624138592315,
-            "latitude": -37.80678509401727,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe6jiF7aUAA6P9Q.jpg"
             ]
         }
     ]

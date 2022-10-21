@@ -2,19 +2,19 @@
     "word_freq": [
         {
             "text": "North",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Melbourne",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Recreation",
-            "value": 2
+            "value": 3
         },
         {
             "text": "Reserve",
-            "value": 2
+            "value": 3
         },
         {
             "text": "MONDAY",
@@ -86,7 +86,7 @@
         },
         {
             "text": "open",
-            "value": 4
+            "value": 3
         },
         {
             "text": "TUESDAY",
@@ -142,78 +142,6 @@
         },
         {
             "text": "Max",
-            "value": 1
-        },
-        {
-            "text": "Clouds",
-            "value": 1
-        },
-        {
-            "text": "coming",
-            "value": 1
-        },
-        {
-            "text": "going",
-            "value": 1
-        },
-        {
-            "text": "Summer",
-            "value": 1
-        },
-        {
-            "text": "registration",
-            "value": 1
-        },
-        {
-            "text": "Would",
-            "value": 1
-        },
-        {
-            "text": "really",
-            "value": 1
-        },
-        {
-            "text": "love",
-            "value": 1
-        },
-        {
-            "text": "see",
-            "value": 1
-        },
-        {
-            "text": "players",
-            "value": 1
-        },
-        {
-            "text": "asking",
-            "value": 1
-        },
-        {
-            "text": "join",
-            "value": 1
-        },
-        {
-            "text": "team",
-            "value": 1
-        },
-        {
-            "text": "many",
-            "value": 1
-        },
-        {
-            "text": "weeks",
-            "value": 1
-        },
-        {
-            "text": "able",
-            "value": 1
-        },
-        {
-            "text": "commit",
-            "value": 1
-        },
-        {
-            "text": "time",
             "value": 1
         }
     ]

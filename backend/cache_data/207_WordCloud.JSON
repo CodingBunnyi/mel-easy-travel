@@ -1,6 +1,14 @@
 {
     "word_freq": [
         {
+            "text": "Rubber",
+            "value": 1
+        },
+        {
+            "text": "Paws",
+            "value": 1
+        },
+        {
             "text": "enough",
             "value": 1
         },
@@ -10,7 +18,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 4
+            "value": 3
         },
         {
             "text": "IMAX",
@@ -70,23 +78,23 @@
         },
         {
             "text": "Bar",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Carlton",
-            "value": 6
+            "value": 3
         },
         {
             "text": "Victoria",
-            "value": 4
+            "value": 2
         },
         {
             "text": "posted",
-            "value": 2
+            "value": 1
         },
         {
             "text": "photo",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Las",
@@ -326,110 +334,6 @@
         },
         {
             "text": "Roasters",
-            "value": 1
-        },
-        {
-            "text": "Egyptian",
-            "value": 1
-        },
-        {
-            "text": "din",
-            "value": 2
-        },
-        {
-            "text": "Cairo",
-            "value": 1
-        },
-        {
-            "text": "Nights",
-            "value": 1
-        },
-        {
-            "text": "Restaurant",
-            "value": 1
-        },
-        {
-            "text": "VIC",
-            "value": 2
-        },
-        {
-            "text": "Gorman",
-            "value": 1
-        },
-        {
-            "text": "Fitzroy",
-            "value": 1
-        },
-        {
-            "text": "asking",
-            "value": 1
-        },
-        {
-            "text": "date",
-            "value": 1
-        },
-        {
-            "text": "recent",
-            "value": 1
-        },
-        {
-            "text": "visit",
-            "value": 1
-        },
-        {
-            "text": "Ceratopsia",
-            "value": 1
-        },
-        {
-            "text": "favourite",
-            "value": 1
-        },
-        {
-            "text": "extra",
-            "value": 1
-        },
-        {
-            "text": "serving",
-            "value": 1
-        },
-        {
-            "text": "attitude",
-            "value": 1
-        },
-        {
-            "text": "please",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 2
-        },
-        {
-            "text": "Rescued",
-            "value": 1
-        },
-        {
-            "text": "Bl",
-            "value": 1
-        },
-        {
-            "text": "haj",
-            "value": 1
-        },
-        {
-            "text": "today",
-            "value": 1
-        },
-        {
-            "text": "returned",
-            "value": 1
-        },
-        {
-            "text": "natural",
-            "value": 1
-        },
-        {
-            "text": "habitat",
             "value": 1
         }
     ]

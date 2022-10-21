@@ -1,6 +1,114 @@
 {
     "word_freq": [
         {
+            "text": "World",
+            "value": 1
+        },
+        {
+            "text": "Supercross",
+            "value": 1
+        },
+        {
+            "text": "Championship",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 3
+        },
+        {
+            "text": "Massive",
+            "value": 1
+        },
+        {
+            "text": "thanks",
+            "value": 1
+        },
+        {
+            "text": "seats",
+            "value": 1
+        },
+        {
+            "text": "nice",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 2
+        },
+        {
+            "text": "guys",
+            "value": 2
+        },
+        {
+            "text": "Table",
+            "value": 1
+        },
+        {
+            "text": "confirmed",
+            "value": 1
+        },
+        {
+            "text": "Zine",
+            "value": 1
+        },
+        {
+            "text": "Fair",
+            "value": 1
+        },
+        {
+            "text": "week",
+            "value": 1
+        },
+        {
+            "text": "go",
+            "value": 1
+        },
+        {
+            "text": "Mission",
+            "value": 2
+        },
+        {
+            "text": "Seafarers",
+            "value": 2
+        },
+        {
+            "text": "Victoria",
+            "value": 4
+        },
+        {
+            "text": "Ichi",
+            "value": 1
+        },
+        {
+            "text": "mak",
+            "value": 1
+        },
+        {
+            "text": "Docklands",
+            "value": 13
+        },
+        {
+            "text": "VIC",
+            "value": 3
+        },
+        {
+            "text": "boat",
+            "value": 1
+        },
+        {
+            "text": "show",
+            "value": 1
+        },
+        {
+            "text": "Portarlington",
+            "value": 1
+        },
+        {
+            "text": "Ferry",
+            "value": 1
+        },
+        {
             "text": "Thanks",
             "value": 4
         },
@@ -14,7 +122,7 @@
         },
         {
             "text": "today",
-            "value": 4
+            "value": 3
         },
         {
             "text": "awesome",
@@ -79,14 +187,6 @@
         {
             "text": "Tree",
             "value": 1
-        },
-        {
-            "text": "Docklands",
-            "value": 10
-        },
-        {
-            "text": "Victoria",
-            "value": 2
         },
         {
             "text": "Late",
@@ -237,10 +337,6 @@
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 1
-        },
-        {
             "text": "present",
             "value": 1
         },
@@ -385,10 +481,6 @@
             "value": 1
         },
         {
-            "text": "work",
-            "value": 1
-        },
-        {
             "text": "us",
             "value": 1
         },
@@ -493,10 +585,6 @@
             "value": 1
         },
         {
-            "text": "guys",
-            "value": 1
-        },
-        {
             "text": "Good",
             "value": 1
         },
@@ -521,14 +609,6 @@
             "value": 1
         },
         {
-            "text": "Mission",
-            "value": 1
-        },
-        {
-            "text": "Seafarers",
-            "value": 1
-        },
-        {
             "text": "Yarra",
             "value": 1
         },
@@ -542,54 +622,6 @@
         },
         {
             "text": "Shed",
-            "value": 1
-        },
-        {
-            "text": "great",
-            "value": 1
-        },
-        {
-            "text": "way",
-            "value": 1
-        },
-        {
-            "text": "wrap",
-            "value": 1
-        },
-        {
-            "text": "John's",
-            "value": 1
-        },
-        {
-            "text": "smile",
-            "value": 1
-        },
-        {
-            "text": "drinks",
-            "value": 1
-        },
-        {
-            "text": "city",
-            "value": 1
-        },
-        {
-            "text": "Go",
-            "value": 1
-        },
-        {
-            "text": "Monash",
-            "value": 1
-        },
-        {
-            "text": "Radiography",
-            "value": 1
-        },
-        {
-            "text": "Attending",
-            "value": 1
-        },
-        {
-            "text": "organized",
             "value": 1
         }
     ]

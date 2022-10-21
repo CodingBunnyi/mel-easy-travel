@@ -1,12 +1,196 @@
 {
     "word_freq": [
         {
+            "text": "night",
+            "value": 3
+        },
+        {
+            "text": "lights",
+            "value": 1
+        },
+        {
+            "text": "Crown",
+            "value": 1
+        },
+        {
+            "text": "Towers",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 11
+        },
+        {
+            "text": "attempt",
+            "value": 1
+        },
+        {
             "text": "posted",
-            "value": 17
+            "value": 21
         },
         {
             "text": "photo",
-            "value": 17
+            "value": 21
+        },
+        {
+            "text": "Langham",
+            "value": 1
+        },
+        {
+            "text": "Afternoon",
+            "value": 2
+        },
+        {
+            "text": "snack",
+            "value": 1
+        },
+        {
+            "text": "Ah",
+            "value": 1
+        },
+        {
+            "text": "less",
+            "value": 1
+        },
+        {
+            "text": "pretty",
+            "value": 1
+        },
+        {
+            "text": "bitchy",
+            "value": 1
+        },
+        {
+            "text": "sibling",
+            "value": 1
+        },
+        {
+            "text": "Sydney",
+            "value": 1
+        },
+        {
+            "text": "personality",
+            "value": 1
+        },
+        {
+            "text": "always",
+            "value": 1
+        },
+        {
+            "text": "attraction",
+            "value": 1
+        },
+        {
+            "text": "briggs",
+            "value": 1
+        },
+        {
+            "text": "made",
+            "value": 1
+        },
+        {
+            "text": "Hopscotch",
+            "value": 1
+        },
+        {
+            "text": "Bottom",
+            "value": 1
+        },
+        {
+            "text": "End",
+            "value": 1
+        },
+        {
+            "text": "City",
+            "value": 6
+        },
+        {
+            "text": "Library",
+            "value": 6
+        },
+        {
+            "text": "Australia",
+            "value": 6
+        },
+        {
+            "text": "place",
+            "value": 1
+        },
+        {
+            "text": "Hellloooo",
+            "value": 1
+        },
+        {
+            "text": "Another",
+            "value": 1
+        },
+        {
+            "text": "day",
+            "value": 1
+        },
+        {
+            "text": "another",
+            "value": 1
+        },
+        {
+            "text": "rooftop",
+            "value": 1
+        },
+        {
+            "text": "stateofgracemelbourne",
+            "value": 1
+        },
+        {
+            "text": "State",
+            "value": 1
+        },
+        {
+            "text": "Grace",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 1
+        },
+        {
+            "text": "Belgium",
+            "value": 1
+        },
+        {
+            "text": "Beef",
+            "value": 1
+        },
+        {
+            "text": "Weather",
+            "value": 1
+        },
+        {
+            "text": "19C",
+            "value": 1
+        },
+        {
+            "text": "Eureka",
+            "value": 1
+        },
+        {
+            "text": "Skydeck",
+            "value": 2
+        },
+        {
+            "text": "Drinks",
+            "value": 1
+        },
+        {
+            "text": "friends",
+            "value": 1
+        },
+        {
+            "text": "Yarra",
+            "value": 3
+        },
+        {
+            "text": "Botanica",
+            "value": 3
         },
         {
             "text": "Small",
@@ -26,7 +210,7 @@
         },
         {
             "text": "like",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Happy",
@@ -54,14 +238,6 @@
         },
         {
             "text": "Southbank",
-            "value": 1
-        },
-        {
-            "text": "Yarra",
-            "value": 1
-        },
-        {
-            "text": "Botanica",
             "value": 1
         },
         {
@@ -97,14 +273,6 @@
             "value": 1
         },
         {
-            "text": "City",
-            "value": 5
-        },
-        {
-            "text": "Library",
-            "value": 5
-        },
-        {
             "text": "series",
             "value": 1
         },
@@ -134,27 +302,15 @@
         },
         {
             "text": "good",
-            "value": 3
-        },
-        {
-            "text": "home",
             "value": 2
         },
         {
-            "text": "Melbourne",
-            "value": 6
-        },
-        {
-            "text": "Skydeck",
+            "text": "home",
             "value": 1
         },
         {
-            "text": "Australia",
-            "value": 4
-        },
-        {
             "text": "best",
-            "value": 3
+            "value": 1
         },
         {
             "text": "time",
@@ -202,7 +358,7 @@
         },
         {
             "text": "teams",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Maurice",
@@ -250,7 +406,7 @@
         },
         {
             "text": "see",
-            "value": 3
+            "value": 2
         },
         {
             "text": "Caught",
@@ -346,7 +502,7 @@
         },
         {
             "text": "everything",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Flinders",
@@ -494,7 +650,7 @@
         },
         {
             "text": "Beer",
-            "value": 2
+            "value": 1
         },
         {
             "text": "Ging",
@@ -507,10 +663,6 @@
         {
             "text": "Waffle",
             "value": 1
-        },
-        {
-            "text": "night",
-            "value": 3
         },
         {
             "text": "Gochi",
@@ -562,7 +714,7 @@
         },
         {
             "text": "great",
-            "value": 2
+            "value": 1
         },
         {
             "text": "ups",
@@ -578,290 +730,6 @@
         },
         {
             "text": "Asado",
-            "value": 1
-        },
-        {
-            "text": "Friday",
-            "value": 1
-        },
-        {
-            "text": "drinks",
-            "value": 1
-        },
-        {
-            "text": "Dagwood",
-            "value": 1
-        },
-        {
-            "text": "Deli",
-            "value": 1
-        },
-        {
-            "text": "beer",
-            "value": 1
-        },
-        {
-            "text": "Come",
-            "value": 1
-        },
-        {
-            "text": "Belgian",
-            "value": 1
-        },
-        {
-            "text": "Cafe",
-            "value": 1
-        },
-        {
-            "text": "HELLOOO",
-            "value": 1
-        },
-        {
-            "text": "FLAMINGO",
-            "value": 1
-        },
-        {
-            "text": "missed",
-            "value": 1
-        },
-        {
-            "text": "excited",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 2
-        },
-        {
-            "text": "tonight",
-            "value": 1
-        },
-        {
-            "text": "throw",
-            "value": 1
-        },
-        {
-            "text": "HEAVIES",
-            "value": 1
-        },
-        {
-            "text": "Aviary",
-            "value": 1
-        },
-        {
-            "text": "2am",
-            "value": 1
-        },
-        {
-            "text": "swipe",
-            "value": 1
-        },
-        {
-            "text": "clips",
-            "value": 1
-        },
-        {
-            "text": "Flamingo",
-            "value": 1
-        },
-        {
-            "text": "Club",
-            "value": 1
-        },
-        {
-            "text": "Southern",
-            "value": 2
-        },
-        {
-            "text": "Cross",
-            "value": 2
-        },
-        {
-            "text": "Station",
-            "value": 2
-        },
-        {
-            "text": "another",
-            "value": 1
-        },
-        {
-            "text": "train",
-            "value": 1
-        },
-        {
-            "text": "trip",
-            "value": 1
-        },
-        {
-            "text": "828km",
-            "value": 1
-        },
-        {
-            "text": "Adelaide",
-            "value": 1
-        },
-        {
-            "text": "Overland",
-            "value": 1
-        },
-        {
-            "text": "journeybeyondrail",
-            "value": 1
-        },
-        {
-            "text": "Staff",
-            "value": 1
-        },
-        {
-            "text": "sent",
-            "value": 1
-        },
-        {
-            "text": "early",
-            "value": 1
-        },
-        {
-            "text": "avoid",
-            "value": 1
-        },
-        {
-            "text": "risk",
-            "value": 1
-        },
-        {
-            "text": "drenching",
-            "value": 1
-        },
-        {
-            "text": "rain",
-            "value": 1
-        },
-        {
-            "text": "poor",
-            "value": 1
-        },
-        {
-            "text": "visibility",
-            "value": 1
-        },
-        {
-            "text": "even",
-            "value": 1
-        },
-        {
-            "text": "flood",
-            "value": 1
-        },
-        {
-            "text": "Many",
-            "value": 1
-        },
-        {
-            "text": "outer",
-            "value": 1
-        },
-        {
-            "text": "north",
-            "value": 1
-        },
-        {
-            "text": "contingencies",
-            "value": 1
-        },
-        {
-            "text": "safety",
-            "value": 1
-        },
-        {
-            "text": "late",
-            "value": 1
-        },
-        {
-            "text": "AOD",
-            "value": 1
-        },
-        {
-            "text": "street",
-            "value": 1
-        },
-        {
-            "text": "outreach",
-            "value": 1
-        },
-        {
-            "text": "ppl",
-            "value": 1
-        },
-        {
-            "text": "People",
-            "value": 1
-        },
-        {
-            "text": "hesitate",
-            "value": 1
-        },
-        {
-            "text": "share",
-            "value": 1
-        },
-        {
-            "text": "kind",
-            "value": 2
-        },
-        {
-            "text": "word",
-            "value": 1
-        },
-        {
-            "text": "deed",
-            "value": 1
-        },
-        {
-            "text": "brighten",
-            "value": 1
-        },
-        {
-            "text": "someone",
-            "value": 1
-        },
-        {
-            "text": "else's",
-            "value": 1
-        },
-        {
-            "text": "day",
-            "value": 1
-        },
-        {
-            "text": "people",
-            "value": 1
-        },
-        {
-            "text": "Den",
-            "value": 2
-        },
-        {
-            "text": "expect",
-            "value": 1
-        },
-        {
-            "text": "taste",
-            "value": 2
-        },
-        {
-            "text": "water",
-            "value": 1
-        },
-        {
-            "text": "refreshing",
-            "value": 1
-        },
-        {
-            "text": "Expectations",
-            "value": 1
-        },
-        {
-            "text": "change",
             "value": 1
         }
     ]

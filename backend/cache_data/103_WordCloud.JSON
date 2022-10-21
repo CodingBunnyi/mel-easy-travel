@@ -1,6 +1,94 @@
 {
     "word_freq": [
         {
+            "text": "World",
+            "value": 1
+        },
+        {
+            "text": "Supercross",
+            "value": 1
+        },
+        {
+            "text": "Championship",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 2
+        },
+        {
+            "text": "Massive",
+            "value": 1
+        },
+        {
+            "text": "thanks",
+            "value": 1
+        },
+        {
+            "text": "seats",
+            "value": 1
+        },
+        {
+            "text": "nice",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
+            "text": "guys",
+            "value": 1
+        },
+        {
+            "text": "Ichi",
+            "value": 1
+        },
+        {
+            "text": "mak",
+            "value": 1
+        },
+        {
+            "text": "Docklands",
+            "value": 6
+        },
+        {
+            "text": "VIC",
+            "value": 4
+        },
+        {
+            "text": "boat",
+            "value": 1
+        },
+        {
+            "text": "show",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 3
+        },
+        {
+            "text": "Crank",
+            "value": 1
+        },
+        {
+            "text": "Em",
+            "value": 1
+        },
+        {
+            "text": "Harbour",
+            "value": 1
+        },
+        {
+            "text": "Portarlington",
+            "value": 1
+        },
+        {
+            "text": "Ferry",
+            "value": 1
+        },
+        {
             "text": "Thanks",
             "value": 1
         },
@@ -113,18 +201,6 @@
             "value": 1
         },
         {
-            "text": "Docklands",
-            "value": 2
-        },
-        {
-            "text": "Victoria",
-            "value": 1
-        },
-        {
-            "text": "VIC",
-            "value": 1
-        },
-        {
             "text": "Hello",
             "value": 1
         },
@@ -134,50 +210,6 @@
         },
         {
             "text": "introduce",
-            "value": 1
-        },
-        {
-            "text": "Dudley",
-            "value": 1
-        },
-        {
-            "text": "St",
-            "value": 1
-        },
-        {
-            "text": "West",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 1
-        },
-        {
-            "text": "Traffic",
-            "value": 1
-        },
-        {
-            "text": "Alert",
-            "value": 1
-        },
-        {
-            "text": "Flooding",
-            "value": 1
-        },
-        {
-            "text": "directions",
-            "value": 1
-        },
-        {
-            "text": "rail",
-            "value": 1
-        },
-        {
-            "text": "bridge",
-            "value": 1
-        },
-        {
-            "text": "near",
             "value": 1
         }
     ]

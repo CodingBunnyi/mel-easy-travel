@@ -1,7 +1,11 @@
 {
     "word_freq": [
         {
-            "text": "Exploring",
+            "text": "Nar",
+            "value": 1
+        },
+        {
+            "text": "Bangkok",
             "value": 1
         },
         {
@@ -9,8 +13,16 @@
             "value": 2
         },
         {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "Exploring",
+            "value": 1
+        },
+        {
             "text": "today",
-            "value": 2
+            "value": 1
         },
         {
             "text": "soaking",
@@ -54,7 +66,7 @@
         },
         {
             "text": "tree",
-            "value": 3
+            "value": 1
         },
         {
             "text": "died",
@@ -78,290 +90,6 @@
         },
         {
             "text": "seats",
-            "value": 1
-        },
-        {
-            "text": "Victorian",
-            "value": 1
-        },
-        {
-            "text": "Governor",
-            "value": 2
-        },
-        {
-            "text": "home",
-            "value": 1
-        },
-        {
-            "text": "yellow",
-            "value": 1
-        },
-        {
-            "text": "flag",
-            "value": 1
-        },
-        {
-            "text": "flying",
-            "value": 1
-        },
-        {
-            "text": "lucky",
-            "value": 1
-        },
-        {
-            "text": "able",
-            "value": 1
-        },
-        {
-            "text": "look",
-            "value": 1
-        },
-        {
-            "text": "upon",
-            "value": 1
-        },
-        {
-            "text": "two",
-            "value": 1
-        },
-        {
-            "text": "large",
-            "value": 1
-        },
-        {
-            "text": "Bunya",
-            "value": 1
-        },
-        {
-            "text": "Pines",
-            "value": 1
-        },
-        {
-            "text": "morning",
-            "value": 1
-        },
-        {
-            "text": "Microseris",
-            "value": 4
-        },
-        {
-            "text": "scapigera",
-            "value": 2
-        },
-        {
-            "text": "looking",
-            "value": 1
-        },
-        {
-            "text": "thick",
-            "value": 1
-        },
-        {
-            "text": "flower",
-            "value": 1
-        },
-        {
-            "text": "summer",
-            "value": 1
-        },
-        {
-            "text": "picture",
-            "value": 1
-        },
-        {
-            "text": "Murnong",
-            "value": 2
-        },
-        {
-            "text": "sign",
-            "value": 1
-        },
-        {
-            "text": "walteri",
-            "value": 1
-        },
-        {
-            "text": "actually",
-            "value": 2
-        },
-        {
-            "text": "planted",
-            "value": 1
-        },
-        {
-            "text": "plants",
-            "value": 1
-        },
-        {
-            "text": "sold",
-            "value": 1
-        },
-        {
-            "text": "TuckerBush",
-            "value": 1
-        },
-        {
-            "text": "lanceolata",
-            "value": 1
-        },
-        {
-            "text": "list",
-            "value": 1
-        },
-        {
-            "text": "quite",
-            "value": 1
-        },
-        {
-            "text": "dramatic",
-            "value": 1
-        },
-        {
-            "text": "Separation",
-            "value": 1
-        },
-        {
-            "text": "Tree",
-            "value": 1
-        },
-        {
-            "text": "15th",
-            "value": 1
-        },
-        {
-            "text": "November",
-            "value": 1
-        },
-        {
-            "text": "citizens",
-            "value": 1
-        },
-        {
-            "text": "rejoiced",
-            "value": 1
-        },
-        {
-            "text": "receipt",
-            "value": 1
-        },
-        {
-            "text": "news",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
-            "value": 1
-        },
-        {
-            "text": "become",
-            "value": 1
-        },
-        {
-            "text": "seperate",
-            "value": 1
-        },
-        {
-            "text": "colony",
-            "value": 1
-        },
-        {
-            "text": "Cabbage",
-            "value": 1
-        },
-        {
-            "text": "Palms",
-            "value": 1
-        },
-        {
-            "text": "Livistona",
-            "value": 1
-        },
-        {
-            "text": "australis",
-            "value": 1
-        },
-        {
-            "text": "juvenile",
-            "value": 1
-        },
-        {
-            "text": "period",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 2
-        },
-        {
-            "text": "start",
-            "value": 1
-        },
-        {
-            "text": "grow",
-            "value": 1
-        },
-        {
-            "text": "trunk",
-            "value": 1
-        },
-        {
-            "text": "rate",
-            "value": 1
-        },
-        {
-            "text": "metre",
-            "value": 1
-        },
-        {
-            "text": "per",
-            "value": 1
-        },
-        {
-            "text": "pretty",
-            "value": 1
-        },
-        {
-            "text": "tall",
-            "value": 1
-        },
-        {
-            "text": "Inconsistent",
-            "value": 1
-        },
-        {
-            "text": "common",
-            "value": 1
-        },
-        {
-            "text": "names",
-            "value": 1
-        },
-        {
-            "text": "breadfruit",
-            "value": 1
-        },
-        {
-            "text": "edible",
-            "value": 1
-        },
-        {
-            "text": "rarely",
-            "value": 1
-        },
-        {
-            "text": "eaten",
-            "value": 1
-        },
-        {
-            "text": "except",
-            "value": 1
-        },
-        {
-            "text": "emergency",
-            "value": 1
-        },
-        {
-            "text": "food",
             "value": 1
         }
     ]

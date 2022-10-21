@@ -1,3 +1,20 @@
 {
-    "word_freq": []
+    "word_freq": [
+        {
+            "text": "Nar",
+            "value": 1
+        },
+        {
+            "text": "Bangkok",
+            "value": 1
+        },
+        {
+            "text": "Melbourne",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        }
+    ]
 }

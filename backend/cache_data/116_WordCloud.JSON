@@ -1,6 +1,82 @@
 {
     "word_freq": [
         {
+            "text": "Table",
+            "value": 1
+        },
+        {
+            "text": "confirmed",
+            "value": 1
+        },
+        {
+            "text": "Zine",
+            "value": 1
+        },
+        {
+            "text": "Fair",
+            "value": 1
+        },
+        {
+            "text": "week",
+            "value": 1
+        },
+        {
+            "text": "go",
+            "value": 1
+        },
+        {
+            "text": "Mission",
+            "value": 2
+        },
+        {
+            "text": "Seafarers",
+            "value": 2
+        },
+        {
+            "text": "Victoria",
+            "value": 2
+        },
+        {
+            "text": "Ichi",
+            "value": 1
+        },
+        {
+            "text": "mak",
+            "value": 1
+        },
+        {
+            "text": "Docklands",
+            "value": 10
+        },
+        {
+            "text": "VIC",
+            "value": 2
+        },
+        {
+            "text": "grassy",
+            "value": 1
+        },
+        {
+            "text": "knoll",
+            "value": 1
+        },
+        {
+            "text": "swarming",
+            "value": 1
+        },
+        {
+            "text": "ie",
+            "value": 1
+        },
+        {
+            "text": "vermin",
+            "value": 1
+        },
+        {
+            "text": "Help",
+            "value": 1
+        },
+        {
             "text": "Late",
             "value": 1
         },
@@ -42,10 +118,6 @@
         },
         {
             "text": "Travelodge",
-            "value": 9
-        },
-        {
-            "text": "Docklands",
             "value": 9
         },
         {
@@ -154,7 +226,7 @@
         },
         {
             "text": "Melbourne",
-            "value": 3
+            "value": 2
         },
         {
             "text": "present",
@@ -390,7 +462,7 @@
         },
         {
             "text": "today",
-            "value": 3
+            "value": 2
         },
         {
             "text": "INFORMAS",
@@ -594,22 +666,10 @@
         },
         {
             "text": "posted",
-            "value": 2
+            "value": 1
         },
         {
             "text": "photo",
-            "value": 2
-        },
-        {
-            "text": "Mission",
-            "value": 1
-        },
-        {
-            "text": "Seafarers",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
             "value": 1
         },
         {
@@ -646,122 +706,6 @@
         },
         {
             "text": "Shed",
-            "value": 1
-        },
-        {
-            "text": "great",
-            "value": 1
-        },
-        {
-            "text": "way",
-            "value": 1
-        },
-        {
-            "text": "wrap",
-            "value": 1
-        },
-        {
-            "text": "John's",
-            "value": 1
-        },
-        {
-            "text": "smile",
-            "value": 1
-        },
-        {
-            "text": "drinks",
-            "value": 1
-        },
-        {
-            "text": "city",
-            "value": 1
-        },
-        {
-            "text": "Go",
-            "value": 1
-        },
-        {
-            "text": "Monash",
-            "value": 1
-        },
-        {
-            "text": "Radiography",
-            "value": 1
-        },
-        {
-            "text": "Southern",
-            "value": 2
-        },
-        {
-            "text": "Cross",
-            "value": 2
-        },
-        {
-            "text": "Station",
-            "value": 2
-        },
-        {
-            "text": "enough",
-            "value": 1
-        },
-        {
-            "text": "steps",
-            "value": 1
-        },
-        {
-            "text": "calorie",
-            "value": 1
-        },
-        {
-            "text": "deficit",
-            "value": 1
-        },
-        {
-            "text": "Time",
-            "value": 1
-        },
-        {
-            "text": "go",
-            "value": 1
-        },
-        {
-            "text": "home",
-            "value": 1
-        },
-        {
-            "text": "another",
-            "value": 1
-        },
-        {
-            "text": "train",
-            "value": 1
-        },
-        {
-            "text": "trip",
-            "value": 1
-        },
-        {
-            "text": "828km",
-            "value": 1
-        },
-        {
-            "text": "Adelaide",
-            "value": 1
-        },
-        {
-            "text": "Overland",
-            "value": 1
-        },
-        {
-            "text": "journeybeyondrail",
-            "value": 1
-        },
-        {
-            "text": "Attending",
-            "value": 1
-        },
-        {
-            "text": "organized",
             "value": 1
         }
     ]

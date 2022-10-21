@@ -1,6 +1,54 @@
 {
-    "count": 21,
+    "count": 18,
     "data": [
+        {
+            "tid": 1583404359869599744,
+            "uid": 37866535,
+            "author": "Warren Hill",
+            "user_img": "https://pbs.twimg.com/profile_images/1469022487207763969/ZRn29yIX_normal.jpg",
+            "time": "2022-10-21 10:26:32 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "And why not? @archierosesyd @ Queen Victoria Market https://t.co/AKJYZWq0xm",
+            "clean_text": "And why not Queen Victoria Market",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.95793534,
+            "latitude": -37.80728606,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583199132403236864,
+            "uid": 18147028,
+            "author": "VicTraffic",
+            "user_img": "https://pbs.twimg.com/profile_images/1090064003982811136/jrnsNv5F_normal.jpg",
+            "time": "2022-10-20 20:51:02 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Victoria St , North Melbourne - lanes closed westbound, Left lane closed westbound at Peel Street due… https://t.co/i9e2Fsqvoa #victraffic",
+            "clean_text": "Victoria St North Melbourne lanes closed westbound Left lane closed westbound at Peel Street due",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.95589308,
+            "latitude": -37.80586818,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582879164234801152,
+            "uid": 50571883,
+            "author": "Paul G",
+            "user_img": "https://pbs.twimg.com/profile_images/619381933563195392/zZffLP-o_normal.jpg",
+            "time": "2022-10-19 23:39:35 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Nice to be back! Thanks @basementcafe for the warm welcome. 😊☕ @ The Basement Cafe &amp; Bar https://t.co/WpRmtgaRo6",
+            "clean_text": "Nice to be back Thanks for the warm welcome The Basement Cafe Bar",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.95928,
+            "latitude": -37.8107,
+            "photo_urls": []
+        },
         {
             "tid": 1582665321139564544,
             "uid": 1474176768059740181,
@@ -257,108 +305,6 @@
             "longitude": 144.96262022062132,
             "latitude": -37.80565535741099,
             "photo_urls": []
-        },
-        {
-            "tid": 1580839385645268992,
-            "uid": 14820495,
-            "author": "Chris Rodda",
-            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
-            "time": "2022-10-14 08:34:14 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Here’s an example of my exciting life! #RMIT @ RMIT Melbourne City campus https://t.co/16BjfgrhDj",
-            "clean_text": "Here s an example of my exciting life RMIT Melbourne City campus",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.963,
-            "latitude": -37.8078,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580839153927073793,
-            "uid": 14820495,
-            "author": "Chris Rodda",
-            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
-            "time": "2022-10-14 08:33:19 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Nice to finally try a famous (and very nice indeed) #CollegeDropout burger since they opened an outlet at #RMIT #BowenSt @ RMIT Melbourne City campus https://t.co/9yZt3BmILD",
-            "clean_text": "Nice to finally try a famous and very nice indeed burger since they opened an outlet at RMIT Melbourne City campus",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.963,
-            "latitude": -37.8078,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580776967590531073,
-            "uid": 3896850852,
-            "author": "JM Cheer 🌏⛩💚",
-            "user_img": "https://pbs.twimg.com/profile_images/1555918531740733443/hZ5Vti6Y_normal.jpg",
-            "time": "2022-10-14 04:26:13 +0000",
-            "like_no": 14,
-            "language": "en",
-            "text": "Travel is back and it can be a force for good if done right.\nThanks for the reminder.\n@Intrepid_Travel @LCBarnes @GeoffManchester @MikeySadowski @IntrepidFdn https://t.co/znOq3S3bmu",
-            "clean_text": "Travel is back and it can be a force for good if done right Thanks for the reminder",
-            "place_name": "Queen Victoria Market",
-            "place_type": "poi",
-            "longitude": 144.95808339817975,
-            "latitude": -37.80740581472271,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfAMRF1aAAIeiBU.jpg"
-            ]
-        },
-        {
-            "tid": 1580425126965022720,
-            "uid": 3949609943,
-            "author": "友人圆",
-            "user_img": "https://pbs.twimg.com/profile_images/1513167033575571456/lRrvcoVf_normal.jpg",
-            "time": "2022-10-13 05:08:07 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "I'm at The Oxford Scholar Hotel in Melbourne, Victoria https://t.co/gTSyEKRK2g https://t.co/QQ3oqP02cG",
-            "clean_text": "I'm at The Oxford Scholar Hotel in Melbourne Victoria",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.963193,
-            "latitude": -37.808377,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7MRw6agAAasLY.jpg"
-            ]
-        },
-        {
-            "tid": 1580400401714552832,
-            "uid": 1075628220,
-            "author": "Krule",
-            "user_img": "https://pbs.twimg.com/profile_images/1494947449772953606/3vhXcDi7_normal.jpg",
-            "time": "2022-10-13 03:29:52 +0000",
-            "like_no": 5,
-            "language": "en",
-            "text": "Hey @PlanetFitness Hey @CrunchGym \nMelbourne is calling yall out.",
-            "clean_text": "Hey Hey Melbourne is calling yall out",
-            "place_name": "Anytime Fitness",
-            "place_type": "poi",
-            "longitude": 144.96262022062132,
-            "latitude": -37.80565535741099,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580391205963067392,
-            "uid": 1592708426,
-            "author": "Allanah Sciberras",
-            "user_img": "https://pbs.twimg.com/profile_images/1507274685138219008/KHKKaJHj_normal.jpg",
-            "time": "2022-10-13 02:53:20 +0000",
-            "like_no": 12,
-            "language": "en",
-            "text": "There has been a landslide reported near Lorne on the Great Ocean Road in Victoria. \n@vicemergency has issued an advice warning to stay away from the area as it may \"continue to move for hours or days\". @9NewsMelb @Ninecomau #melbourneweather https://t.co/7yWF8qNcNe",
-            "clean_text": "There has been a landslide reported near Lorne on the Great Ocean Road in Victoria has issued an advice warning to stay away from the area as it may continue to move for hours or days",
-            "place_name": "Lorne",
-            "place_type": "poi",
-            "longitude": 144.9612561707904,
-            "latitude": -37.80671640371127,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe6tGszVUAABEgA.jpg"
-            ]
         }
     ]
 }

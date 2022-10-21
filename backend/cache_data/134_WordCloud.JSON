@@ -1,6 +1,810 @@
 {
     "word_freq": [
         {
+            "text": "amazing",
+            "value": 2
+        },
+        {
+            "text": "eve",
+            "value": 1
+        },
+        {
+            "text": "Women",
+            "value": 1
+        },
+        {
+            "text": "Media",
+            "value": 1
+        },
+        {
+            "text": "Jill",
+            "value": 2
+        },
+        {
+            "text": "Singer",
+            "value": 2
+        },
+        {
+            "text": "Lecture",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 2
+        },
+        {
+            "text": "night",
+            "value": 1
+        },
+        {
+            "text": "listening",
+            "value": 1
+        },
+        {
+            "text": "Annika",
+            "value": 2
+        },
+        {
+            "text": "Smethurst",
+            "value": 2
+        },
+        {
+            "text": "insight",
+            "value": 2
+        },
+        {
+            "text": "advice",
+            "value": 2
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "providing",
+            "value": 1
+        },
+        {
+            "text": "opportunity",
+            "value": 2
+        },
+        {
+            "text": "attend",
+            "value": 1
+        },
+        {
+            "text": "involved",
+            "value": 1
+        },
+        {
+            "text": "Photo",
+            "value": 1
+        },
+        {
+            "text": "credit",
+            "value": 1
+        },
+        {
+            "text": "Arts",
+            "value": 2
+        },
+        {
+            "text": "light",
+            "value": 1
+        },
+        {
+            "text": "photography",
+            "value": 1
+        },
+        {
+            "text": "encouraged",
+            "value": 1
+        },
+        {
+            "text": "Age",
+            "value": 1
+        },
+        {
+            "text": "state",
+            "value": 1
+        },
+        {
+            "text": "political",
+            "value": 1
+        },
+        {
+            "text": "editor",
+            "value": 1
+        },
+        {
+            "text": "treated",
+            "value": 1
+        },
+        {
+            "text": "engaged",
+            "value": 1
+        },
+        {
+            "text": "audience",
+            "value": 1
+        },
+        {
+            "text": "plenty",
+            "value": 1
+        },
+        {
+            "text": "valuable",
+            "value": 1
+        },
+        {
+            "text": "record",
+            "value": 1
+        },
+        {
+            "text": "Congratulations",
+            "value": 1
+        },
+        {
+            "text": "team",
+            "value": 1
+        },
+        {
+            "text": "putting",
+            "value": 1
+        },
+        {
+            "text": "together",
+            "value": 1
+        },
+        {
+            "text": "tonight",
+            "value": 1
+        },
+        {
+            "text": "lecture",
+            "value": 1
+        },
+        {
+            "text": "elected",
+            "value": 2
+        },
+        {
+            "text": "Members",
+            "value": 1
+        },
+        {
+            "text": "First",
+            "value": 4
+        },
+        {
+            "text": "Peoples",
+            "value": 5
+        },
+        {
+            "text": "Assembly",
+            "value": 4
+        },
+        {
+            "text": "ask",
+            "value": 1
+        },
+        {
+            "text": "people",
+            "value": 1
+        },
+        {
+            "text": "Victoria",
+            "value": 9
+        },
+        {
+            "text": "whatever",
+            "value": 1
+        },
+        {
+            "text": "background",
+            "value": 1
+        },
+        {
+            "text": "join",
+            "value": 2
+        },
+        {
+            "text": "Treaty",
+            "value": 11
+        },
+        {
+            "text": "journey",
+            "value": 1
+        },
+        {
+            "text": "educate",
+            "value": 1
+        },
+        {
+            "text": "Aboriginal",
+            "value": 5
+        },
+        {
+            "text": "histories",
+            "value": 1
+        },
+        {
+            "text": "history",
+            "value": 1
+        },
+        {
+            "text": "process",
+            "value": 4
+        },
+        {
+            "text": "online",
+            "value": 1
+        },
+        {
+            "text": "Follow",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 5
+        },
+        {
+            "text": "day",
+            "value": 3
+        },
+        {
+            "text": "celebration",
+            "value": 1
+        },
+        {
+            "text": "always",
+            "value": 1
+        },
+        {
+            "text": "thinking",
+            "value": 1
+        },
+        {
+            "text": "work",
+            "value": 1
+        },
+        {
+            "text": "comes",
+            "value": 2
+        },
+        {
+            "text": "next",
+            "value": 2
+        },
+        {
+            "text": "Framework",
+            "value": 3
+        },
+        {
+            "text": "Authority",
+            "value": 3
+        },
+        {
+            "text": "Fund",
+            "value": 2
+        },
+        {
+            "text": "agreed",
+            "value": 1
+        },
+        {
+            "text": "implementation",
+            "value": 1
+        },
+        {
+            "text": "hold",
+            "value": 1
+        },
+        {
+            "text": "fresh",
+            "value": 1
+        },
+        {
+            "text": "elections",
+            "value": 1
+        },
+        {
+            "text": "community",
+            "value": 1
+        },
+        {
+            "text": "vote",
+            "value": 1
+        },
+        {
+            "text": "representatives",
+            "value": 1
+        },
+        {
+            "text": "phase",
+            "value": 1
+        },
+        {
+            "text": "Victorian",
+            "value": 2
+        },
+        {
+            "text": "built",
+            "value": 1
+        },
+        {
+            "text": "upon",
+            "value": 1
+        },
+        {
+            "text": "Centuries",
+            "value": 1
+        },
+        {
+            "text": "resistance",
+            "value": 1
+        },
+        {
+            "text": "activism",
+            "value": 1
+        },
+        {
+            "text": "staunch",
+            "value": 1
+        },
+        {
+            "text": "Elders",
+            "value": 1
+        },
+        {
+            "text": "civil",
+            "value": 1
+        },
+        {
+            "text": "rights",
+            "value": 1
+        },
+        {
+            "text": "movement",
+            "value": 1
+        },
+        {
+            "text": "Working",
+            "value": 1
+        },
+        {
+            "text": "Group",
+            "value": 1
+        },
+        {
+            "text": "Vic",
+            "value": 1
+        },
+        {
+            "text": "Advancement",
+            "value": 1
+        },
+        {
+            "text": "Commissioner",
+            "value": 1
+        },
+        {
+            "text": "democratically",
+            "value": 1
+        },
+        {
+            "text": "genuinely",
+            "value": 1
+        },
+        {
+            "text": "leading",
+            "value": 1
+        },
+        {
+            "text": "way",
+            "value": 1
+        },
+        {
+            "text": "jurisdiction",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 3
+        },
+        {
+            "text": "progressing",
+            "value": 1
+        },
+        {
+            "text": "elements",
+            "value": 1
+        },
+        {
+            "text": "called",
+            "value": 1
+        },
+        {
+            "text": "Ulu",
+            "value": 1
+        },
+        {
+            "text": "Statement",
+            "value": 1
+        },
+        {
+            "text": "Heart",
+            "value": 1
+        },
+        {
+            "text": "Voice",
+            "value": 1
+        },
+        {
+            "text": "Truth",
+            "value": 1
+        },
+        {
+            "text": "testimony",
+            "value": 1
+        },
+        {
+            "text": "communities",
+            "value": 2
+        },
+        {
+            "text": "keep",
+            "value": 1
+        },
+        {
+            "text": "fighting",
+            "value": 1
+        },
+        {
+            "text": "stage",
+            "value": 2
+        },
+        {
+            "text": "set",
+            "value": 2
+        },
+        {
+            "text": "Treaties",
+            "value": 2
+        },
+        {
+            "text": "developed",
+            "value": 1
+        },
+        {
+            "text": "Traditional",
+            "value": 4
+        },
+        {
+            "text": "Owner",
+            "value": 3
+        },
+        {
+            "text": "local",
+            "value": 1
+        },
+        {
+            "text": "level",
+            "value": 1
+        },
+        {
+            "text": "designed",
+            "value": 2
+        },
+        {
+            "text": "negotiated",
+            "value": 2
+        },
+        {
+            "text": "groups",
+            "value": 3
+        },
+        {
+            "text": "addition",
+            "value": 1
+        },
+        {
+            "text": "overarching",
+            "value": 1
+        },
+        {
+            "text": "statewide",
+            "value": 1
+        },
+        {
+            "text": "secure",
+            "value": 1
+        },
+        {
+            "text": "meaningful",
+            "value": 1
+        },
+        {
+            "text": "structural",
+            "value": 1
+        },
+        {
+            "text": "reforms",
+            "value": 1
+        },
+        {
+            "text": "Importantly",
+            "value": 1
+        },
+        {
+            "text": "Negotiation",
+            "value": 1
+        },
+        {
+            "text": "finalised",
+            "value": 1
+        },
+        {
+            "text": "signed",
+            "value": 1
+        },
+        {
+            "text": "Wurundjeri",
+            "value": 1
+        },
+        {
+            "text": "Woi",
+            "value": 1
+        },
+        {
+            "text": "Wurrung",
+            "value": 1
+        },
+        {
+            "text": "Country",
+            "value": 2
+        },
+        {
+            "text": "adopts",
+            "value": 1
+        },
+        {
+            "text": "principles",
+            "value": 1
+        },
+        {
+            "text": "Declaration",
+            "value": 1
+        },
+        {
+            "text": "Rights",
+            "value": 1
+        },
+        {
+            "text": "Indigenous",
+            "value": 1
+        },
+        {
+            "text": "ensures",
+            "value": 1
+        },
+        {
+            "text": "left",
+            "value": 1
+        },
+        {
+            "text": "behind",
+            "value": 1
+        },
+        {
+            "text": "Self",
+            "value": 1
+        },
+        {
+            "text": "Determination",
+            "value": 1
+        },
+        {
+            "text": "drive",
+            "value": 1
+        },
+        {
+            "text": "wealth",
+            "value": 1
+        },
+        {
+            "text": "prosperity",
+            "value": 1
+        },
+        {
+            "text": "long",
+            "value": 1
+        },
+        {
+            "text": "term",
+            "value": 2
+        },
+        {
+            "text": "shorter",
+            "value": 1
+        },
+        {
+            "text": "assist",
+            "value": 1
+        },
+        {
+            "text": "nations",
+            "value": 1
+        },
+        {
+            "text": "across",
+            "value": 1
+        },
+        {
+            "text": "get",
+            "value": 2
+        },
+        {
+            "text": "ready",
+            "value": 2
+        },
+        {
+            "text": "independent",
+            "value": 1
+        },
+        {
+            "text": "umpire",
+            "value": 1
+        },
+        {
+            "text": "going",
+            "value": 1
+        },
+        {
+            "text": "forward",
+            "value": 1
+        },
+        {
+            "text": "grounded",
+            "value": 1
+        },
+        {
+            "text": "Lore",
+            "value": 1
+        },
+        {
+            "text": "law",
+            "value": 1
+        },
+        {
+            "text": "culture",
+            "value": 1
+        },
+        {
+            "text": "subject",
+            "value": 2
+        },
+        {
+            "text": "Ministerial",
+            "value": 1
+        },
+        {
+            "text": "direction",
+            "value": 1
+        },
+        {
+            "text": "insecure",
+            "value": 1
+        },
+        {
+            "text": "funding",
+            "value": 1
+        },
+        {
+            "text": "arrangements",
+            "value": 1
+        },
+        {
+            "text": "past",
+            "value": 1
+        },
+        {
+            "text": "Today",
+            "value": 1
+        },
+        {
+            "text": "signing",
+            "value": 1
+        },
+        {
+            "text": "ceremony",
+            "value": 1
+        },
+        {
+            "text": "banks",
+            "value": 1
+        },
+        {
+            "text": "Birrarung",
+            "value": 1
+        },
+        {
+            "text": "means",
+            "value": 1
+        },
+        {
+            "text": "three",
+            "value": 1
+        },
+        {
+            "text": "pieces",
+            "value": 1
+        },
+        {
+            "text": "crucial",
+            "value": 1
+        },
+        {
+            "text": "architecture",
+            "value": 1
+        },
+        {
+            "text": "place",
+            "value": 1
+        },
+        {
+            "text": "Government",
+            "value": 1
+        },
+        {
+            "text": "years",
+            "value": 1
+        },
+        {
+            "text": "bring",
+            "value": 1
+        },
+        {
+            "text": "milestone",
+            "value": 1
+        },
+        {
+            "text": "Absolutely",
+            "value": 1
+        },
+        {
+            "text": "huge",
+            "value": 1
+        },
+        {
+            "text": "announcement",
+            "value": 1
+        },
+        {
+            "text": "biggest",
+            "value": 1
+        },
+        {
+            "text": "change",
+            "value": 1
+        },
+        {
+            "text": "generation",
+            "value": 1
+        },
+        {
+            "text": "making",
+            "value": 1
+        },
+        {
+            "text": "led",
+            "value": 1
+        },
+        {
+            "text": "Owners",
+            "value": 1
+        },
+        {
             "text": "posted",
             "value": 5
         },
@@ -22,10 +826,6 @@
         },
         {
             "text": "NGV",
-            "value": 2
-        },
-        {
-            "text": "Australia",
             "value": 2
         },
         {
@@ -62,10 +862,6 @@
         },
         {
             "text": "Come",
-            "value": 1
-        },
-        {
-            "text": "join",
             "value": 1
         },
         {
@@ -154,7 +950,7 @@
         },
         {
             "text": "made",
-            "value": 2
+            "value": 1
         },
         {
             "text": "nice",
@@ -173,10 +969,6 @@
             "value": 1
         },
         {
-            "text": "opportunity",
-            "value": 1
-        },
-        {
             "text": "take",
             "value": 1
         },
@@ -185,20 +977,12 @@
             "value": 1
         },
         {
-            "text": "today",
-            "value": 2
-        },
-        {
             "text": "great",
             "value": 1
         },
         {
-            "text": "day",
-            "value": 2
-        },
-        {
             "text": "fight",
-            "value": 6
+            "value": 5
         },
         {
             "text": "showing",
@@ -253,10 +1037,6 @@
             "value": 2
         },
         {
-            "text": "Victoria",
-            "value": 2
-        },
-        {
             "text": "Gardens",
             "value": 2
         },
@@ -298,7 +1078,7 @@
         },
         {
             "text": "Let",
-            "value": 3
+            "value": 2
         },
         {
             "text": "go",
@@ -350,7 +1130,7 @@
         },
         {
             "text": "Nice",
-            "value": 2
+            "value": 1
         },
         {
             "text": "drop",
@@ -449,14 +1229,6 @@
             "value": 1
         },
         {
-            "text": "get",
-            "value": 1
-        },
-        {
-            "text": "ready",
-            "value": 1
-        },
-        {
             "text": "rumble",
             "value": 1
         },
@@ -478,290 +1250,6 @@
         },
         {
             "text": "Theatre",
-            "value": 1
-        },
-        {
-            "text": "Arts",
-            "value": 1
-        },
-        {
-            "text": "bloody",
-            "value": 1
-        },
-        {
-            "text": "gooooo",
-            "value": 1
-        },
-        {
-            "text": "kind",
-            "value": 1
-        },
-        {
-            "text": "sad",
-            "value": 1
-        },
-        {
-            "text": "water",
-            "value": 1
-        },
-        {
-            "text": "fountain",
-            "value": 1
-        },
-        {
-            "text": "memorial",
-            "value": 1
-        },
-        {
-            "text": "black",
-            "value": 1
-        },
-        {
-            "text": "swan",
-            "value": 1
-        },
-        {
-            "text": "called",
-            "value": 1
-        },
-        {
-            "text": "Cookie",
-            "value": 1
-        },
-        {
-            "text": "lived",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "ago",
-            "value": 1
-        },
-        {
-            "text": "whilst",
-            "value": 1
-        },
-        {
-            "text": "using",
-            "value": 1
-        },
-        {
-            "text": "skills",
-            "value": 1
-        },
-        {
-            "text": "investigate",
-            "value": 1
-        },
-        {
-            "text": "secretive",
-            "value": 2
-        },
-        {
-            "text": "fertility",
-            "value": 1
-        },
-        {
-            "text": "industry",
-            "value": 1
-        },
-        {
-            "text": "words",
-            "value": 1
-        },
-        {
-            "text": "deeply",
-            "value": 1
-        },
-        {
-            "text": "unethical",
-            "value": 1
-        },
-        {
-            "text": "pathologically",
-            "value": 1
-        },
-        {
-            "text": "business",
-            "value": 1
-        },
-        {
-            "text": "makes",
-            "value": 1
-        },
-        {
-            "text": "millions",
-            "value": 1
-        },
-        {
-            "text": "practitioners",
-            "value": 1
-        },
-        {
-            "text": "little",
-            "value": 1
-        },
-        {
-            "text": "concern",
-            "value": 1
-        },
-        {
-            "text": "human",
-            "value": 1
-        },
-        {
-            "text": "beings",
-            "value": 1
-        },
-        {
-            "text": "creates",
-            "value": 1
-        },
-        {
-            "text": "Based",
-            "value": 1
-        },
-        {
-            "text": "award",
-            "value": 1
-        },
-        {
-            "text": "winning",
-            "value": 1
-        },
-        {
-            "text": "investigative",
-            "value": 1
-        },
-        {
-            "text": "journalist",
-            "value": 1
-        },
-        {
-            "text": "Sarah",
-            "value": 2
-        },
-        {
-            "text": "discovery",
-            "value": 1
-        },
-        {
-            "text": "age",
-            "value": 1
-        },
-        {
-            "text": "man",
-            "value": 1
-        },
-        {
-            "text": "brought",
-            "value": 1
-        },
-        {
-            "text": "loved",
-            "value": 1
-        },
-        {
-            "text": "dearly",
-            "value": 1
-        },
-        {
-            "text": "biological",
-            "value": 1
-        },
-        {
-            "text": "father",
-            "value": 1
-        },
-        {
-            "text": "mother",
-            "value": 1
-        },
-        {
-            "text": "impregnated",
-            "value": 1
-        },
-        {
-            "text": "anonymous",
-            "value": 1
-        },
-        {
-            "text": "donor",
-            "value": 1
-        },
-        {
-            "text": "sperm",
-            "value": 1
-        },
-        {
-            "text": "goes",
-            "value": 1
-        },
-        {
-            "text": "uncover",
-            "value": 1
-        },
-        {
-            "text": "truth",
-            "value": 1
-        },
-        {
-            "text": "DCA",
-            "value": 1
-        },
-        {
-            "text": "excited",
-            "value": 1
-        },
-        {
-            "text": "announce",
-            "value": 1
-        },
-        {
-            "text": "advocate",
-            "value": 1
-        },
-        {
-            "text": "documentary",
-            "value": 1
-        },
-        {
-            "text": "Inconceivable",
-            "value": 1
-        },
-        {
-            "text": "Secret",
-            "value": 1
-        },
-        {
-            "text": "Business",
-            "value": 1
-        },
-        {
-            "text": "Breeding",
-            "value": 1
-        },
-        {
-            "text": "Humans",
-            "value": 1
-        },
-        {
-            "text": "Tues",
-            "value": 1
-        },
-        {
-            "text": "Nov",
-            "value": 1
-        },
-        {
-            "text": "30pm",
-            "value": 1
-        },
-        {
-            "text": "back",
             "value": 1
         }
     ]

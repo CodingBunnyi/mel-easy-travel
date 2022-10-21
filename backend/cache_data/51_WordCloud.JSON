@@ -1,6 +1,134 @@
 {
     "word_freq": [
         {
+            "text": "Alexander",
+            "value": 1
+        },
+        {
+            "text": "Hamilton",
+            "value": 1
+        },
+        {
+            "text": "Majesty's",
+            "value": 2
+        },
+        {
+            "text": "Theatre",
+            "value": 2
+        },
+        {
+            "text": "Melbourne",
+            "value": 15
+        },
+        {
+            "text": "Crane",
+            "value": 1
+        },
+        {
+            "text": "Restaurant",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 7
+        },
+        {
+            "text": "Looking",
+            "value": 1
+        },
+        {
+            "text": "forward",
+            "value": 1
+        },
+        {
+            "text": "sitting",
+            "value": 1
+        },
+        {
+            "text": "jazzboutiqueband",
+            "value": 1
+        },
+        {
+            "text": "melbournemarriott",
+            "value": 1
+        },
+        {
+            "text": "tonight",
+            "value": 1
+        },
+        {
+            "text": "Marriott",
+            "value": 1
+        },
+        {
+            "text": "Hotel",
+            "value": 1
+        },
+        {
+            "text": "Extinction",
+            "value": 1
+        },
+        {
+            "text": "Rebellion",
+            "value": 1
+        },
+        {
+            "text": "targeting",
+            "value": 1
+        },
+        {
+            "text": "another",
+            "value": 1
+        },
+        {
+            "text": "worthy",
+            "value": 1
+        },
+        {
+            "text": "cause",
+            "value": 1
+        },
+        {
+            "text": "today",
+            "value": 1
+        },
+        {
+            "text": "climate",
+            "value": 1
+        },
+        {
+            "text": "criminals",
+            "value": 1
+        },
+        {
+            "text": "NEW",
+            "value": 1
+        },
+        {
+            "text": "GAS",
+            "value": 1
+        },
+        {
+            "text": "CLIMATE",
+            "value": 1
+        },
+        {
+            "text": "CHAOS",
+            "value": 1
+        },
+        {
+            "text": "FLOODS",
+            "value": 1
+        },
+        {
+            "text": "FIRES",
+            "value": 1
+        },
+        {
+            "text": "EXTINCTION",
+            "value": 1
+        },
+        {
             "text": "shots",
             "value": 1
         },
@@ -137,10 +265,6 @@
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 18
-        },
-        {
             "text": "Victorian",
             "value": 1
         },
@@ -226,7 +350,7 @@
         },
         {
             "text": "City",
-            "value": 5
+            "value": 3
         },
         {
             "text": "Mart",
@@ -239,10 +363,6 @@
         {
             "text": "Grocery",
             "value": 1
-        },
-        {
-            "text": "VIC",
-            "value": 7
         },
         {
             "text": "Daiso",
@@ -278,14 +398,6 @@
         },
         {
             "text": "weekend",
-            "value": 1
-        },
-        {
-            "text": "Majesty's",
-            "value": 1
-        },
-        {
-            "text": "Theatre",
             "value": 1
         },
         {
@@ -406,11 +518,11 @@
         },
         {
             "text": "RMIT",
-            "value": 4
+            "value": 2
         },
         {
             "text": "campus",
-            "value": 4
+            "value": 2
         },
         {
             "text": "Dirty",
@@ -654,230 +766,6 @@
         },
         {
             "text": "go",
-            "value": 1
-        },
-        {
-            "text": "example",
-            "value": 1
-        },
-        {
-            "text": "exciting",
-            "value": 1
-        },
-        {
-            "text": "life",
-            "value": 1
-        },
-        {
-            "text": "Nice",
-            "value": 1
-        },
-        {
-            "text": "finally",
-            "value": 1
-        },
-        {
-            "text": "try",
-            "value": 1
-        },
-        {
-            "text": "famous",
-            "value": 1
-        },
-        {
-            "text": "nice",
-            "value": 1
-        },
-        {
-            "text": "indeed",
-            "value": 1
-        },
-        {
-            "text": "burger",
-            "value": 1
-        },
-        {
-            "text": "since",
-            "value": 1
-        },
-        {
-            "text": "opened",
-            "value": 1
-        },
-        {
-            "text": "outlet",
-            "value": 1
-        },
-        {
-            "text": "pics",
-            "value": 1
-        },
-        {
-            "text": "penguins",
-            "value": 1
-        },
-        {
-            "text": "Strictly",
-            "value": 1
-        },
-        {
-            "text": "allowed",
-            "value": 1
-        },
-        {
-            "text": "Phillip",
-            "value": 1
-        },
-        {
-            "text": "Island",
-            "value": 1
-        },
-        {
-            "text": "Penguin",
-            "value": 1
-        },
-        {
-            "text": "Parade",
-            "value": 1
-        },
-        {
-            "text": "Ohgam",
-            "value": 1
-        },
-        {
-            "text": "Korean",
-            "value": 1
-        },
-        {
-            "text": "Restaurant",
-            "value": 1
-        },
-        {
-            "text": "Bar",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
-            "value": 3
-        },
-        {
-            "text": "Oxford",
-            "value": 1
-        },
-        {
-            "text": "Scholar",
-            "value": 1
-        },
-        {
-            "text": "Hotel",
-            "value": 1
-        },
-        {
-            "text": "Hey",
-            "value": 2
-        },
-        {
-            "text": "calling",
-            "value": 1
-        },
-        {
-            "text": "yall",
-            "value": 1
-        },
-        {
-            "text": "landslide",
-            "value": 1
-        },
-        {
-            "text": "reported",
-            "value": 1
-        },
-        {
-            "text": "near",
-            "value": 1
-        },
-        {
-            "text": "Lorne",
-            "value": 1
-        },
-        {
-            "text": "Great",
-            "value": 1
-        },
-        {
-            "text": "Ocean",
-            "value": 1
-        },
-        {
-            "text": "Road",
-            "value": 1
-        },
-        {
-            "text": "issued",
-            "value": 1
-        },
-        {
-            "text": "advice",
-            "value": 1
-        },
-        {
-            "text": "warning",
-            "value": 1
-        },
-        {
-            "text": "stay",
-            "value": 1
-        },
-        {
-            "text": "away",
-            "value": 1
-        },
-        {
-            "text": "area",
-            "value": 1
-        },
-        {
-            "text": "may",
-            "value": 1
-        },
-        {
-            "text": "continue",
-            "value": 1
-        },
-        {
-            "text": "move",
-            "value": 1
-        },
-        {
-            "text": "hours",
-            "value": 1
-        },
-        {
-            "text": "days",
-            "value": 1
-        },
-        {
-            "text": "Shanty",
-            "value": 1
-        },
-        {
-            "text": "Gal",
-            "value": 1
-        },
-        {
-            "text": "bath",
-            "value": 1
-        },
-        {
-            "text": "water",
-            "value": 1
-        },
-        {
-            "text": "Get",
-            "value": 1
-        },
-        {
-            "text": "sparkly",
             "value": 1
         }
     ]

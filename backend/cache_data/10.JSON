@@ -1,6 +1,40 @@
 {
-    "count": 33,
+    "count": 25,
     "data": [
+        {
+            "tid": 1583043990253088769,
+            "uid": 126674711,
+            "author": "1994",
+            "user_img": "https://pbs.twimg.com/profile_images/1525300924679614464/K-oy-5R6_normal.jpg",
+            "time": "2022-10-20 10:34:33 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at Hareruya Pantry in Carlton, VIC https://t.co/21FRLsa3Es",
+            "clean_text": "I'm at Hareruya Pantry in Carlton VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.962868,
+            "latitude": -37.803376,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582844972134301698,
+            "uid": 1255697131681153024,
+            "author": "Flick Law",
+            "user_img": "https://pbs.twimg.com/profile_images/1255697530341355520/BfmlKL6R_normal.jpg",
+            "time": "2022-10-19 21:23:43 +0000",
+            "like_no": 42,
+            "language": "en",
+            "text": "Extinction Rebellion targeting another worthy cause today- climate criminals @originenergy  NEW GAS= CLIMATE CHAOS= FLOODS, FIRES EXTINCTION https://t.co/yv0pUi7hGJ",
+            "clean_text": "Extinction Rebellion targeting another worthy cause today climate criminals NEW GAS CLIMATE CHAOS FLOODS FIRES EXTINCTION",
+            "place_name": "321 Exhibition St",
+            "place_type": "poi",
+            "longitude": 144.96837,
+            "latitude": -37.80849,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1582844920989044739/pu/img/88nLZFmkgBajdlv9.jpg"
+            ]
+        },
         {
             "tid": 1582746763207004160,
             "uid": 4608992299,
@@ -391,178 +425,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfBvM7KakAEJMJf.jpg",
                 "https://pbs.twimg.com/media/FfBvM6kakAUJnx7.jpg"
-            ]
-        },
-        {
-            "tid": 1580863931383394305,
-            "uid": 401126669,
-            "author": "Hazie",
-            "user_img": "https://pbs.twimg.com/profile_images/945398442184110081/4Rx-vLBR_normal.jpg",
-            "time": "2022-10-14 10:11:46 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Egyptian for din din (@ Cairo Nights Restaurant &amp; Bar in Carlton, VIC) https://t.co/iMaHmT69oE https://t.co/ta9YvWZ6fv",
-            "clean_text": "Egyptian for din din Cairo Nights Restaurant Bar in Carlton VIC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.967046,
-            "latitude": -37.801263,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfBbXj7VEAAbZ_t.jpg"
-            ]
-        },
-        {
-            "tid": 1580839385645268992,
-            "uid": 14820495,
-            "author": "Chris Rodda",
-            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
-            "time": "2022-10-14 08:34:14 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Here’s an example of my exciting life! #RMIT @ RMIT Melbourne City campus https://t.co/16BjfgrhDj",
-            "clean_text": "Here s an example of my exciting life RMIT Melbourne City campus",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.963,
-            "latitude": -37.8078,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580839153927073793,
-            "uid": 14820495,
-            "author": "Chris Rodda",
-            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
-            "time": "2022-10-14 08:33:19 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Nice to finally try a famous (and very nice indeed) #CollegeDropout burger since they opened an outlet at #RMIT #BowenSt @ RMIT Melbourne City campus https://t.co/9yZt3BmILD",
-            "clean_text": "Nice to finally try a famous and very nice indeed burger since they opened an outlet at RMIT Melbourne City campus",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.963,
-            "latitude": -37.8078,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580794199766892544,
-            "uid": 229576116,
-            "author": "Grant W. Graves",
-            "user_img": "https://pbs.twimg.com/profile_images/1353711737/G_and_Sea_Snake_normal.jpg",
-            "time": "2022-10-14 05:34:41 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "No pics of the penguins. Strictly not allowed. @ Phillip Island Penguin Parade https://t.co/6HAU1eTQGc",
-            "clean_text": "No pics of the penguins Strictly not allowed Phillip Island Penguin Parade",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9682854,
-            "latitude": -37.805101,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580539884783423489,
-            "uid": 1532834563512487936,
-            "author": "Dr Matthew Prendergast",
-            "user_img": "https://pbs.twimg.com/profile_images/1532840440315412480/i1pMdkyw_normal.jpg",
-            "time": "2022-10-13 12:44:08 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "From a recent visit to Melbourne. Ceratopsia are my favourite. https://t.co/97kxKtwXpE",
-            "clean_text": "From a recent visit to Melbourne Ceratopsia are my favourite",
-            "place_name": "Melbourne Museum",
-            "place_type": "poi",
-            "longitude": 144.9716967344284,
-            "latitude": -37.80348577825057,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe80lG6aAAEimm4.jpg"
-            ]
-        },
-        {
-            "tid": 1580462097325924352,
-            "uid": 793416191184207872,
-            "author": "Luna Joy",
-            "user_img": "https://pbs.twimg.com/profile_images/1569631035167752192/1pRsANGf_normal.jpg",
-            "time": "2022-10-13 07:35:02 +0000",
-            "like_no": 10,
-            "language": "en",
-            "text": "Rescued a Blåhaj today, returned them to their natural habitat ☺️💜 https://t.co/h1KbcSCzqM",
-            "clean_text": "Rescued a Bl haj today returned them to their natural habitat",
-            "place_name": "Melbourne Museum",
-            "place_type": "poi",
-            "longitude": 144.9716967344284,
-            "latitude": -37.80348577825057,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7t3EHVEAAsoXf.jpg"
-            ]
-        },
-        {
-            "tid": 1580425126965022720,
-            "uid": 3949609943,
-            "author": "友人圆",
-            "user_img": "https://pbs.twimg.com/profile_images/1513167033575571456/lRrvcoVf_normal.jpg",
-            "time": "2022-10-13 05:08:07 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "I'm at The Oxford Scholar Hotel in Melbourne, Victoria https://t.co/gTSyEKRK2g https://t.co/QQ3oqP02cG",
-            "clean_text": "I'm at The Oxford Scholar Hotel in Melbourne Victoria",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.963193,
-            "latitude": -37.808377,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7MRw6agAAasLY.jpg"
-            ]
-        },
-        {
-            "tid": 1580400401714552832,
-            "uid": 1075628220,
-            "author": "Krule",
-            "user_img": "https://pbs.twimg.com/profile_images/1494947449772953606/3vhXcDi7_normal.jpg",
-            "time": "2022-10-13 03:29:52 +0000",
-            "like_no": 5,
-            "language": "en",
-            "text": "Hey @PlanetFitness Hey @CrunchGym \nMelbourne is calling yall out.",
-            "clean_text": "Hey Hey Melbourne is calling yall out",
-            "place_name": "Anytime Fitness",
-            "place_type": "poi",
-            "longitude": 144.96262022062132,
-            "latitude": -37.80565535741099,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580391205963067392,
-            "uid": 1592708426,
-            "author": "Allanah Sciberras",
-            "user_img": "https://pbs.twimg.com/profile_images/1507274685138219008/KHKKaJHj_normal.jpg",
-            "time": "2022-10-13 02:53:20 +0000",
-            "like_no": 12,
-            "language": "en",
-            "text": "There has been a landslide reported near Lorne on the Great Ocean Road in Victoria. \n@vicemergency has issued an advice warning to stay away from the area as it may \"continue to move for hours or days\". @9NewsMelb @Ninecomau #melbourneweather https://t.co/7yWF8qNcNe",
-            "clean_text": "There has been a landslide reported near Lorne on the Great Ocean Road in Victoria has issued an advice warning to stay away from the area as it may continue to move for hours or days",
-            "place_name": "Lorne",
-            "place_type": "poi",
-            "longitude": 144.9612561707904,
-            "latitude": -37.80671640371127,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe6tGszVUAABEgA.jpg"
-            ]
-        },
-        {
-            "tid": 1580380337645178880,
-            "uid": 60630402,
-            "author": "Dom 🌻",
-            "user_img": "https://pbs.twimg.com/profile_images/1366916999683604481/hkQ4IC5w_normal.jpg",
-            "time": "2022-10-13 02:10:09 +0000",
-            "like_no": 25,
-            "language": "en",
-            "text": "Shanty Gal bath water! Get it while it’s sparkly! ✨✨✨ https://t.co/DdABRjAGHy",
-            "clean_text": "Shanty Gal bath water Get it while it s sparkly",
-            "place_name": "Victorian Trades Hall",
-            "place_type": "poi",
-            "longitude": 144.96624138592315,
-            "latitude": -37.80678509401727,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe6jiF7aUAA6P9Q.jpg"
             ]
         }
     ]

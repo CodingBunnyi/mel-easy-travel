@@ -1,6 +1,58 @@
 {
-    "count": 25,
+    "count": 20,
     "data": [
+        {
+            "tid": 1583250204333309952,
+            "uid": 28442657,
+            "author": "Rowden White Library",
+            "user_img": "https://pbs.twimg.com/profile_images/623379290/CIMG1789_normal.JPG",
+            "time": "2022-10-21 00:13:58 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "You look away for a minute and there’s more new books! These shiny new ones from @readingsbooks will be hitting the shelves soon, let us know if there are any you particularly want fast-tracked for you 🏎️📖🏎️📖🏎️📖 https://t.co/iOGduWLbmg",
+            "clean_text": "You look away for a minute and there s more new books These shiny new ones from will be hitting the shelves soon let us know if there are any you particularly want fast tracked for you",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.96096392,
+            "latitude": -37.79661117,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583043990253088769,
+            "uid": 126674711,
+            "author": "1994",
+            "user_img": "https://pbs.twimg.com/profile_images/1525300924679614464/K-oy-5R6_normal.jpg",
+            "time": "2022-10-20 10:34:33 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at Hareruya Pantry in Carlton, VIC https://t.co/21FRLsa3Es",
+            "clean_text": "I'm at Hareruya Pantry in Carlton VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.962868,
+            "latitude": -37.803376,
+            "photo_urls": []
+        },
+        {
+            "tid": 1582983579289559041,
+            "uid": 86530441,
+            "author": "Bruna Moreira",
+            "user_img": "https://pbs.twimg.com/profile_images/1578247260999065601/VtlYHao7_normal.jpg",
+            "time": "2022-10-20 06:34:30 +0000",
+            "like_no": 8,
+            "language": "en",
+            "text": "What a nice way to conclude our Machine Learning Applications for Health course, in an immersive space!  \n\nIt was an honor to be the Tutor of this team! @DrDouglasPires @dcapurro #SimLab #DigitalHealth #MachineLearning https://t.co/q3GRlDLjwQ",
+            "clean_text": "What a nice way to conclude our Machine Learning Applications for Health course in an immersive space It was an honor to be the Tutor of this team",
+            "place_name": "Melbourne Connect",
+            "place_type": "poi",
+            "longitude": 144.964851,
+            "latitude": -37.799569,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FffjKthVIAAPTvP.jpg",
+                "https://pbs.twimg.com/media/FffjKtiVUAA4t0G.jpg",
+                "https://pbs.twimg.com/media/FffjKtiUAAAhH76.jpg"
+            ]
+        },
         {
             "tid": 1582676212001882113,
             "uid": 1371790259713757185,
@@ -292,151 +344,6 @@
                 "https://pbs.twimg.com/media/FfBqHrSaAAEcVew.jpg",
                 "https://pbs.twimg.com/media/FfBqHrSaYAcUtC6.jpg",
                 "https://pbs.twimg.com/media/FfBqHrTaAAAF2_9.jpg"
-            ]
-        },
-        {
-            "tid": 1580863931383394305,
-            "uid": 401126669,
-            "author": "Hazie",
-            "user_img": "https://pbs.twimg.com/profile_images/945398442184110081/4Rx-vLBR_normal.jpg",
-            "time": "2022-10-14 10:11:46 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Egyptian for din din (@ Cairo Nights Restaurant &amp; Bar in Carlton, VIC) https://t.co/iMaHmT69oE https://t.co/ta9YvWZ6fv",
-            "clean_text": "Egyptian for din din Cairo Nights Restaurant Bar in Carlton VIC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.967046,
-            "latitude": -37.801263,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfBbXj7VEAAbZ_t.jpg"
-            ]
-        },
-        {
-            "tid": 1580733528194809856,
-            "uid": 846207941136957441,
-            "author": "Comm-it Australia (science communication)",
-            "user_img": "https://pbs.twimg.com/profile_images/846209013557559298/YFwcltpg_normal.jpg",
-            "time": "2022-10-14 01:33:36 +0000",
-            "like_no": 8,
-            "language": "en",
-            "text": "Bec Lim sharing all the top tips for shifting from academia to industry at the @VCCCAlliance PhD forum\n\n⭐️ how to get jobs in industry \n⭐️ how important being able to present is \n⭐️ how industry differs from uni \n\n@BiotechBec @PTX_AUS \n\n#womeninSTEM #stem #PhDstudent https://t.co/vVroKvxtfJ",
-            "clean_text": "Bec Lim sharing all the top tips for shifting from academia to industry at the PhD forum how to get jobs in industry how important being able to present is how industry differs from uni",
-            "place_name": "Melbourne Connect",
-            "place_type": "poi",
-            "longitude": 144.964851,
-            "latitude": -37.799569,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe_kwc5acAAmMJ8.jpg"
-            ]
-        },
-        {
-            "tid": 1580465252717580288,
-            "uid": 911430326,
-            "author": "Melbourne Law School",
-            "user_img": "https://pbs.twimg.com/profile_images/1087935700408913920/96YeK14Z_normal.jpg",
-            "time": "2022-10-13 07:47:34 +0000",
-            "like_no": 8,
-            "language": "en",
-            "text": "Thank you, @MarkDreyfusKCMP for delivering an insightful presentation on the rule of law in Australia and internationally at tonight’s Seabrook Chambers Public Lecture. https://t.co/wNgKP8YvHG",
-            "clean_text": "Thank you for delivering an insightful presentation on the rule of law in Australia and internationally at tonight s Seabrook Chambers Public Lecture",
-            "place_name": "Law Building GM-15 - Melbourne University",
-            "place_type": "poi",
-            "longitude": 144.95959117881173,
-            "latitude": -37.80245502035752,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7wxA2UcAA51_l.jpg"
-            ]
-        },
-        {
-            "tid": 1580457877633847296,
-            "uid": 911430326,
-            "author": "Melbourne Law School",
-            "user_img": "https://pbs.twimg.com/profile_images/1087935700408913920/96YeK14Z_normal.jpg",
-            "time": "2022-10-13 07:18:16 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "@MarkDreyfusKCMP discusses the latest findings of the Australian Law Commission Report on judicial bias, Without Fear or Favour: Judicial Impartiality and the Law on Bias.\n \n“As Attorney General, I have an important role to play in safeguarding and promoting the rule of law.” https://t.co/7whDMFdzh5",
-            "clean_text": "discusses the latest findings of the Australian Law Commission Report on judicial bias Without Fear or Favour Judicial Impartiality and the Law on Bias As Attorney General I have an important role to play in safeguarding and promoting the rule of law",
-            "place_name": "Law Building GM-15 - Melbourne University",
-            "place_type": "poi",
-            "longitude": 144.95959117881173,
-            "latitude": -37.80245502035752,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7qDu_VQAExgf2.jpg"
-            ]
-        },
-        {
-            "tid": 1580457865982095362,
-            "uid": 911430326,
-            "author": "Melbourne Law School",
-            "user_img": "https://pbs.twimg.com/profile_images/1087935700408913920/96YeK14Z_normal.jpg",
-            "time": "2022-10-13 07:18:13 +0000",
-            "like_no": 76,
-            "language": "en",
-            "text": "We’re delighted to welcome the Attorney-General of Australia Mark Dreyfus KC MP to present the 2022 Seabrook Chambers Public Lecture at Melbourne Law School tonight.\n \n@MarkDreyfusKCMP will share his thoughts on the need to strengthen the rule of law in this country. https://t.co/9d529BIpzP",
-            "clean_text": "We re delighted to welcome the Attorney General of Australia Mark Dreyfus KC MP to present the 2022 Seabrook Chambers Public Lecture at Melbourne Law School tonight will share his thoughts on the need to strengthen the rule of law in this country",
-            "place_name": "Law Building GM-15 - Melbourne University",
-            "place_type": "poi",
-            "longitude": 144.95959117881173,
-            "latitude": -37.80245502035752,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe7qDCaVUAAMkBp.jpg"
-            ]
-        },
-        {
-            "tid": 1580342678570442753,
-            "uid": 814303195,
-            "author": "Melbourne Connect",
-            "user_img": "https://pbs.twimg.com/profile_images/1057440326183354368/cyfwjrPT_normal.jpg",
-            "time": "2022-10-12 23:40:30 +0000",
-            "like_no": 4,
-            "language": "en",
-            "text": "Great talk by @TimothyKariotis, Research Fellow at @UniMelb, sharing insights on digital governments and industry career tips in today’s @cis_unimelb Doctoral Colloquium. https://t.co/JFeFYRn5LY",
-            "clean_text": "Great talk by Research Fellow at sharing insights on digital governments and industry career tips in today s Doctoral Colloquium",
-            "place_name": "Melbourne Connect",
-            "place_type": "poi",
-            "longitude": 144.964851,
-            "latitude": -37.799569,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1580342617283301376/pu/img/qRbmdKp2vKSZOZa6.jpg"
-            ]
-        },
-        {
-            "tid": 1580339977564880896,
-            "uid": 1121798587,
-            "author": "James Banal",
-            "user_img": "https://pbs.twimg.com/profile_images/1581531106272489472/XyvBkGv8_normal.jpg",
-            "time": "2022-10-12 23:29:46 +0000",
-            "like_no": 12,
-            "language": "en",
-            "text": "Back in the old stomping grounds! https://t.co/4QO1BWMUcR",
-            "clean_text": "Back in the old stomping grounds",
-            "place_name": "The University of Melbourne",
-            "place_type": "poi",
-            "longitude": 144.9621703817303,
-            "latitude": -37.79877607670422,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe5-1K_aAAYWnRP.jpg"
-            ]
-        },
-        {
-            "tid": 1580320197353037824,
-            "uid": 940445534556364800,
-            "author": "Computing & Information Systems UniMelb",
-            "user_img": "https://pbs.twimg.com/profile_images/1009939817579180040/-7ciuHkB_normal.jpg",
-            "time": "2022-10-12 22:11:10 +0000",
-            "like_no": 5,
-            "language": "en",
-            "text": "It's Doctoral Colloquium day! The 8th annual @cis_dc is about to kick off with keynotes from Ed Hovy and Tim Kariotis. https://t.co/4MWeG1AKKM",
-            "clean_text": "It's Doctoral Colloquium day The 8th annual is about to kick off with keynotes from Ed Hovy and Tim Kariotis",
-            "place_name": "Melbourne Connect",
-            "place_type": "poi",
-            "longitude": 144.964851,
-            "latitude": -37.799569,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/Fe5s0YBaUAEkvnh.jpg",
-                "https://pbs.twimg.com/media/Fe5s1bcaMAEYKR2.jpg"
             ]
         }
     ]

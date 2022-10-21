@@ -1,20 +1,780 @@
 {
     "word_freq": [
         {
+            "text": "Table",
+            "value": 1
+        },
+        {
+            "text": "confirmed",
+            "value": 1
+        },
+        {
+            "text": "Zine",
+            "value": 1
+        },
+        {
+            "text": "Fair",
+            "value": 1
+        },
+        {
+            "text": "week",
+            "value": 3
+        },
+        {
+            "text": "go",
+            "value": 1
+        },
+        {
+            "text": "Mission",
+            "value": 2
+        },
+        {
+            "text": "Seafarers",
+            "value": 2
+        },
+        {
+            "text": "Victoria",
+            "value": 2
+        },
+        {
+            "text": "Great",
+            "value": 3
+        },
+        {
+            "text": "talk",
+            "value": 4
+        },
+        {
+            "text": "lab",
+            "value": 1
+        },
+        {
+            "text": "linking",
+            "value": 1
+        },
+        {
+            "text": "diet",
+            "value": 2
+        },
+        {
+            "text": "gut",
+            "value": 1
+        },
+        {
+            "text": "microbiome",
+            "value": 1
+        },
+        {
+            "text": "phenotype",
+            "value": 1
+        },
+        {
+            "text": "pre",
+            "value": 1
+        },
+        {
+            "text": "diabetes",
+            "value": 2
+        },
+        {
+            "text": "Day",
+            "value": 7
+        },
+        {
+            "text": "International",
+            "value": 6
+        },
+        {
+            "text": "Congress",
+            "value": 6
+        },
+        {
+            "text": "Obesity",
+            "value": 7
+        },
+        {
+            "text": "day",
+            "value": 2
+        },
+        {
+            "text": "present",
+            "value": 3
+        },
+        {
+            "text": "epidemiology",
+            "value": 1
+        },
+        {
+            "text": "weight",
+            "value": 3
+        },
+        {
+            "text": "gain",
+            "value": 1
+        },
+        {
+            "text": "people",
+            "value": 2
+        },
+        {
+            "text": "serious",
+            "value": 1
+        },
+        {
+            "text": "mental",
+            "value": 2
+        },
+        {
+            "text": "illness",
+            "value": 2
+        },
+        {
+            "text": "using",
+            "value": 1
+        },
+        {
+            "text": "data",
+            "value": 1
+        },
+        {
+            "text": "Thank",
+            "value": 2
+        },
+        {
+            "text": "invitation",
+            "value": 1
+        },
+        {
+            "text": "getting",
+            "value": 2
+        },
+        {
+            "text": "stand",
+            "value": 1
+        },
+        {
+            "text": "shoulders",
+            "value": 1
+        },
+        {
+            "text": "giants",
+            "value": 1
+        },
+        {
+            "text": "mentor",
+            "value": 1
+        },
+        {
+            "text": "ro",
+            "value": 1
+        },
+        {
+            "text": "Dr",
+            "value": 2
+        },
+        {
+            "text": "Shiriki",
+            "value": 1
+        },
+        {
+            "text": "Kumanyika",
+            "value": 1
+        },
+        {
+            "text": "received",
+            "value": 1
+        },
+        {
+            "text": "James",
+            "value": 1
+        },
+        {
+            "text": "Award",
+            "value": 1
+        },
+        {
+            "text": "global",
+            "value": 2
+        },
+        {
+            "text": "force",
+            "value": 1
+        },
+        {
+            "text": "health",
+            "value": 2
+        },
+        {
+            "text": "equity",
+            "value": 1
+        },
+        {
+            "text": "obesity",
+            "value": 6
+        },
+        {
+            "text": "prevention",
+            "value": 3
+        },
+        {
+            "text": "privileged",
+            "value": 1
+        },
+        {
+            "text": "learn",
+            "value": 1
+        },
+        {
+            "text": "West",
+            "value": 2
+        },
+        {
+            "text": "Gate",
+            "value": 2
+        },
+        {
+            "text": "Fwy",
+            "value": 2
+        },
+        {
+            "text": "M1",
+            "value": 2
+        },
+        {
+            "text": "Docklands",
+            "value": 1
+        },
+        {
+            "text": "lanes",
+            "value": 3
+        },
+        {
+            "text": "closed",
+            "value": 4
+        },
+        {
+            "text": "inbound",
+            "value": 2
+        },
+        {
+            "text": "Left",
+            "value": 1
+        },
+        {
+            "text": "lane",
+            "value": 1
+        },
+        {
+            "text": "Montague",
+            "value": 1
+        },
+        {
+            "text": "Street",
+            "value": 1
+        },
+        {
+            "text": "Cool",
+            "value": 1
+        },
+        {
+            "text": "news",
+            "value": 1
+        },
+        {
+            "text": "Tonight",
+            "value": 1
+        },
+        {
+            "text": "ill",
+            "value": 1
+        },
+        {
+            "text": "competing",
+            "value": 1
+        },
+        {
+            "text": "Arena",
+            "value": 1
+        },
+        {
+            "text": "Series",
+            "value": 1
+        },
+        {
+            "text": "fan",
+            "value": 1
+        },
+        {
+            "text": "contest",
+            "value": 1
+        },
+        {
+            "text": "winner",
+            "value": 1
+        },
+        {
+            "text": "Stream",
+            "value": 1
+        },
+        {
+            "text": "Starts",
+            "value": 1
+        },
+        {
+            "text": "30pm",
+            "value": 1
+        },
+        {
+            "text": "Catch",
+            "value": 1
+        },
+        {
+            "text": "Uplifting",
+            "value": 1
+        },
+        {
+            "text": "presentation",
+            "value": 1
+        },
+        {
+            "text": "anti",
+            "value": 1
+        },
+        {
+            "text": "medications",
+            "value": 1
+        },
+        {
+            "text": "available",
+            "value": 1
+        },
+        {
+            "text": "pipeline",
+            "value": 1
+        },
+        {
+            "text": "takeaway",
+            "value": 1
+        },
+        {
+            "text": "still",
+            "value": 1
+        },
+        {
+            "text": "need",
+            "value": 3
+        },
+        {
+            "text": "simultaneously",
+            "value": 1
+        },
+        {
+            "text": "address",
+            "value": 1
+        },
+        {
+            "text": "obesogenic",
+            "value": 1
+        },
+        {
+            "text": "environment",
+            "value": 2
+        },
+        {
+            "text": "stigma",
+            "value": 1
+        },
+        {
+            "text": "improve",
+            "value": 2
+        },
+        {
+            "text": "patient",
+            "value": 1
+        },
+        {
+            "text": "examples",
+            "value": 2
+        },
+        {
+            "text": "involving",
+            "value": 1
+        },
+        {
+            "text": "retailers",
+            "value": 1
+        },
+        {
+            "text": "via",
+            "value": 1
+        },
+        {
+            "text": "co",
+            "value": 2
+        },
+        {
+            "text": "designed",
+            "value": 1
+        },
+        {
+            "text": "created",
+            "value": 1
+        },
+        {
+            "text": "initiatives",
+            "value": 2
+        },
+        {
+            "text": "toolkits",
+            "value": 1
+        },
+        {
+            "text": "help",
+            "value": 1
+        },
+        {
+            "text": "make",
+            "value": 1
+        },
+        {
+            "text": "stores",
+            "value": 1
+        },
+        {
+            "text": "healthier",
+            "value": 1
+        },
+        {
+            "text": "food",
+            "value": 2
+        },
+        {
+            "text": "riverside",
+            "value": 1
+        },
+        {
+            "text": "social",
+            "value": 1
+        },
+        {
+            "text": "jaw",
+            "value": 1
+        },
+        {
+            "text": "dropping",
+            "value": 1
+        },
+        {
+            "text": "industry",
+            "value": 1
+        },
+        {
+            "text": "tactics",
+            "value": 1
+        },
+        {
+            "text": "Mexico",
+            "value": 4
+        },
+        {
             "text": "posted",
-            "value": 12
+            "value": 10
         },
         {
             "text": "photo",
-            "value": 12
+            "value": 10
+        },
+        {
+            "text": "Melbourne",
+            "value": 11
+        },
+        {
+            "text": "Convention",
+            "value": 6
+        },
+        {
+            "text": "Exhibition",
+            "value": 6
+        },
+        {
+            "text": "Centre",
+            "value": 6
+        },
+        {
+            "text": "MCEC",
+            "value": 5
+        },
+        {
+            "text": "South",
+            "value": 3
+        },
+        {
+            "text": "Wharf",
+            "value": 3
+        },
+        {
+            "text": "outbound",
+            "value": 2
+        },
+        {
+            "text": "Two",
+            "value": 1
+        },
+        {
+            "text": "right",
+            "value": 1
+        },
+        {
+            "text": "Excellent",
+            "value": 1
+        },
+        {
+            "text": "Ultra",
+            "value": 1
+        },
+        {
+            "text": "processed",
+            "value": 1
+        },
+        {
+            "text": "foods",
+            "value": 2
+        },
+        {
+            "text": "making",
+            "value": 2
+        },
+        {
+            "text": "Australians",
+            "value": 1
+        },
+        {
+            "text": "shopping",
+            "value": 1
+        },
+        {
+            "text": "baskets",
+            "value": 1
+        },
+        {
+            "text": "consistently",
+            "value": 1
+        },
+        {
+            "text": "higher",
+            "value": 1
+        },
+        {
+            "text": "living",
+            "value": 1
+        },
+        {
+            "text": "low",
+            "value": 1
+        },
+        {
+            "text": "SES",
+            "value": 1
+        },
+        {
+            "text": "areas",
+            "value": 1
+        },
+        {
+            "text": "Key",
+            "value": 1
+        },
+        {
+            "text": "findings",
+            "value": 1
+        },
+        {
+            "text": "upcoming",
+            "value": 1
+        },
+        {
+            "text": "review",
+            "value": 1
+        },
+        {
+            "text": "Aus",
+            "value": 2
+        },
+        {
+            "text": "guidelines",
+            "value": 1
+        },
+        {
+            "text": "Sharing",
+            "value": 1
+        },
+        {
+            "text": "methods",
+            "value": 2
+        },
+        {
+            "text": "maximise",
+            "value": 1
+        },
+        {
+            "text": "evidence",
+            "value": 1
+        },
+        {
+            "text": "synthesis",
+            "value": 1
+        },
+        {
+            "text": "learnt",
+            "value": 1
+        },
+        {
+            "text": "Fascinating",
+            "value": 1
+        },
+        {
+            "text": "sugary",
+            "value": 1
+        },
+        {
+            "text": "drinks",
+            "value": 1
+        },
+        {
+            "text": "tax",
+            "value": 1
+        },
+        {
+            "text": "warning",
+            "value": 2
+        },
+        {
+            "text": "labels",
+            "value": 3
+        },
+        {
+            "text": "successful",
+            "value": 1
+        },
+        {
+            "text": "cutting",
+            "value": 1
+        },
+        {
+            "text": "sugar",
+            "value": 1
+        },
+        {
+            "text": "levels",
+            "value": 1
+        },
+        {
+            "text": "lead",
+            "value": 1
+        },
+        {
+            "text": "use",
+            "value": 2
+        },
+        {
+            "text": "sweeteners",
+            "value": 1
+        },
+        {
+            "text": "led",
+            "value": 1
+        },
+        {
+            "text": "development",
+            "value": 1
+        },
+        {
+            "text": "precautionary",
+            "value": 1
+        },
+        {
+            "text": "look",
+            "value": 1
+        },
+        {
+            "text": "easy",
+            "value": 1
+        },
+        {
+            "text": "Come",
+            "value": 2
+        },
+        {
+            "text": "check",
+            "value": 1
+        },
+        {
+            "text": "posters",
+            "value": 1
+        },
+        {
+            "text": "afternoon",
+            "value": 1
+        },
+        {
+            "text": "running",
+            "value": 1
+        },
+        {
+            "text": "P212",
+            "value": 1
+        },
+        {
+            "text": "P232",
+            "value": 1
+        },
+        {
+            "text": "presenting",
+            "value": 2
+        },
+        {
+            "text": "work",
+            "value": 6
+        },
+        {
+            "text": "prelim",
+            "value": 1
+        },
+        {
+            "text": "delivery",
+            "value": 1
+        },
+        {
+            "text": "feature",
+            "value": 1
+        },
+        {
+            "text": "results",
+            "value": 2
+        },
+        {
+            "text": "intervention",
+            "value": 1
+        },
+        {
+            "text": "coding",
+            "value": 1
+        },
+        {
+            "text": "project",
+            "value": 1
+        },
+        {
+            "text": "Protocol",
+            "value": 1
         },
         {
             "text": "PAX",
-            "value": 9
+            "value": 7
         },
         {
             "text": "AU",
-            "value": 9
+            "value": 7
         },
         {
             "text": "receiving",
@@ -45,10 +805,6 @@
             "value": 1
         },
         {
-            "text": "work",
-            "value": 5
-        },
-        {
             "text": "event",
             "value": 1
         },
@@ -57,31 +813,7 @@
             "value": 1
         },
         {
-            "text": "Day",
-            "value": 4
-        },
-        {
-            "text": "International",
-            "value": 4
-        },
-        {
-            "text": "Congress",
-            "value": 4
-        },
-        {
-            "text": "Obesity",
-            "value": 5
-        },
-        {
             "text": "Serious",
-            "value": 1
-        },
-        {
-            "text": "mental",
-            "value": 1
-        },
-        {
-            "text": "illness",
             "value": 1
         },
         {
@@ -95,10 +827,6 @@
         {
             "text": "attention",
             "value": 1
-        },
-        {
-            "text": "Thank",
-            "value": 2
         },
         {
             "text": "intra",
@@ -137,10 +865,6 @@
             "value": 4
         },
         {
-            "text": "Dr",
-            "value": 1
-        },
-        {
             "text": "Yagnik",
             "value": 1
         },
@@ -149,27 +873,11 @@
             "value": 1
         },
         {
-            "text": "Come",
-            "value": 1
-        },
-        {
             "text": "chat",
             "value": 1
         },
         {
             "text": "taxonomy",
-            "value": 1
-        },
-        {
-            "text": "use",
-            "value": 1
-        },
-        {
-            "text": "obesity",
-            "value": 3
-        },
-        {
-            "text": "prevention",
             "value": 1
         },
         {
@@ -217,10 +925,6 @@
             "value": 1
         },
         {
-            "text": "presenting",
-            "value": 1
-        },
-        {
             "text": "international",
             "value": 1
         },
@@ -234,18 +938,10 @@
         },
         {
             "text": "great",
-            "value": 3
-        },
-        {
-            "text": "results",
-            "value": 1
+            "value": 2
         },
         {
             "text": "tier",
-            "value": 1
-        },
-        {
-            "text": "weight",
             "value": 1
         },
         {
@@ -266,10 +962,6 @@
         },
         {
             "text": "defeat",
-            "value": 1
-        },
-        {
-            "text": "diabetes",
             "value": 1
         },
         {
@@ -307,14 +999,6 @@
         {
             "text": "travel",
             "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 12
-        },
-        {
-            "text": "present",
-            "value": 2
         },
         {
             "text": "research",
@@ -473,10 +1157,6 @@
             "value": 1
         },
         {
-            "text": "week",
-            "value": 1
-        },
-        {
             "text": "learning",
             "value": 1
         },
@@ -494,10 +1174,6 @@
         },
         {
             "text": "discussing",
-            "value": 1
-        },
-        {
-            "text": "global",
             "value": 1
         },
         {
@@ -522,10 +1198,6 @@
         },
         {
             "text": "finally",
-            "value": 1
-        },
-        {
-            "text": "getting",
             "value": 1
         },
         {
@@ -569,18 +1241,6 @@
             "value": 1
         },
         {
-            "text": "warning",
-            "value": 1
-        },
-        {
-            "text": "labels",
-            "value": 1
-        },
-        {
-            "text": "Mexico",
-            "value": 1
-        },
-        {
             "text": "Thanks",
             "value": 3
         },
@@ -597,19 +1257,11 @@
             "value": 2
         },
         {
-            "text": "initiatives",
-            "value": 1
-        },
-        {
             "text": "shared",
             "value": 1
         },
         {
             "text": "Ghana",
-            "value": 1
-        },
-        {
-            "text": "examples",
             "value": 1
         },
         {
@@ -626,7 +1278,7 @@
         },
         {
             "text": "today",
-            "value": 3
+            "value": 2
         },
         {
             "text": "INFORMAS",
@@ -661,10 +1313,6 @@
             "value": 1
         },
         {
-            "text": "day",
-            "value": 1
-        },
-        {
             "text": "Trip",
             "value": 1
         },
@@ -674,10 +1322,6 @@
         },
         {
             "text": "City",
-            "value": 1
-        },
-        {
-            "text": "Great",
             "value": 1
         },
         {
@@ -731,22 +1375,6 @@
         {
             "text": "wooo",
             "value": 1
-        },
-        {
-            "text": "Convention",
-            "value": 7
-        },
-        {
-            "text": "Exhibition",
-            "value": 7
-        },
-        {
-            "text": "Centre",
-            "value": 7
-        },
-        {
-            "text": "MCEC",
-            "value": 6
         },
         {
             "text": "Live",
@@ -861,23 +1489,7 @@
             "value": 3
         },
         {
-            "text": "need",
-            "value": 1
-        },
-        {
             "text": "lie",
-            "value": 1
-        },
-        {
-            "text": "Mission",
-            "value": 1
-        },
-        {
-            "text": "Seafarers",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
             "value": 1
         },
         {
@@ -891,14 +1503,6 @@
         {
             "text": "DFO",
             "value": 1
-        },
-        {
-            "text": "South",
-            "value": 2
-        },
-        {
-            "text": "Wharf",
-            "value": 2
         },
         {
             "text": "Lecture",
@@ -973,139 +1577,11 @@
             "value": 1
         },
         {
-            "text": "talk",
-            "value": 1
-        },
-        {
             "text": "celebrity",
             "value": 1
         },
         {
             "text": "crush",
-            "value": 1
-        },
-        {
-            "text": "way",
-            "value": 1
-        },
-        {
-            "text": "wrap",
-            "value": 1
-        },
-        {
-            "text": "John's",
-            "value": 1
-        },
-        {
-            "text": "smile",
-            "value": 1
-        },
-        {
-            "text": "drinks",
-            "value": 1
-        },
-        {
-            "text": "city",
-            "value": 1
-        },
-        {
-            "text": "Go",
-            "value": 1
-        },
-        {
-            "text": "Monash",
-            "value": 1
-        },
-        {
-            "text": "Radiography",
-            "value": 1
-        },
-        {
-            "text": "Long",
-            "value": 1
-        },
-        {
-            "text": "boi",
-            "value": 1
-        },
-        {
-            "text": "heccin",
-            "value": 1
-        },
-        {
-            "text": "stretch",
-            "value": 1
-        },
-        {
-            "text": "Streamer",
-            "value": 1
-        },
-        {
-            "text": "Booth",
-            "value": 1
-        },
-        {
-            "text": "guests",
-            "value": 2
-        },
-        {
-            "text": "speakers",
-            "value": 2
-        },
-        {
-            "text": "Practice",
-            "value": 1
-        },
-        {
-            "text": "Prize",
-            "value": 1
-        },
-        {
-            "text": "winner",
-            "value": 1
-        },
-        {
-            "text": "sponsors",
-            "value": 1
-        },
-        {
-            "text": "staff",
-            "value": 1
-        },
-        {
-            "text": "making",
-            "value": 1
-        },
-        {
-            "text": "Tuesday's",
-            "value": 1
-        },
-        {
-            "text": "roaring",
-            "value": 1
-        },
-        {
-            "text": "success",
-            "value": 1
-        },
-        {
-            "text": "See",
-            "value": 1
-        },
-        {
-            "text": "next",
-            "value": 1
-        },
-        {
-            "text": "one",
-            "value": 1
-        },
-        {
-            "text": "Attending",
-            "value": 1
-        },
-        {
-            "text": "organized",
             "value": 1
         }
     ]

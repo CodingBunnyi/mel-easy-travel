@@ -1,19 +1,219 @@
 {
     "word_freq": [
         {
+            "text": "amazing",
+            "value": 2
+        },
+        {
+            "text": "eve",
+            "value": 1
+        },
+        {
+            "text": "posted",
+            "value": 4
+        },
+        {
+            "text": "photo",
+            "value": 4
+        },
+        {
+            "text": "Melbourne",
+            "value": 10
+        },
+        {
+            "text": "Recital",
+            "value": 2
+        },
+        {
+            "text": "Centre",
+            "value": 3
+        },
+        {
+            "text": "Langham",
+            "value": 1
+        },
+        {
+            "text": "Women",
+            "value": 1
+        },
+        {
+            "text": "Media",
+            "value": 1
+        },
+        {
+            "text": "Jill",
+            "value": 2
+        },
+        {
+            "text": "Singer",
+            "value": 2
+        },
+        {
+            "text": "Lecture",
+            "value": 1
+        },
+        {
+            "text": "last",
+            "value": 2
+        },
+        {
+            "text": "night",
+            "value": 2
+        },
+        {
+            "text": "listening",
+            "value": 1
+        },
+        {
+            "text": "Annika",
+            "value": 2
+        },
+        {
+            "text": "Smethurst",
+            "value": 2
+        },
+        {
+            "text": "insight",
+            "value": 2
+        },
+        {
+            "text": "advice",
+            "value": 2
+        },
+        {
+            "text": "Thanks",
+            "value": 1
+        },
+        {
+            "text": "providing",
+            "value": 1
+        },
+        {
+            "text": "opportunity",
+            "value": 1
+        },
+        {
+            "text": "attend",
+            "value": 1
+        },
+        {
+            "text": "involved",
+            "value": 1
+        },
+        {
+            "text": "Photo",
+            "value": 1
+        },
+        {
+            "text": "credit",
+            "value": 1
+        },
+        {
+            "text": "Age",
+            "value": 1
+        },
+        {
+            "text": "state",
+            "value": 1
+        },
+        {
+            "text": "political",
+            "value": 1
+        },
+        {
+            "text": "editor",
+            "value": 1
+        },
+        {
+            "text": "treated",
+            "value": 1
+        },
+        {
+            "text": "engaged",
+            "value": 1
+        },
+        {
+            "text": "audience",
+            "value": 1
+        },
+        {
+            "text": "plenty",
+            "value": 1
+        },
+        {
+            "text": "valuable",
+            "value": 1
+        },
+        {
+            "text": "record",
+            "value": 1
+        },
+        {
+            "text": "Congratulations",
+            "value": 1
+        },
+        {
+            "text": "team",
+            "value": 2
+        },
+        {
+            "text": "putting",
+            "value": 1
+        },
+        {
+            "text": "together",
+            "value": 1
+        },
+        {
+            "text": "tonight",
+            "value": 1
+        },
+        {
+            "text": "lecture",
+            "value": 1
+        },
+        {
+            "text": "Good",
+            "value": 1
+        },
+        {
+            "text": "Afternoon",
+            "value": 1
+        },
+        {
+            "text": "Belgium",
+            "value": 1
+        },
+        {
+            "text": "Beef",
+            "value": 1
+        },
+        {
+            "text": "Australia",
+            "value": 1
+        },
+        {
+            "text": "Weather",
+            "value": 1
+        },
+        {
+            "text": "19C",
+            "value": 1
+        },
+        {
+            "text": "Eureka",
+            "value": 1
+        },
+        {
+            "text": "Skydeck",
+            "value": 2
+        },
+        {
             "text": "good",
             "value": 2
         },
         {
             "text": "home",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 7
-        },
-        {
-            "text": "Skydeck",
             "value": 1
         },
         {
@@ -45,10 +245,6 @@
             "value": 1
         },
         {
-            "text": "team",
-            "value": 1
-        },
-        {
             "text": "catch",
             "value": 2
         },
@@ -59,14 +255,6 @@
         {
             "text": "sun",
             "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 2
-        },
-        {
-            "text": "photo",
-            "value": 2
         },
         {
             "text": "Arbory",
@@ -153,16 +341,8 @@
             "value": 1
         },
         {
-            "text": "Recital",
-            "value": 1
-        },
-        {
-            "text": "Centre",
-            "value": 2
-        },
-        {
             "text": "Nice",
-            "value": 2
+            "value": 1
         },
         {
             "text": "drop",
@@ -249,14 +429,6 @@
             "value": 1
         },
         {
-            "text": "last",
-            "value": 1
-        },
-        {
-            "text": "night",
-            "value": 2
-        },
-        {
             "text": "still",
             "value": 1
         },
@@ -330,7 +502,7 @@
         },
         {
             "text": "great",
-            "value": 2
+            "value": 1
         },
         {
             "text": "ups",
@@ -358,98 +530,6 @@
         },
         {
             "text": "Arts",
-            "value": 1
-        },
-        {
-            "text": "Friday",
-            "value": 1
-        },
-        {
-            "text": "drinks",
-            "value": 1
-        },
-        {
-            "text": "Dagwood",
-            "value": 1
-        },
-        {
-            "text": "Deli",
-            "value": 1
-        },
-        {
-            "text": "like",
-            "value": 1
-        },
-        {
-            "text": "beer",
-            "value": 1
-        },
-        {
-            "text": "Come",
-            "value": 1
-        },
-        {
-            "text": "Belgian",
-            "value": 1
-        },
-        {
-            "text": "Beer",
-            "value": 1
-        },
-        {
-            "text": "Cafe",
-            "value": 1
-        },
-        {
-            "text": "kind",
-            "value": 1
-        },
-        {
-            "text": "sad",
-            "value": 1
-        },
-        {
-            "text": "water",
-            "value": 1
-        },
-        {
-            "text": "fountain",
-            "value": 1
-        },
-        {
-            "text": "memorial",
-            "value": 1
-        },
-        {
-            "text": "black",
-            "value": 1
-        },
-        {
-            "text": "swan",
-            "value": 1
-        },
-        {
-            "text": "called",
-            "value": 1
-        },
-        {
-            "text": "Cookie",
-            "value": 1
-        },
-        {
-            "text": "lived",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "ago",
-            "value": 1
-        },
-        {
-            "text": "back",
             "value": 1
         }
     ]

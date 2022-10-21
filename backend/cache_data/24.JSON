@@ -1,23 +1,4 @@
 {
-    "count": 1,
-    "data": [
-        {
-            "tid": 1580465634781310977,
-            "uid": 16727221,
-            "author": "Chris McLay",
-            "user_img": "https://pbs.twimg.com/profile_images/1399918718839189508/rYr9f3lQ_normal.jpg",
-            "time": "2022-10-13 07:49:05 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Clouds coming and going again. https://t.co/bGoAFQDRUe",
-            "clean_text": "Clouds coming and going again",
-            "place_name": "Arden Gardens",
-            "place_type": "poi",
-            "longitude": 144.9407,
-            "latitude": -37.795902,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1580465547560751104/pu/img/40p4STILMUQ-_aXk.jpg"
-            ]
-        }
-    ]
+    "count": 0,
+    "data": []
 }

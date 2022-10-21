@@ -10,7 +10,7 @@
         },
         {
             "text": "Maribyrnong",
-            "value": 2
+            "value": 1
         },
         {
             "text": "flooded",
@@ -26,15 +26,15 @@
         },
         {
             "text": "Ballarat",
-            "value": 6
+            "value": 2
         },
         {
             "text": "Rd",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Footscray",
-            "value": 2
+            "value": 1
         },
         {
             "text": "lanes",
@@ -42,7 +42,7 @@
         },
         {
             "text": "closed",
-            "value": 4
+            "value": 2
         },
         {
             "text": "inbound",
@@ -50,138 +50,14 @@
         },
         {
             "text": "Smithfield",
-            "value": 3
+            "value": 1
         },
         {
             "text": "Road",
-            "value": 6
+            "value": 1
         },
         {
             "text": "citybound",
-            "value": 1
-        },
-        {
-            "text": "Closed",
-            "value": 2
-        },
-        {
-            "text": "directions",
-            "value": 1
-        },
-        {
-            "text": "investment",
-            "value": 1
-        },
-        {
-            "text": "tracks",
-            "value": 1
-        },
-        {
-            "text": "infrastructure",
-            "value": 1
-        },
-        {
-            "text": "gets",
-            "value": 1
-        },
-        {
-            "text": "Flooding",
-            "value": 1
-        },
-        {
-            "text": "50m",
-            "value": 1
-        },
-        {
-            "text": "away",
-            "value": 1
-        },
-        {
-            "text": "course",
-            "value": 2
-        },
-        {
-            "text": "proper",
-            "value": 2
-        },
-        {
-            "text": "looking",
-            "value": 1
-        },
-        {
-            "text": "outstanding",
-            "value": 1
-        },
-        {
-            "text": "Great",
-            "value": 1
-        },
-        {
-            "text": "Victorian",
-            "value": 1
-        },
-        {
-            "text": "Chamber",
-            "value": 1
-        },
-        {
-            "text": "Commerce",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 1
-        },
-        {
-            "text": "Cup",
-            "value": 1
-        },
-        {
-            "text": "Carnival",
-            "value": 1
-        },
-        {
-            "text": "Lunch",
-            "value": 1
-        },
-        {
-            "text": "Guest",
-            "value": 1
-        },
-        {
-            "text": "panel",
-            "value": 1
-        },
-        {
-            "text": "Damien",
-            "value": 1
-        },
-        {
-            "text": "Oliver",
-            "value": 1
-        },
-        {
-            "text": "Emma",
-            "value": 1
-        },
-        {
-            "text": "Freedman",
-            "value": 1
-        },
-        {
-            "text": "Kensington",
-            "value": 1
-        },
-        {
-            "text": "babies",
-            "value": 1
-        },
-        {
-            "text": "learning",
-            "value": 1
-        },
-        {
-            "text": "ropes",
             "value": 1
         }
     ]
