@@ -5,6 +5,7 @@ import updater
 import wordcloud
 import realtime
 import heatmap
+import counter
 import sys
 
 # DEFAULT VALUES
@@ -99,6 +100,20 @@ def get_realtime_point():
         return 'Parameter Value Error'
 
     return realtime.realtime_point_data(long, lat, radius)
+
+
+# Get realtime twitter count data
+# Need location id
+# Default radius is 0.5 km if not passed.
+@app.route('/realtime-count-data', methods=['get'])
+def get_realtime_count():
+    try:
+        loc_id = request.args.get('loc_id', default=DEFAULT_ID)
+        radius = float(request.args.get('radius', default=DEFAULT_RADIUS))
+    except (TypeError, ValueError, NameError):
+        return 'Parameter Value Error'
+
+    return counter.get_count_location(loc_id, radius)
 
 
 # Running app
