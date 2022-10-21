@@ -27,17 +27,17 @@ export const getHeatMapData = () =>
     url: 'http://localhost:3000/heat-map-data',
   });
 
-export const getWiKiPediaData = (titles) => 
+export const getTwitterDailyData = (loc_id) =>
   axios({
     method: 'get',
-    url: 'https://en.wikipedia.org/w/api.php',
+    url: 'http://localhost:3000/realtime-count-data',
     params: {
-      format: 'json',
-      action: 'query',
-      prop: 'extracts',
-      explaintext: 1,
-      redirects: 1,
-      titles,
-      origin: '*',
+      loc_id,
     },
-  })
+  });
+
+export const getOverallWordCloudData = () =>
+  axios({
+    method: 'get',
+    url: 'http://localhost:3000/overall-word-cloud-data',
+  });

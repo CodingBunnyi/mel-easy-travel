@@ -8,7 +8,7 @@ import Map, {
 } from 'react-map-gl';
 
 import 'mapbox-gl/dist/mapbox-gl.css';
-import { getTwitterData, getWordCloudData } from '../../../../utils/twitterDataApi';
+import { getTwitterData, getWordCloudData, getTwitterDailyData } from '../../../../utils/twitterDataApi';
 import Mel_POIs_Data from '../../../../data/Melbourne_POIs_MGA.json'
 import ChurchPin from './components/ChurchPin';
 import {createRoot} from 'react-dom/client';
@@ -33,9 +33,9 @@ import Divider from '@mui/material/Divider';
 import BusRouteLayer from './components/BusRouteLayer';
 import BicycleRouteLayer from './components/BicycleRouteLayer';
 import BusMetroRouteLayer from './components/BusMetroRouteLayer';
+import DailyBarChart from './components/DailyBarChart';
 import { HeatMapLayer, CircleLayer }from './components/HeatMapLayer';
-// eslint-disable-next-line no-unused-vars
-import { getHeatMapData, getWiKiPediaData } from '../../../../utils/twitterDataApi';
+import { getHeatMapData } from '../../../../utils/twitterDataApi';
 
 // Tab
 function TabPanel(props) {
@@ -81,9 +81,11 @@ export default function MelCityMap() {
   const [selected, setSelected] = useState(null); //onClick status of Mel_POIs_Data
   const [selectedTwitterInfo, setSelectedTwitterInfo] = useState({count: 0, data: []});
   const [wordCloud, setWordCould] = useState([]);
+  const [twitterDailyData, setTwitterDailyData] = useState([]);
   const [loading, setLoading] = useState({
     twitterData: false,
     wordCloud: false,
+    twitterDailyData: false,
   });
   // eslint-disable-next-line no-unused-vars
   const [wikiData, setWikiData] = useState([]);
@@ -110,9 +112,11 @@ export default function MelCityMap() {
     setLoading({
       twitterData: true,
       wordCloud: true,
+      twitterDailyData: true,
     });
     setSelectedTwitterInfo({count: 0, data: []});
     setWordCould([]);
+    setTwitterDailyData([]);
 
     const twitterResponse = await getTwitterData(poi.longitude, poi.latitude, 0.5, 10)
     if (twitterResponse.status === 200) {
@@ -126,10 +130,11 @@ export default function MelCityMap() {
       setLoading({...loading, wordCloud: false});
     }
 
-    // const wikiDataResponse = await getWiKiPediaData(`${poi.FeatureName}`)
-    // if (wikiDataResponse.status === 200) {
-    //   // setWikiData()
-    // }
+    const twitterDailyResponse = await getTwitterDailyData(poi.ID)
+    if (twitterDailyResponse.status === 200) {
+      setTwitterDailyData(twitterDailyResponse.data.data)
+      setLoading({...loading, twitterDailyData: false});
+    }
   }
 
   useEffect(() => {
@@ -150,7 +155,6 @@ export default function MelCityMap() {
   const pins = useMemo(
     () =>
       Mel_POIs_Data?.map(poi => {
-        console.log(poi)
         return(
           <Marker 
             longitude= { poi.longitude }
@@ -214,6 +218,7 @@ export default function MelCityMap() {
             <Tabs value={ value } onChange={ handleChange } >
               <Tab label="Twitter" { ...a11yProps(0) } />
               <Tab label="Word Cloud" { ...a11yProps(1) } />
+              <Tab label="Daily Twitter Count" { ...a11yProps(2) } />
             </Tabs>
           </Box>
 
@@ -276,7 +281,7 @@ export default function MelCityMap() {
                       ) : null }  
                       
                       <Box>
-                        <img src={ tweet.photo_urls[0] } width={ 390 } />
+                        <img src={ tweet.photo_urls[0] } width={ '100%' } />
                       </Box>
               
                       <Divider variant="inset" component="li" />
@@ -288,6 +293,10 @@ export default function MelCityMap() {
 
             <TabPanel value={ value } index={ 1 } height={ 100 } style={ {padding: 0} }>
               <WordCloudContent loading={ loading } wordCloud={ wordCloud }/>
+            </TabPanel>
+
+            <TabPanel value={ value } index={ 2 } height={ 100 } style={ {padding: 0} }>
+              <DailyBarChart loading={ loading } twitterDailyData={ twitterDailyData }/>
             </TabPanel>
 
           </Box>
