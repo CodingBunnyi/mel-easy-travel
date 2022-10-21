@@ -5,8 +5,9 @@ import Paper from '@mui/material/Paper';
 import Weather from './components/Weather/Weather';
 import Map from '../../pages/MapPage/MapPage';
 import LoadingBox from '../../app/components/LoadingBox/LoadingBox';
+import OverallWordCloud from './components/OverallWordCloud/OverallWordCloud';
 
-const DashboardPage = ({ weatherData, weatherLoading }) => (
+const DashboardPage = ({ weatherData, weatherLoading, wordCloudLoading, overallWordCloudData }) => (
   <Container sx={ { mt: 4, mb: 4 } }>
     <Grid container spacing={ 3 }>
 
@@ -33,6 +34,19 @@ const DashboardPage = ({ weatherData, weatherLoading }) => (
           } }
                 >
           <Map/>
+        </Paper>
+      </Grid>
+
+      <Grid item xs={ 12 } md={ 12 } lg={ 12 }>
+        <Paper
+          sx={ {
+            display: 'flex',
+            flexDirection: 'column',
+            height: 330,
+            overflow: 'hidden'
+          } }
+                >
+          { wordCloudLoading ? <LoadingBox /> : <OverallWordCloud overallWordCloudData={ overallWordCloudData }/> }
         </Paper>
       </Grid>
     </Grid>

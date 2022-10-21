@@ -18,6 +18,7 @@ import DashboardPage from '../pages/DashboardPage/DashboardPage';
 import DataPage from '../pages/DataPage/DataPage';
 import AboutMelEasyTravelPage from '../pages/AboutMelEasyTravelPage/AboutMelEasyTravelPage';
 import { getOneCallWeatherData } from '../utils/OpenWeatherApi/OpenWeatherApi';
+import { getOverallWordCloudData } from '../utils/twitterDataApi';
 import logo from'../assets/images/logo.png';
 import { listItem } from './components/ListItemTable/ListItemTable';
 import './App.scss';
@@ -74,7 +75,10 @@ const mdTheme = createTheme();
 const App = () => {
   const [open, setOpen] = useState(true);
   const [page, setPage] = useState('Dashboard');
+  const [weatherData, setWeatherData] = useState(initialWeatherData);
+  const [overallWordCloudData, setOverallWordCloudData] = useState([])
   const [weatherLoading, setWeatherLoading] = useState(false);
+  const [wordCloudLoading, setWordCloudLoading] = useState(false);
 
   const updatePageName = () => {
     // eslint-disable-next-line no-undef
@@ -86,8 +90,6 @@ const App = () => {
       }
     })
   }
-
-  const [weatherData, setWeatherData] = useState(initialWeatherData);
 
   const toggleDrawer = () => {
     setOpen(!open);
@@ -102,7 +104,19 @@ const App = () => {
         setWeatherData(data)
       }
     }
+
+    const getOverallWordCloud = async () => {
+      setWordCloudLoading(true);
+      const overallWordCloudDataResponse = await getOverallWordCloudData();
+      if (overallWordCloudDataResponse.status === 200) {
+        setWordCloudLoading(false);
+        setOverallWordCloudData(overallWordCloudDataResponse.data)
+        console.log(overallWordCloudDataResponse.data)
+      }
+    }
+
     getCurrentCityWeather();
+    getOverallWordCloud();
   }, [page]);
 
   useEffect(() => {
@@ -180,8 +194,8 @@ const App = () => {
             } }
         >
             <Routes>
-              <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage } /> } />
-              <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage }/> } />
+              <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } overallWordCloudData={ overallWordCloudData } wordCloudLoading={ wordCloudLoading } setPage={ setPage } /> } />
+              <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } overallWordCloudData={ overallWordCloudData } wordCloudLoading={ wordCloudLoading } setPage={ setPage }/> } />
               <Route path="/weather" element={ <WeatherPage weatherData={ weatherData } weatherLoading={ weatherLoading } /> } />
               <Route path="/map" element={ <MapPage /> } />
               <Route path="/about-mel-easy-travel" element={ <AboutMelEasyTravelPage /> } />
