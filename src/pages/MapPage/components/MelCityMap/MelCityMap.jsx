@@ -176,7 +176,7 @@ export default function MelCityMap() {
         pitch: 0
       } }
       style = { {width: '100vw' , height: '100vh'} }
-      mapStyle="mapbox://styles/mapbox/streets-v9"
+      mapStyle="mapbox://styles/mapbox/light-v10"
       mapboxAccessToken = { MAPBOX_TOKEN }
     >
       <FullscreenControl position="top-left" />

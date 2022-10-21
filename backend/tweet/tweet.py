@@ -126,9 +126,10 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
         try:
             users = page.includes['users']
             username_dict = {user.id: user.name for user in users}
-            userpic_dict = {user.id: user.profile_image_url for user in users}
+            user_pic_dict = {user.id: user.profile_image_url for user in users}
         except (KeyError, TypeError):
             username_dict = {}
+            user_pic_dict = {}
 
         # Create place dictionary
         try:
@@ -161,7 +162,7 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
             # User info
             temp_result['uid'] = tweet.author_id
             temp_result['author'] = username_dict[tweet.author_id]
-            temp_result['user_img'] = userpic_dict[tweet.author_id]
+            temp_result['user_img'] = user_pic_dict[tweet.author_id]
 
             # Impact info
             if tweet.public_metrics is None:  # There is a bug where a tweet might not have public metrics
@@ -174,7 +175,7 @@ def search_tweet(long: float, lat: float, radius: float, hours: float = None, da
 
             # Text extraction and clean
             tweet_text = tweet.text
-            temp_result['text'] = tweet_text
+            temp_result['text'] = html.unescape(tweet_text)
 
             # Remove all tags urls
             if tweet.entities is not None:
