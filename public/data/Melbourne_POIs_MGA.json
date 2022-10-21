@@ -1,0 +1,1696 @@
+[
+  {
+   "ID": 1,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Flemington Bridge Railway Station",
+   "latitude": -37.7881645889621, "longitude": 144.939277838304
+  },
+  {
+   "ID": 2,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Office\/Carpark",
+   "FeatureName": "Council House 2 (CH2)",
+   "latitude": -37.8142591432011, "longitude": 144.966638432727
+  },
+  {
+   "ID": 3,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Library",
+   "FeatureName": "The Melbourne Athenaeum Library",
+   "latitude": -37.8148855756416, "longitude": 144.967291289941
+  },
+  {
+   "ID": 4,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Carlton Gardens South",
+   "latitude": -37.8060684577258, "longitude": 144.971266479841
+  },
+  {
+   "ID": 5,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Francis Church",
+   "latitude": -37.8118847831837, "longitude": 144.962422614541
+  },
+  {
+   "ID": 6,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Wesley Church",
+   "latitude": -37.8101576446961, "longitude": 144.968168215633
+  },
+  {
+   "ID": 7,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Augustines Church",
+   "latitude": -37.8169741358546, "longitude": 144.954862000132
+  },
+  {
+   "ID": 8,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St James Church",
+   "latitude": -37.8101281201969, "longitude": 144.952468571683
+  },
+  {
+   "ID": 9,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Mary's Anglican Church",
+   "latitude": -37.8031663672997, "longitude": 144.953761537074
+  },
+  {
+   "ID": 10,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Romanian Orthodox",
+   "latitude": -37.8052307297468, "longitude": 144.966986444597
+  },
+  {
+   "ID": 11,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Welsh Presbyterian Church",
+   "latitude": -37.8104478768313, "longitude": 144.959873260087
+  },
+  {
+   "ID": 12,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Church of Christ",
+   "latitude": -37.8104524079085, "longitude": 144.96388920294
+  },
+  {
+   "ID": 13,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Scots Church",
+   "latitude": -37.8145687802664, "longitude": 144.96855105335
+  },
+  {
+   "ID": 14,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Michael's Uniting Church",
+   "latitude": -37.8143851324913, "longitude": 144.969174036096
+  },
+  {
+   "ID": 15,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Greek Orthodox Church",
+   "latitude": -37.8088064667555, "longitude": 144.978259089269
+  },
+  {
+   "ID": 16,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Peter's Eastern Hill",
+   "latitude": -37.8097086714637, "longitude": 144.975259178609
+  },
+  {
+   "ID": 17,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Lutheran Trinity Church",
+   "latitude": -37.8109757054396, "longitude": 144.975729473552
+  },
+  {
+   "ID": 18,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Holy Trinity",
+   "latitude": -37.8140667110854, "longitude": 144.983197322289
+  },
+  {
+   "ID": 19,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Johns Lutheran Church",
+   "latitude": -37.8209399677168, "longitude": 144.967121099857
+  },
+  {
+   "ID": 20,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "North Melbourne Uniting",
+   "latitude": -37.8035538471344, "longitude": 144.947671538375
+  },
+  {
+   "ID": 21,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Melbourne Unitarian Church",
+   "latitude": -37.8114487773394, "longitude": 144.984664890999
+  },
+  {
+   "ID": 22,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "All Nations Uniting Church",
+   "latitude": -37.7959155303946, "longitude": 144.968981110942
+  },
+  {
+   "ID": 23,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Our Lady of Lebanon Church",
+   "latitude": -37.8025766539683, "longitude": 144.969334720932
+  },
+  {
+   "ID": 24,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Michaels",
+   "latitude": -37.7940512679297, "longitude": 144.945399480629
+  },
+  {
+   "ID": 25,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Ukranian Catholic Cathedral",
+   "latitude": -37.7963084580345, "longitude": 144.944313454028
+  },
+  {
+   "ID": 26,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Alban Anglican Church",
+   "latitude": -37.7942169477929, "longitude": 144.94161451392
+  },
+  {
+   "ID": 27,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Christ Church Kensington",
+   "latitude": -37.7932109480553, "longitude": 144.92729572288
+  },
+  {
+   "ID": 28,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Holy Rosary",
+   "latitude": -37.7948087414394, "longitude": 144.928362125005
+  },
+  {
+   "ID": 29,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "Collins Street Baptist Church",
+   "latitude": -37.8147011904647, "longitude": 144.968072486031
+  },
+  {
+   "ID": 30,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Thomas Aquinas Church",
+   "latitude": -37.8353076902578, "longitude": 144.976809080472
+  },
+  {
+   "ID": 31,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "South Yarra Presbyterian Church",
+   "latitude": -37.8407473645397, "longitude": 144.98562699348
+  },
+  {
+   "ID": 32,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "The Parish of Christ Church South Yarra",
+   "latitude": -37.8386270533576, "longitude": 144.986009385387
+  },
+  {
+   "ID": 33,
+   "Theme": "Health Services",
+   "SubTheme": "Private Hospital",
+   "FeatureName": "Melbourne Private Hospital",
+   "latitude": -37.7983111309698, "longitude": 144.95728837725
+  },
+  {
+   "ID": 34,
+   "Theme": "Place of Worship",
+   "SubTheme": "Synagogue",
+   "FeatureName": "East Melbourne Synagogue",
+   "latitude": -37.809113728917, "longitude": 144.97422190954
+  },
+  {
+   "ID": 35,
+   "Theme": "Community Use",
+   "SubTheme": "Police Station",
+   "FeatureName": "Victoria Police",
+   "latitude": -37.8164849024046, "longitude": 144.966486801188
+  },
+  {
+   "ID": 36,
+   "Theme": "Community Use",
+   "SubTheme": "Police Station",
+   "FeatureName": "Victoria Police",
+   "latitude": -37.8003121288849, "longitude": 144.954697453742
+  },
+  {
+   "ID": 37,
+   "Theme": "Community Use",
+   "SubTheme": "Police Station",
+   "FeatureName": "Victoria Police",
+   "latitude": -37.8219773910249, "longitude": 144.953398014034
+  },
+  {
+   "ID": 38,
+   "Theme": "Community Use",
+   "SubTheme": "Visitor Centre",
+   "FeatureName": "Melbourne Visitor Booth",
+   "latitude": -37.8139525061193, "longitude": 144.964425882562
+  },
+  {
+   "ID": 39,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "State Netball Hockey Centre",
+   "latitude": -37.7857860016289, "longitude": 144.947580972027
+  },
+  {
+   "ID": 40,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "University Square",
+   "latitude": -37.800410711209, "longitude": 144.960398319302
+  },
+  {
+   "ID": 41,
+   "Theme": "Transport",
+   "SubTheme": "Transport Terminal",
+   "FeatureName": "Port of Melbourne",
+   "latitude": -37.8137384362671, "longitude": 144.91753432375
+  },
+  {
+   "ID": 42,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Private Sports Club\/Facility",
+   "FeatureName": "Royal Park Golf Course",
+   "latitude": -37.7819171308558, "longitude": 144.956309119368
+  },
+  {
+   "ID": 43,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Powlett Reserve",
+   "latitude": -37.8116929882498, "longitude": 144.987275671763
+  },
+  {
+   "ID": 44,
+   "Theme": "Community Use",
+   "SubTheme": "Cemetery",
+   "FeatureName": "Melbourne General Cemetery",
+   "latitude": -37.7891890023616, "longitude": 144.965785979892
+  },
+  {
+   "ID": 45,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "Carlton Football Club",
+   "latitude": -37.7840864379557, "longitude": 144.961967841559
+  },
+  {
+   "ID": 46,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "Visy Park",
+   "latitude": -37.7834303940347, "longitude": 144.961982577553
+  },
+  {
+   "ID": 47,
+   "Theme": "Retail",
+   "SubTheme": "Retail",
+   "FeatureName": "Queen Victoria Market",
+   "latitude": -37.8075002018073, "longitude": 144.957158515056
+  },
+  {
+   "ID": 48,
+   "Theme": "Education Centre",
+   "SubTheme": "Primary Schools",
+   "FeatureName": "Carlton Gardens Primary School",
+   "latitude": -37.8020953835112, "longitude": 144.969406272035
+  },
+  {
+   "ID": 49,
+   "Theme": "Education Centre",
+   "SubTheme": "Primary Schools",
+   "FeatureName": "Carlton Primary School",
+   "latitude": -37.7959079757171, "longitude": 144.970147317976
+  },
+  {
+   "ID": 50,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Carlton Gardens North",
+   "latitude": -37.8017690847403, "longitude": 144.971997551189
+  },
+  {
+   "ID": 51,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Old Melbourne Gaol Crime &amp; Justice Experience",
+   "latitude": -37.8077644149636, "longitude": 144.965463853978
+  },
+  {
+   "ID": 52,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Kings Domain",
+   "latitude": -37.8255239795833, "longitude": 144.974107925144
+  },
+  {
+   "ID": 53,
+   "Theme": "Education Centre",
+   "SubTheme": "Secondary Schools",
+   "FeatureName": "Melbourne Grammar School",
+   "latitude": -37.8342561018747, "longitude": 144.976285045233
+  },
+  {
+   "ID": 54,
+   "Theme": "Education Centre",
+   "SubTheme": "School - Primary and Secondary Education",
+   "FeatureName": "Wesley College",
+   "latitude": -37.8485201804496, "longitude": 144.982227770988
+  },
+  {
+   "ID": 55,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "FairFax Studio",
+   "latitude": -37.8216684581887, "longitude": 144.968836241692
+  },
+  {
+   "ID": 56,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "Playhouse",
+   "latitude": -37.8218124583016, "longitude": 144.968337832721
+  },
+  {
+   "ID": 57,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "State Theatre",
+   "latitude": -37.8212806349773, "longitude": 144.968469643744
+  },
+  {
+   "ID": 58,
+   "Theme": "Education Centre",
+   "SubTheme": "Tertiary (University)",
+   "FeatureName": "University of Melbourne (VCA and Music)",
+   "latitude": -37.8241137662047, "longitude": 144.96933253996
+  },
+  {
+   "ID": 59,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "St Martins Youth Arts Centre",
+   "latitude": -37.8352429531289, "longitude": 144.98114217385
+  },
+  {
+   "ID": 60,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "Flemington Racecourse",
+   "latitude": -37.7908082646624, "longitude": 144.912142987372
+  },
+  {
+   "ID": 61,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Southern Cross Railway Station",
+   "latitude": -37.8181633057171, "longitude": 144.952944748845
+  },
+  {
+   "ID": 62,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "Princess Theatre",
+   "latitude": -37.8107257091302, "longitude": 144.9723265962
+  },
+  {
+   "ID": 63,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Treasury Gardens",
+   "latitude": -37.8143993575938, "longitude": 144.975952335785
+  },
+  {
+   "ID": 64,
+   "Theme": "Education Centre",
+   "SubTheme": "Secondary Schools",
+   "FeatureName": "University High School",
+   "latitude": -37.7973136216903, "longitude": 144.956034449946
+  },
+  {
+   "ID": 65,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "State Library Victoria",
+   "latitude": -37.8099852201226, "longitude": 144.964330322397
+  },
+  {
+   "ID": 66,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "Regent Theatre",
+   "latitude": -37.8160014744179, "longitude": 144.967916735261
+  },
+  {
+   "ID": 67,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Office",
+   "FeatureName": "Treasury Reserve",
+   "latitude": -37.8129178793082, "longitude": 144.975236759799
+  },
+  {
+   "ID": 68,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "Old Treasury Building",
+   "latitude": -37.8132371662585, "longitude": 144.974423610255
+  },
+  {
+   "ID": 69,
+   "Theme": "Health Services",
+   "SubTheme": "Private Hospital",
+   "FeatureName": "Epworth Freemasons Hospital : Medical Centre",
+   "latitude": -37.8093444587231, "longitude": 144.982336768182
+  },
+  {
+   "ID": 70,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Batman Park",
+   "latitude": -37.8218460949601, "longitude": 144.956665812218
+  },
+  {
+   "ID": 71,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "Australian Red Cross",
+   "latitude": -37.7990921023192, "longitude": 144.952635945774
+  },
+  {
+   "ID": 72,
+   "Theme": "Community Use",
+   "SubTheme": "Government Building",
+   "FeatureName": "Melbourne Magistrates Court",
+   "latitude": -37.8136147671606, "longitude": 144.956846193891
+  },
+  {
+   "ID": 73,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Flagstaff Railway Station",
+   "latitude": -37.8122356514626, "longitude": 144.956318211113
+  },
+  {
+   "ID": 74,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "Supreme Court",
+   "latitude": -37.8141494182814, "longitude": 144.957894024264
+  },
+  {
+   "ID": 75,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Richmond Football Club",
+   "latitude": -37.8216740022008, "longitude": 144.988156318781
+  },
+  {
+   "ID": 76,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "Melbourne Cricket Ground (MCG)",
+   "latitude": -37.8194921618419, "longitude": 144.983402879078
+  },
+  {
+   "ID": 77,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Outdoor Recreation Facility (Zoo, Golf Course)",
+   "FeatureName": "Melbourne Zoo",
+   "latitude": -37.7844449253712, "longitude": 144.951371205938
+  },
+  {
+   "ID": 78,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "Australian Broadcasting Corporation (ABC)",
+   "latitude": -37.823813323734, "longitude": 144.966551401578
+  },
+  {
+   "ID": 79,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Function\/Conference\/Exhibition Centre",
+   "FeatureName": "Melbourne Exhibition Centre",
+   "latitude": -37.8252455123297, "longitude": 144.95435243249
+  },
+  {
+   "ID": 80,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Function\/Conference\/Exhibition Centre",
+   "FeatureName": "Melbourne Convention Centre",
+   "latitude": -37.8249040484653, "longitude": 144.952288281644
+  },
+  {
+   "ID": 81,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Polly Woodside",
+   "latitude": -37.8242574266145, "longitude": 144.953478052064
+  },
+  {
+   "ID": 82,
+   "Theme": "Vacant Land",
+   "SubTheme": "Vacant Land - Undeveloped Site",
+   "FeatureName": "Melbourne International Karting Complex",
+   "latitude": -37.8310746380616, "longitude": 144.913822928701
+  },
+  {
+   "ID": 83,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Private Sports Club\/Facility",
+   "FeatureName": "Melbourne International Shooting Club",
+   "latitude": -37.8292844929826, "longitude": 144.913415802464
+  },
+  {
+   "ID": 84,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Office\/Carpark",
+   "FeatureName": "Southgate Arts and Leisure Precinct",
+   "latitude": -37.8202245786597, "longitude": 144.965989052839
+  },
+  {
+   "ID": 85,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Australian Centre for Contemporary Art",
+   "latitude": -37.8266045432686, "longitude": 144.967252924593
+  },
+  {
+   "ID": 86,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "Malthouse Theatre",
+   "latitude": -37.8271768001126, "longitude": 144.966936821789
+  },
+  {
+   "ID": 87,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Patricks Cathedral",
+   "latitude": -37.8101140950474, "longitude": 144.975901529712
+  },
+  {
+   "ID": 88,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Victorian Arts Centre",
+   "latitude": -37.8219947335768, "longitude": 144.968837288153
+  },
+  {
+   "ID": 89,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "Parliament House",
+   "latitude": -37.811246655376, "longitude": 144.97372641185
+  },
+  {
+   "ID": 90,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "Melbourne Town Hall",
+   "latitude": -37.8150754791411, "longitude": 144.966542722283
+  },
+  {
+   "ID": 91,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "Former Royal Mint",
+   "latitude": -37.8121838748712, "longitude": 144.957055454136
+  },
+  {
+   "ID": 92,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Office",
+   "FeatureName": "DFO South Wharf",
+   "latitude": -37.824887401234, "longitude": 144.949794297819
+  },
+  {
+   "ID": 93,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Queen Victoria Gardens",
+   "latitude": -37.8216381244891, "longitude": 144.971049530478
+  },
+  {
+   "ID": 94,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "Sidney Myer Music Bowl",
+   "latitude": -37.8233471608733, "longitude": 144.974686151365
+  },
+  {
+   "ID": 95,
+   "Theme": "Purpose Built",
+   "SubTheme": "Casino",
+   "FeatureName": "Crown Entertainment Complex",
+   "latitude": -37.8235761092516, "longitude": 144.957312880653
+  },
+  {
+   "ID": 96,
+   "Theme": "Health Services",
+   "SubTheme": "Public Hospital",
+   "FeatureName": "The Royal Victorian Eye &amp; Ear Hospital",
+   "latitude": -37.8087522829868, "longitude": 144.976268275082
+  },
+  {
+   "ID": 97,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "SBS (Special Broadcasting Service)",
+   "latitude": -37.8176921210305, "longitude": 144.968740597156
+  },
+  {
+   "ID": 98,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "The Ian Potter Centre: NGV Australia",
+   "latitude": -37.8174831423197, "longitude": 144.969899048343
+  },
+  {
+   "ID": 99,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Federation Square",
+   "latitude": -37.8178516571684, "longitude": 144.968963600783
+  },
+  {
+   "ID": 100,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Thoroughbred Racing Gallery",
+   "latitude": -37.8188662730911, "longitude": 144.9839700954
+  },
+  {
+   "ID": 101,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "New Quay",
+   "latitude": -37.8152178789077, "longitude": 144.941617889032
+  },
+  {
+   "ID": 102,
+   "Theme": "Purpose Built",
+   "SubTheme": "Film &amp; RV Studio",
+   "FeatureName": "Central City Studios",
+   "latitude": -37.8142318521296, "longitude": 144.935655305362
+  },
+  {
+   "ID": 103,
+   "Theme": "Purpose Built",
+   "SubTheme": "Film &amp; RV Studio",
+   "FeatureName": "Channel 7 - Melbourne Broadcast Centre",
+   "latitude": -37.8158572333481, "longitude": 144.94582326909
+  },
+  {
+   "ID": 104,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Docklands Park",
+   "latitude": -37.8209956785618, "longitude": 144.946781702342
+  },
+  {
+   "ID": 105,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Office",
+   "FeatureName": "Waterfront City",
+   "latitude": -37.815056661803, "longitude": 144.939136876334
+  },
+  {
+   "ID": 106,
+   "Theme": "Vacant Land",
+   "SubTheme": "Current Construction Site",
+   "FeatureName": "Harbour Town",
+   "latitude": -37.8139256326845, "longitude": 144.938123825625
+  },
+  {
+   "ID": 107,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "AAMI Park",
+   "latitude": -37.8247252673963, "longitude": 144.98380297866
+  },
+  {
+   "ID": 108,
+   "Theme": "Transport",
+   "SubTheme": "Marina",
+   "FeatureName": "New Quay Marina",
+   "latitude": -37.8152925454954, "longitude": 144.942283726231
+  },
+  {
+   "ID": 109,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Function\/Conference\/Exhibition Centre",
+   "FeatureName": "Central Pier",
+   "latitude": -37.8165177307702, "longitude": 144.943475014215
+  },
+  {
+   "ID": 110,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Observation Tower\/Wheel",
+   "FeatureName": "Melbourne Star Observation Wheel",
+   "latitude": -37.8116163666726, "longitude": 144.937588920436
+  },
+  {
+   "ID": 111,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Point Park",
+   "latitude": -37.8233522700646, "longitude": 144.942102276731
+  },
+  {
+   "ID": 112,
+   "Theme": "Education Centre",
+   "SubTheme": "Primary Schools",
+   "FeatureName": "Kensington Primary School",
+   "latitude": -37.7925235045455, "longitude": 144.927108735461
+  },
+  {
+   "ID": 113,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Newmarket Reserve",
+   "latitude": -37.7878473341234, "longitude": 144.922972125346
+  },
+  {
+   "ID": 114,
+   "Theme": "Health Services",
+   "SubTheme": "Public Hospital",
+   "FeatureName": "Royal Womens Hospital",
+   "latitude": -37.7988892460088, "longitude": 144.954897253856
+  },
+  {
+   "ID": 115,
+   "Theme": "Education Centre",
+   "SubTheme": "Further Education",
+   "FeatureName": "Kangan Batman Tafe",
+   "latitude": -37.8221818203024, "longitude": 144.948908460665
+  },
+  {
+   "ID": 116,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Fox Classic Car Collection",
+   "latitude": -37.8213744301481, "longitude": 144.948496661709
+  },
+  {
+   "ID": 117,
+   "Theme": "Specialist Residential Accommodation",
+   "SubTheme": "Hostel",
+   "FeatureName": "The Mission To Seafarers Victoria",
+   "latitude": -37.8224995970811, "longitude": 144.951254841448
+  },
+  {
+   "ID": 118,
+   "Theme": "Vacant Land",
+   "SubTheme": "Current Construction Site - Commercial",
+   "FeatureName": "Railway Good Shed No 2",
+   "latitude": -37.8211371302179, "longitude": 144.951378883631
+  },
+  {
+   "ID": 119,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Outdoor Recreation Facility (Zoo, Golf Course)",
+   "FeatureName": "Wonderland Park",
+   "latitude": -37.8116945351989, "longitude": 144.936833674975
+  },
+  {
+   "ID": 120,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "Rod Laver Arena",
+   "latitude": -37.8220456119807, "longitude": 144.978487173787
+  },
+  {
+   "ID": 121,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "Melbourne Park",
+   "latitude": -37.8209085970021, "longitude": 144.978735802793
+  },
+  {
+   "ID": 122,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "Margaret Court Arena",
+   "latitude": -37.8213252086842, "longitude": 144.977591098955
+  },
+  {
+   "ID": 123,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "Hisense Arena",
+   "latitude": -37.823110002667, "longitude": 144.981834802535
+  },
+  {
+   "ID": 124,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Melbourne Museum",
+   "latitude": -37.8035518129299, "longitude": 144.971690718887
+  },
+  {
+   "ID": 125,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Cinema",
+   "FeatureName": "IMAX Melbourne",
+   "latitude": -37.8034315561903, "longitude": 144.970639929886
+  },
+  {
+   "ID": 126,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "Melbourne Theatre Company",
+   "latitude": -37.823930384816, "longitude": 144.968297429894
+  },
+  {
+   "ID": 127,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "MTC Theatre",
+   "latitude": -37.8242661832902, "longitude": 144.968174400274
+  },
+  {
+   "ID": 128,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "Elisabeth Murdoch Hall",
+   "latitude": -37.8239733704282, "longitude": 144.967450979234
+  },
+  {
+   "ID": 129,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "Melbourne Recital Centre",
+   "latitude": -37.8238327885805, "longitude": 144.967682729667
+  },
+  {
+   "ID": 130,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "NGV International",
+   "latitude": -37.8230135000869, "longitude": 144.969342535451
+  },
+  {
+   "ID": 131,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "Hamer Hall",
+   "latitude": -37.8199901009015, "longitude": 144.967992144257
+  },
+  {
+   "ID": 132,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Birrarung Marr",
+   "latitude": -37.81806108403, "longitude": 144.97314667014
+  },
+  {
+   "ID": 133,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Indoor Recreation Facility",
+   "FeatureName": "Artplay",
+   "latitude": -37.8184198800044, "longitude": 144.971542586509
+  },
+  {
+   "ID": 134,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Riverslide Skate Park",
+   "latitude": -37.8207887122448, "longitude": 144.972951789291
+  },
+  {
+   "ID": 135,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Alexandra Gardens",
+   "latitude": -37.8206051404251, "longitude": 144.971796067365
+  },
+  {
+   "ID": 136,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Parliament Railway Station",
+   "latitude": -37.8116061787171, "longitude": 144.973017263156
+  },
+  {
+   "ID": 137,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Richmond Railway Station (Richmond) - Train stop",
+   "latitude": -37.8238992659834, "longitude": 144.989400751664
+  },
+  {
+   "ID": 138,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Jolimont-MCG Railway Station (East Melbourne) - Train stop",
+   "latitude": -37.8165651811668, "longitude": 144.983641003377
+  },
+  {
+   "ID": 139,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "North Melbourne Recreation Reserve",
+   "latitude": -37.7988345257153, "longitude": 144.941452061463
+  },
+  {
+   "ID": 140,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "J.J Holland Park",
+   "latitude": -37.7982358832177, "longitude": 144.923837074813
+  },
+  {
+   "ID": 141,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Macaulay Railway Station (North Melbourne) - Train stop",
+   "latitude": -37.794964001386, "longitude": 144.936190756632
+  },
+  {
+   "ID": 142,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Kensington Railway Station",
+   "latitude": -37.7939140126373, "longitude": 144.930710207518
+  },
+  {
+   "ID": 143,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "South Kensington Railway Station",
+   "latitude": -37.7997270537735, "longitude": 144.925837749713
+  },
+  {
+   "ID": 144,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Royal Park",
+   "latitude": -37.7906174256581, "longitude": 144.953834240647
+  },
+  {
+   "ID": 145,
+   "Theme": "Health Services",
+   "SubTheme": "Public Hospital",
+   "FeatureName": "Royal Childrens Hospital",
+   "latitude": -37.7942060847278, "longitude": 144.950048264678
+  },
+  {
+   "ID": 146,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Royal Park Railway Station",
+   "latitude": -37.7812684282825, "longitude": 144.951667833921
+  },
+  {
+   "ID": 147,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Princes Park",
+   "latitude": -37.7870161727156, "longitude": 144.961115214367
+  },
+  {
+   "ID": 148,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "National Sports Museum",
+   "latitude": -37.8189544909462, "longitude": 144.984669809381
+  },
+  {
+   "ID": 149,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Shrine of Rembrance Reserve",
+   "latitude": -37.8320733992876, "longitude": 144.973628364465
+  },
+  {
+   "ID": 150,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "Shrine of Remembrance",
+   "latitude": -37.8302080020387, "longitude": 144.973441913623
+  },
+  {
+   "ID": 151,
+   "Theme": "Residential Accommodation",
+   "SubTheme": "Dwelling (House)",
+   "FeatureName": "Government House",
+   "latitude": -37.8275635886174, "longitude": 144.976655130464
+  },
+  {
+   "ID": 152,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Royal Botanic Gardens",
+   "latitude": -37.8306631583233, "longitude": 144.980850432751
+  },
+  {
+   "ID": 153,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Yarra Park",
+   "latitude": -37.820469374101, "longitude": 144.986671109615
+  },
+  {
+   "ID": 154,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "Coronial Services Centre of Victoria",
+   "latitude": -37.8243437355246, "longitude": 144.96447462898
+  },
+  {
+   "ID": 155,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "Victorian Insitute of Forensic Medicine",
+   "latitude": -37.8246924089335, "longitude": 144.964979061564
+  },
+  {
+   "ID": 156,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "Donor Tissue Bank of Victoria",
+   "latitude": -37.8248231859563, "longitude": 144.965169035668
+  },
+  {
+   "ID": 157,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "State Coroners Office",
+   "latitude": -37.8244982228756, "longitude": 144.964675254819
+  },
+  {
+   "ID": 158,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Indoor Recreation Facility",
+   "FeatureName": "Icehouse",
+   "latitude": -37.8121881194053, "longitude": 144.935684018873
+  },
+  {
+   "ID": 159,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Parliament Railway Station",
+   "latitude": -37.8121572789173, "longitude": 144.973742010011
+  },
+  {
+   "ID": 160,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Parliament Railway Station",
+   "latitude": -37.8127621113552, "longitude": 144.973433796529
+  },
+  {
+   "ID": 161,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Parliament Railway Station",
+   "latitude": -37.8095762219384, "longitude": 144.972330132127
+  },
+  {
+   "ID": 162,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Flagstaff Railway Station",
+   "latitude": -37.8116384403974, "longitude": 144.9561186805
+  },
+  {
+   "ID": 163,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Melbourne Central Railway Station",
+   "latitude": -37.8097759325888, "longitude": 144.962670059539
+  },
+  {
+   "ID": 164,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Melbourne Central Railway Station",
+   "latitude": -37.8105992402369, "longitude": 144.96169061383
+  },
+  {
+   "ID": 165,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Melbourne Central Railway Station",
+   "latitude": -37.8108930047401, "longitude": 144.963100728702
+  },
+  {
+   "ID": 166,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Flemington Racecourse Railway Station",
+   "latitude": -37.7869105822519, "longitude": 144.908190706069
+  },
+  {
+   "ID": 167,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Showgrounds Railway Station (Flemington)",
+   "latitude": -37.7834651216244, "longitude": 144.914902626775
+  },
+  {
+   "ID": 168,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Newmarket Railway Station",
+   "latitude": -37.7872726241965, "longitude": 144.929059958114
+  },
+  {
+   "ID": 169,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "Athanaeum Theatre",
+   "latitude": -37.814954347831, "longitude": 144.96732254212
+  },
+  {
+   "ID": 170,
+   "Theme": "Health Services",
+   "SubTheme": "Public Hospital",
+   "FeatureName": "Alfred Hospital",
+   "latitude": -37.8462631206461, "longitude": 144.981786260765
+  },
+  {
+   "ID": 171,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Outdoor Recreation Facility (Zoo, Golf Course)",
+   "FeatureName": "Riverside Park",
+   "latitude": -37.7948375315825, "longitude": 144.915607065132
+  },
+  {
+   "ID": 172,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Darling Square",
+   "latitude": -37.81299206932, "longitude": 144.989062559512
+  },
+  {
+   "ID": 173,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "Carlton Courthouse Theatre",
+   "latitude": -37.7976589943217, "longitude": 144.968750113566
+  },
+  {
+   "ID": 174,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Flagstaff Gardens",
+   "latitude": -37.8111222889277, "longitude": 144.954696055235
+  },
+  {
+   "ID": 175,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Outdoor Recreation Facility (Zoo, Golf Course)",
+   "FeatureName": "Melbourne Showgrounds",
+   "latitude": -37.7823097850883, "longitude": 144.910822117306
+  },
+  {
+   "ID": 176,
+   "Theme": "Education Centre",
+   "SubTheme": "Primary Schools",
+   "FeatureName": "North Melbourne Primary School",
+   "latitude": -37.7986737155551, "longitude": 144.951065772876
+  },
+  {
+   "ID": 177,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "Her Majesty's Theatre",
+   "latitude": -37.8109975612842, "longitude": 144.969520183129
+  },
+  {
+   "ID": 178,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "Comedy Theatre",
+   "latitude": -37.8102053945163, "longitude": 144.97013311862
+  },
+  {
+   "ID": 179,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "La Mama Theatre",
+   "latitude": -37.7991304956733, "longitude": 144.967669503083
+  },
+  {
+   "ID": 180,
+   "Theme": "Industrial",
+   "SubTheme": "Industrial (Manufacturing)",
+   "FeatureName": "Kraft",
+   "latitude": -37.8262313085528, "longitude": 144.923475698195
+  },
+  {
+   "ID": 181,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Fawkner Park",
+   "latitude": -37.8413996708186, "longitude": 144.981625667877
+  },
+  {
+   "ID": 182,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Fitzroy Gardens",
+   "latitude": -37.8129616331579, "longitude": 144.980455714669
+  },
+  {
+   "ID": 183,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Sinclair's Cottage",
+   "latitude": -37.8145407488014, "longitude": 144.980554992725
+  },
+  {
+   "ID": 184,
+   "Theme": "Education Centre",
+   "SubTheme": "Tertiary (University)",
+   "FeatureName": "BIO 21 Institute",
+   "latitude": -37.7978743305343, "longitude": 144.953780325865
+  },
+  {
+   "ID": 185,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Enterprize Park",
+   "latitude": -37.820210269629, "longitude": 144.959276859602
+  },
+  {
+   "ID": 186,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Victoria Police Museum",
+   "latitude": -37.8222182774409, "longitude": 144.954039975197
+  },
+  {
+   "ID": 187,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Immigration Museum",
+   "latitude": -37.8191798798062, "longitude": 144.960426777129
+  },
+  {
+   "ID": 188,
+   "Theme": "Place of Worship",
+   "SubTheme": "Church",
+   "FeatureName": "St Pauls Cathedral",
+   "latitude": -37.8169549012399, "longitude": 144.967681647402
+  },
+  {
+   "ID": 189,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Theatre Live",
+   "FeatureName": "Forum Theatre",
+   "latitude": -37.816485409696, "longitude": 144.969386556998
+  },
+  {
+   "ID": 190,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Flinders Street Railway Station",
+   "latitude": -37.8179063007545, "longitude": 144.967064817875
+  },
+  {
+   "ID": 191,
+   "Theme": "Warehouse\/Store",
+   "SubTheme": "Store Yard",
+   "FeatureName": "Melbourne Wholesale Fish Market",
+   "latitude": -37.8083471006041, "longitude": 144.930613255612
+  },
+  {
+   "ID": 192,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Office\/Carpark",
+   "FeatureName": "Melbourne Wholesale Fruit, Vegetable &amp; Flower Market",
+   "latitude": -37.80687252157, "longitude": 144.923287444259
+  },
+  {
+   "ID": 193,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Fire Services Museum Victoria",
+   "latitude": -37.8085761281612, "longitude": 144.975373745366
+  },
+  {
+   "ID": 194,
+   "Theme": "Community Use",
+   "SubTheme": "Fire Station",
+   "FeatureName": "Metropolitan Fire Brigade (MFB)",
+   "latitude": -37.8092318636838, "longitude": 144.975247619376
+  },
+  {
+   "ID": 195,
+   "Theme": "Health Services",
+   "SubTheme": "Public Hospital",
+   "FeatureName": "Royal Melbourne Hospital",
+   "latitude": -37.7993071664096, "longitude": 144.956389746765
+  },
+  {
+   "ID": 196,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "The Ian Potter Museum Of Art",
+   "latitude": -37.7973939595503, "longitude": 144.964156669702
+  },
+  {
+   "ID": 197,
+   "Theme": "Education Centre",
+   "SubTheme": "Tertiary (University)",
+   "FeatureName": "University of Melbourne",
+   "latitude": -37.7982892284927, "longitude": 144.96099520158
+  },
+  {
+   "ID": 198,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Koorie Heritage Trust Inc",
+   "latitude": -37.8133854259085, "longitude": 144.954027907736
+  },
+  {
+   "ID": 199,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "Commonwealth Law Courts",
+   "latitude": -37.8123961677596, "longitude": 144.955823833257
+  },
+  {
+   "ID": 200,
+   "Theme": "Education Centre",
+   "SubTheme": "Tertiary (University)",
+   "FeatureName": "RMIT University",
+   "latitude": -37.8080795360545, "longitude": 144.964452974798
+  },
+  {
+   "ID": 201,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Office\/Carpark",
+   "FeatureName": "Melbourne Central",
+   "latitude": -37.8105371797142, "longitude": 144.962749729496
+  },
+  {
+   "ID": 202,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "Melbourne Central Railway Station",
+   "latitude": -37.8100167030855, "longitude": 144.963789344893
+  },
+  {
+   "ID": 203,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Office\/Residential\/Carpark",
+   "FeatureName": "QV Village",
+   "latitude": -37.8106891897454, "longitude": 144.965714574014
+  },
+  {
+   "ID": 204,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Argyle Square",
+   "latitude": -37.8031480577285, "longitude": 144.965761295089
+  },
+  {
+   "ID": 205,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Piazza Italia",
+   "latitude": -37.8025164192523, "longitude": 144.965863092947
+  },
+  {
+   "ID": 206,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Macarthur Square",
+   "latitude": -37.7983318676737, "longitude": 144.971514146104
+  },
+  {
+   "ID": 207,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Murchinson Square",
+   "latitude": -37.8002735025371, "longitude": 144.973059252203
+  },
+  {
+   "ID": 208,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Parliament Reserve",
+   "latitude": -37.809852620638, "longitude": 144.973462202839
+  },
+  {
+   "ID": 209,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "North Melbourne Recreation Centre (Aquatic)",
+   "latitude": -37.7999470049655, "longitude": 144.943290801869
+  },
+  {
+   "ID": 210,
+   "Theme": "Office",
+   "SubTheme": "Office",
+   "FeatureName": "North Melbourne Football Club",
+   "latitude": -37.799771364073, "longitude": 144.940963510723
+  },
+  {
+   "ID": 211,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Gymnasium\/Health Club",
+   "FeatureName": "North Melbourne Recreation Centre (Gymnasium)",
+   "latitude": -37.7997051197931, "longitude": 144.940368286395
+  },
+  {
+   "ID": 212,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Indoor Recreation Facility",
+   "FeatureName": "Carlton Baths",
+   "latitude": -37.7934377042609, "longitude": 144.971696548624
+  },
+  {
+   "ID": 213,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "City Baths",
+   "latitude": -37.8071585350561, "longitude": 144.963189789721
+  },
+  {
+   "ID": 214,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Westgate Park",
+   "latitude": -37.8314918578874, "longitude": 144.908824792698
+  },
+  {
+   "ID": 215,
+   "Theme": "Transport",
+   "SubTheme": "Railway Station",
+   "FeatureName": "North Melbourne Railway Station",
+   "latitude": -37.8073823625058, "longitude": 144.942429848025
+  },
+  {
+   "ID": 216,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Cooks' Cottage",
+   "latitude": -37.8144604899837, "longitude": 144.979471339826
+  },
+  {
+   "ID": 217,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "Conservatory",
+   "latitude": -37.814002127195, "longitude": 144.9785597431
+  },
+  {
+   "ID": 218,
+   "Theme": "Purpose Built",
+   "SubTheme": "Aquarium",
+   "FeatureName": "Melbourne Aquarium",
+   "latitude": -37.8209627824685, "longitude": 144.958425696055
+  },
+  {
+   "ID": 219,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "Westpac Centre",
+   "latitude": -37.8242456858593, "longitude": 144.979720306309
+  },
+  {
+   "ID": 220,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Royal Exhibition Building",
+   "latitude": -37.80460262432, "longitude": 144.971521914952
+  },
+  {
+   "ID": 221,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "Melbourne Childrens Court",
+   "latitude": -37.8125077646598, "longitude": 144.958298873269
+  },
+  {
+   "ID": 222,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Major Sports &amp; Recreation Facility",
+   "FeatureName": "Etihad Stadium",
+   "latitude": -37.8161760471742, "longitude": 144.947496254547
+  },
+  {
+   "ID": 223,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Observation Tower\/Wheel",
+   "FeatureName": "Eureka Skydeck 88",
+   "latitude": -37.8216187583314, "longitude": 144.964622218598
+  },
+  {
+   "ID": 224,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Residential",
+   "FeatureName": "Eureka Tower",
+   "latitude": -37.8215157539717, "longitude": 144.964456721965
+  },
+  {
+   "ID": 225,
+   "Theme": "Community Use",
+   "SubTheme": "Public Buildings",
+   "FeatureName": "County Court Melbourne",
+   "latitude": -37.8132011619962, "longitude": 144.957734246387
+  },
+  {
+   "ID": 226,
+   "Theme": "Health Services",
+   "SubTheme": "Public Hospital",
+   "FeatureName": "Peter Maccallum Cancer Institute",
+   "latitude": -37.8114766732026, "longitude": 144.977400949063
+  },
+  {
+   "ID": 227,
+   "Theme": "Health Services",
+   "SubTheme": "Public Hospital",
+   "FeatureName": "Royal Dental Hospital",
+   "latitude": -37.7995065904416, "longitude": 144.964526842767
+  },
+  {
+   "ID": 228,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Sandridge Rail Bridge",
+   "latitude": -37.8201763042794, "longitude": 144.96298113724
+  },
+  {
+   "ID": 229,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Office\/Residential\/Carpark",
+   "FeatureName": "Freshwater Place",
+   "latitude": -37.8219745489446, "longitude": 144.96246144843
+  },
+  {
+   "ID": 230,
+   "Theme": "Community Use",
+   "SubTheme": "Visitor Centre",
+   "FeatureName": "Melbourne Visitor Centre",
+   "latitude": -37.8177352402006, "longitude": 144.967937138226
+  },
+  {
+   "ID": 231,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "Australian Centre For The Moving Image (ACMI)",
+   "latitude": -37.8176107327202, "longitude": 144.969070431323
+  },
+  {
+   "ID": 232,
+   "Theme": "Transport",
+   "SubTheme": "Bridge",
+   "FeatureName": "Webb Bridge",
+   "latitude": -37.8232052384507, "longitude": 144.947291011905
+  },
+  {
+   "ID": 233,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Function\/Conference\/Exhibition Centre",
+   "FeatureName": "Dallas Brooks Centre",
+   "latitude": -37.8097374138234, "longitude": 144.981383411592
+  },
+  {
+   "ID": 234,
+   "Theme": "Education Centre",
+   "SubTheme": "School - Primary and Secondary Education",
+   "FeatureName": "Melbourne Girls Grammar School",
+   "latitude": -37.8315364518803, "longitude": 144.985089428348
+  },
+  {
+   "ID": 235,
+   "Theme": "Retail",
+   "SubTheme": "Department Store",
+   "FeatureName": "Myer",
+   "latitude": -37.8135911985281, "longitude": 144.963855087868
+  },
+  {
+   "ID": 236,
+   "Theme": "Retail",
+   "SubTheme": "Department Store",
+   "FeatureName": "David Jones",
+   "latitude": -37.8133127260638, "longitude": 144.964373486798
+  },
+  {
+   "ID": 237,
+   "Theme": "Leisure\/Recreation",
+   "SubTheme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+   "FeatureName": "Lincoln Square",
+   "latitude": -37.8027919689732, "longitude": 144.962760852233
+  },
+  {
+   "ID": 238,
+   "Theme": "Health Services",
+   "SubTheme": "Private Hospital",
+   "FeatureName": "Epworth Freemasons Hospital",
+   "latitude": -37.8109710654051, "longitude": 144.98370007659
+  },
+  {
+   "ID": 239,
+   "Theme": "Residential Accommodation",
+   "SubTheme": "Dwelling (House)",
+   "FeatureName": "Bishopscourt",
+   "latitude": -37.8132921649416, "longitude": 144.98350690799
+  },
+  {
+   "ID": 240,
+   "Theme": "Health Services",
+   "SubTheme": "Medical Services",
+   "FeatureName": "Mercy Private Hospital",
+   "latitude": -37.811896809802, "longitude": 144.984435746587
+  },
+  {
+   "ID": 241,
+   "Theme": "Place Of Assembly",
+   "SubTheme": "Art Gallery\/Museum",
+   "FeatureName": "The Museum Of Australian Chinese History",
+   "latitude": -37.8107686127655, "longitude": 144.96923385414
+  },
+  {
+   "ID": 242,
+   "Theme": "Mixed Use",
+   "SubTheme": "Retail\/Office\/Carpark",
+   "FeatureName": "ANZ 'Gothic' Bank",
+   "latitude": -37.8161580666029, "longitude": 144.961673719242
+  }
+ ]

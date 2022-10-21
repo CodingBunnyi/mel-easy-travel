@@ -12,7 +12,7 @@ export const mainListItem = [
 
 export const secondaryListItem = [
   {name: "About MelEasyTravel", link: "about-mel-easy-travel", icon: <AssignmentIcon />}, 
-  {name: "Data", link: "data", icon: <AssignmentIcon />}, 
+  {name: "Data and Reference", link: "data-source", icon: <AssignmentIcon />}, 
 ]
 
 export const listItem = [...mainListItem, ...secondaryListItem]

@@ -17,10 +17,9 @@ import { Routes, Route, BrowserRouter } from "react-router-dom";
 import WeatherPage from '../pages/WeatherPage/WeatherPage';
 import MapPage from '../pages/MapPage/MapPage';
 import DashboardPage from '../pages/DashboardPage/DashboardPage';
+import DataPage from '../pages/DataPage/DataPage';
 import AboutMelEasyTravelPage from '../pages/AboutMelEasyTravelPage/AboutMelEasyTravelPage';
 import { getOneCallWeatherData } from '../utils/OpenWeatherApi/OpenWeatherApi';
-// eslint-disable-next-line no-unused-vars
-import { getTwitterData } from '../utils/twitterDataApi';
 import logo from'../assets/images/logo.png';
 import { listItem } from './components/ListItemTable/ListItemTable';
 import './App.scss';
@@ -189,11 +188,12 @@ const App = () => {
             } }
         >
             <Routes>
-              <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage } /> } />
+              {/* <Route exact path="/" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage } /> } /> */}
               <Route path="/dashboard" element={ <DashboardPage weatherData={ weatherData } weatherLoading={ weatherLoading } setPage={ setPage }/> } />
               <Route path="/weather" element={ <WeatherPage weatherData={ weatherData } weatherLoading={ weatherLoading } /> } />
               <Route path="/map" element={ <MapPage /> } />
               <Route path="/about-mel-easy-travel" element={ <AboutMelEasyTravelPage /> } />
+              <Route path="/data-source" element={ <DataPage /> } />
             </Routes>
           </Box>
         </BrowserRouter>
