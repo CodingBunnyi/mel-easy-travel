@@ -281,7 +281,7 @@ export default function MelCityMap() {
                       ) : null }  
                       
                       <Box>
-                        <img src={ tweet.photo_urls[0] } width={ 390 } />
+                        <img src={ tweet.photo_urls[0] } width={ '100%' } />
                       </Box>
               
                       <Divider variant="inset" component="li" />
