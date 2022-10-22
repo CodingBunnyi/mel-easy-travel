@@ -110,8 +110,7 @@ const App = () => {
       const overallWordCloudDataResponse = await getOverallWordCloudData();
       if (overallWordCloudDataResponse.status === 200) {
         setWordCloudLoading(false);
-        setOverallWordCloudData(overallWordCloudDataResponse.data)
-        console.log(overallWordCloudDataResponse.data)
+        setOverallWordCloudData(overallWordCloudDataResponse.data.word_freq)
       }
     }
 

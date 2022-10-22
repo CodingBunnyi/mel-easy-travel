@@ -17,13 +17,12 @@ const OverallWordCloud = ({ overallWordCloudData }) => {
     rotationAngles: [0, 90],
     scale: "sqrt",
     spiral: "archimedean",
-    transitionDuration: 1000
   };
 
   return(
-    <div style={ { width: '550px' } }>
-      {/* <Typography component="p" color="text.secondary">What are people talking about here？ </Typography> */}
-      {/* {overallWordCloudData.length !== 0 ? <ReactWordcloud options={ options } words={ overallWordCloudData } /> : <div>No word cloud data in last 7 days.</div>} */}
+    <div style={ { width: '100%', height: '300px' } }>
+      <Typography component="p" color="text.secondary">What are people talking about in Melbourne？ </Typography>
+      {overallWordCloudData.length !== 0 ? <ReactWordcloud options={ options } words={ overallWordCloudData } /> : <div>No word cloud data in last 7 days.</div>} 
     </div>
   )
 }
