@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 3,
     "data": [
         {
             "tid": 1583269939875831810,
@@ -50,24 +50,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/FffGO6bacAErQnT.jpg",
                 "https://pbs.twimg.com/media/FffGO6caMAA0wnz.jpg"
-            ]
-        },
-        {
-            "tid": 1581209192232206337,
-            "uid": 47081549,
-            "author": "Georgia L. Smith 🦝",
-            "user_img": "https://pbs.twimg.com/profile_images/1558975826640740353/GXggtFYE_normal.jpg",
-            "time": "2022-10-15 09:03:43 +0000",
-            "like_no": 16,
-            "language": "en",
-            "text": "Good evening 🍸 https://t.co/GPvjPVggn0",
-            "clean_text": "Good evening",
-            "place_name": "South Yarra, Melbourne",
-            "place_type": "neighborhood",
-            "longitude": 144.99112104,
-            "latitude": -37.837883025,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfGVYMsUcAIPLQ_.jpg"
             ]
         }
     ]

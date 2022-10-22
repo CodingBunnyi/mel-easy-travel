@@ -1,207 +1,123 @@
 {
     "word_freq": [
         {
-            "text": "Premiere",
+            "text": "SEE",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "MELBOURNE",
             "value": 4
         },
         {
             "text": "IMAX",
-            "value": 1
-        },
-        {
-            "text": "world's",
-            "value": 1
-        },
-        {
-            "text": "best",
-            "value": 1
-        },
-        {
-            "text": "cricket",
-            "value": 1
-        },
-        {
-            "text": "photographer",
-            "value": 1
-        },
-        {
-            "text": "king",
-            "value": 1
-        },
-        {
-            "text": "Facebook",
-            "value": 1
-        },
-        {
-            "text": "premiere",
-            "value": 1
-        },
-        {
-            "text": "Carlton",
             "value": 2
         },
         {
-            "text": "Victoria",
+            "text": "CARLTON",
             "value": 2
         },
         {
-            "text": "Sunday",
+            "text": "VIC",
             "value": 1
         },
         {
-            "text": "night",
+            "text": "INSIDE",
             "value": 1
         },
         {
-            "text": "dinners",
+            "text": "MUSEUM",
             "value": 1
         },
         {
-            "text": "ice",
-            "value": 1
-        },
-        {
-            "text": "creams",
-            "value": 1
-        },
-        {
-            "text": "Bags",
-            "value": 1
-        },
-        {
-            "text": "made",
-            "value": 1
-        },
-        {
-            "text": "ring",
-            "value": 1
-        },
-        {
-            "text": "pulls",
-            "value": 1
-        },
-        {
-            "text": "Delata",
-            "value": 1
-        },
-        {
-            "text": "Genius",
-            "value": 1
-        },
-        {
-            "text": "Ultra",
-            "value": 1
-        },
-        {
-            "text": "elegant",
-            "value": 1
-        },
-        {
-            "text": "former",
-            "value": 1
-        },
-        {
-            "text": "warehouse",
-            "value": 1
-        },
-        {
-            "text": "Lygon",
+            "text": "PREMIERE",
             "value": 2
         },
         {
-            "text": "Street",
-            "value": 2
-        },
-        {
-            "text": "Fringe",
+            "text": "WORLD'S",
             "value": 1
         },
         {
-            "text": "Festival",
+            "text": "BEST",
             "value": 1
         },
         {
-            "text": "Block",
+            "text": "CRICKET",
             "value": 1
         },
         {
-            "text": "Party",
+            "text": "PHOTOGRAPHER",
             "value": 1
         },
         {
-            "text": "15th",
+            "text": "KING",
             "value": 1
         },
         {
-            "text": "October",
+            "text": "FACEBOOK",
             "value": 1
         },
         {
-            "text": "Argyle",
+            "text": "VICTORIA",
             "value": 1
         },
         {
-            "text": "Square",
+            "text": "SUNDAY",
             "value": 1
         },
         {
-            "text": "Oh",
+            "text": "NIGHT",
             "value": 1
         },
         {
-            "text": "hi",
+            "text": "DINNERS",
             "value": 1
         },
         {
-            "text": "day",
+            "text": "ICE",
             "value": 1
         },
         {
-            "text": "things",
+            "text": "CREAMS",
             "value": 1
         },
         {
-            "text": "orange",
+            "text": "BAGS",
             "value": 1
         },
         {
-            "text": "gold",
+            "text": "RING",
             "value": 1
         },
         {
-            "text": "stall",
+            "text": "PULLS",
             "value": 1
         },
         {
-            "text": "J13",
+            "text": "DELATA",
             "value": 1
         },
         {
-            "text": "along",
+            "text": "GENIUS",
             "value": 1
         },
         {
-            "text": "wall",
+            "text": "ULTRA",
             "value": 1
         },
         {
-            "text": "near",
+            "text": "ELEGANT",
             "value": 1
         },
         {
-            "text": "Nicholson",
+            "text": "FORMER",
             "value": 1
         },
         {
-            "text": "St",
+            "text": "WAREHOUSE",
             "value": 1
         },
         {
-            "text": "entry",
+            "text": "LYGON",
             "value": 1
         }
     ]

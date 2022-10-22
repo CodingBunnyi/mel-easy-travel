@@ -1,39 +1,39 @@
 {
     "word_freq": [
         {
-            "text": "Kensington",
+            "text": "KENSINGTON",
             "value": 1
         },
         {
-            "text": "Rd",
+            "text": "RD",
             "value": 1
         },
         {
-            "text": "West",
+            "text": "WEST",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "MELBOURNE",
             "value": 1
         },
         {
-            "text": "Road",
+            "text": "ROAD",
             "value": 1
         },
         {
-            "text": "Closed",
+            "text": "CLOSED",
             "value": 2
         },
         {
-            "text": "directions",
+            "text": "DIRECTIONS",
             "value": 1
         },
         {
-            "text": "stretch",
+            "text": "STRETCH",
             "value": 1
         },
         {
-            "text": "Dynon",
+            "text": "DYNON",
             "value": 1
         }
     ]

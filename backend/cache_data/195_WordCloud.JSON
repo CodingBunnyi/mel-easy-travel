@@ -1,231 +1,175 @@
 {
     "word_freq": [
         {
-            "text": "look",
+            "text": "LOOK",
             "value": 1
         },
         {
-            "text": "away",
+            "text": "AWAY",
             "value": 1
         },
         {
-            "text": "minute",
+            "text": "MINUTE",
             "value": 1
         },
         {
-            "text": "new",
+            "text": "NEW",
             "value": 2
         },
         {
-            "text": "books",
+            "text": "BOOKS",
             "value": 1
         },
         {
-            "text": "shiny",
+            "text": "SHINY",
             "value": 1
         },
         {
-            "text": "ones",
+            "text": "ONES",
             "value": 1
         },
         {
-            "text": "hitting",
+            "text": "HITTING",
             "value": 1
         },
         {
-            "text": "shelves",
+            "text": "SHELVES",
             "value": 1
         },
         {
-            "text": "soon",
+            "text": "SOON",
             "value": 1
         },
         {
-            "text": "let",
+            "text": "KNOW",
             "value": 1
         },
         {
-            "text": "us",
+            "text": "PARTICULARLY",
             "value": 1
         },
         {
-            "text": "know",
+            "text": "WANT",
             "value": 1
         },
         {
-            "text": "particularly",
+            "text": "FAST",
             "value": 1
         },
         {
-            "text": "want",
+            "text": "TRACKED",
             "value": 1
         },
         {
-            "text": "fast",
+            "text": "PRETTY",
             "value": 1
         },
         {
-            "text": "tracked",
+            "text": "SHOWING",
             "value": 1
         },
         {
-            "text": "Pretty",
+            "text": "VISITORS",
             "value": 1
         },
         {
-            "text": "day",
-            "value": 2
-        },
-        {
-            "text": "showing",
+            "text": "AROUND",
             "value": 1
         },
         {
-            "text": "visitors",
+            "text": "CAMPUS",
             "value": 1
         },
         {
-            "text": "around",
+            "text": "MISS",
             "value": 1
         },
         {
-            "text": "campus",
+            "text": "WILLOW",
             "value": 1
         },
         {
-            "text": "Miss",
+            "text": "GRACE",
             "value": 1
         },
         {
-            "text": "Willow",
+            "text": "LOVED",
             "value": 1
         },
         {
-            "text": "Grace",
+            "text": "CUDDLES",
             "value": 1
         },
         {
-            "text": "loved",
+            "text": "AUNTY",
             "value": 1
         },
         {
-            "text": "cuddles",
+            "text": "MADDIE",
             "value": 1
         },
         {
-            "text": "aunty",
+            "text": "RAINBOW",
             "value": 1
         },
         {
-            "text": "Maddie",
+            "text": "LORIKEETS",
             "value": 1
         },
         {
-            "text": "week",
+            "text": "UNIVERSITY",
             "value": 1
         },
         {
-            "text": "Rainbow",
+            "text": "ADMINISTRATION",
             "value": 1
         },
         {
-            "text": "lorikeets",
+            "text": "SOMETHING",
             "value": 1
         },
         {
-            "text": "university",
+            "text": "ASSIGNMENTS",
             "value": 1
         },
         {
-            "text": "administration",
+            "text": "EXAMS",
             "value": 1
         },
         {
-            "text": "Need",
+            "text": "READY",
             "value": 1
         },
         {
-            "text": "something",
+            "text": "ROWDEN",
             "value": 1
         },
         {
-            "text": "Week",
+            "text": "WHITE",
             "value": 1
         },
         {
-            "text": "assignments",
+            "text": "MUTHAFUKIN",
             "value": 1
         },
         {
-            "text": "exams",
+            "text": "EVERYTHING",
             "value": 1
         },
         {
-            "text": "ready",
+            "text": "SEVEN",
             "value": 1
         },
         {
-            "text": "Rowden",
+            "text": "SEEDS",
             "value": 1
         },
         {
-            "text": "White",
+            "text": "LAST",
             "value": 1
         },
         {
-            "text": "muthafukin",
-            "value": 1
-        },
-        {
-            "text": "One",
-            "value": 1
-        },
-        {
-            "text": "everything",
-            "value": 1
-        },
-        {
-            "text": "Seven",
-            "value": 1
-        },
-        {
-            "text": "Seeds",
-            "value": 1
-        },
-        {
-            "text": "Day",
-            "value": 1
-        },
-        {
-            "text": "last",
-            "value": 1
-        },
-        {
-            "text": "weekend",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "Peter",
-            "value": 1
-        },
-        {
-            "text": "MacCallum",
-            "value": 1
-        },
-        {
-            "text": "Cancer",
-            "value": 1
-        },
-        {
-            "text": "Centre",
+            "text": "WEEKEND",
             "value": 1
         }
     ]

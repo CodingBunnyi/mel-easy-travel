@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 2,
     "data": [
         {
             "tid": 1582630313213448192,
@@ -36,38 +36,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfQMPSgaYAIKijj.jpg"
             ]
-        },
-        {
-            "tid": 1581246606476988417,
-            "uid": 21854026,
-            "author": "Serge Thomann",
-            "user_img": "https://pbs.twimg.com/profile_images/1195556643/STAPHeroShotLR_normal.jpg",
-            "time": "2022-10-15 11:32:23 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Amazing bread and croissants and more at @breadclubofficial !!! Like in France!! Well done Brice et Tim! So good!! #bread #pain #melbourne #excellence @ Bread Club https://t.co/WOWrMFUuTr",
-            "clean_text": "Amazing bread and croissants and more at breadclubofficial Like in France Well done Brice et Tim So good Bread Club",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.94882,
-            "latitude": -37.80275,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581205797857419265,
-            "uid": 58721267,
-            "author": "LallaM",
-            "user_img": "https://pbs.twimg.com/profile_images/1215558097193730048/aEoUuVNv_normal.jpg",
-            "time": "2022-10-15 08:50:14 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ Peter MacCallum Cancer Centre https://t.co/UesTGO1VH9",
-            "clean_text": "Just posted a photo Peter MacCallum Cancer Centre",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95707703,
-            "latitude": -37.80015185,
-            "photo_urls": []
         }
     ]
 }

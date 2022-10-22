@@ -1,39 +1,63 @@
 {
     "word_freq": [
         {
-            "text": "posted",
-            "value": 3
-        },
-        {
-            "text": "photo",
-            "value": 3
-        },
-        {
-            "text": "Northside",
-            "value": 3
-        },
-        {
-            "text": "Records",
-            "value": 3
-        },
-        {
-            "text": "Good",
+            "text": "RUSTY'S",
             "value": 1
         },
         {
-            "text": "morning",
-            "value": 2
-        },
-        {
-            "text": "Melbourne",
-            "value": 2
-        },
-        {
-            "text": "Publicize",
+            "text": "50TH",
             "value": 1
         },
         {
-            "text": "Test",
+            "text": "MOLLIE'S",
+            "value": 1
+        },
+        {
+            "text": "BAR",
+            "value": 1
+        },
+        {
+            "text": "DINER",
+            "value": 1
+        },
+        {
+            "text": "COLLINGWOOD",
+            "value": 2
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "PHOTO",
+            "value": 2
+        },
+        {
+            "text": "NORTHSIDE",
+            "value": 2
+        },
+        {
+            "text": "RECORDS",
+            "value": 2
+        },
+        {
+            "text": "GOOD",
+            "value": 1
+        },
+        {
+            "text": "MORNING",
+            "value": 2
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 2
+        },
+        {
+            "text": "PUBLICIZE",
+            "value": 1
+        },
+        {
+            "text": "TEST",
             "value": 1
         },
         {
@@ -41,227 +65,223 @@
             "value": 1
         },
         {
-            "text": "Thursday",
+            "text": "THURSDAY",
             "value": 1
         },
         {
-            "text": "Hills",
+            "text": "HILLS",
             "value": 1
         },
         {
-            "text": "2x6x200",
+            "text": "2X6X200",
             "value": 1
         },
         {
-            "text": "jog",
+            "text": "JOG",
             "value": 1
         },
         {
-            "text": "back",
+            "text": "BACK",
             "value": 2
         },
         {
-            "text": "Alternating",
+            "text": "ALTERNATING",
             "value": 1
         },
         {
-            "text": "easy",
+            "text": "EASY",
             "value": 1
         },
         {
-            "text": "hard",
+            "text": "HARD",
             "value": 1
         },
         {
-            "text": "30sec",
+            "text": "30SEC",
             "value": 1
         },
         {
-            "text": "Prof",
+            "text": "PROF",
             "value": 1
         },
         {
-            "text": "Clare",
+            "text": "CLARE",
             "value": 1
         },
         {
-            "text": "Scott",
+            "text": "SCOTT",
             "value": 1
         },
         {
-            "text": "Chair",
+            "text": "CHAIR",
             "value": 1
         },
         {
-            "text": "Joint",
+            "text": "JOINT",
             "value": 1
         },
         {
-            "text": "Division",
+            "text": "DIVISION",
             "value": 1
         },
         {
-            "text": "Head",
-            "value": 1
-        },
-        {
-            "text": "Member",
-            "value": 1
-        },
-        {
-            "text": "Order",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 1
-        },
-        {
-            "text": "Superstar",
-            "value": 1
-        },
-        {
-            "text": "clinician",
-            "value": 1
-        },
-        {
-            "text": "scientist",
-            "value": 1
-        },
-        {
-            "text": "Starstruck",
-            "value": 1
-        },
-        {
-            "text": "emotional",
-            "value": 1
-        },
-        {
-            "text": "meet",
-            "value": 1
-        },
-        {
-            "text": "living",
-            "value": 1
-        },
-        {
-            "text": "legend",
-            "value": 1
-        },
-        {
-            "text": "person",
+            "text": "HEAD",
             "value": 2
         },
         {
-            "text": "yesterday",
+            "text": "MEMBER",
             "value": 1
         },
         {
-            "text": "impressive",
+            "text": "ORDER",
             "value": 1
         },
         {
-            "text": "Also",
+            "text": "AUSTRALIA",
+            "value": 1
+        },
+        {
+            "text": "SUPERSTAR",
+            "value": 1
+        },
+        {
+            "text": "CLINICIAN",
+            "value": 1
+        },
+        {
+            "text": "SCIENTIST",
+            "value": 1
+        },
+        {
+            "text": "STARSTRUCK",
+            "value": 1
+        },
+        {
+            "text": "EMOTIONAL",
+            "value": 1
+        },
+        {
+            "text": "MEET",
+            "value": 1
+        },
+        {
+            "text": "LIVING",
+            "value": 1
+        },
+        {
+            "text": "LEGEND",
+            "value": 1
+        },
+        {
+            "text": "PERSON",
             "value": 2
         },
         {
-            "text": "warm",
+            "text": "YESTERDAY",
             "value": 1
         },
         {
-            "text": "caring",
+            "text": "IMPRESSIVE",
             "value": 1
         },
         {
-            "text": "smiles",
-            "value": 1
-        },
-        {
-            "text": "eyes",
-            "value": 1
-        },
-        {
-            "text": "Sunday",
+            "text": "ALSO",
             "value": 2
         },
         {
-            "text": "night",
+            "text": "WARM",
             "value": 1
         },
         {
-            "text": "treat",
+            "text": "CARING",
+            "value": 1
+        },
+        {
+            "text": "SMILES",
+            "value": 1
+        },
+        {
+            "text": "EYES",
+            "value": 1
+        },
+        {
+            "text": "SUNDAY",
             "value": 2
         },
         {
-            "text": "Japanese",
+            "text": "NIGHT",
             "value": 1
         },
         {
-            "text": "Tokushima",
+            "text": "TREAT",
+            "value": 2
+        },
+        {
+            "text": "JAPANESE",
             "value": 1
         },
         {
-            "text": "deserves",
+            "text": "TOKUSHIMA",
             "value": 1
         },
         {
-            "text": "surviving",
+            "text": "DESERVES",
             "value": 1
         },
         {
-            "text": "South",
-            "value": 3
-        },
-        {
-            "text": "Johnston",
-            "value": 3
-        },
-        {
-            "text": "Frankly",
+            "text": "SURVIVING",
             "value": 1
         },
         {
-            "text": "chorizo",
+            "text": "SOUTH",
+            "value": 2
+        },
+        {
+            "text": "JOHNSTON",
+            "value": 2
+        },
+        {
+            "text": "FRANKLY",
             "value": 1
         },
         {
-            "text": "necessary",
+            "text": "CHORIZO",
             "value": 1
         },
         {
-            "text": "superb",
+            "text": "NECESSARY",
             "value": 1
         },
         {
-            "text": "Shakshuka",
+            "text": "SUPERB",
             "value": 1
         },
         {
-            "text": "brunch",
+            "text": "SHAKSHUKA",
             "value": 1
         },
         {
-            "text": "Archie's",
+            "text": "BRUNCH",
             "value": 1
         },
         {
-            "text": "Day",
+            "text": "ARCHIE'S",
             "value": 1
         },
         {
-            "text": "Gardens",
+            "text": "GARDENS",
             "value": 1
         },
         {
-            "text": "essay",
+            "text": "ESSAY",
             "value": 1
         },
         {
-            "text": "Ellie",
+            "text": "ELLIE",
             "value": 1
         },
         {
-            "text": "Stathaki",
+            "text": "STATHAKI",
             "value": 1
         },
         {
@@ -269,251 +289,155 @@
             "value": 1
         },
         {
-            "text": "fabulous",
+            "text": "FABULOUS",
             "value": 1
         },
         {
-            "text": "day",
+            "text": "ROUNDED",
             "value": 1
         },
         {
-            "text": "rounded",
+            "text": "PERFECT",
             "value": 1
         },
         {
-            "text": "perfect",
+            "text": "COUPLE",
             "value": 1
         },
         {
-            "text": "couple",
+            "text": "COCKTAILS",
             "value": 1
         },
         {
-            "text": "cocktails",
+            "text": "FAVOURITE",
             "value": 1
         },
         {
-            "text": "one",
+            "text": "BARS",
             "value": 1
         },
         {
-            "text": "favourite",
+            "text": "WORLD",
             "value": 1
         },
         {
-            "text": "bars",
+            "text": "LOWLIGHTS",
             "value": 1
         },
         {
-            "text": "world",
+            "text": "SLOW",
             "value": 1
         },
         {
-            "text": "lowlights",
+            "text": "RECOVERY",
             "value": 1
         },
         {
-            "text": "slow",
+            "text": "GYM",
             "value": 1
         },
         {
-            "text": "recovery",
+            "text": "APPEAR",
             "value": 1
         },
         {
-            "text": "gym",
-            "value": 2
-        },
-        {
-            "text": "appear",
+            "text": "PREGNANT",
             "value": 1
         },
         {
-            "text": "pregnant",
+            "text": "STRONG",
             "value": 1
         },
         {
-            "text": "Strong",
+            "text": "ZONE",
             "value": 1
         },
         {
-            "text": "Zone",
+            "text": "FRIDAY",
             "value": 1
         },
         {
-            "text": "Friday",
-            "value": 2
-        },
-        {
-            "text": "brlunch",
+            "text": "BRLUNCH",
             "value": 1
         },
         {
-            "text": "pasta",
+            "text": "PASTA",
             "value": 1
         },
         {
-            "text": "two",
-            "value": 2
-        },
-        {
-            "text": "childhood",
+            "text": "CHILDHOOD",
             "value": 1
         },
         {
-            "text": "holy",
+            "text": "HOLY",
             "value": 1
         },
         {
-            "text": "trinity",
+            "text": "TRINITY",
             "value": 1
         },
         {
-            "text": "chicken",
+            "text": "CHICKEN",
             "value": 1
         },
         {
-            "text": "mushrooms",
+            "text": "MUSHROOMS",
             "value": 1
         },
         {
-            "text": "third",
+            "text": "THIRD",
             "value": 1
         },
         {
-            "text": "bacon",
+            "text": "BACON",
             "value": 1
         },
         {
-            "text": "Robot",
+            "text": "ROBOT",
             "value": 1
         },
         {
-            "text": "head",
+            "text": "PASTE",
             "value": 1
         },
         {
-            "text": "paste",
+            "text": "ATTRACTIVE",
             "value": 1
         },
         {
-            "text": "attractive",
+            "text": "ARTIST",
             "value": 1
         },
         {
-            "text": "artist",
+            "text": "PROLIFIC",
             "value": 1
         },
         {
-            "text": "prolific",
+            "text": "SOMETIMES",
             "value": 1
         },
         {
-            "text": "sometimes",
+            "text": "INSENSITIVE",
             "value": 1
         },
         {
-            "text": "insensitive",
+            "text": "PLACEMENT",
             "value": 1
         },
         {
-            "text": "placement",
+            "text": "REDUCES",
             "value": 1
         },
         {
-            "text": "reduces",
+            "text": "EFFECTIVENESS",
             "value": 1
         },
         {
-            "text": "effectiveness",
+            "text": "LITTLE",
             "value": 1
         },
         {
-            "text": "Little",
-            "value": 2
-        },
-        {
-            "text": "Oxford",
-            "value": 2
-        },
-        {
-            "text": "St",
-            "value": 2
-        },
-        {
-            "text": "Collingwood",
-            "value": 2
-        },
-        {
-            "text": "Mmmm",
-            "value": 1
-        },
-        {
-            "text": "straight",
-            "value": 1
-        },
-        {
-            "text": "couples",
-            "value": 1
-        },
-        {
-            "text": "dancing",
-            "value": 1
-        },
-        {
-            "text": "stage",
-            "value": 1
-        },
-        {
-            "text": "Mollies",
-            "value": 1
-        },
-        {
-            "text": "love",
-            "value": 1
-        },
-        {
-            "text": "Arabic",
-            "value": 1
-        },
-        {
-            "text": "Returned",
-            "value": 1
-        },
-        {
-            "text": "age",
-            "value": 1
-        },
-        {
-            "text": "delicious",
-            "value": 2
-        },
-        {
-            "text": "pizza",
-            "value": 2
-        },
-        {
-            "text": "tiramis",
-            "value": 1
-        },
-        {
-            "text": "CODE",
-            "value": 1
-        },
-        {
-            "text": "bar",
-            "value": 1
-        },
-        {
-            "text": "Post",
-            "value": 1
-        },
-        {
-            "text": "breakfast",
-            "value": 1
-        },
-        {
-            "text": "cutie",
+            "text": "OXFORD",
             "value": 1
         }
     ]

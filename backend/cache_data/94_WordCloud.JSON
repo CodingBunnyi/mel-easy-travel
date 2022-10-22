@@ -1,479 +1,387 @@
 {
     "word_freq": [
         {
-            "text": "Boxing",
+            "text": "TAME",
             "value": 1
         },
         {
-            "text": "best",
-            "value": 2
-        },
-        {
-            "text": "sport",
+            "text": "IMPALA",
             "value": 1
         },
         {
-            "text": "world",
-            "value": 3
-        },
-        {
-            "text": "Rod",
-            "value": 1
-        },
-        {
-            "text": "Laver",
-            "value": 1
-        },
-        {
-            "text": "Arena",
-            "value": 1
-        },
-        {
-            "text": "Weather",
-            "value": 1
-        },
-        {
-            "text": "finally",
-            "value": 1
-        },
-        {
-            "text": "turning",
-            "value": 1
-        },
-        {
-            "text": "good",
-            "value": 1
-        },
-        {
-            "text": "Time",
-            "value": 1
-        },
-        {
-            "text": "get",
-            "value": 2
-        },
-        {
-            "text": "Summer",
-            "value": 1
-        },
-        {
-            "text": "coming",
-            "value": 1
-        },
-        {
-            "text": "want",
-            "value": 1
-        },
-        {
-            "text": "fit",
-            "value": 1
-        },
-        {
-            "text": "healthy",
-            "value": 1
-        },
-        {
-            "text": "sharp",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "todays",
-            "value": 1
-        },
-        {
-            "text": "Crew",
-            "value": 1
-        },
-        {
-            "text": "getting",
-            "value": 1
-        },
-        {
-            "text": "thru",
-            "value": 2
-        },
-        {
-            "text": "run",
-            "value": 1
-        },
-        {
-            "text": "big",
-            "value": 1
-        },
-        {
-            "text": "week",
-            "value": 1
-        },
-        {
-            "text": "Even",
-            "value": 1
-        },
-        {
-            "text": "feel",
-            "value": 1
-        },
-        {
-            "text": "support",
-            "value": 1
-        },
-        {
-            "text": "gets",
-            "value": 1
-        },
-        {
-            "text": "fight",
-            "value": 5
-        },
-        {
-            "text": "showing",
-            "value": 1
-        },
-        {
-            "text": "shake",
-            "value": 1
-        },
-        {
-            "text": "hands",
-            "value": 1
-        },
-        {
-            "text": "Plenty",
-            "value": 1
-        },
-        {
-            "text": "class",
-            "value": 1
-        },
-        {
-            "text": "Team",
-            "value": 1
-        },
-        {
-            "text": "Haney",
-            "value": 2
-        },
-        {
-            "text": "Kambosos",
-            "value": 1
-        },
-        {
-            "text": "post",
-            "value": 1
-        },
-        {
-            "text": "title",
-            "value": 1
-        },
-        {
-            "text": "Reflections",
-            "value": 1
-        },
-        {
-            "text": "beautiful",
-            "value": 1
-        },
-        {
-            "text": "cloudless",
-            "value": 1
-        },
-        {
-            "text": "day",
-            "value": 1
-        },
-        {
-            "text": "Queen",
-            "value": 2
-        },
-        {
-            "text": "Victoria",
-            "value": 2
-        },
-        {
-            "text": "Gardens",
-            "value": 2
-        },
-        {
-            "text": "Melbourne",
-            "value": 2
-        },
-        {
-            "text": "late",
-            "value": 1
-        },
-        {
-            "text": "winter",
-            "value": 1
-        },
-        {
-            "text": "fatfreddysdropnz",
-            "value": 1
-        },
-        {
-            "text": "Rocking",
-            "value": 1
-        },
-        {
-            "text": "Bowl",
+            "text": "MELBOURNE",
             "value": 4
         },
         {
-            "text": "Sidney",
+            "text": "TAKE",
+            "value": 1
+        },
+        {
+            "text": "BIT",
+            "value": 1
+        },
+        {
+            "text": "FINALLY",
+            "value": 3
+        },
+        {
+            "text": "THANK",
+            "value": 1
+        },
+        {
+            "text": "FIRST",
+            "value": 1
+        },
+        {
+            "text": "SAW",
+            "value": 1
+        },
+        {
+            "text": "TERRAIN",
+            "value": 1
+        },
+        {
+            "text": "PREMIERE",
+            "value": 1
+        },
+        {
+            "text": "AGO",
+            "value": 1
+        },
+        {
+            "text": "PHENOMENAL",
+            "value": 1
+        },
+        {
+            "text": "EVERYTHING",
+            "value": 1
+        },
+        {
+            "text": "DESIGN",
+            "value": 1
+        },
+        {
+            "text": "COSTUMES",
+            "value": 1
+        },
+        {
+            "text": "PERFORMANCES",
+            "value": 1
+        },
+        {
+            "text": "CHOREOGRAPHY",
+            "value": 1
+        },
+        {
+            "text": "FANTASTIC",
+            "value": 1
+        },
+        {
+            "text": "PHOTO",
+            "value": 1
+        },
+        {
+            "text": "COURTESY",
+            "value": 1
+        },
+        {
+            "text": "ARTSHUB",
+            "value": 1
+        },
+        {
+            "text": "DANCEX",
             "value": 2
         },
         {
-            "text": "Myer",
+            "text": "PART",
+            "value": 1
+        },
+        {
+            "text": "FEATURING",
+            "value": 1
+        },
+        {
+            "text": "EMOTION",
+            "value": 1
+        },
+        {
+            "text": "INTRA",
+            "value": 1
+        },
+        {
+            "text": "INTENSE",
+            "value": 1
+        },
+        {
+            "text": "TREMENDOUS",
+            "value": 1
+        },
+        {
+            "text": "PERFORMANCE",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "ARTS",
+            "value": 1
+        },
+        {
+            "text": "CENTRE",
+            "value": 1
+        },
+        {
+            "text": "ROW",
+            "value": 1
+        },
+        {
+            "text": "BOXING",
+            "value": 1
+        },
+        {
+            "text": "BEST",
             "value": 2
         },
         {
-            "text": "Music",
-            "value": 2
-        },
-        {
-            "text": "Let",
-            "value": 2
-        },
-        {
-            "text": "go",
+            "text": "SPORT",
             "value": 1
         },
         {
-            "text": "least",
+            "text": "WORLD",
+            "value": 3
+        },
+        {
+            "text": "ROD",
             "value": 1
         },
         {
-            "text": "wear",
+            "text": "LAVER",
             "value": 1
         },
         {
-            "text": "beanie",
+            "text": "ARENA",
             "value": 1
         },
         {
-            "text": "puffer",
+            "text": "WEATHER",
             "value": 1
         },
         {
-            "text": "jacket",
+            "text": "TURNING",
             "value": 1
         },
         {
-            "text": "one",
-            "value": 1
-        },
-        {
-            "text": "absolute",
-            "value": 1
-        },
-        {
-            "text": "cracker",
-            "value": 1
-        },
-        {
-            "text": "atmosphere",
-            "value": 1
-        },
-        {
-            "text": "Kambosis",
+            "text": "GOOD",
             "value": 1
         },
         {
             "text": "TIME",
-            "value": 1
-        },
-        {
-            "text": "Nice",
-            "value": 1
-        },
-        {
-            "text": "drop",
             "value": 2
         },
         {
-            "text": "Fat",
+            "text": "SUMMER",
+            "value": 1
+        },
+        {
+            "text": "COMING",
+            "value": 1
+        },
+        {
+            "text": "WANT",
+            "value": 1
+        },
+        {
+            "text": "FIT",
+            "value": 1
+        },
+        {
+            "text": "HEALTHY",
+            "value": 1
+        },
+        {
+            "text": "SHARP",
+            "value": 1
+        },
+        {
+            "text": "THANKS",
+            "value": 1
+        },
+        {
+            "text": "TODAYS",
+            "value": 1
+        },
+        {
+            "text": "CREW",
+            "value": 1
+        },
+        {
+            "text": "GETTING",
+            "value": 1
+        },
+        {
+            "text": "THRU",
             "value": 2
         },
         {
-            "text": "Freddy",
+            "text": "RUN",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 1
+        },
+        {
+            "text": "EVEN",
+            "value": 1
+        },
+        {
+            "text": "FEEL",
+            "value": 1
+        },
+        {
+            "text": "SUPPORT",
+            "value": 1
+        },
+        {
+            "text": "GETS",
+            "value": 1
+        },
+        {
+            "text": "FIGHT",
+            "value": 5
+        },
+        {
+            "text": "SHOWING",
+            "value": 1
+        },
+        {
+            "text": "SHAKE",
+            "value": 1
+        },
+        {
+            "text": "HANDS",
+            "value": 1
+        },
+        {
+            "text": "PLENTY",
+            "value": 1
+        },
+        {
+            "text": "CLASS",
+            "value": 1
+        },
+        {
+            "text": "TEAM",
+            "value": 1
+        },
+        {
+            "text": "HANEY",
             "value": 2
         },
         {
-            "text": "Drinking",
+            "text": "KAMBOSOS",
             "value": 1
         },
         {
-            "text": "Pale",
+            "text": "TITLE",
             "value": 1
         },
         {
-            "text": "Ale",
+            "text": "REFLECTIONS",
             "value": 1
         },
         {
-            "text": "come",
+            "text": "BEAUTIFUL",
             "value": 1
         },
         {
-            "text": "One",
+            "text": "CLOUDLESS",
             "value": 1
         },
         {
-            "text": "enjoy",
+            "text": "QUEEN",
+            "value": 2
+        },
+        {
+            "text": "VICTORIA",
+            "value": 2
+        },
+        {
+            "text": "GARDENS",
+            "value": 2
+        },
+        {
+            "text": "LATE",
             "value": 1
         },
         {
-            "text": "ballet",
+            "text": "WINTER",
             "value": 1
         },
         {
-            "text": "Big",
+            "text": "FATFREDDYSDROPNZ",
             "value": 1
         },
         {
-            "text": "Saturday",
+            "text": "ROCKING",
             "value": 1
         },
         {
-            "text": "Back",
+            "text": "BOWL",
+            "value": 2
+        },
+        {
+            "text": "SIDNEY",
             "value": 1
         },
         {
-            "text": "bowl",
+            "text": "MYER",
             "value": 1
         },
         {
-            "text": "Clear",
+            "text": "MUSIC",
             "value": 1
         },
         {
-            "text": "skies",
+            "text": "GO",
             "value": 1
         },
         {
-            "text": "Opening",
+            "text": "LEAST",
             "value": 1
         },
         {
-            "text": "ready",
+            "text": "WEAR",
             "value": 1
         },
         {
-            "text": "rumble",
+            "text": "BEANIE",
             "value": 1
         },
         {
-            "text": "Bring",
+            "text": "PUFFER",
             "value": 1
         },
         {
-            "text": "posted",
+            "text": "JACKET",
             "value": 1
         },
         {
-            "text": "photo",
+            "text": "ABSOLUTE",
             "value": 1
         },
         {
-            "text": "Park",
+            "text": "CRACKER",
             "value": 1
         },
         {
-            "text": "Finally",
+            "text": "ATMOSPHERE",
             "value": 1
         },
         {
-            "text": "joy",
-            "value": 1
-        },
-        {
-            "text": "seeing",
-            "value": 1
-        },
-        {
-            "text": "Cyrano",
-            "value": 1
-        },
-        {
-            "text": "last",
-            "value": 1
-        },
-        {
-            "text": "night",
-            "value": 1
-        },
-        {
-            "text": "still",
-            "value": 1
-        },
-        {
-            "text": "trying",
-            "value": 1
-        },
-        {
-            "text": "work",
-            "value": 1
-        },
-        {
-            "text": "say",
-            "value": 1
-        },
-        {
-            "text": "WOW",
-            "value": 1
-        },
-        {
-            "text": "eloquent",
-            "value": 1
-        },
-        {
-            "text": "way",
-            "value": 1
-        },
-        {
-            "text": "laughed",
-            "value": 1
-        },
-        {
-            "text": "sobbed",
-            "value": 1
-        },
-        {
-            "text": "despaired",
-            "value": 1
-        },
-        {
-            "text": "hoped",
-            "value": 1
-        },
-        {
-            "text": "felt",
-            "value": 1
-        },
-        {
-            "text": "seen",
-            "value": 1
-        },
-        {
-            "text": "triumph",
-            "value": 1
-        },
-        {
-            "text": "privilege",
-            "value": 1
-        },
-        {
-            "text": "experience",
-            "value": 1
-        },
-        {
-            "text": "deception",
-            "value": 1
-        },
-        {
-            "text": "today",
+            "text": "KAMBOSIS",
             "value": 1
         }
     ]

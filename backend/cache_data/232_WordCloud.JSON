@@ -1,51 +1,99 @@
 {
     "word_freq": [
         {
-            "text": "Table",
+            "text": "WOW",
             "value": 1
         },
         {
-            "text": "confirmed",
+            "text": "ELYSE",
             "value": 1
         },
         {
-            "text": "Zine",
+            "text": "TIM",
             "value": 1
         },
         {
-            "text": "Fair",
+            "text": "LARGER",
             "value": 1
         },
         {
-            "text": "week",
+            "text": "LIFE",
             "value": 1
         },
         {
-            "text": "go",
+            "text": "WEDDING",
             "value": 1
         },
         {
-            "text": "Mission",
+            "text": "RECEPTION",
+            "value": 1
+        },
+        {
+            "text": "PRIVILEGED",
+            "value": 1
+        },
+        {
+            "text": "MC",
+            "value": 1
+        },
+        {
+            "text": "TONIGHT",
             "value": 2
         },
         {
-            "text": "Seafarers",
-            "value": 2
+            "text": "SHOWTIME",
+            "value": 1
         },
         {
-            "text": "Victoria",
-            "value": 2
+            "text": "EVENT",
+            "value": 1
         },
         {
-            "text": "West",
+            "text": "GROUP",
+            "value": 1
+        },
+        {
+            "text": "TABLE",
+            "value": 1
+        },
+        {
+            "text": "CONFIRMED",
+            "value": 1
+        },
+        {
+            "text": "ZINE",
+            "value": 1
+        },
+        {
+            "text": "FAIR",
+            "value": 1
+        },
+        {
+            "text": "GO",
+            "value": 1
+        },
+        {
+            "text": "MISSION",
+            "value": 1
+        },
+        {
+            "text": "SEAFARERS",
+            "value": 1
+        },
+        {
+            "text": "VICTORIA",
+            "value": 1
+        },
+        {
+            "text": "WEST",
             "value": 5
         },
         {
-            "text": "Gate",
+            "text": "GATE",
             "value": 5
         },
         {
-            "text": "Fwy",
+            "text": "FWY",
             "value": 4
         },
         {
@@ -53,59 +101,51 @@
             "value": 5
         },
         {
-            "text": "Docklands",
+            "text": "DOCKLANDS",
             "value": 5
         },
         {
-            "text": "lanes",
+            "text": "LANES",
             "value": 6
         },
         {
-            "text": "closed",
+            "text": "CLOSED",
             "value": 10
         },
         {
-            "text": "inbound",
+            "text": "INBOUND",
             "value": 2
         },
         {
-            "text": "Left",
-            "value": 1
+            "text": "LEFT",
+            "value": 3
         },
         {
-            "text": "lane",
+            "text": "LANE",
             "value": 5
         },
         {
-            "text": "Montague",
+            "text": "MONTAGUE",
             "value": 1
         },
         {
-            "text": "Street",
-            "value": 1
+            "text": "PHOTO",
+            "value": 3
         },
         {
-            "text": "posted",
-            "value": 4
+            "text": "MELBOURNE",
+            "value": 7
         },
         {
-            "text": "photo",
-            "value": 4
-        },
-        {
-            "text": "Melbourne",
-            "value": 8
-        },
-        {
-            "text": "Convention",
+            "text": "CONVENTION",
             "value": 5
         },
         {
-            "text": "Exhibition",
+            "text": "EXHIBITION",
             "value": 5
         },
         {
-            "text": "Centre",
+            "text": "CENTRE",
             "value": 5
         },
         {
@@ -113,115 +153,99 @@
             "value": 5
         },
         {
-            "text": "Kings",
+            "text": "KINGS",
             "value": 1
         },
         {
-            "text": "Ramp",
+            "text": "RAMP",
             "value": 1
         },
         {
-            "text": "outbound",
+            "text": "OUTBOUND",
             "value": 6
         },
         {
-            "text": "left",
+            "text": "LUCKY",
+            "value": 1
+        },
+        {
+            "text": "OPPORTUNITY",
+            "value": 1
+        },
+        {
+            "text": "TRAVEL",
+            "value": 1
+        },
+        {
+            "text": "PRESENT",
+            "value": 1
+        },
+        {
+            "text": "RESEARCH",
+            "value": 1
+        },
+        {
+            "text": "COLLEAGUES",
+            "value": 1
+        },
+        {
+            "text": "FACE",
             "value": 2
         },
         {
-            "text": "lucky",
+            "text": "CUP",
             "value": 1
         },
         {
-            "text": "opportunity",
+            "text": "FULL",
             "value": 1
         },
         {
-            "text": "travel",
-            "value": 1
-        },
-        {
-            "text": "present",
-            "value": 1
-        },
-        {
-            "text": "research",
-            "value": 1
-        },
-        {
-            "text": "colleagues",
-            "value": 1
-        },
-        {
-            "text": "face",
-            "value": 2
-        },
-        {
-            "text": "Cup",
-            "value": 1
-        },
-        {
-            "text": "full",
-            "value": 1
-        },
-        {
-            "text": "right",
+            "text": "RIGHT",
             "value": 3
         },
         {
-            "text": "near",
+            "text": "NEAR",
             "value": 2
         },
         {
-            "text": "Two",
+            "text": "TRIP",
             "value": 1
         },
         {
-            "text": "Day",
+            "text": "FINALLY",
             "value": 1
         },
         {
-            "text": "trip",
+            "text": "GETTING",
             "value": 1
         },
         {
-            "text": "finally",
-            "value": 1
-        },
-        {
-            "text": "getting",
-            "value": 1
-        },
-        {
-            "text": "see",
+            "text": "SEE",
             "value": 2
         },
         {
-            "text": "smol",
+            "text": "SMOL",
             "value": 1
         },
         {
-            "text": "game",
+            "text": "GAME",
             "value": 1
         },
         {
-            "text": "dev",
+            "text": "DEV",
             "value": 1
         },
         {
-            "text": "friend",
+            "text": "FRIEND",
             "value": 1
         },
         {
-            "text": "circle",
+            "text": "CIRCLE",
             "value": 1
         },
         {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "isolation",
+            "text": "ISOLATION",
             "value": 1
         },
         {
@@ -229,79 +253,75 @@
             "value": 1
         },
         {
-            "text": "Coca",
+            "text": "COCA",
             "value": 1
         },
         {
-            "text": "Cola",
+            "text": "COLA",
             "value": 1
         },
         {
-            "text": "warning",
+            "text": "WARNING",
             "value": 1
         },
         {
-            "text": "labels",
+            "text": "LABELS",
             "value": 1
         },
         {
-            "text": "Mexico",
+            "text": "MEXICO",
             "value": 1
         },
         {
-            "text": "Thanks",
+            "text": "THANKS",
             "value": 3
         },
         {
-            "text": "sharing",
+            "text": "SHARING",
             "value": 2
         },
         {
-            "text": "Wonderful",
+            "text": "WONDERFUL",
             "value": 1
         },
         {
-            "text": "range",
+            "text": "RANGE",
             "value": 1
         },
         {
-            "text": "advocacy",
+            "text": "ADVOCACY",
             "value": 2
         },
         {
-            "text": "initiatives",
+            "text": "INITIATIVES",
             "value": 1
         },
         {
-            "text": "shared",
+            "text": "SHARED",
             "value": 1
         },
         {
-            "text": "Ghana",
+            "text": "GHANA",
             "value": 1
         },
         {
-            "text": "examples",
+            "text": "EXAMPLES",
             "value": 1
         },
         {
-            "text": "work",
+            "text": "WORK",
             "value": 1
         },
         {
-            "text": "us",
+            "text": "TERRIFIC",
             "value": 1
         },
         {
-            "text": "Terrific",
+            "text": "TURNOUT",
             "value": 1
         },
         {
-            "text": "turnout",
-            "value": 1
-        },
-        {
-            "text": "today",
+            "text": "TODAY",
             "value": 2
         },
         {
@@ -309,179 +329,115 @@
             "value": 1
         },
         {
-            "text": "International",
+            "text": "INTERNATIONAL",
             "value": 2
         },
         {
-            "text": "Congress",
+            "text": "CONGRESS",
             "value": 2
         },
         {
-            "text": "Obesity",
+            "text": "OBESITY",
             "value": 2
         },
         {
-            "text": "Satellite",
+            "text": "SATELLITE",
             "value": 2
         },
         {
-            "text": "Meeting",
-            "value": 1
-        },
-        {
-            "text": "lovely",
-            "value": 1
-        },
-        {
-            "text": "many",
-            "value": 1
-        },
-        {
-            "text": "researchers",
-            "value": 1
-        },
-        {
-            "text": "room",
-            "value": 1
-        },
-        {
-            "text": "Great",
-            "value": 1
-        },
-        {
-            "text": "meeting",
-            "value": 1
-        },
-        {
-            "text": "Big",
-            "value": 1
-        },
-        {
-            "text": "discussions",
-            "value": 1
-        },
-        {
-            "text": "nutrition",
-            "value": 1
-        },
-        {
-            "text": "sustainability",
-            "value": 1
-        },
-        {
-            "text": "joining",
-            "value": 1
-        },
-        {
-            "text": "dots",
-            "value": 1
-        },
-        {
-            "text": "warm",
-            "value": 1
-        },
-        {
-            "text": "welcome",
-            "value": 1
-        },
-        {
-            "text": "know",
-            "value": 1
-        },
-        {
-            "text": "late",
-            "value": 1
-        },
-        {
-            "text": "wooo",
-            "value": 1
-        },
-        {
-            "text": "Live",
+            "text": "MEETING",
             "value": 2
         },
         {
-            "text": "Concert",
+            "text": "LOVELY",
+            "value": 1
+        },
+        {
+            "text": "MANY",
+            "value": 1
+        },
+        {
+            "text": "RESEARCHERS",
+            "value": 1
+        },
+        {
+            "text": "ROOM",
+            "value": 1
+        },
+        {
+            "text": "GREAT",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 1
+        },
+        {
+            "text": "DISCUSSIONS",
+            "value": 1
+        },
+        {
+            "text": "NUTRITION",
+            "value": 1
+        },
+        {
+            "text": "SUSTAINABILITY",
+            "value": 1
+        },
+        {
+            "text": "JOINING",
+            "value": 1
+        },
+        {
+            "text": "DOTS",
+            "value": 1
+        },
+        {
+            "text": "WARM",
+            "value": 1
+        },
+        {
+            "text": "WELCOME",
+            "value": 1
+        },
+        {
+            "text": "KNOW",
+            "value": 1
+        },
+        {
+            "text": "LATE",
+            "value": 1
+        },
+        {
+            "text": "WOOO",
+            "value": 1
+        },
+        {
+            "text": "LIVE",
             "value": 2
         },
         {
-            "text": "sincerely",
+            "text": "CONCERT",
             "value": 2
         },
         {
-            "text": "appreciate",
+            "text": "SINCERELY",
             "value": 2
         },
         {
-            "text": "love",
+            "text": "APPRECIATE",
             "value": 2
         },
         {
-            "text": "support",
+            "text": "LOVE",
             "value": 2
         },
         {
-            "text": "tonight",
-            "value": 1
+            "text": "SUPPORT",
+            "value": 2
         },
         {
-            "text": "Tickets",
-            "value": 1
-        },
-        {
-            "text": "Professor",
-            "value": 1
-        },
-        {
-            "text": "Brian",
-            "value": 1
-        },
-        {
-            "text": "Cox",
-            "value": 1
-        },
-        {
-            "text": "need",
-            "value": 1
-        },
-        {
-            "text": "lie",
-            "value": 1
-        },
-        {
-            "text": "Ooohh",
-            "value": 1
-        },
-        {
-            "text": "ATM",
-            "value": 1
-        },
-        {
-            "text": "DFO",
-            "value": 1
-        },
-        {
-            "text": "South",
-            "value": 1
-        },
-        {
-            "text": "Wharf",
-            "value": 1
-        },
-        {
-            "text": "Yarra",
-            "value": 1
-        },
-        {
-            "text": "outside",
-            "value": 1
-        },
-        {
-            "text": "Jeff",
-            "value": 1
-        },
-        {
-            "text": "Shed",
+            "text": "TICKETS",
             "value": 1
         }
     ]

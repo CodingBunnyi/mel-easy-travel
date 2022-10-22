@@ -1,115 +1,59 @@
 {
     "word_freq": [
         {
-            "text": "Networking",
+            "text": "NETWORKING",
             "value": 1
         },
         {
-            "text": "everywhere",
+            "text": "EVERYWHERE",
             "value": 1
         },
         {
-            "text": "Espresso",
+            "text": "ESPRESSO",
             "value": 1
         },
         {
-            "text": "bar",
+            "text": "BAR",
+            "value": 2
+        },
+        {
+            "text": "BEST",
             "value": 1
         },
         {
-            "text": "best",
+            "text": "COFFE",
             "value": 1
         },
         {
-            "text": "coffe",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
+            "text": "MELBOURNE",
             "value": 3
         },
         {
-            "text": "Impresso",
+            "text": "IMPRESSO",
             "value": 1
         },
         {
-            "text": "Coffee",
+            "text": "COFFEE",
             "value": 1
         },
         {
-            "text": "Bar",
-            "value": 1
-        },
-        {
-            "text": "King",
-            "value": 1
-        },
-        {
-            "text": "St",
+            "text": "KING",
             "value": 1
         },
         {
             "text": "VIC",
-            "value": 2
+            "value": 3
         },
         {
-            "text": "Queen",
+            "text": "QUEEN",
             "value": 1
         },
         {
-            "text": "Vic",
+            "text": "PET",
             "value": 1
         },
         {
-            "text": "Pet",
-            "value": 1
-        },
-        {
-            "text": "Shop",
-            "value": 1
-        },
-        {
-            "text": "Breakfast",
-            "value": 1
-        },
-        {
-            "text": "divine",
-            "value": 1
-        },
-        {
-            "text": "explore",
-            "value": 1
-        },
-        {
-            "text": "first",
-            "value": 1
-        },
-        {
-            "text": "sitting",
-            "value": 1
-        },
-        {
-            "text": "barefoot",
-            "value": 1
-        },
-        {
-            "text": "shoe",
-            "value": 1
-        },
-        {
-            "text": "broke",
-            "value": 1
-        },
-        {
-            "text": "waiting",
-            "value": 1
-        },
-        {
-            "text": "get",
-            "value": 1
-        },
-        {
-            "text": "fixed",
+            "text": "SHOP",
             "value": 1
         }
     ]

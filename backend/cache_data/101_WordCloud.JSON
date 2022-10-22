@@ -1,71 +1,191 @@
 {
     "word_freq": [
         {
-            "text": "World",
+            "text": "DELIGHTED",
             "value": 1
         },
         {
-            "text": "Supercross",
+            "text": "PARTICIPATE",
             "value": 1
         },
         {
-            "text": "Championship",
+            "text": "BOUNCING",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "BACK",
+            "value": 1
+        },
+        {
+            "text": "PERSONAL",
+            "value": 1
+        },
+        {
+            "text": "RESILIENCE",
             "value": 2
         },
         {
-            "text": "Massive",
+            "text": "SCIENCE",
             "value": 1
         },
         {
-            "text": "thanks",
+            "text": "INSIGHTS",
             "value": 1
         },
         {
-            "text": "seats",
+            "text": "PODCAST",
             "value": 1
         },
         {
-            "text": "nice",
+            "text": "TOPIC",
             "value": 1
         },
         {
-            "text": "work",
+            "text": "'THE",
             "value": 1
         },
         {
-            "text": "guys",
+            "text": "RELATIONSHIP",
             "value": 1
         },
         {
-            "text": "boat",
+            "text": "SELF",
             "value": 1
         },
         {
-            "text": "show",
+            "text": "ESTEEM",
+            "value": 1
+        },
+        {
+            "text": "RECORDED",
+            "value": 1
+        },
+        {
+            "text": "MARCH",
+            "value": 1
+        },
+        {
+            "text": "PLEASE",
+            "value": 1
+        },
+        {
+            "text": "WATCH",
+            "value": 1
+        },
+        {
+            "text": "YOUTUBE",
+            "value": 1
+        },
+        {
+            "text": "VIDEO",
+            "value": 1
+        },
+        {
+            "text": "WURUNDJERI",
+            "value": 1
+        },
+        {
+            "text": "WAY",
+            "value": 1
+        },
+        {
+            "text": "DOCKLANDS",
+            "value": 7
+        },
+        {
+            "text": "LANES",
+            "value": 1
+        },
+        {
+            "text": "CLOSED",
+            "value": 1
+        },
+        {
+            "text": "WESTBOUND",
             "value": 2
         },
         {
-            "text": "Docklands",
-            "value": 6
+            "text": "LEFT",
+            "value": 1
         },
         {
-            "text": "Victoria",
+            "text": "TURN",
+            "value": 1
+        },
+        {
+            "text": "LANE",
+            "value": 1
+        },
+        {
+            "text": "ONTO",
+            "value": 1
+        },
+        {
+            "text": "DUDLEY",
+            "value": 1
+        },
+        {
+            "text": "WORLD",
+            "value": 1
+        },
+        {
+            "text": "SUPERCROSS",
+            "value": 1
+        },
+        {
+            "text": "CHAMPIONSHIP",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 2
+        },
+        {
+            "text": "MASSIVE",
+            "value": 1
+        },
+        {
+            "text": "THANKS",
+            "value": 2
+        },
+        {
+            "text": "SEATS",
+            "value": 1
+        },
+        {
+            "text": "NICE",
+            "value": 1
+        },
+        {
+            "text": "WORK",
+            "value": 1
+        },
+        {
+            "text": "GUYS",
+            "value": 1
+        },
+        {
+            "text": "BOAT",
+            "value": 1
+        },
+        {
+            "text": "SHOW",
+            "value": 2
+        },
+        {
+            "text": "VICTORIA",
             "value": 3
         },
         {
-            "text": "Harbour",
+            "text": "HARBOUR",
             "value": 1
         },
         {
-            "text": "Portarlington",
+            "text": "PORTARLINGTON",
             "value": 1
         },
         {
-            "text": "Ferry",
+            "text": "FERRY",
             "value": 1
         },
         {
@@ -73,147 +193,119 @@
             "value": 2
         },
         {
-            "text": "Thanks",
+            "text": "PORTPHILLIPFERRIES",
             "value": 1
         },
         {
-            "text": "portphillipferries",
+            "text": "TRANSPORT",
             "value": 1
         },
         {
-            "text": "transport",
+            "text": "TODAY",
             "value": 1
         },
         {
-            "text": "today",
+            "text": "AWESOME",
+            "value": 2
+        },
+        {
+            "text": "GEELONGRACINGCLUB",
             "value": 1
         },
         {
-            "text": "awesome",
+            "text": "PORT",
             "value": 1
         },
         {
-            "text": "geelongracingclub",
+            "text": "PHILLIP",
             "value": 1
         },
         {
-            "text": "Port",
+            "text": "FERRIES",
             "value": 1
         },
         {
-            "text": "Phillip",
+            "text": "MEL",
             "value": 1
         },
         {
-            "text": "Ferries",
+            "text": "BIN",
             "value": 1
         },
         {
-            "text": "Mel",
+            "text": "TRIP",
             "value": 1
         },
         {
-            "text": "bin",
+            "text": "PHOTODUMP",
             "value": 1
         },
         {
-            "text": "Aka",
+            "text": "ROUND",
             "value": 1
         },
         {
-            "text": "trip",
+            "text": "BIT",
             "value": 1
         },
         {
-            "text": "photodump",
+            "text": "DECADENCE",
             "value": 1
         },
         {
-            "text": "Round",
+            "text": "STATUE",
             "value": 1
         },
         {
-            "text": "bit",
+            "text": "COW",
             "value": 1
         },
         {
-            "text": "decadence",
+            "text": "TREE",
             "value": 1
         },
         {
-            "text": "statue",
+            "text": "GOOD",
             "value": 1
         },
         {
-            "text": "Cow",
+            "text": "HEAD",
             "value": 1
         },
         {
-            "text": "Tree",
+            "text": "ALONG",
             "value": 1
         },
         {
-            "text": "Awesome",
+            "text": "OLD",
             "value": 1
         },
         {
-            "text": "make",
+            "text": "BUDDY",
             "value": 1
         },
         {
-            "text": "good",
+            "text": "DISTRICT",
             "value": 1
         },
         {
-            "text": "head",
+            "text": "THAI",
             "value": 1
         },
         {
-            "text": "along",
+            "text": "LATE",
             "value": 1
         },
         {
-            "text": "old",
+            "text": "LUNCH",
             "value": 1
         },
         {
-            "text": "buddy",
+            "text": "MISS",
             "value": 1
         },
         {
-            "text": "District",
-            "value": 1
-        },
-        {
-            "text": "Thai",
-            "value": 1
-        },
-        {
-            "text": "late",
-            "value": 1
-        },
-        {
-            "text": "lunch",
-            "value": 1
-        },
-        {
-            "text": "Miss",
-            "value": 1
-        },
-        {
-            "text": "Ping",
-            "value": 1
-        },
-        {
-            "text": "Hello",
-            "value": 1
-        },
-        {
-            "text": "May",
-            "value": 1
-        },
-        {
-            "text": "introduce",
+            "text": "PING",
             "value": 1
         }
     ]

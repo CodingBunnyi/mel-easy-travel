@@ -1,3 +1,60 @@
 {
-    "word_freq": []
+    "word_freq": [
+        {
+            "text": "HAPPY",
+            "value": 2
+        },
+        {
+            "text": "BACK",
+            "value": 2
+        },
+        {
+            "text": "GARLIC",
+            "value": 2
+        },
+        {
+            "text": "PRAWNS",
+            "value": 2
+        },
+        {
+            "text": "PHENOMENAL",
+            "value": 2
+        },
+        {
+            "text": "BETTER",
+            "value": 2
+        },
+        {
+            "text": "REMEMBER",
+            "value": 2
+        },
+        {
+            "text": "SOMEONE",
+            "value": 2
+        },
+        {
+            "text": "SMILING",
+            "value": 2
+        },
+        {
+            "text": "WHOLE",
+            "value": 2
+        },
+        {
+            "text": "MEAL",
+            "value": 2
+        },
+        {
+            "text": "LA",
+            "value": 2
+        },
+        {
+            "text": "LUNA",
+            "value": 2
+        },
+        {
+            "text": "BISTRO",
+            "value": 2
+        }
+    ]
 }

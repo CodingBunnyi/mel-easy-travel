@@ -1,6 +1,74 @@
 {
-    "count": 10,
+    "count": 9,
     "data": [
+        {
+            "tid": 1583783629108699137,
+            "uid": 148870532,
+            "author": "Football-Lineups.com",
+            "user_img": "https://pbs.twimg.com/profile_images/458955445437087744/oYaNl4o6_normal.jpeg",
+            "time": "2022-10-22 11:33:37 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "🇦🇺 #Australia #ALeague -  #mvfc #MelbourneVictory 0 vs  #MelbourneCity 2   \n\n ⚽ Goals : Maclaren (penalty), Cadete (own goal) \n 🟥 Red Card: Brillante \n  \n ⚖️TIME POSSESION : 49 - 51  %     \n SHOTS ON GOAL : 4 - 7    \n\n    https://t.co/IzYcwvINIC https://t.co/i6s6YA77HS",
+            "clean_text": "0 vs 2 Goals Maclaren penalty Cadete own goal Red Card Brillante TIME POSSESION 49 51 SHOTS ON GOAL 4 7",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98388889,
+            "latitude": -37.82527778,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583743270387355648,
+            "uid": 23572940,
+            "author": "Chris Quirk",
+            "user_img": "https://pbs.twimg.com/profile_images/1476507151724015617/lBHIdvvT_normal.jpg",
+            "time": "2022-10-22 08:53:14 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "The Melbourne Derby 🔵⚪️\n\n‘Mon https://t.co/rjXM3iZdv0",
+            "clean_text": "The Melbourne Derby Mon",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfqWGjPaEAAANt2.jpg"
+            ]
+        },
+        {
+            "tid": 1583732962561957888,
+            "uid": 37866535,
+            "author": "Warren Hill",
+            "user_img": "https://pbs.twimg.com/profile_images/1469022487207763969/ZRn29yIX_normal.jpg",
+            "time": "2022-10-22 08:12:17 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Melbourne boys are still number 1 @ AAMI Park https://t.co/DJw1LFrG5N",
+            "clean_text": "Melbourne boys are still number 1 AAMI Park",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98396246,
+            "latitude": -37.82484683,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583706894035582977,
+            "uid": 130141322,
+            "author": "Melbourne City FC",
+            "user_img": "https://pbs.twimg.com/profile_images/1355400417618796544/46I_ocrH_normal.jpg",
+            "time": "2022-10-22 06:28:42 +0000",
+            "like_no": 61,
+            "language": "en",
+            "text": "Picture perfect 👌\n\n#MelbDerby https://t.co/1FVZur7UKX",
+            "clean_text": "Picture perfect",
+            "place_name": "AAMI Park",
+            "place_type": "poi",
+            "longitude": 144.98395305114178,
+            "latitude": -37.82480504830374,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffp09GJVQAE88UC.jpg"
+            ]
+        },
         {
             "tid": 1583433385661599745,
             "uid": 148870532,
@@ -82,97 +150,6 @@
             "longitude": 144.98396246,
             "latitude": -37.82484683,
             "photo_urls": []
-        },
-        {
-            "tid": 1581266944917123072,
-            "uid": 545380245,
-            "author": "Steven Annett",
-            "user_img": "https://pbs.twimg.com/profile_images/607606946527645696/gZL2LwKl_normal.jpg",
-            "time": "2022-10-15 12:53:12 +0000",
-            "like_no": 45,
-            "language": "en",
-            "text": "Good atmosphere from both sets of fans tonight, I'll be back 👌#whereisthedrum #MVCvWSW #Aleague  @wswanderersfc @gomvfc @ForVucksSake  @ALeagueAwayFans https://t.co/upkU7CiSOg https://t.co/lzu5suynav",
-            "clean_text": "Good atmosphere from both sets of fans tonight I'll be back",
-            "place_name": "AAMI Park",
-            "place_type": "poi",
-            "longitude": 144.98395305114178,
-            "latitude": -37.82480504830374,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfHJ071aEAIXpXO.jpg",
-                "https://pbs.twimg.com/media/FfHJ1VwagAA9lmZ.jpg",
-                "https://pbs.twimg.com/media/FfHJ1wGagAUN4m3.jpg",
-                "https://pbs.twimg.com/ext_tw_video_thumb/1581266872900947968/pu/img/JYFAhRqvLBwVs-Wv.jpg"
-            ]
-        },
-        {
-            "tid": 1581264697567113218,
-            "uid": 148870532,
-            "author": "Football-Lineups.com",
-            "user_img": "https://pbs.twimg.com/profile_images/458955445437087744/oYaNl4o6_normal.jpeg",
-            "time": "2022-10-15 12:44:17 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "🇦🇺 #Australia #ALeague -  #mvfc #MelbourneVictory 0 vs  #WSW Western Sydney Wanderers 1   \n\n ⚽ Goals : Mrčela \n  \n ⚖️TIME POSSESION : 61 - 39  %     \n SHOTS ON GOAL : 1 - 2    \n\n    https://t.co/TiwJGHNwfs https://t.co/VFZ7FGsszp",
-            "clean_text": "0 vs Western Sydney Wanderers 1 Goals Mr ela TIME POSSESION 61 39 SHOTS ON GOAL 1 2",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.98388889,
-            "latitude": -37.82527778,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581243412572839940,
-            "uid": 552436551,
-            "author": "Sandeep",
-            "user_img": "https://pbs.twimg.com/profile_images/1580552606086144002/C5Bt7Wcg_normal.jpg",
-            "time": "2022-10-15 11:19:42 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "The Seagulls are playing here with 4-2-2-2 formation here on defense 🤣 https://t.co/EbvJOWdiAt",
-            "clean_text": "The Seagulls are playing here with 4 2 2 2 formation here on defense",
-            "place_name": "AAMI Park",
-            "place_type": "poi",
-            "longitude": 144.98395305114178,
-            "latitude": -37.82480504830374,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfG0fJaVQAAPz0K.jpg"
-            ]
-        },
-        {
-            "tid": 1581213452093181952,
-            "uid": 552436551,
-            "author": "Sandeep",
-            "user_img": "https://pbs.twimg.com/profile_images/1580552606086144002/C5Bt7Wcg_normal.jpg",
-            "time": "2022-10-15 09:20:39 +0000",
-            "like_no": 9,
-            "language": "en",
-            "text": "Melbourne Victory vs western Sydney Wanders FC https://t.co/caHU79X4DH",
-            "clean_text": "Melbourne Victory vs western Sydney Wanders FC",
-            "place_name": "AAMI Park",
-            "place_type": "poi",
-            "longitude": 144.98395305114178,
-            "latitude": -37.82480504830374,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1581213370723708929/pu/img/QCzufdXbu7bsLAXe.jpg"
-            ]
-        },
-        {
-            "tid": 1581204819980668928,
-            "uid": 172720036,
-            "author": "Luke Reynolds",
-            "user_img": "https://pbs.twimg.com/profile_images/1402940132194353156/ydcP5Lkr_normal.jpg",
-            "time": "2022-10-15 08:46:21 +0000",
-            "like_no": 4,
-            "language": "en",
-            "text": "Let’s go @gomvfc https://t.co/ZOQ6iyOR2O",
-            "clean_text": "Let s go",
-            "place_name": "AAMI Park",
-            "place_type": "poi",
-            "longitude": 144.98395305114178,
-            "latitude": -37.82480504830374,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfGRUiJVEAAtXZ-.jpg"
-            ]
         }
     ]
 }

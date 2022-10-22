@@ -1,167 +1,239 @@
 {
     "word_freq": [
         {
-            "text": "night",
-            "value": 3
-        },
-        {
-            "text": "lights",
-            "value": 1
-        },
-        {
-            "text": "Crown",
-            "value": 1
-        },
-        {
-            "text": "Towers",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 11
-        },
-        {
-            "text": "attempt",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 21
-        },
-        {
-            "text": "photo",
-            "value": 21
-        },
-        {
-            "text": "Langham",
-            "value": 1
-        },
-        {
-            "text": "Afternoon",
+            "text": "LOVE",
             "value": 2
         },
         {
-            "text": "snack",
-            "value": 1
+            "text": "VIEW",
+            "value": 2
         },
         {
-            "text": "Ah",
-            "value": 1
+            "text": "WEATHER",
+            "value": 2
         },
         {
-            "text": "less",
-            "value": 1
+            "text": "PHOTO",
+            "value": 21
         },
         {
-            "text": "pretty",
-            "value": 1
-        },
-        {
-            "text": "bitchy",
-            "value": 1
-        },
-        {
-            "text": "sibling",
-            "value": 1
-        },
-        {
-            "text": "Sydney",
-            "value": 1
-        },
-        {
-            "text": "personality",
-            "value": 1
-        },
-        {
-            "text": "always",
-            "value": 1
-        },
-        {
-            "text": "attraction",
-            "value": 1
-        },
-        {
-            "text": "briggs",
-            "value": 1
-        },
-        {
-            "text": "made",
-            "value": 1
-        },
-        {
-            "text": "Hopscotch",
-            "value": 1
-        },
-        {
-            "text": "Bottom",
-            "value": 1
-        },
-        {
-            "text": "End",
-            "value": 1
-        },
-        {
-            "text": "City",
+            "text": "AUSTRALIA",
             "value": 6
         },
         {
-            "text": "Library",
+            "text": "MELBOURNE",
+            "value": 13
+        },
+        {
+            "text": "VICTORIA",
+            "value": 1
+        },
+        {
+            "text": "MEDIA",
+            "value": 1
+        },
+        {
+            "text": "WALL",
+            "value": 1
+        },
+        {
+            "text": "RIGHT",
+            "value": 1
+        },
+        {
+            "text": "COLLINS",
+            "value": 1
+        },
+        {
+            "text": "RESERVOIR",
             "value": 6
         },
         {
-            "text": "Australia",
-            "value": 6
+            "text": "EUREKA",
+            "value": 2
         },
         {
-            "text": "place",
+            "text": "SKY",
             "value": 1
         },
         {
-            "text": "Hellloooo",
+            "text": "DECK",
             "value": 1
         },
         {
-            "text": "Another",
+            "text": "LAST",
+            "value": 2
+        },
+        {
+            "text": "THURSDAY",
             "value": 1
         },
         {
-            "text": "day",
+            "text": "ADRIANO",
             "value": 1
         },
         {
-            "text": "another",
+            "text": "CARBONE",
             "value": 1
         },
         {
-            "text": "rooftop",
+            "text": "MASTER",
             "value": 1
         },
         {
-            "text": "stateofgracemelbourne",
+            "text": "TAILOR",
             "value": 1
         },
         {
-            "text": "State",
+            "text": "PREMIUM",
             "value": 1
         },
         {
-            "text": "Grace",
+            "text": "BESPOKE",
             "value": 1
         },
         {
-            "text": "Good",
+            "text": "HAND",
             "value": 1
         },
         {
-            "text": "Belgium",
+            "text": "SUITS",
             "value": 1
         },
         {
-            "text": "Beef",
+            "text": "SMALL",
+            "value": 2
+        },
+        {
+            "text": "BUSINESSES",
+            "value": 2
+        },
+        {
+            "text": "LANGHAM",
+            "value": 2
+        },
+        {
+            "text": "NIGHT",
+            "value": 2
+        },
+        {
+            "text": "LIGHTS",
             "value": 1
         },
         {
-            "text": "Weather",
+            "text": "CROWN",
+            "value": 1
+        },
+        {
+            "text": "TOWERS",
+            "value": 1
+        },
+        {
+            "text": "ATTEMPT",
+            "value": 1
+        },
+        {
+            "text": "AFTERNOON",
+            "value": 2
+        },
+        {
+            "text": "SNACK",
+            "value": 1
+        },
+        {
+            "text": "AH",
+            "value": 1
+        },
+        {
+            "text": "LESS",
+            "value": 1
+        },
+        {
+            "text": "PRETTY",
+            "value": 1
+        },
+        {
+            "text": "BITCHY",
+            "value": 1
+        },
+        {
+            "text": "SIBLING",
+            "value": 1
+        },
+        {
+            "text": "SYDNEY",
+            "value": 1
+        },
+        {
+            "text": "PERSONALITY",
+            "value": 1
+        },
+        {
+            "text": "ALWAYS",
+            "value": 1
+        },
+        {
+            "text": "ATTRACTION",
+            "value": 1
+        },
+        {
+            "text": "BRIGGS",
+            "value": 1
+        },
+        {
+            "text": "HOPSCOTCH",
+            "value": 1
+        },
+        {
+            "text": "BOTTOM",
+            "value": 1
+        },
+        {
+            "text": "END",
+            "value": 1
+        },
+        {
+            "text": "CITY",
+            "value": 5
+        },
+        {
+            "text": "LIBRARY",
+            "value": 5
+        },
+        {
+            "text": "PLACE",
+            "value": 1
+        },
+        {
+            "text": "HELLLOOOO",
+            "value": 1
+        },
+        {
+            "text": "ROOFTOP",
+            "value": 1
+        },
+        {
+            "text": "STATEOFGRACEMELBOURNE",
+            "value": 1
+        },
+        {
+            "text": "STATE",
+            "value": 1
+        },
+        {
+            "text": "GRACE",
+            "value": 1
+        },
+        {
+            "text": "GOOD",
+            "value": 3
+        },
+        {
+            "text": "BELGIUM",
+            "value": 1
+        },
+        {
+            "text": "BEEF",
             "value": 1
         },
         {
@@ -169,567 +241,391 @@
             "value": 1
         },
         {
-            "text": "Eureka",
-            "value": 1
-        },
-        {
-            "text": "Skydeck",
+            "text": "SKYDECK",
             "value": 2
         },
         {
-            "text": "Drinks",
+            "text": "DRINKS",
             "value": 1
         },
         {
-            "text": "friends",
+            "text": "FRIENDS",
             "value": 1
         },
         {
-            "text": "Yarra",
+            "text": "YARRA",
             "value": 3
         },
         {
-            "text": "Botanica",
+            "text": "BOTANICA",
             "value": 3
         },
         {
-            "text": "Small",
+            "text": "LOOKING",
+            "value": 1
+        },
+        {
+            "text": "LIKE",
+            "value": 1
+        },
+        {
+            "text": "HAPPY",
+            "value": 1
+        },
+        {
+            "text": "BIRTHDAY",
+            "value": 1
+        },
+        {
+            "text": "MEAT",
+            "value": 1
+        },
+        {
+            "text": "WINE",
+            "value": 1
+        },
+        {
+            "text": "SOUTHBANK",
+            "value": 1
+        },
+        {
+            "text": "FORGOT",
+            "value": 1
+        },
+        {
+            "text": "PHOTOS",
+            "value": 1
+        },
+        {
+            "text": "RECENT",
+            "value": 1
+        },
+        {
+            "text": "MONSTER",
             "value": 2
         },
         {
-            "text": "Businesses",
-            "value": 2
-        },
-        {
-            "text": "still",
-            "value": 1
-        },
-        {
-            "text": "looking",
-            "value": 1
-        },
-        {
-            "text": "like",
-            "value": 2
-        },
-        {
-            "text": "Happy",
-            "value": 1
-        },
-        {
-            "text": "Birthday",
-            "value": 1
-        },
-        {
-            "text": "love",
-            "value": 1
-        },
-        {
-            "text": "Meat",
-            "value": 1
-        },
-        {
-            "text": "Wine",
-            "value": 1
-        },
-        {
-            "text": "Co",
-            "value": 1
-        },
-        {
-            "text": "Southbank",
-            "value": 1
-        },
-        {
-            "text": "forgot",
-            "value": 1
-        },
-        {
-            "text": "post",
-            "value": 1
-        },
-        {
-            "text": "photos",
-            "value": 1
-        },
-        {
-            "text": "recent",
-            "value": 1
-        },
-        {
-            "text": "Monster",
-            "value": 2
-        },
-        {
-            "text": "House",
-            "value": 2
-        },
-        {
-            "text": "Part",
-            "value": 1
-        },
-        {
-            "text": "exhibition",
-            "value": 1
-        },
-        {
-            "text": "series",
-            "value": 1
-        },
-        {
-            "text": "Gothic",
-            "value": 1
-        },
-        {
-            "text": "dioramas",
-            "value": 1
-        },
-        {
-            "text": "haunted",
-            "value": 2
-        },
-        {
-            "text": "rooms",
-            "value": 1
-        },
-        {
-            "text": "house",
-            "value": 1
-        },
-        {
-            "text": "soul",
-            "value": 1
-        },
-        {
-            "text": "good",
-            "value": 2
-        },
-        {
-            "text": "home",
-            "value": 1
-        },
-        {
-            "text": "best",
-            "value": 1
-        },
-        {
-            "text": "time",
-            "value": 2
-        },
-        {
-            "text": "celebrating",
-            "value": 1
-        },
-        {
-            "text": "Vanguard",
-            "value": 1
-        },
-        {
-            "text": "Grant",
-            "value": 1
-        },
-        {
-            "text": "success",
-            "value": 1
-        },
-        {
-            "text": "Veg4Me",
-            "value": 1
-        },
-        {
-            "text": "team",
-            "value": 1
-        },
-        {
-            "text": "catch",
-            "value": 2
-        },
-        {
-            "text": "person",
-            "value": 1
-        },
-        {
-            "text": "sun",
-            "value": 1
-        },
-        {
-            "text": "Working",
-            "value": 1
-        },
-        {
-            "text": "teams",
-            "value": 1
-        },
-        {
-            "text": "Maurice",
-            "value": 1
-        },
-        {
-            "text": "Blackburn",
-            "value": 1
-        },
-        {
-            "text": "watch",
-            "value": 1
-        },
-        {
-            "text": "firm",
-            "value": 1
-        },
-        {
-            "text": "Morning's",
-            "value": 1
-        },
-        {
-            "text": "workout",
-            "value": 1
-        },
-        {
-            "text": "Bruh",
-            "value": 1
-        },
-        {
-            "text": "'Sunk'",
-            "value": 1
-        },
-        {
-            "text": "Pt",
-            "value": 1
-        },
-        {
-            "text": "Last",
-            "value": 1
-        },
-        {
-            "text": "days",
-            "value": 1
-        },
-        {
-            "text": "see",
-            "value": 2
-        },
-        {
-            "text": "Caught",
-            "value": 1
-        },
-        {
-            "text": "surprise",
-            "value": 1
-        },
-        {
-            "text": "'short'",
-            "value": 2
-        },
-        {
-            "text": "interview",
-            "value": 1
-        },
-        {
-            "text": "today's",
-            "value": 1
-        },
-        {
-            "text": "event",
-            "value": 1
-        },
-        {
-            "text": "role",
-            "value": 1
-        },
-        {
-            "text": "leadership",
-            "value": 2
-        },
-        {
-            "text": "program",
-            "value": 1
-        },
-        {
-            "text": "certification",
-            "value": 1
-        },
-        {
-            "text": "message",
-            "value": 1
-        },
-        {
-            "text": "HCPs",
-            "value": 1
-        },
-        {
-            "text": "really",
-            "value": 1
-        },
-        {
-            "text": "let's",
-            "value": 1
-        },
-        {
-            "text": "passes",
-            "value": 1
-        },
-        {
-            "text": "broadcast",
-            "value": 1
-        },
-        {
-            "text": "blood",
-            "value": 1
-        },
-        {
-            "text": "donor",
-            "value": 1
-        },
-        {
-            "text": "Reservoir",
-            "value": 5
-        },
-        {
-            "text": "Arbory",
-            "value": 2
-        },
-        {
-            "text": "Afloat",
+            "text": "HOUSE",
             "value": 3
         },
         {
-            "text": "Gratitude",
+            "text": "PART",
             "value": 1
         },
         {
-            "text": "changes",
+            "text": "EXHIBITION",
             "value": 1
         },
         {
-            "text": "everything",
+            "text": "SERIES",
             "value": 1
         },
         {
-            "text": "Flinders",
+            "text": "GOTHIC",
             "value": 1
         },
         {
-            "text": "Lane",
+            "text": "DIORAMAS",
             "value": 1
         },
         {
-            "text": "Morning",
-            "value": 1
-        },
-        {
-            "text": "Workout",
-            "value": 1
-        },
-        {
-            "text": "Starting",
-            "value": 1
-        },
-        {
-            "text": "moving",
-            "value": 1
-        },
-        {
-            "text": "Mob",
-            "value": 1
-        },
-        {
-            "text": "ties",
-            "value": 1
-        },
-        {
-            "text": "Hey",
-            "value": 1
-        },
-        {
-            "text": "waiting",
-            "value": 1
-        },
-        {
-            "text": "interesting",
-            "value": 1
-        },
-        {
-            "text": "discussion",
-            "value": 1
-        },
-        {
-            "text": "regional",
-            "value": 1
-        },
-        {
-            "text": "obesity",
-            "value": 1
-        },
-        {
-            "text": "medicine",
-            "value": 1
-        },
-        {
-            "text": "landscape",
-            "value": 1
-        },
-        {
-            "text": "UK's",
-            "value": 1
-        },
-        {
-            "text": "geography",
-            "value": 1
-        },
-        {
-            "text": "experience",
-            "value": 1
-        },
-        {
-            "text": "Cleveland",
-            "value": 1
-        },
-        {
-            "text": "Clinic",
-            "value": 1
-        },
-        {
-            "text": "Lovely",
-            "value": 1
-        },
-        {
-            "text": "dinner",
-            "value": 1
-        },
-        {
-            "text": "hotel's",
-            "value": 1
-        },
-        {
-            "text": "restaurant",
-            "value": 1
-        },
-        {
-            "text": "cohort",
-            "value": 1
-        },
-        {
-            "text": "New",
-            "value": 1
-        },
-        {
-            "text": "Brew",
-            "value": 1
-        },
-        {
-            "text": "Saturday",
+            "text": "HAUNTED",
             "value": 2
         },
         {
-            "text": "Cheers",
+            "text": "ROOMS",
             "value": 1
         },
         {
-            "text": "Drinking",
+            "text": "SOUL",
             "value": 1
         },
         {
-            "text": "Brookvale",
+            "text": "HOME",
             "value": 1
         },
         {
-            "text": "Union",
+            "text": "BEST",
             "value": 1
         },
         {
-            "text": "Citrusy",
+            "text": "TIME",
+            "value": 2
+        },
+        {
+            "text": "CELEBRATING",
             "value": 1
         },
         {
-            "text": "Yuzu",
+            "text": "VANGUARD",
             "value": 1
         },
         {
-            "text": "Ginger",
+            "text": "GRANT",
             "value": 1
         },
         {
-            "text": "Beer",
+            "text": "SUCCESS",
             "value": 1
         },
         {
-            "text": "Ging",
+            "text": "VEG4ME",
             "value": 1
         },
         {
-            "text": "Thai",
+            "text": "TEAM",
             "value": 1
         },
         {
-            "text": "Waffle",
+            "text": "CATCH",
             "value": 1
         },
         {
-            "text": "Gochi",
+            "text": "PERSON",
             "value": 1
         },
         {
-            "text": "Adriano",
+            "text": "SUN",
             "value": 1
         },
         {
-            "text": "Carbone",
+            "text": "WORKING",
             "value": 1
         },
         {
-            "text": "Master",
+            "text": "TEAMS",
             "value": 1
         },
         {
-            "text": "Tailor",
+            "text": "MAURICE",
             "value": 1
         },
         {
-            "text": "Premium",
+            "text": "BLACKBURN",
             "value": 1
         },
         {
-            "text": "Bespoke",
+            "text": "WATCH",
             "value": 1
         },
         {
-            "text": "Hand",
+            "text": "FIRM",
             "value": 1
         },
         {
-            "text": "Made",
+            "text": "MORNING'S",
             "value": 1
         },
         {
-            "text": "Suits",
+            "text": "WORKOUT",
+            "value": 2
+        },
+        {
+            "text": "BRUH",
             "value": 1
         },
         {
-            "text": "Amazing",
+            "text": "'SUNK'",
             "value": 1
         },
         {
-            "text": "food",
+            "text": "PT",
             "value": 1
         },
         {
-            "text": "great",
+            "text": "SEE",
+            "value": 2
+        },
+        {
+            "text": "CAUGHT",
             "value": 1
         },
         {
-            "text": "ups",
+            "text": "SURPRISE",
             "value": 1
         },
         {
-            "text": "soooo",
+            "text": "'SHORT'",
+            "value": 2
+        },
+        {
+            "text": "INTERVIEW",
             "value": 1
         },
         {
-            "text": "full",
+            "text": "TODAY'S",
             "value": 1
         },
         {
-            "text": "Asado",
+            "text": "EVENT",
+            "value": 1
+        },
+        {
+            "text": "ROLE",
+            "value": 1
+        },
+        {
+            "text": "LEADERSHIP",
+            "value": 2
+        },
+        {
+            "text": "PROGRAM",
+            "value": 1
+        },
+        {
+            "text": "CERTIFICATION",
+            "value": 1
+        },
+        {
+            "text": "MESSAGE",
+            "value": 1
+        },
+        {
+            "text": "HCPS",
+            "value": 1
+        },
+        {
+            "text": "REALLY",
+            "value": 1
+        },
+        {
+            "text": "LET'S",
+            "value": 1
+        },
+        {
+            "text": "PASSES",
+            "value": 1
+        },
+        {
+            "text": "BROADCAST",
+            "value": 1
+        },
+        {
+            "text": "BLOOD",
+            "value": 1
+        },
+        {
+            "text": "DONOR",
+            "value": 1
+        },
+        {
+            "text": "ARBORY",
+            "value": 2
+        },
+        {
+            "text": "AFLOAT",
+            "value": 3
+        },
+        {
+            "text": "GRATITUDE",
+            "value": 1
+        },
+        {
+            "text": "CHANGES",
+            "value": 1
+        },
+        {
+            "text": "EVERYTHING",
+            "value": 1
+        },
+        {
+            "text": "FLINDERS",
+            "value": 1
+        },
+        {
+            "text": "LANE",
+            "value": 1
+        },
+        {
+            "text": "MORNING",
+            "value": 1
+        },
+        {
+            "text": "STARTING",
+            "value": 1
+        },
+        {
+            "text": "MOVING",
+            "value": 1
+        },
+        {
+            "text": "MOB",
+            "value": 1
+        },
+        {
+            "text": "TIES",
+            "value": 1
+        },
+        {
+            "text": "HEY",
+            "value": 1
+        },
+        {
+            "text": "WAITING",
+            "value": 1
+        },
+        {
+            "text": "INTERESTING",
+            "value": 1
+        },
+        {
+            "text": "DISCUSSION",
+            "value": 1
+        },
+        {
+            "text": "REGIONAL",
+            "value": 1
+        },
+        {
+            "text": "OBESITY",
+            "value": 1
+        },
+        {
+            "text": "MEDICINE",
+            "value": 1
+        },
+        {
+            "text": "LANDSCAPE",
+            "value": 1
+        },
+        {
+            "text": "UK'S",
+            "value": 1
+        },
+        {
+            "text": "GEOGRAPHY",
+            "value": 1
+        },
+        {
+            "text": "EXPERIENCE",
+            "value": 1
+        },
+        {
+            "text": "CLEVELAND",
+            "value": 1
+        },
+        {
+            "text": "CLINIC",
+            "value": 1
+        },
+        {
+            "text": "LOVELY",
+            "value": 1
+        },
+        {
+            "text": "DINNER",
+            "value": 1
+        },
+        {
+            "text": "HOTEL'S",
+            "value": 1
+        },
+        {
+            "text": "RESTAURANT",
+            "value": 1
+        },
+        {
+            "text": "COHORT",
             "value": 1
         }
     ]

@@ -1,6 +1,135 @@
 {
-    "count": 23,
+    "count": 20,
     "data": [
+        {
+            "tid": 1583771609730383872,
+            "uid": 8779932,
+            "author": "Alex Makin",
+            "user_img": "https://pbs.twimg.com/profile_images/1456466300276903940/zX7guDiC_normal.jpg",
+            "time": "2022-10-22 10:45:51 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "First saw Terrain from @BangarraDance at its premiere 10 years ago and it once again is phenomenal everything from the design, costumes, performances and choreography is fantastic.\nPhoto courtesy of ArtsHub\n#melbourne #arts #dance https://t.co/RAx84cXEmC",
+            "clean_text": "First saw Terrain from at its premiere 10 years ago and it once again is phenomenal everything from the design costumes performances and choreography is fantastic Photo courtesy of ArtsHub",
+            "place_name": "Arts Centre Melbourne",
+            "place_type": "poi",
+            "longitude": 144.968808,
+            "latitude": -37.82162,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffqv4uCVUAE1mT9.jpg"
+            ]
+        },
+        {
+            "tid": 1583750837355937792,
+            "uid": 8779932,
+            "author": "Alex Makin",
+            "user_img": "https://pbs.twimg.com/profile_images/1456466300276903940/zX7guDiC_normal.jpg",
+            "time": "2022-10-22 09:23:18 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "This is DanceX part one featuring @TheAusBallet @sydneydanceco @LucyGuerinInc and @BangarraDance\nAt @artscentremelb\n@blairpalese the emotion in an [intra] was intense, a tremendous performance!\n#melbourne #dance #arts #SaturdayNight https://t.co/AOcMJa3icr",
+            "clean_text": "This is DanceX part one featuring and At the emotion in an intra was intense a tremendous performance",
+            "place_name": "Arts Centre Melbourne",
+            "place_type": "poi",
+            "longitude": 144.968808,
+            "latitude": -37.82162,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffqc_NIUcAIs4gP.jpg",
+                "https://pbs.twimg.com/media/Ffqc_lKUAAA09VF.jpg"
+            ]
+        },
+        {
+            "tid": 1583730256799637504,
+            "uid": 8779932,
+            "author": "Alex Makin",
+            "user_img": "https://pbs.twimg.com/profile_images/1456466300276903940/zX7guDiC_normal.jpg",
+            "time": "2022-10-22 08:01:32 +0000",
+            "like_no": 4,
+            "language": "en",
+            "text": "Arts Centre Melbourne for Dancex - Row B\n#dancex #arts #melbourne https://t.co/Qa4uyAAM6v",
+            "clean_text": "Arts Centre Melbourne for Dancex Row B",
+            "place_name": "Arts Centre Melbourne",
+            "place_type": "poi",
+            "longitude": 144.968808,
+            "latitude": -37.82162,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfqKRQvUoAA5WDn.jpg",
+                "https://pbs.twimg.com/media/FfqKRoRUUAECPIu.jpg"
+            ]
+        },
+        {
+            "tid": 1583718441495629825,
+            "uid": 3322239618,
+            "author": "भावना💫",
+            "user_img": "https://pbs.twimg.com/profile_images/1513138755271815169/-HPhQmX2_normal.jpg",
+            "time": "2022-10-22 07:14:35 +0000",
+            "like_no": 1,
+            "language": "en",
+            "text": "Love the view and the weather https://t.co/PMMNopiTV5",
+            "clean_text": "Love the view and the weather",
+            "place_name": "Melbourne Skydeck",
+            "place_type": "poi",
+            "longitude": 144.96459442161472,
+            "latitude": -37.82158878893734,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffp_homVUAEtHHb.jpg"
+            ]
+        },
+        {
+            "tid": 1583704137786851329,
+            "uid": 2754391176,
+            "author": "Lukas Parker",
+            "user_img": "https://pbs.twimg.com/profile_images/1443004418400473091/oCBPoIMS_normal.jpg",
+            "time": "2022-10-22 06:17:44 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "So excited to listen to the legendary Simon Hunt tell us all about @PPantsdown at @ACCA_melbourne https://t.co/Zaiela3Avi",
+            "clean_text": "So excited to listen to the legendary Simon Hunt tell us all about at",
+            "place_name": "Australian Centre for Contemporary Art (ACCA)",
+            "place_type": "poi",
+            "longitude": 144.96674838477335,
+            "latitude": -37.82676943134312,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffpyg_lacAAjuQQ.jpg"
+            ]
+        },
+        {
+            "tid": 1583588684388962304,
+            "uid": 1504091014566678530,
+            "author": "Adam",
+            "user_img": "https://pbs.twimg.com/profile_images/1520982814287560705/qIfYHMy8_normal.jpg",
+            "time": "2022-10-21 22:38:58 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "View from Eureka sky deck last Thursday\n#Melbourne #visitvic https://t.co/YCGKIGVVUM",
+            "clean_text": "View from Eureka sky deck last Thursday",
+            "place_name": "Eureka 89 Events and Dining",
+            "place_type": "poi",
+            "longitude": 144.96484853926154,
+            "latitude": -37.82105340984599,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfoJfgsUYAAZ3Dx.jpg",
+                "https://pbs.twimg.com/media/FfoJfgwVQAE3Qj9.jpg",
+                "https://pbs.twimg.com/media/FfoJfguUYAEGNrR.jpg",
+                "https://pbs.twimg.com/media/FfoJfgsVUAActP0.jpg"
+            ]
+        },
+        {
+            "tid": 1583461703521800195,
+            "uid": 868327765853913088,
+            "author": "Nam Q. Bùi",
+            "user_img": "https://pbs.twimg.com/profile_images/1393346837612941314/U963lFBO_normal.jpg",
+            "time": "2022-10-21 14:14:24 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Just posted a photo @ The Langham, Melbourne https://t.co/iUmi2AinGD",
+            "clean_text": "Just posted a photo The Langham Melbourne",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.9657,
+            "latitude": -37.82045,
+            "photo_urls": []
+        },
         {
             "tid": 1583422912878751746,
             "uid": 1267838570,
@@ -219,183 +348,6 @@
             "place_type": "city",
             "longitude": 144.974,
             "latitude": -37.8233,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581249864369074176,
-            "uid": 751050565162004480,
-            "author": "Craig Exton",
-            "user_img": "https://pbs.twimg.com/profile_images/751633049024991234/vmDgQwm4_normal.jpg",
-            "time": "2022-10-15 11:45:20 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Art of Fighting @ Melbourne Recital Centre\n#artoffighting https://t.co/nVaYPVSxfe",
-            "clean_text": "Art of Fighting Melbourne Recital Centre",
-            "place_name": "Melbourne Recital Centre",
-            "place_type": "poi",
-            "longitude": 144.96759905765907,
-            "latitude": -37.823685111092594,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfG6XaVacAE7v7m.jpg"
-            ]
-        },
-        {
-            "tid": 1581212778324701185,
-            "uid": 20297179,
-            "author": "Pete B 🏳️‍🌈 🇦🇺💉💉💉",
-            "user_img": "https://pbs.twimg.com/profile_images/584159214878138368/f_VbFCME_normal.jpg",
-            "time": "2022-10-15 09:17:58 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Nice drop to have with Fat Freddy at the Bowl - Drinking a Pale Ale by @grandridgebeer @ Sidney Myer Music Bowl  — https://t.co/PNUjHD75jl",
-            "clean_text": "Nice drop to have with Fat Freddy at the Bowl Drinking a Pale Ale by Sidney Myer Music Bowl",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9746246,
-            "latitude": -37.8238678,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581207938747625472,
-            "uid": 13126372,
-            "author": "Matt Gillard",
-            "user_img": "https://pbs.twimg.com/profile_images/1496342264028618754/fbC1Cofu_normal.jpg",
-            "time": "2022-10-15 08:58:44 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Fat Freddy’s drop about to come on https://t.co/TQ6utdZZj8",
-            "clean_text": "Fat Freddy s drop about to come on",
-            "place_name": "Sidney Myer Music Bowl",
-            "place_type": "poi",
-            "longitude": 144.97462570667267,
-            "latitude": -37.82386601651505,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfGUPABUoAAx-rx.jpg"
-            ]
-        },
-        {
-            "tid": 1581200816328753152,
-            "uid": 163688031,
-            "author": "𝚌 𝚘 𝚛 𝚎 𝚢 🔸 ⓥ ⚡️",
-            "user_img": "https://pbs.twimg.com/profile_images/1556618085301243904/7BDQ0z0p_normal.jpg",
-            "time": "2022-10-15 08:30:26 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "One does not not enjoy the ballet https://t.co/aqSNCr2LuG",
-            "clean_text": "One does not not enjoy the ballet",
-            "place_name": "Arts Centre Melbourne",
-            "place_type": "poi",
-            "longitude": 144.968808,
-            "latitude": -37.82162,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfGNvSsUoAE6S2H.jpg"
-            ]
-        },
-        {
-            "tid": 1581171707674390528,
-            "uid": 13126372,
-            "author": "Matt Gillard",
-            "user_img": "https://pbs.twimg.com/profile_images/1496342264028618754/fbC1Cofu_normal.jpg",
-            "time": "2022-10-15 06:34:46 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Big Saturday #jazz https://t.co/EhTuXZaytK",
-            "clean_text": "Big Saturday",
-            "place_name": "Sidney Myer Music Bowl",
-            "place_type": "poi",
-            "longitude": 144.97462570667267,
-            "latitude": -37.82386601651505,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfFzRnMUcAAKyV7.jpg"
-            ]
-        },
-        {
-            "tid": 1581164630839545857,
-            "uid": 125966823,
-            "author": "Dr Bec Szabo",
-            "user_img": "https://pbs.twimg.com/profile_images/1030055031112753152/47lzEHyS_normal.jpg",
-            "time": "2022-10-15 06:06:39 +0000",
-            "like_no": 24,
-            "language": "en",
-            "text": "Back at the bowl @MelbJazzFest 💜 https://t.co/JAmHzS6smD",
-            "clean_text": "Back at the bowl",
-            "place_name": "Sidney Myer Music Bowl",
-            "place_type": "poi",
-            "longitude": 144.97462570667267,
-            "latitude": -37.82386601651505,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfFs1huaUAA7IDH.jpg",
-                "https://pbs.twimg.com/media/FfFs1hwacAEvl2l.jpg",
-                "https://pbs.twimg.com/media/FfFs1hwaAAAWaL8.jpg",
-                "https://pbs.twimg.com/media/FfFs1hxagAEI05E.jpg"
-            ]
-        },
-        {
-            "tid": 1581140030378377216,
-            "uid": 125966823,
-            "author": "Dr Bec Szabo",
-            "user_img": "https://pbs.twimg.com/profile_images/1030055031112753152/47lzEHyS_normal.jpg",
-            "time": "2022-10-15 04:28:54 +0000",
-            "like_no": 9,
-            "language": "en",
-            "text": "Clear skies for now. Opening @MelbJazzFest 💜 https://t.co/35krXjoU9t",
-            "clean_text": "Clear skies for now Opening",
-            "place_name": "Sidney Myer Music Bowl",
-            "place_type": "poi",
-            "longitude": 144.97462570667267,
-            "latitude": -37.82386601651505,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfFWeXfaYAAPLzm.jpg"
-            ]
-        },
-        {
-            "tid": 1581055019922903040,
-            "uid": 25953548,
-            "author": "Chelsea 🌈 4x💉",
-            "user_img": "https://pbs.twimg.com/profile_images/1264136281870577664/lBcOatXL_normal.jpg",
-            "time": "2022-10-14 22:51:05 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "Finally had the joy of seeing Cyrano last night. I'm still trying to work out how to say WOW in a more eloquent way. I laughed, I sobbed. I despaired and hoped. I felt seen. It's a triumph,  and it was a privilege to experience. https://t.co/wShmj2c4rX",
-            "clean_text": "Finally had the joy of seeing Cyrano last night I'm still trying to work out how to say WOW in a more eloquent way I laughed I sobbed I despaired and hoped I felt seen It's a triumph and it was a privilege to experience",
-            "place_name": "Melbourne Theatre Company",
-            "place_type": "poi",
-            "longitude": 144.96819,
-            "latitude": -37.82414,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfEJKGZaYAA6ncs.jpg"
-            ]
-        },
-        {
-            "tid": 1580902692951842818,
-            "uid": 1198204081094848512,
-            "author": "Rexykid",
-            "user_img": "https://pbs.twimg.com/profile_images/1300247894549651456/9_4l4JFn_normal.jpg",
-            "time": "2022-10-14 12:45:48 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Amazing food, great catch ups, we are soooo full !!!\n‘\n‘\n‘\n#yummmmm #argentinianfood #soofull #greatcatchup #somanydishes #asadomelbourne #southbank @ Asado Melbourne https://t.co/Zlr9LQjuok",
-            "clean_text": "Amazing food great catch ups we are soooo full Asado Melbourne",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.96395312,
-            "latitude": -37.8206988,
-            "photo_urls": []
-        },
-        {
-            "tid": 1580900253402030080,
-            "uid": 15436415,
-            "author": "Ruth Baxter",
-            "user_img": "https://pbs.twimg.com/profile_images/562479693153046529/KODDjL8h_normal.jpeg",
-            "time": "2022-10-14 12:36:06 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ State Theatre, Arts Centre Melbourne https://t.co/tUm19iN4Sd",
-            "clean_text": "Just posted a photo State Theatre Arts Centre Melbourne",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.96842675,
-            "latitude": -37.82137228,
             "photo_urls": []
         }
     ]

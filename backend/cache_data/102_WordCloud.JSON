@@ -1,67 +1,143 @@
 {
     "word_freq": [
         {
-            "text": "Awesome",
+            "text": "DELIGHTED",
             "value": 1
         },
         {
-            "text": "make",
+            "text": "PARTICIPATE",
             "value": 1
         },
         {
-            "text": "show",
+            "text": "BOUNCING",
             "value": 1
         },
         {
-            "text": "good",
+            "text": "BACK",
             "value": 1
         },
         {
-            "text": "head",
+            "text": "PERSONAL",
             "value": 1
         },
         {
-            "text": "along",
+            "text": "RESILIENCE",
+            "value": 2
+        },
+        {
+            "text": "SCIENCE",
             "value": 1
         },
         {
-            "text": "old",
+            "text": "INSIGHTS",
             "value": 1
         },
         {
-            "text": "buddy",
+            "text": "PODCAST",
             "value": 1
         },
         {
-            "text": "District",
+            "text": "TOPIC",
             "value": 1
         },
         {
-            "text": "Docklands",
+            "text": "'THE",
+            "value": 1
+        },
+        {
+            "text": "RELATIONSHIP",
+            "value": 1
+        },
+        {
+            "text": "SELF",
+            "value": 1
+        },
+        {
+            "text": "ESTEEM",
+            "value": 1
+        },
+        {
+            "text": "RECORDED",
+            "value": 1
+        },
+        {
+            "text": "MARCH",
+            "value": 1
+        },
+        {
+            "text": "PLEASE",
+            "value": 1
+        },
+        {
+            "text": "WATCH",
+            "value": 1
+        },
+        {
+            "text": "YOUTUBE",
+            "value": 1
+        },
+        {
+            "text": "VIDEO",
+            "value": 1
+        },
+        {
+            "text": "AWESOME",
+            "value": 1
+        },
+        {
+            "text": "SHOW",
+            "value": 1
+        },
+        {
+            "text": "GOOD",
+            "value": 1
+        },
+        {
+            "text": "HEAD",
+            "value": 1
+        },
+        {
+            "text": "ALONG",
+            "value": 1
+        },
+        {
+            "text": "OLD",
+            "value": 1
+        },
+        {
+            "text": "BUDDY",
+            "value": 1
+        },
+        {
+            "text": "DISTRICT",
+            "value": 1
+        },
+        {
+            "text": "DOCKLANDS",
             "value": 3
         },
         {
-            "text": "Khadijah",
+            "text": "KHADIJAH",
             "value": 1
         },
         {
-            "text": "birthday",
+            "text": "BIRTHDAY",
             "value": 1
         },
         {
-            "text": "Archie",
+            "text": "ARCHIE",
             "value": 1
         },
         {
-            "text": "Brothers",
+            "text": "BROTHERS",
             "value": 1
         },
         {
-            "text": "Cirque",
+            "text": "CIRQUE",
             "value": 1
         },
         {
-            "text": "Electriq",
+            "text": "ELECTRIQ",
             "value": 1
         },
         {
@@ -69,23 +145,23 @@
             "value": 2
         },
         {
-            "text": "Thai",
+            "text": "THAI",
             "value": 1
         },
         {
-            "text": "late",
+            "text": "LATE",
             "value": 1
         },
         {
-            "text": "lunch",
+            "text": "LUNCH",
             "value": 1
         },
         {
-            "text": "Miss",
+            "text": "MISS",
             "value": 1
         },
         {
-            "text": "Ping",
+            "text": "PING",
             "value": 1
         }
     ]

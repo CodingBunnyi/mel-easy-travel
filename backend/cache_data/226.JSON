@@ -2,6 +2,56 @@
     "count": 11,
     "data": [
         {
+            "tid": 1583679635820187648,
+            "uid": 900530772502650880,
+            "author": "Harry Millward",
+            "user_img": "https://pbs.twimg.com/profile_images/1502617078896812035/QZWNE3cP_normal.jpg",
+            "time": "2022-10-22 04:40:23 +0000",
+            "like_no": 26,
+            "language": "en",
+            "text": "Today @RAHUnion and comrades came to parliament to say #therentistoohigh.\n\nWith stories of abuse by landlords, agents, government agents, and the parasites that make a fortune on the basic human need for safe shelter.\n\nAlone we are fragile, together we are a mountain! https://t.co/nrRJxq6zbP",
+            "clean_text": "Today and comrades came to parliament to say With stories of abuse by landlords agents government agents and the parasites that make a fortune on the basic human need for safe shelter Alone we are fragile together we are a mountain",
+            "place_name": "Parliament House of Victoria",
+            "place_type": "poi",
+            "longitude": 144.9738210439682,
+            "latitude": -37.8110469139749,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfpcOxqVUAAXlY3.jpg"
+            ]
+        },
+        {
+            "tid": 1583674768842072064,
+            "uid": 40479107,
+            "author": "Gabriela Nascimento",
+            "user_img": "https://pbs.twimg.com/profile_images/1109365011183353859/lhNqvqMY_normal.jpg",
+            "time": "2022-10-22 04:21:02 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at The European in Melbourne, VIC https://t.co/Bza5aZ4JaO",
+            "clean_text": "I'm at The European in Melbourne VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97269786,
+            "latitude": -37.81082759,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583666209740173315,
+            "uid": 40479107,
+            "author": "Gabriela Nascimento",
+            "user_img": "https://pbs.twimg.com/profile_images/1109365011183353859/lhNqvqMY_normal.jpg",
+            "time": "2022-10-22 03:47:02 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "I'm at Kudo in Melbourne, VIC https://t.co/RmxmkKGkzT",
+            "clean_text": "I'm at Kudo in Melbourne VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97301,
+            "latitude": -37.812417,
+            "photo_urls": []
+        },
+        {
             "tid": 1583332813612273664,
             "uid": 13126372,
             "author": "Matt Gillard",
@@ -142,60 +192,6 @@
             "latitude": -37.810636721140575,
             "photo_urls": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/1581556116567166976/pu/img/6urhPX-6U9VNuiY8.jpg"
-            ]
-        },
-        {
-            "tid": 1581192382921396226,
-            "uid": 173006367,
-            "author": "the bendingone 🐉",
-            "user_img": "https://pbs.twimg.com/profile_images/1480781752419291136/5lp5p9xr_normal.jpg",
-            "time": "2022-10-15 07:56:55 +0000",
-            "like_no": 40,
-            "language": "en",
-            "text": "arrived this morning from Singapore, saw @essendonfcw Win, and now it’s the spaghetti of victory at Pellegrinis! https://t.co/CY9F5XNmET",
-            "clean_text": "arrived this morning from Singapore saw Win and now it s the spaghetti of victory at Pellegrinis",
-            "place_name": "Pellegrini's",
-            "place_type": "poi",
-            "longitude": 144.97125304011647,
-            "latitude": -37.81183797528363,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfGGFPSUYAEEvrm.jpg"
-            ]
-        },
-        {
-            "tid": 1581155597902180352,
-            "uid": 823334198937161728,
-            "author": "Dr Sharon Jay",
-            "user_img": "https://pbs.twimg.com/profile_images/1464427736257101832/PaasR9Z8_normal.jpg",
-            "time": "2022-10-15 05:30:45 +0000",
-            "like_no": 36,
-            "language": "en",
-            "text": "First face to face #RACSTA meeting since Feb 2019- my last as chair and cool to finally be in the @RACSurgeons council room…. complete with gavel! Very grateful and proud of the mahi/work the Trainee reps have done the year and excited for next years exec!! https://t.co/IRzTKBQzJB",
-            "clean_text": "First face to face meeting since Feb 2019 my last as chair and cool to finally be in the council room complete with gavel Very grateful and proud of the mahi work the Trainee reps have done the year and excited for next years exec",
-            "place_name": "Royal Australasian College of Surgeons",
-            "place_type": "poi",
-            "longitude": 144.97268452188123,
-            "latitude": -37.80888403933435,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfFkoEKVEAUvJuz.jpg"
-            ]
-        },
-        {
-            "tid": 1581119569468723200,
-            "uid": 1079643560838758405,
-            "author": "Samran Daneshfar",
-            "user_img": "https://pbs.twimg.com/profile_images/1395394816905711618/l2n2TaZf_normal.jpg",
-            "time": "2022-10-15 03:07:35 +0000",
-            "like_no": 13,
-            "language": "en",
-            "text": "From #Melbourne for #WomanLifeFreedom, for #HumanRights, we all fight for #Iran\n\n#مهسا_امینی https://t.co/VZ9AwVlu7u",
-            "clean_text": "From for for we all fight for",
-            "place_name": "Parliament House of Victoria",
-            "place_type": "poi",
-            "longitude": 144.9738210439682,
-            "latitude": -37.8110469139749,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfFD24OaMAA_Y7a.jpg"
             ]
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "count": 5,
+    "count": 4,
     "data": [
         {
             "tid": 1582665321139564544,
@@ -66,25 +66,6 @@
             "longitude": 144.95705631,
             "latitude": -37.80690644,
             "photo_urls": []
-        },
-        {
-            "tid": 1581068080691572736,
-            "uid": 1287357516,
-            "author": "Jac Jac",
-            "user_img": "https://pbs.twimg.com/profile_images/1571665204492267525/fe79dXDv_normal.jpg",
-            "time": "2022-10-14 23:42:59 +0000",
-            "like_no": 12,
-            "language": "en",
-            "text": "Breakfast was divine 😍\n\nNow off to explore…\n\nBut first I’m sitting barefoot as my shoe just broke, waiting for it to get fixed 😂 https://t.co/vlof3l6hL5",
-            "clean_text": "Breakfast was divine Now off to explore But first I m sitting barefoot as my shoe just broke waiting for it to get fixed",
-            "place_name": "Fuumi Fuumi",
-            "place_type": "poi",
-            "longitude": 144.950361,
-            "latitude": -37.808743,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfEVCN5UcAAIqsH.jpg",
-                "https://pbs.twimg.com/media/FfEVCN5VIAAKKDF.jpg"
-            ]
         }
     ]
 }

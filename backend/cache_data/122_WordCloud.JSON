@@ -1,19 +1,575 @@
 {
     "word_freq": [
         {
-            "text": "10pm",
+            "text": "GOOD",
+            "value": 4
+        },
+        {
+            "text": "LUCK",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "PAKISTANI",
+            "value": 1
+        },
+        {
+            "text": "TIGERS",
+            "value": 1
+        },
+        {
+            "text": "WORLD",
+            "value": 4
+        },
+        {
+            "text": "CUP",
+            "value": 2
+        },
+        {
+            "text": "BATTLE",
+            "value": 1
+        },
+        {
+            "text": "ARCH",
+            "value": 1
+        },
+        {
+            "text": "RIVALS",
+            "value": 1
+        },
+        {
+            "text": "TOMORROW",
+            "value": 7
+        },
+        {
+            "text": "GO",
+            "value": 2
+        },
+        {
+            "text": "NATION",
+            "value": 1
+        },
+        {
+            "text": "PROUD",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 7
+        },
+        {
+            "text": "CRICKET",
+            "value": 1
+        },
+        {
+            "text": "GROUND",
+            "value": 1
+        },
+        {
+            "text": "MCG",
+            "value": 6
+        },
+        {
+            "text": "VIRAT",
+            "value": 2
+        },
+        {
+            "text": "KOHLI",
+            "value": 3
+        },
+        {
+            "text": "KL",
+            "value": 1
+        },
+        {
+            "text": "RAHUL",
+            "value": 2
+        },
+        {
+            "text": "INTENSE",
+            "value": 2
+        },
+        {
+            "text": "NET",
+            "value": 1
+        },
+        {
+            "text": "SESSION",
+            "value": 2
+        },
+        {
+            "text": "SEEMED",
+            "value": 1
+        },
+        {
+            "text": "RELAXED",
+            "value": 1
+        },
+        {
+            "text": "POSITIVE",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 6
+        },
+        {
+            "text": "GAME",
+            "value": 6
+        },
+        {
+            "text": "PAKISTAN",
             "value": 5
         },
         {
-            "text": "Started",
+            "text": "HARDIK",
             "value": 1
         },
         {
-            "text": "pouring",
+            "text": "PANDYA",
+            "value": 2
+        },
+        {
+            "text": "LONG",
+            "value": 2
+        },
+        {
+            "text": "CONVERSATION",
+            "value": 1
+        },
+        {
+            "text": "FACED",
+            "value": 1
+        },
+        {
+            "text": "APPLAUDED",
+            "value": 1
+        },
+        {
+            "text": "FIERY",
+            "value": 1
+        },
+        {
+            "text": "SPELL",
+            "value": 1
+        },
+        {
+            "text": "NETS",
+            "value": 3
+        },
+        {
+            "text": "TAME",
+            "value": 1
+        },
+        {
+            "text": "IMPALA",
+            "value": 1
+        },
+        {
+            "text": "TAKE",
+            "value": 1
+        },
+        {
+            "text": "BIT",
+            "value": 1
+        },
+        {
+            "text": "FINALLY",
+            "value": 4
+        },
+        {
+            "text": "THANK",
+            "value": 1
+        },
+        {
+            "text": "IDR",
+            "value": 1
+        },
+        {
+            "text": "SMILED",
+            "value": 1
+        },
+        {
+            "text": "LIFE",
+            "value": 1
+        },
+        {
+            "text": "MET",
+            "value": 2
+        },
+        {
+            "text": "SEVEN",
+            "value": 1
+        },
+        {
+            "text": "BACK",
+            "value": 1
+        },
+        {
+            "text": "PLACE",
+            "value": 3
+        },
+        {
+            "text": "FUNCTIONAL",
+            "value": 1
+        },
+        {
+            "text": "SINCE",
+            "value": 1
+        },
+        {
+            "text": "SET",
+            "value": 4
+        },
+        {
+            "text": "CLASH",
+            "value": 1
+        },
+        {
+            "text": "BRING",
+            "value": 2
+        },
+        {
+            "text": "MANAGED",
+            "value": 1
+        },
+        {
+            "text": "HOLD",
+            "value": 2
+        },
+        {
+            "text": "DETERMINED",
+            "value": 1
+        },
+        {
+            "text": "NAIL",
+            "value": 1
+        },
+        {
+            "text": "BITING",
+            "value": 1
+        },
+        {
+            "text": "WIN",
+            "value": 2
+        },
+        {
+            "text": "JOHN",
+            "value": 4
+        },
+        {
+            "text": "CAIN",
+            "value": 4
+        },
+        {
+            "text": "ARENA",
+            "value": 5
+        },
+        {
+            "text": "WEATHER",
+            "value": 5
+        },
+        {
+            "text": "PREDICATION",
+            "value": 1
+        },
+        {
+            "text": "GONE",
+            "value": 1
+        },
+        {
+            "text": "INCREASING",
+            "value": 1
+        },
+        {
+            "text": "SHOWERS",
+            "value": 1
+        },
+        {
+            "text": "CLOUDY",
+            "value": 1
+        },
+        {
+            "text": "SHOWER",
+            "value": 2
+        },
+        {
+            "text": "AFTERNOON",
+            "value": 2
+        },
+        {
+            "text": "INDIA",
+            "value": 6
+        },
+        {
+            "text": "VIC",
+            "value": 2
+        },
+        {
+            "text": "KING",
+            "value": 3
+        },
+        {
+            "text": "WATCH",
+            "value": 2
+        },
+        {
+            "text": "PRACTICING",
+            "value": 1
+        },
+        {
+            "text": "PTI",
+            "value": 1
+        },
+        {
+            "text": "SUPPORTERS",
+            "value": 1
+        },
+        {
+            "text": "CHANTING",
+            "value": 1
+        },
+        {
+            "text": "IK",
+            "value": 1
+        },
+        {
+            "text": "SLOGANS",
+            "value": 1
+        },
+        {
+            "text": "PAK",
+            "value": 2
+        },
+        {
+            "text": "IND",
+            "value": 1
+        },
+        {
+            "text": "BLOCKBUSTER",
+            "value": 1
+        },
+        {
+            "text": "SUN",
+            "value": 4
+        },
+        {
+            "text": "HOPE",
+            "value": 1
+        },
+        {
+            "text": "FULL",
+            "value": 2
+        },
+        {
+            "text": "MATCH",
+            "value": 2
+        },
+        {
+            "text": "GETTING",
+            "value": 3
+        },
+        {
+            "text": "BETTER",
+            "value": 1
+        },
+        {
+            "text": "HIGH",
+            "value": 1
+        },
+        {
+            "text": "TIME",
+            "value": 3
+        },
+        {
+            "text": "CAPTAIN",
+            "value": 4
+        },
+        {
+            "text": "ROHIT",
+            "value": 6
+        },
+        {
+            "text": "SHARMA",
+            "value": 6
+        },
+        {
+            "text": "STARTS",
+            "value": 1
+        },
+        {
+            "text": "PRESS",
+            "value": 2
+        },
+        {
+            "text": "CONFERENCE",
+            "value": 2
+        },
+        {
+            "text": "ADMITTING",
+            "value": 1
+        },
+        {
+            "text": "NERVOUS",
+            "value": 1
+        },
+        {
+            "text": "BEGIN",
+            "value": 1
+        },
+        {
+            "text": "MINUTES",
+            "value": 1
+        },
+        {
+            "text": "UPDATES",
+            "value": 1
+        },
+        {
+            "text": "INDIAN",
+            "value": 1
+        },
+        {
+            "text": "TRICOLOUR",
+            "value": 1
+        },
+        {
+            "text": "AHEAD",
+            "value": 2
+        },
+        {
+            "text": "COVERS",
+            "value": 1
+        },
+        {
+            "text": "MORNING",
+            "value": 2
+        },
+        {
+            "text": "EVERYONE",
+            "value": 1
+        },
+        {
+            "text": "VIEW",
+            "value": 1
+        },
+        {
+            "text": "OUTSIDE",
+            "value": 1
+        },
+        {
+            "text": "1PM",
+            "value": 1
+        },
+        {
+            "text": "FORECAST",
+            "value": 1
+        },
+        {
+            "text": "IMPROVED",
+            "value": 1
+        },
+        {
+            "text": "MASSIVELY",
+            "value": 1
+        },
+        {
+            "text": "RAIN",
+            "value": 2
+        },
+        {
+            "text": "EXPECTED",
+            "value": 1
+        },
+        {
+            "text": "MONDAY",
+            "value": 1
+        },
+        {
+            "text": "YES",
+            "value": 1
+        },
+        {
+            "text": "READ",
+            "value": 1
+        },
+        {
+            "text": "STOPPED",
+            "value": 2
+        },
+        {
+            "text": "RAINING",
+            "value": 2
+        },
+        {
+            "text": "COVER",
+            "value": 1
+        },
+        {
+            "text": "ALWAYS",
+            "value": 2
+        },
+        {
+            "text": "WORTH",
+            "value": 1
+        },
+        {
+            "text": "WORKING",
+            "value": 2
+        },
+        {
+            "text": "PLEASURE",
+            "value": 1
+        },
+        {
+            "text": "MEETING",
+            "value": 1
+        },
+        {
+            "text": "SIR",
+            "value": 1
+        },
+        {
+            "text": "NASEEM",
+            "value": 1
+        },
+        {
+            "text": "SHAH",
+            "value": 1
+        },
+        {
+            "text": "RATTLED",
+            "value": 1
+        },
+        {
+            "text": "BABAR",
+            "value": 2
+        },
+        {
+            "text": "AZAM",
+            "value": 2
+        },
+        {
+            "text": "RIZWAN",
+            "value": 1
+        },
+        {
+            "text": "KID",
+            "value": 1
+        },
+        {
+            "text": "STAR",
+            "value": 1
+        },
+        {
+            "text": "10PM",
+            "value": 1
+        },
+        {
+            "text": "STARTED",
+            "value": 1
+        },
+        {
+            "text": "POURING",
             "value": 2
         },
         {
@@ -21,27 +577,27 @@
             "value": 1
         },
         {
-            "text": "statement",
-            "value": 1
+            "text": "STATEMENT",
+            "value": 2
         },
         {
             "text": "PCB",
             "value": 1
         },
         {
-            "text": "Masood's",
+            "text": "MASOOD'S",
             "value": 1
         },
         {
-            "text": "neurological",
+            "text": "NEUROLOGICAL",
             "value": 1
         },
         {
-            "text": "observations",
+            "text": "OBSERVATIONS",
             "value": 1
         },
         {
-            "text": "normal",
+            "text": "NORMAL",
             "value": 1
         },
         {
@@ -49,419 +605,295 @@
             "value": 1
         },
         {
-            "text": "scan",
+            "text": "SCAN",
             "value": 1
         },
         {
-            "text": "shows",
+            "text": "SHOWS",
             "value": 1
         },
         {
-            "text": "superficial",
+            "text": "SUPERFICIAL",
             "value": 1
         },
         {
-            "text": "bruising",
+            "text": "BRUISING",
             "value": 1
         },
         {
-            "text": "ball",
+            "text": "BALL",
             "value": 2
         },
         {
-            "text": "struck",
+            "text": "STRUCK",
             "value": 2
         },
         {
-            "text": "currently",
+            "text": "CURRENTLY",
             "value": 1
         },
         {
-            "text": "asymptomatic",
+            "text": "ASYMPTOMATIC",
             "value": 1
         },
         {
-            "text": "concussion",
+            "text": "CONCUSSION",
             "value": 1
         },
         {
-            "text": "tested",
+            "text": "TESTED",
             "value": 1
         },
         {
-            "text": "tomorrow",
+            "text": "DRAVID",
             "value": 1
         },
         {
-            "text": "Rohit",
-            "value": 4
-        },
-        {
-            "text": "Sharma",
-            "value": 4
-        },
-        {
-            "text": "Rahul",
+            "text": "MATTHEW",
             "value": 1
         },
         {
-            "text": "Dravid",
+            "text": "HAYDEN",
             "value": 1
         },
         {
-            "text": "Babar",
+            "text": "DISCUSSION",
             "value": 1
         },
         {
-            "text": "Azam",
+            "text": "CAPTAINS",
             "value": 1
         },
         {
-            "text": "Matthew",
+            "text": "COACHES",
             "value": 1
         },
         {
-            "text": "Hayden",
+            "text": "CAMPS",
             "value": 1
         },
         {
-            "text": "Intense",
+            "text": "PRESSURE",
             "value": 1
         },
         {
-            "text": "discussion",
-            "value": 1
-        },
-        {
-            "text": "captains",
-            "value": 1
-        },
-        {
-            "text": "coaches",
-            "value": 1
-        },
-        {
-            "text": "camps",
-            "value": 1
-        },
-        {
-            "text": "pressure",
-            "value": 1
-        },
-        {
-            "text": "Sunday",
+            "text": "SUNDAY",
             "value": 3
         },
         {
-            "text": "Watch",
+            "text": "EPISODE",
             "value": 1
         },
         {
-            "text": "FULL",
+            "text": "15MIN",
             "value": 1
         },
         {
-            "text": "episode",
+            "text": "PASSING",
             "value": 1
         },
         {
-            "text": "Stopped",
-            "value": 1
-        },
-        {
-            "text": "raining",
-            "value": 1
-        },
-        {
-            "text": "15min",
-            "value": 1
-        },
-        {
-            "text": "passing",
-            "value": 1
-        },
-        {
-            "text": "shower",
-            "value": 1
-        },
-        {
-            "text": "even",
-            "value": 1
-        },
-        {
-            "text": "overs",
-            "value": 1
-        },
-        {
-            "text": "reduced",
-            "value": 1
-        },
-        {
-            "text": "still",
-            "value": 1
-        },
-        {
-            "text": "game",
-            "value": 4
-        },
-        {
-            "text": "get",
-            "value": 4
-        },
-        {
-            "text": "every",
-            "value": 1
-        },
-        {
-            "text": "update",
-            "value": 1
-        },
-        {
-            "text": "weather",
+            "text": "EVEN",
             "value": 2
         },
         {
-            "text": "Spoke",
+            "text": "OVERS",
             "value": 1
         },
         {
-            "text": "soon",
+            "text": "REDUCED",
             "value": 1
         },
         {
-            "text": "43pm",
+            "text": "EVERY",
+            "value": 1
+        },
+        {
+            "text": "UPDATE",
+            "value": 1
+        },
+        {
+            "text": "SPOKE",
+            "value": 1
+        },
+        {
+            "text": "SOON",
+            "value": 1
+        },
+        {
+            "text": "43PM",
             "value": 1
         },
         {
             "text": "BEST",
-            "value": 1
-        },
-        {
-            "text": "news",
-            "value": 1
-        },
-        {
-            "text": "MCG",
-            "value": 1
-        },
-        {
-            "text": "Met",
-            "value": 1
-        },
-        {
-            "text": "department",
-            "value": 1
-        },
-        {
-            "text": "predicted",
-            "value": 1
-        },
-        {
-            "text": "chance",
-            "value": 1
-        },
-        {
-            "text": "rain",
-            "value": 1
-        },
-        {
-            "text": "afternoon",
-            "value": 1
-        },
-        {
-            "text": "evening",
-            "value": 1
-        },
-        {
-            "text": "today",
-            "value": 6
-        },
-        {
-            "text": "35pm",
-            "value": 1
-        },
-        {
-            "text": "nothing",
-            "value": 1
-        },
-        {
-            "text": "drops",
-            "value": 1
-        },
-        {
-            "text": "scared",
-            "value": 1
-        },
-        {
-            "text": "India",
-            "value": 4
-        },
-        {
-            "text": "Pak",
-            "value": 1
-        },
-        {
-            "text": "super",
-            "value": 1
-        },
-        {
-            "text": "Dinesh",
-            "value": 2
-        },
-        {
-            "text": "Karthik",
-            "value": 2
-        },
-        {
-            "text": "getting",
-            "value": 2
-        },
-        {
-            "text": "groove",
-            "value": 1
-        },
-        {
-            "text": "big",
             "value": 3
         },
         {
-            "text": "match",
+            "text": "NEWS",
             "value": 1
         },
         {
-            "text": "days",
+            "text": "DEPARTMENT",
             "value": 1
         },
         {
-            "text": "captain",
+            "text": "PREDICTED",
             "value": 1
         },
         {
-            "text": "Md",
+            "text": "CHANCE",
+            "value": 1
+        },
+        {
+            "text": "EVENING",
+            "value": 1
+        },
+        {
+            "text": "TODAY",
+            "value": 6
+        },
+        {
+            "text": "35PM",
+            "value": 1
+        },
+        {
+            "text": "NOTHING",
+            "value": 1
+        },
+        {
+            "text": "DROPS",
+            "value": 1
+        },
+        {
+            "text": "SCARED",
+            "value": 1
+        },
+        {
+            "text": "SUPER",
+            "value": 1
+        },
+        {
+            "text": "DINESH",
             "value": 2
         },
         {
-            "text": "Siraj",
-            "value": 1
-        },
-        {
-            "text": "Shami",
-            "value": 1
-        },
-        {
-            "text": "Arshdee",
-            "value": 1
-        },
-        {
-            "text": "Singh",
-            "value": 1
-        },
-        {
-            "text": "Axar",
-            "value": 1
-        },
-        {
-            "text": "Patel",
-            "value": 1
-        },
-        {
-            "text": "Shardul",
-            "value": 1
-        },
-        {
-            "text": "Thakur",
-            "value": 1
-        },
-        {
-            "text": "Deepak",
-            "value": 1
-        },
-        {
-            "text": "Hooda",
-            "value": 1
-        },
-        {
-            "text": "attended",
-            "value": 1
-        },
-        {
-            "text": "team",
+            "text": "KARTHIK",
             "value": 2
         },
         {
-            "text": "optional",
+            "text": "GROOVE",
             "value": 1
         },
         {
-            "text": "training",
-            "value": 1
-        },
-        {
-            "text": "session",
-            "value": 1
-        },
-        {
-            "text": "Masood",
+            "text": "MD",
             "value": 2
         },
         {
-            "text": "leaves",
+            "text": "SIRAJ",
             "value": 1
         },
         {
-            "text": "ice",
+            "text": "SHAMI",
             "value": 1
         },
         {
-            "text": "pack",
+            "text": "ARSHDEE",
             "value": 1
         },
         {
-            "text": "face",
+            "text": "SINGH",
             "value": 1
         },
         {
-            "text": "Nawaz",
+            "text": "AXAR",
             "value": 1
         },
         {
-            "text": "hit",
+            "text": "PATEL",
             "value": 1
         },
         {
-            "text": "shot",
+            "text": "SHARDUL",
             "value": 1
         },
         {
-            "text": "play",
+            "text": "THAKUR",
             "value": 1
         },
         {
-            "text": "place",
+            "text": "DEEPAK",
+            "value": 1
+        },
+        {
+            "text": "HOODA",
+            "value": 1
+        },
+        {
+            "text": "ATTENDED",
+            "value": 1
+        },
+        {
+            "text": "TEAM",
+            "value": 3
+        },
+        {
+            "text": "OPTIONAL",
+            "value": 1
+        },
+        {
+            "text": "TRAINING",
+            "value": 1
+        },
+        {
+            "text": "MASOOD",
             "value": 2
         },
         {
-            "text": "Fakhar",
+            "text": "LEAVES",
             "value": 1
         },
         {
-            "text": "Zaman",
+            "text": "ICE",
             "value": 1
         },
         {
-            "text": "could",
+            "text": "PACK",
             "value": 1
         },
         {
-            "text": "problem",
+            "text": "FACE",
             "value": 1
         },
         {
-            "text": "Pakistan",
-            "value": 2
+            "text": "NAWAZ",
+            "value": 1
         },
         {
-            "text": "Captain",
+            "text": "HIT",
+            "value": 1
+        },
+        {
+            "text": "SHOT",
+            "value": 1
+        },
+        {
+            "text": "PLAY",
+            "value": 1
+        },
+        {
+            "text": "FAKHAR",
+            "value": 1
+        },
+        {
+            "text": "ZAMAN",
+            "value": 1
+        },
+        {
+            "text": "COULD",
+            "value": 1
+        },
+        {
+            "text": "PROBLEM",
             "value": 1
         },
         {
@@ -469,715 +901,639 @@
             "value": 1
         },
         {
-            "text": "touch",
+            "text": "TOUCH",
             "value": 1
         },
         {
-            "text": "nets",
+            "text": "LIFTS",
             "value": 1
         },
         {
-            "text": "ahead",
-            "value": 1
-        },
-        {
-            "text": "lifts",
-            "value": 1
-        },
-        {
-            "text": "John",
-            "value": 4
-        },
-        {
-            "text": "Cain",
-            "value": 4
-        },
-        {
-            "text": "Arena",
-            "value": 5
-        },
-        {
-            "text": "elected",
+            "text": "ELECTED",
             "value": 2
         },
         {
-            "text": "Members",
+            "text": "MEMBERS",
             "value": 1
         },
         {
-            "text": "First",
+            "text": "FIRST",
             "value": 4
         },
         {
-            "text": "Peoples",
+            "text": "PEOPLES",
             "value": 5
         },
         {
-            "text": "Assembly",
+            "text": "ASSEMBLY",
             "value": 4
         },
         {
-            "text": "ask",
+            "text": "ASK",
             "value": 1
         },
         {
-            "text": "people",
+            "text": "PEOPLE",
             "value": 1
         },
         {
-            "text": "Victoria",
+            "text": "VICTORIA",
             "value": 9
         },
         {
-            "text": "whatever",
+            "text": "WHATEVER",
             "value": 1
         },
         {
-            "text": "background",
+            "text": "BACKGROUND",
             "value": 1
         },
         {
-            "text": "join",
+            "text": "JOIN",
             "value": 1
         },
         {
-            "text": "Treaty",
+            "text": "TREATY",
             "value": 11
         },
         {
-            "text": "journey",
+            "text": "JOURNEY",
             "value": 1
         },
         {
-            "text": "educate",
+            "text": "EDUCATE",
             "value": 1
         },
         {
-            "text": "Aboriginal",
+            "text": "ABORIGINAL",
             "value": 5
         },
         {
-            "text": "histories",
+            "text": "HISTORIES",
             "value": 1
         },
         {
-            "text": "history",
+            "text": "HISTORY",
             "value": 1
         },
         {
-            "text": "process",
+            "text": "PROCESS",
             "value": 4
         },
         {
-            "text": "online",
+            "text": "ONLINE",
             "value": 1
         },
         {
-            "text": "Follow",
+            "text": "FOLLOW",
             "value": 1
         },
         {
-            "text": "day",
+            "text": "CELEBRATION",
+            "value": 1
+        },
+        {
+            "text": "THINKING",
+            "value": 1
+        },
+        {
+            "text": "WORK",
+            "value": 1
+        },
+        {
+            "text": "COMES",
+            "value": 2
+        },
+        {
+            "text": "NEXT",
+            "value": 2
+        },
+        {
+            "text": "FRAMEWORK",
+            "value": 3
+        },
+        {
+            "text": "AUTHORITY",
+            "value": 3
+        },
+        {
+            "text": "FUND",
+            "value": 2
+        },
+        {
+            "text": "AGREED",
+            "value": 1
+        },
+        {
+            "text": "IMPLEMENTATION",
+            "value": 1
+        },
+        {
+            "text": "FRESH",
+            "value": 1
+        },
+        {
+            "text": "ELECTIONS",
+            "value": 1
+        },
+        {
+            "text": "COMMUNITY",
+            "value": 1
+        },
+        {
+            "text": "VOTE",
+            "value": 1
+        },
+        {
+            "text": "REPRESENTATIVES",
+            "value": 1
+        },
+        {
+            "text": "PHASE",
+            "value": 1
+        },
+        {
+            "text": "VICTORIAN",
+            "value": 2
+        },
+        {
+            "text": "BUILT",
+            "value": 1
+        },
+        {
+            "text": "UPON",
+            "value": 1
+        },
+        {
+            "text": "LAST",
+            "value": 1
+        },
+        {
+            "text": "CENTURIES",
+            "value": 1
+        },
+        {
+            "text": "RESISTANCE",
+            "value": 1
+        },
+        {
+            "text": "ACTIVISM",
+            "value": 1
+        },
+        {
+            "text": "STAUNCH",
+            "value": 1
+        },
+        {
+            "text": "ELDERS",
+            "value": 1
+        },
+        {
+            "text": "CIVIL",
+            "value": 1
+        },
+        {
+            "text": "RIGHTS",
+            "value": 2
+        },
+        {
+            "text": "MOVEMENT",
+            "value": 1
+        },
+        {
+            "text": "GROUP",
+            "value": 1
+        },
+        {
+            "text": "ADVANCEMENT",
+            "value": 1
+        },
+        {
+            "text": "COMMISSIONER",
+            "value": 1
+        },
+        {
+            "text": "DEMOCRATICALLY",
+            "value": 1
+        },
+        {
+            "text": "GENUINELY",
+            "value": 1
+        },
+        {
+            "text": "LEADING",
+            "value": 1
+        },
+        {
+            "text": "WAY",
+            "value": 1
+        },
+        {
+            "text": "JURISDICTION",
+            "value": 1
+        },
+        {
+            "text": "AUSTRALIA",
+            "value": 1
+        },
+        {
+            "text": "PROGRESSING",
+            "value": 1
+        },
+        {
+            "text": "ELEMENTS",
+            "value": 1
+        },
+        {
+            "text": "CALLED",
+            "value": 1
+        },
+        {
+            "text": "ULU",
+            "value": 1
+        },
+        {
+            "text": "HEART",
+            "value": 1
+        },
+        {
+            "text": "VOICE",
+            "value": 1
+        },
+        {
+            "text": "TRUTH",
+            "value": 1
+        },
+        {
+            "text": "TESTIMONY",
+            "value": 1
+        },
+        {
+            "text": "COMMUNITIES",
+            "value": 2
+        },
+        {
+            "text": "KEEP",
+            "value": 1
+        },
+        {
+            "text": "FIGHTING",
+            "value": 1
+        },
+        {
+            "text": "STAGE",
+            "value": 2
+        },
+        {
+            "text": "TREATIES",
+            "value": 2
+        },
+        {
+            "text": "DEVELOPED",
+            "value": 1
+        },
+        {
+            "text": "TRADITIONAL",
             "value": 4
         },
         {
-            "text": "celebration",
-            "value": 1
-        },
-        {
-            "text": "always",
-            "value": 1
-        },
-        {
-            "text": "thinking",
-            "value": 1
-        },
-        {
-            "text": "work",
-            "value": 1
-        },
-        {
-            "text": "comes",
-            "value": 2
-        },
-        {
-            "text": "next",
-            "value": 2
-        },
-        {
-            "text": "Framework",
+            "text": "OWNER",
             "value": 3
         },
         {
-            "text": "Authority",
+            "text": "LOCAL",
+            "value": 1
+        },
+        {
+            "text": "LEVEL",
+            "value": 1
+        },
+        {
+            "text": "DESIGNED",
+            "value": 2
+        },
+        {
+            "text": "NEGOTIATED",
+            "value": 2
+        },
+        {
+            "text": "GROUPS",
             "value": 3
         },
         {
-            "text": "Fund",
+            "text": "ADDITION",
+            "value": 1
+        },
+        {
+            "text": "OVERARCHING",
+            "value": 1
+        },
+        {
+            "text": "STATEWIDE",
+            "value": 1
+        },
+        {
+            "text": "SECURE",
+            "value": 1
+        },
+        {
+            "text": "MEANINGFUL",
+            "value": 1
+        },
+        {
+            "text": "STRUCTURAL",
+            "value": 1
+        },
+        {
+            "text": "REFORMS",
+            "value": 1
+        },
+        {
+            "text": "IMPORTANTLY",
+            "value": 1
+        },
+        {
+            "text": "NEGOTIATION",
+            "value": 1
+        },
+        {
+            "text": "FINALISED",
+            "value": 1
+        },
+        {
+            "text": "SIGNED",
+            "value": 1
+        },
+        {
+            "text": "WURUNDJERI",
+            "value": 1
+        },
+        {
+            "text": "WOI",
+            "value": 1
+        },
+        {
+            "text": "WURRUNG",
+            "value": 1
+        },
+        {
+            "text": "COUNTRY",
             "value": 2
         },
         {
-            "text": "agreed",
+            "text": "ADOPTS",
             "value": 1
         },
         {
-            "text": "implementation",
+            "text": "PRINCIPLES",
             "value": 1
         },
         {
-            "text": "hold",
+            "text": "DECLARATION",
             "value": 1
         },
         {
-            "text": "fresh",
+            "text": "INDIGENOUS",
             "value": 1
         },
         {
-            "text": "elections",
+            "text": "ENSURES",
             "value": 1
         },
         {
-            "text": "community",
+            "text": "LEFT",
             "value": 1
         },
         {
-            "text": "vote",
+            "text": "BEHIND",
             "value": 1
         },
         {
-            "text": "representatives",
+            "text": "SELF",
             "value": 1
         },
         {
-            "text": "phase",
+            "text": "DETERMINATION",
             "value": 1
         },
         {
-            "text": "Victorian",
+            "text": "DRIVE",
+            "value": 1
+        },
+        {
+            "text": "WEALTH",
+            "value": 1
+        },
+        {
+            "text": "PROSPERITY",
+            "value": 1
+        },
+        {
+            "text": "TERM",
             "value": 2
         },
         {
-            "text": "built",
+            "text": "SHORTER",
             "value": 1
         },
         {
-            "text": "upon",
+            "text": "ASSIST",
             "value": 1
         },
         {
-            "text": "last",
+            "text": "NATIONS",
             "value": 1
         },
         {
-            "text": "Centuries",
+            "text": "ACROSS",
             "value": 1
         },
         {
-            "text": "resistance",
+            "text": "READY",
             "value": 1
         },
         {
-            "text": "activism",
+            "text": "INDEPENDENT",
             "value": 1
         },
         {
-            "text": "staunch",
+            "text": "UMPIRE",
             "value": 1
         },
         {
-            "text": "Elders",
+            "text": "GOING",
             "value": 1
         },
         {
-            "text": "civil",
+            "text": "FORWARD",
             "value": 1
         },
         {
-            "text": "rights",
+            "text": "GROUNDED",
             "value": 1
         },
         {
-            "text": "movement",
+            "text": "LORE",
             "value": 1
         },
         {
-            "text": "Working",
+            "text": "LAW",
             "value": 1
         },
         {
-            "text": "Group",
+            "text": "CULTURE",
             "value": 1
         },
         {
-            "text": "Vic",
-            "value": 1
-        },
-        {
-            "text": "Advancement",
-            "value": 1
-        },
-        {
-            "text": "Commissioner",
-            "value": 1
-        },
-        {
-            "text": "democratically",
-            "value": 1
-        },
-        {
-            "text": "genuinely",
-            "value": 1
-        },
-        {
-            "text": "leading",
-            "value": 1
-        },
-        {
-            "text": "way",
-            "value": 1
-        },
-        {
-            "text": "jurisdiction",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 1
-        },
-        {
-            "text": "progressing",
-            "value": 1
-        },
-        {
-            "text": "elements",
-            "value": 1
-        },
-        {
-            "text": "called",
-            "value": 1
-        },
-        {
-            "text": "Ulu",
-            "value": 1
-        },
-        {
-            "text": "Statement",
-            "value": 1
-        },
-        {
-            "text": "Heart",
-            "value": 1
-        },
-        {
-            "text": "Voice",
-            "value": 1
-        },
-        {
-            "text": "Truth",
-            "value": 1
-        },
-        {
-            "text": "testimony",
-            "value": 1
-        },
-        {
-            "text": "communities",
+            "text": "SUBJECT",
             "value": 2
         },
         {
-            "text": "keep",
+            "text": "MINISTERIAL",
             "value": 1
         },
         {
-            "text": "fighting",
+            "text": "DIRECTION",
             "value": 1
         },
         {
-            "text": "stage",
+            "text": "INSECURE",
+            "value": 1
+        },
+        {
+            "text": "FUNDING",
+            "value": 1
+        },
+        {
+            "text": "ARRANGEMENTS",
+            "value": 1
+        },
+        {
+            "text": "PAST",
+            "value": 1
+        },
+        {
+            "text": "SIGNING",
             "value": 2
         },
         {
-            "text": "set",
-            "value": 2
-        },
-        {
-            "text": "Treaties",
-            "value": 2
-        },
-        {
-            "text": "developed",
-            "value": 1
-        },
-        {
-            "text": "Traditional",
-            "value": 4
-        },
-        {
-            "text": "Owner",
-            "value": 3
-        },
-        {
-            "text": "local",
-            "value": 1
-        },
-        {
-            "text": "level",
-            "value": 1
-        },
-        {
-            "text": "designed",
-            "value": 2
-        },
-        {
-            "text": "negotiated",
-            "value": 2
-        },
-        {
-            "text": "groups",
-            "value": 3
-        },
-        {
-            "text": "addition",
-            "value": 1
-        },
-        {
-            "text": "overarching",
-            "value": 1
-        },
-        {
-            "text": "statewide",
-            "value": 1
-        },
-        {
-            "text": "secure",
-            "value": 1
-        },
-        {
-            "text": "meaningful",
-            "value": 1
-        },
-        {
-            "text": "structural",
-            "value": 1
-        },
-        {
-            "text": "reforms",
-            "value": 1
-        },
-        {
-            "text": "Importantly",
-            "value": 1
-        },
-        {
-            "text": "Negotiation",
-            "value": 1
-        },
-        {
-            "text": "finalised",
-            "value": 1
-        },
-        {
-            "text": "signed",
-            "value": 1
-        },
-        {
-            "text": "Wurundjeri",
-            "value": 1
-        },
-        {
-            "text": "Woi",
-            "value": 1
-        },
-        {
-            "text": "Wurrung",
-            "value": 1
-        },
-        {
-            "text": "Country",
-            "value": 2
-        },
-        {
-            "text": "adopts",
-            "value": 1
-        },
-        {
-            "text": "principles",
-            "value": 1
-        },
-        {
-            "text": "Declaration",
-            "value": 1
-        },
-        {
-            "text": "Rights",
-            "value": 1
-        },
-        {
-            "text": "Indigenous",
-            "value": 1
-        },
-        {
-            "text": "ensures",
-            "value": 1
-        },
-        {
-            "text": "left",
-            "value": 1
-        },
-        {
-            "text": "behind",
-            "value": 1
-        },
-        {
-            "text": "Self",
-            "value": 1
-        },
-        {
-            "text": "Determination",
-            "value": 1
-        },
-        {
-            "text": "drive",
-            "value": 1
-        },
-        {
-            "text": "wealth",
-            "value": 1
-        },
-        {
-            "text": "prosperity",
-            "value": 1
-        },
-        {
-            "text": "long",
-            "value": 1
-        },
-        {
-            "text": "term",
-            "value": 2
-        },
-        {
-            "text": "shorter",
-            "value": 1
-        },
-        {
-            "text": "assist",
-            "value": 1
-        },
-        {
-            "text": "nations",
-            "value": 1
-        },
-        {
-            "text": "across",
-            "value": 1
-        },
-        {
-            "text": "ready",
-            "value": 2
-        },
-        {
-            "text": "independent",
-            "value": 1
-        },
-        {
-            "text": "umpire",
-            "value": 1
-        },
-        {
-            "text": "going",
-            "value": 1
-        },
-        {
-            "text": "forward",
-            "value": 1
-        },
-        {
-            "text": "grounded",
-            "value": 1
-        },
-        {
-            "text": "Lore",
-            "value": 1
-        },
-        {
-            "text": "law",
-            "value": 1
-        },
-        {
-            "text": "culture",
-            "value": 1
-        },
-        {
-            "text": "subject",
-            "value": 2
-        },
-        {
-            "text": "Ministerial",
-            "value": 1
-        },
-        {
-            "text": "direction",
-            "value": 1
-        },
-        {
-            "text": "insecure",
-            "value": 1
-        },
-        {
-            "text": "funding",
-            "value": 1
-        },
-        {
-            "text": "arrangements",
-            "value": 1
-        },
-        {
-            "text": "past",
-            "value": 1
-        },
-        {
-            "text": "Today",
-            "value": 1
-        },
-        {
-            "text": "signing",
-            "value": 2
-        },
-        {
-            "text": "ceremony",
-            "value": 1
-        },
-        {
-            "text": "banks",
-            "value": 1
-        },
-        {
-            "text": "Birrarung",
-            "value": 1
-        },
-        {
-            "text": "means",
-            "value": 1
-        },
-        {
-            "text": "three",
+            "text": "CEREMONY",
             "value": 1
         },
         {
-            "text": "pieces",
+            "text": "BANKS",
             "value": 1
         },
         {
-            "text": "crucial",
+            "text": "BIRRARUNG",
             "value": 1
         },
         {
-            "text": "architecture",
+            "text": "MEANS",
             "value": 1
         },
         {
-            "text": "Government",
+            "text": "PIECES",
             "value": 1
         },
         {
-            "text": "years",
+            "text": "CRUCIAL",
             "value": 1
         },
         {
-            "text": "bring",
+            "text": "ARCHITECTURE",
             "value": 1
         },
         {
-            "text": "milestone",
+            "text": "GOVERNMENT",
             "value": 1
         },
         {
-            "text": "Absolutely",
+            "text": "MILESTONE",
             "value": 1
         },
         {
-            "text": "huge",
+            "text": "ABSOLUTELY",
             "value": 1
         },
         {
-            "text": "announcement",
+            "text": "HUGE",
             "value": 1
         },
         {
-            "text": "biggest",
+            "text": "ANNOUNCEMENT",
             "value": 1
         },
         {
-            "text": "change",
+            "text": "BIGGEST",
             "value": 1
         },
         {
-            "text": "generation",
+            "text": "CHANGE",
             "value": 1
         },
         {
-            "text": "making",
+            "text": "GENERATION",
             "value": 1
         },
         {
-            "text": "led",
+            "text": "MAKING",
             "value": 1
         },
         {
-            "text": "Owners",
+            "text": "LED",
             "value": 1
         },
         {
-            "text": "king",
+            "text": "OWNERS",
             "value": 1
         },
         {
-            "text": "Calm",
+            "text": "CALM",
             "value": 1
         },
         {
-            "text": "storm",
+            "text": "STORM",
             "value": 1
         },
         {
-            "text": "Gal",
+            "text": "GAL",
             "value": 1
         },
         {
-            "text": "pal",
+            "text": "PAL",
             "value": 1
         },
         {
-            "text": "keen",
+            "text": "KEEN",
             "value": 1
         },
         {
-            "text": "netty",
+            "text": "NETTY",
             "value": 1
         },
         {
-            "text": "action",
+            "text": "ACTION",
             "value": 1
         },
         {
-            "text": "Catch",
+            "text": "CATCH",
             "value": 1
         },
         {
-            "text": "Shimmy",
+            "text": "SHIMMY",
             "value": 1
         },
         {
-            "text": "posters",
+            "text": "POSTERS",
             "value": 1
         },
         {
-            "text": "taking",
+            "text": "TAKING",
             "value": 1
         },
         {
-            "text": "pics",
+            "text": "PICS",
             "value": 1
         },
         {
@@ -1189,451 +1545,247 @@
             "value": 1
         },
         {
-            "text": "October",
+            "text": "OCTOBER",
             "value": 1
         },
         {
-            "text": "Trans",
+            "text": "TRANS",
             "value": 1
         },
         {
-            "text": "Tasman",
+            "text": "TASMAN",
             "value": 1
         },
         {
-            "text": "Cup",
+            "text": "SERIES",
             "value": 1
         },
         {
-            "text": "Series",
+            "text": "AUSTRALIANMENSNETBALL",
             "value": 1
         },
         {
-            "text": "Game",
+            "text": "DECIDING",
             "value": 1
         },
         {
-            "text": "australianmensnetball",
+            "text": "BOXING",
             "value": 1
         },
         {
-            "text": "Get",
+            "text": "SPORT",
             "value": 1
         },
         {
-            "text": "deciding",
+            "text": "ROD",
             "value": 1
         },
         {
-            "text": "Boxing",
+            "text": "LAVER",
             "value": 1
         },
         {
-            "text": "best",
+            "text": "TURNING",
+            "value": 1
+        },
+        {
+            "text": "SUMMER",
+            "value": 1
+        },
+        {
+            "text": "COMING",
+            "value": 1
+        },
+        {
+            "text": "WANT",
+            "value": 1
+        },
+        {
+            "text": "FIT",
+            "value": 1
+        },
+        {
+            "text": "HEALTHY",
+            "value": 1
+        },
+        {
+            "text": "SHARP",
+            "value": 1
+        },
+        {
+            "text": "THANKS",
+            "value": 1
+        },
+        {
+            "text": "TODAYS",
+            "value": 1
+        },
+        {
+            "text": "CREW",
+            "value": 1
+        },
+        {
+            "text": "THRU",
             "value": 2
         },
         {
-            "text": "sport",
+            "text": "RUN",
             "value": 1
         },
         {
-            "text": "world",
-            "value": 3
-        },
-        {
-            "text": "Rod",
+            "text": "FEEL",
             "value": 1
         },
         {
-            "text": "Laver",
+            "text": "SUPPORT",
             "value": 1
         },
         {
-            "text": "Weather",
+            "text": "GETS",
             "value": 1
         },
         {
-            "text": "finally",
-            "value": 1
-        },
-        {
-            "text": "turning",
-            "value": 1
-        },
-        {
-            "text": "good",
-            "value": 1
-        },
-        {
-            "text": "Time",
-            "value": 1
-        },
-        {
-            "text": "Summer",
-            "value": 1
-        },
-        {
-            "text": "coming",
-            "value": 1
-        },
-        {
-            "text": "want",
-            "value": 1
-        },
-        {
-            "text": "fit",
-            "value": 1
-        },
-        {
-            "text": "healthy",
-            "value": 1
-        },
-        {
-            "text": "sharp",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "todays",
-            "value": 1
-        },
-        {
-            "text": "Crew",
-            "value": 1
-        },
-        {
-            "text": "thru",
-            "value": 2
-        },
-        {
-            "text": "run",
-            "value": 1
-        },
-        {
-            "text": "week",
-            "value": 1
-        },
-        {
-            "text": "Even",
-            "value": 1
-        },
-        {
-            "text": "feel",
-            "value": 1
-        },
-        {
-            "text": "support",
-            "value": 1
-        },
-        {
-            "text": "gets",
-            "value": 1
-        },
-        {
-            "text": "fight",
+            "text": "FIGHT",
             "value": 5
         },
         {
-            "text": "showing",
+            "text": "SHOWING",
             "value": 1
         },
         {
-            "text": "shake",
+            "text": "SHAKE",
             "value": 1
         },
         {
-            "text": "hands",
+            "text": "HANDS",
             "value": 1
         },
         {
-            "text": "Plenty",
+            "text": "PLENTY",
             "value": 1
         },
         {
-            "text": "class",
+            "text": "CLASS",
             "value": 1
         },
         {
-            "text": "Team",
-            "value": 1
-        },
-        {
-            "text": "Haney",
+            "text": "HANEY",
             "value": 2
         },
         {
-            "text": "Kambosos",
+            "text": "KAMBOSOS",
             "value": 1
         },
         {
-            "text": "post",
+            "text": "TITLE",
             "value": 1
         },
         {
-            "text": "title",
+            "text": "RASHAD",
             "value": 1
         },
         {
-            "text": "Rashad",
+            "text": "KELLY",
             "value": 1
         },
         {
-            "text": "Kelly",
+            "text": "SHOWED",
             "value": 1
         },
         {
-            "text": "showed",
+            "text": "DELIVER",
             "value": 1
         },
         {
-            "text": "deliver",
+            "text": "POINT",
+            "value": 1
+        },
+        {
+            "text": "REFLECTIONS",
+            "value": 1
+        },
+        {
+            "text": "BEAUTIFUL",
+            "value": 1
+        },
+        {
+            "text": "CLOUDLESS",
+            "value": 1
+        },
+        {
+            "text": "QUEEN",
             "value": 2
         },
         {
-            "text": "point",
+            "text": "GARDENS",
             "value": 2
         },
         {
-            "text": "win",
+            "text": "LATE",
+            "value": 1
+        },
+        {
+            "text": "WINTER",
+            "value": 1
+        },
+        {
+            "text": "FATFREDDYSDROPNZ",
+            "value": 1
+        },
+        {
+            "text": "ROCKING",
+            "value": 1
+        },
+        {
+            "text": "BOWL",
             "value": 2
         },
         {
-            "text": "Reflections",
+            "text": "SIDNEY",
             "value": 1
         },
         {
-            "text": "beautiful",
+            "text": "MYER",
             "value": 1
         },
         {
-            "text": "cloudless",
+            "text": "MUSIC",
             "value": 1
         },
         {
-            "text": "Queen",
-            "value": 2
-        },
-        {
-            "text": "Gardens",
-            "value": 2
-        },
-        {
-            "text": "late",
+            "text": "LEAST",
             "value": 1
         },
         {
-            "text": "winter",
+            "text": "WEAR",
             "value": 1
         },
         {
-            "text": "fatfreddysdropnz",
+            "text": "BEANIE",
             "value": 1
         },
         {
-            "text": "Rocking",
+            "text": "PUFFER",
             "value": 1
         },
         {
-            "text": "Bowl",
-            "value": 4
-        },
-        {
-            "text": "Sidney",
-            "value": 2
-        },
-        {
-            "text": "Myer",
-            "value": 2
-        },
-        {
-            "text": "Music",
-            "value": 2
-        },
-        {
-            "text": "Let",
-            "value": 2
-        },
-        {
-            "text": "go",
+            "text": "JACKET",
             "value": 1
         },
         {
-            "text": "least",
+            "text": "ABSOLUTE",
             "value": 1
         },
         {
-            "text": "wear",
+            "text": "CRACKER",
             "value": 1
         },
         {
-            "text": "beanie",
+            "text": "ATMOSPHERE",
             "value": 1
         },
         {
-            "text": "puffer",
-            "value": 1
-        },
-        {
-            "text": "jacket",
-            "value": 1
-        },
-        {
-            "text": "one",
-            "value": 1
-        },
-        {
-            "text": "absolute",
-            "value": 1
-        },
-        {
-            "text": "cracker",
-            "value": 1
-        },
-        {
-            "text": "atmosphere",
-            "value": 1
-        },
-        {
-            "text": "Kambosis",
-            "value": 1
-        },
-        {
-            "text": "TIME",
-            "value": 1
-        },
-        {
-            "text": "facilitates",
-            "value": 1
-        },
-        {
-            "text": "offence",
-            "value": 1
-        },
-        {
-            "text": "Nice",
-            "value": 1
-        },
-        {
-            "text": "drop",
-            "value": 2
-        },
-        {
-            "text": "Fat",
-            "value": 2
-        },
-        {
-            "text": "Freddy",
-            "value": 2
-        },
-        {
-            "text": "Drinking",
-            "value": 1
-        },
-        {
-            "text": "Pale",
-            "value": 1
-        },
-        {
-            "text": "Ale",
-            "value": 1
-        },
-        {
-            "text": "Welcome",
-            "value": 1
-        },
-        {
-            "text": "players",
-            "value": 1
-        },
-        {
-            "text": "onto",
-            "value": 1
-        },
-        {
-            "text": "court",
-            "value": 1
-        },
-        {
-            "text": "Phoenix",
-            "value": 1
-        },
-        {
-            "text": "fans",
-            "value": 1
-        },
-        {
-            "text": "almost",
-            "value": 1
-        },
-        {
-            "text": "time",
-            "value": 1
-        },
-        {
-            "text": "Tune",
-            "value": 1
-        },
-        {
-            "text": "via",
-            "value": 1
-        },
-        {
-            "text": "come",
-            "value": 1
-        },
-        {
-            "text": "Big",
-            "value": 1
-        },
-        {
-            "text": "Saturday",
-            "value": 1
-        },
-        {
-            "text": "Back",
-            "value": 1
-        },
-        {
-            "text": "bowl",
-            "value": 1
-        },
-        {
-            "text": "Clear",
-            "value": 1
-        },
-        {
-            "text": "skies",
-            "value": 1
-        },
-        {
-            "text": "Opening",
-            "value": 1
-        },
-        {
-            "text": "rumble",
-            "value": 1
-        },
-        {
-            "text": "Bring",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "Park",
-            "value": 1
-        },
-        {
-            "text": "deception",
+            "text": "KAMBOSIS",
             "value": 1
         }
     ]

@@ -1,59 +1,63 @@
 {
     "word_freq": [
         {
-            "text": "Racecourse",
-            "value": 2
+            "text": "PHOTO",
+            "value": 1
         },
         {
-            "text": "Rd",
-            "value": 2
-        },
-        {
-            "text": "Flemington",
-            "value": 2
-        },
-        {
-            "text": "lanes",
+            "text": "FLEMINGTON",
             "value": 3
         },
         {
-            "text": "closed",
-            "value": 3
+            "text": "VICTORIA",
+            "value": 1
         },
         {
-            "text": "westbound",
+            "text": "RACECOURSE",
             "value": 2
         },
         {
-            "text": "Road",
+            "text": "RD",
+            "value": 2
+        },
+        {
+            "text": "LANES",
+            "value": 3
+        },
+        {
+            "text": "CLOSED",
+            "value": 3
+        },
+        {
+            "text": "WESTBOUND",
+            "value": 2
+        },
+        {
+            "text": "ROAD",
             "value": 1
         },
         {
-            "text": "directions",
+            "text": "DIRECTIONS",
             "value": 1
         },
         {
-            "text": "near",
+            "text": "NEAR",
             "value": 1
         },
         {
-            "text": "Newmarket",
+            "text": "NEWMARKET",
             "value": 1
         },
         {
-            "text": "outbound",
+            "text": "OUTBOUND",
             "value": 1
         },
         {
-            "text": "diverted",
+            "text": "DIVERTED",
             "value": 1
         },
         {
-            "text": "Eastwood",
-            "value": 1
-        },
-        {
-            "text": "Street",
+            "text": "EASTWOOD",
             "value": 1
         }
     ]

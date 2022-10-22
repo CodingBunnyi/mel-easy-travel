@@ -1,63 +1,27 @@
 {
     "word_freq": [
         {
-            "text": "Flemington",
+            "text": "FLEMINGTON",
             "value": 1
         },
         {
-            "text": "racecourse",
+            "text": "RACECOURSE",
             "value": 1
         },
         {
-            "text": "Maribyrnong",
+            "text": "MARIBYRNONG",
             "value": 1
         },
         {
-            "text": "flooded",
+            "text": "FLOODED",
             "value": 1
         },
         {
-            "text": "Good",
+            "text": "GOOD",
             "value": 1
         },
         {
-            "text": "morning",
-            "value": 1
-        },
-        {
-            "text": "Farnsworth",
-            "value": 1
-        },
-        {
-            "text": "Av",
-            "value": 1
-        },
-        {
-            "text": "Footscray",
-            "value": 1
-        },
-        {
-            "text": "Road",
-            "value": 2
-        },
-        {
-            "text": "Closed",
-            "value": 2
-        },
-        {
-            "text": "Cumberland",
-            "value": 1
-        },
-        {
-            "text": "Drive",
-            "value": 1
-        },
-        {
-            "text": "Langs",
-            "value": 1
-        },
-        {
-            "text": "due",
+            "text": "MORNING",
             "value": 1
         }
     ]

@@ -1,87 +1,83 @@
 {
     "word_freq": [
         {
-            "text": "Good",
+            "text": "GOOD",
             "value": 1
         },
         {
-            "text": "morning",
+            "text": "MORNING",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "MELBOURNE",
             "value": 1
         },
         {
-            "text": "Thursday",
+            "text": "THURSDAY",
             "value": 1
         },
         {
-            "text": "Hills",
+            "text": "HILLS",
             "value": 1
         },
         {
-            "text": "2x6x200",
+            "text": "2X6X200",
             "value": 1
         },
         {
-            "text": "jog",
+            "text": "JOG",
             "value": 1
         },
         {
-            "text": "back",
+            "text": "BACK",
             "value": 2
         },
         {
-            "text": "Alternating",
+            "text": "ALTERNATING",
             "value": 1
         },
         {
-            "text": "easy",
+            "text": "EASY",
             "value": 1
         },
         {
-            "text": "hard",
+            "text": "HARD",
             "value": 1
         },
         {
-            "text": "30sec",
+            "text": "30SEC",
             "value": 1
         },
         {
-            "text": "Using",
+            "text": "USING",
             "value": 1
         },
         {
-            "text": "Monday",
+            "text": "MONDAY",
             "value": 1
         },
         {
-            "text": "make",
+            "text": "SUNDAYS",
             "value": 1
         },
         {
-            "text": "Sundays",
+            "text": "COM",
             "value": 1
         },
         {
-            "text": "com",
+            "text": "GARDENS",
             "value": 1
         },
         {
-            "text": "Gardens",
+            "text": "ESSAY",
             "value": 1
         },
         {
-            "text": "essay",
+            "text": "ELLIE",
             "value": 1
         },
         {
-            "text": "Ellie",
-            "value": 1
-        },
-        {
-            "text": "Stathaki",
+            "text": "STATHAKI",
             "value": 1
         },
         {
@@ -89,47 +85,47 @@
             "value": 1
         },
         {
-            "text": "Volunteering",
+            "text": "VOLUNTEERING",
             "value": 1
         },
         {
-            "text": "AgileAus2022",
+            "text": "AGILEAUS2022",
             "value": 1
         },
         {
-            "text": "lowlights",
+            "text": "LOWLIGHTS",
             "value": 1
         },
         {
-            "text": "slow",
+            "text": "SLOW",
             "value": 1
         },
         {
-            "text": "recovery",
+            "text": "RECOVERY",
             "value": 1
         },
         {
-            "text": "gym",
+            "text": "GYM",
             "value": 1
         },
         {
-            "text": "Also",
+            "text": "ALSO",
             "value": 1
         },
         {
-            "text": "appear",
+            "text": "APPEAR",
             "value": 1
         },
         {
-            "text": "pregnant",
+            "text": "PREGNANT",
             "value": 1
         },
         {
-            "text": "Strong",
+            "text": "STRONG",
             "value": 1
         },
         {
-            "text": "Zone",
+            "text": "ZONE",
             "value": 1
         }
     ]

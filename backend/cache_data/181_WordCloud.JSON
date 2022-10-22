@@ -1,107 +1,103 @@
 {
     "word_freq": [
         {
-            "text": "Taking",
+            "text": "TAKING",
             "value": 1
         },
         {
-            "text": "girl",
+            "text": "GIRL",
             "value": 1
         },
         {
-            "text": "birthday",
+            "text": "BIRTHDAY",
             "value": 1
         },
         {
-            "text": "dinner",
+            "text": "DINNER",
             "value": 1
         },
         {
-            "text": "Cafe",
+            "text": "CAFE",
             "value": 1
         },
         {
-            "text": "Rosco",
+            "text": "ROSCO",
             "value": 1
         },
         {
-            "text": "Chevron",
+            "text": "CHEVRON",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "MELBOURNE",
             "value": 1
         },
         {
-            "text": "Vic",
+            "text": "VIC",
             "value": 1
         },
         {
-            "text": "day",
+            "text": "RUNNING",
             "value": 1
         },
         {
-            "text": "running",
+            "text": "RATHER",
             "value": 1
         },
         {
-            "text": "rather",
+            "text": "LARGE",
             "value": 1
         },
         {
-            "text": "large",
+            "text": "IMMUNOFLUORESCENCE",
             "value": 1
         },
         {
-            "text": "immunofluorescence",
+            "text": "STAIN",
             "value": 1
         },
         {
-            "text": "stain",
+            "text": "ENTIRE",
             "value": 1
         },
         {
-            "text": "entire",
+            "text": "STUDY",
             "value": 1
         },
         {
-            "text": "study",
+            "text": "VALIDATE",
             "value": 1
         },
         {
-            "text": "validate",
+            "text": "FINDINGS",
             "value": 1
         },
         {
-            "text": "findings",
+            "text": "EXCITING",
             "value": 1
         },
         {
-            "text": "exciting",
+            "text": "SINGLE",
             "value": 1
         },
         {
-            "text": "single",
+            "text": "CELL",
             "value": 1
         },
         {
-            "text": "cell",
+            "text": "DATA",
             "value": 1
         },
         {
-            "text": "data",
+            "text": "WAIT",
             "value": 1
         },
         {
-            "text": "wait",
-            "value": 1
-        },
-        {
-            "text": "see",
+            "text": "SEE",
             "value": 2
         },
         {
-            "text": "microscope",
+            "text": "MICROSCOPE",
             "value": 1
         }
     ]

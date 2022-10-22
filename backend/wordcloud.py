@@ -4,7 +4,9 @@ import nltk
 # Update stopwords list
 nltk.download('stopwords')
 CACHED_STOPWORDS = nltk.corpus.stopwords.words("english")
-CUSTOM_STOPWORDS = ['i\'m', 'vs', 'he\'s', 'posted', 'another', 'click', 'post', 'us', 'vol', 'one', 'two', 'still', 'need']
+CUSTOM_STOPWORDS = ['i\'m', 'vs', 'he\'s', 'posted', 'another', 'click', 'post', 'us', 'vol', 'one', 'two', 'three', 'four',
+                    'five', 'still', 'need', 'ur', 'we\'re', 'aka', 'st', 'co', 'make', 'made', 'ss', 'get', 'got', 'street',
+                    'come', 'came', 'day', 'days', 'week', 'weeks', 'month', 'months', 'year', 'years', 'let', 'bio']
 
 CACHED_STOPWORDS = CACHED_STOPWORDS + CUSTOM_STOPWORDS
 

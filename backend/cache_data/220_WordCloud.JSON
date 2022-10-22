@@ -1,39 +1,63 @@
 {
     "word_freq": [
         {
-            "text": "Extinction",
+            "text": "SEE",
             "value": 1
         },
         {
-            "text": "Rebellion",
+            "text": "MELBOURNE",
+            "value": 3
+        },
+        {
+            "text": "IMAX",
+            "value": 2
+        },
+        {
+            "text": "CARLTON",
             "value": 1
         },
         {
-            "text": "targeting",
+            "text": "VIC",
             "value": 1
         },
         {
-            "text": "another",
+            "text": "INSIDE",
             "value": 1
         },
         {
-            "text": "worthy",
+            "text": "MUSEUM",
             "value": 1
         },
         {
-            "text": "cause",
+            "text": "EXTINCTION",
+            "value": 2
+        },
+        {
+            "text": "REBELLION",
             "value": 1
         },
         {
-            "text": "today",
+            "text": "TARGETING",
             "value": 1
         },
         {
-            "text": "climate",
+            "text": "WORTHY",
             "value": 1
         },
         {
-            "text": "criminals",
+            "text": "CAUSE",
+            "value": 1
+        },
+        {
+            "text": "TODAY",
+            "value": 1
+        },
+        {
+            "text": "CLIMATE",
+            "value": 2
+        },
+        {
+            "text": "CRIMINALS",
             "value": 1
         },
         {
@@ -42,10 +66,6 @@
         },
         {
             "text": "GAS",
-            "value": 1
-        },
-        {
-            "text": "CLIMATE",
             "value": 1
         },
         {
@@ -61,331 +81,103 @@
             "value": 1
         },
         {
-            "text": "EXTINCTION",
-            "value": 1
-        },
-        {
-            "text": "Premiere",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
+            "text": "PREMIERE",
             "value": 2
         },
         {
-            "text": "IMAX",
+            "text": "WORLD'S",
             "value": 1
         },
         {
-            "text": "world's",
+            "text": "BEST",
             "value": 1
         },
         {
-            "text": "best",
+            "text": "CRICKET",
             "value": 1
         },
         {
-            "text": "cricket",
+            "text": "PHOTOGRAPHER",
             "value": 1
         },
         {
-            "text": "photographer",
+            "text": "KING",
             "value": 1
         },
         {
-            "text": "king",
+            "text": "FACEBOOK",
             "value": 1
         },
         {
-            "text": "Facebook",
+            "text": "SUNDAY",
             "value": 1
         },
         {
-            "text": "premiere",
+            "text": "NIGHT",
             "value": 1
         },
         {
-            "text": "Sunday",
+            "text": "DINNERS",
             "value": 1
         },
         {
-            "text": "night",
+            "text": "ICE",
             "value": 1
         },
         {
-            "text": "dinners",
+            "text": "CREAMS",
             "value": 1
         },
         {
-            "text": "ice",
+            "text": "BAGS",
             "value": 1
         },
         {
-            "text": "creams",
+            "text": "RING",
             "value": 1
         },
         {
-            "text": "Bags",
+            "text": "PULLS",
             "value": 1
         },
         {
-            "text": "made",
+            "text": "DELATA",
             "value": 1
         },
         {
-            "text": "ring",
+            "text": "GENIUS",
             "value": 1
         },
         {
-            "text": "pulls",
+            "text": "PHOTO",
             "value": 1
         },
         {
-            "text": "Delata",
+            "text": "TERRACE",
             "value": 1
         },
         {
-            "text": "Genius",
+            "text": "EXHIBITION",
             "value": 1
         },
         {
-            "text": "posted",
+            "text": "ULTRA",
             "value": 1
         },
         {
-            "text": "photo",
+            "text": "ELEGANT",
             "value": 1
         },
         {
-            "text": "Terrace",
+            "text": "FORMER",
             "value": 1
         },
         {
-            "text": "Exhibition",
+            "text": "WAREHOUSE",
             "value": 1
         },
         {
-            "text": "st",
-            "value": 1
-        },
-        {
-            "text": "Ultra",
-            "value": 1
-        },
-        {
-            "text": "elegant",
-            "value": 1
-        },
-        {
-            "text": "former",
-            "value": 1
-        },
-        {
-            "text": "warehouse",
-            "value": 1
-        },
-        {
-            "text": "Lygon",
-            "value": 2
-        },
-        {
-            "text": "Street",
-            "value": 2
-        },
-        {
-            "text": "Fringe",
-            "value": 1
-        },
-        {
-            "text": "Festival",
-            "value": 1
-        },
-        {
-            "text": "Block",
-            "value": 1
-        },
-        {
-            "text": "Party",
-            "value": 1
-        },
-        {
-            "text": "15th",
-            "value": 1
-        },
-        {
-            "text": "October",
-            "value": 1
-        },
-        {
-            "text": "Argyle",
-            "value": 1
-        },
-        {
-            "text": "Square",
-            "value": 1
-        },
-        {
-            "text": "people",
-            "value": 1
-        },
-        {
-            "text": "fun",
-            "value": 1
-        },
-        {
-            "text": "First",
-            "value": 1
-        },
-        {
-            "text": "face",
-            "value": 2
-        },
-        {
-            "text": "meeting",
-            "value": 1
-        },
-        {
-            "text": "since",
-            "value": 1
-        },
-        {
-            "text": "Feb",
-            "value": 1
-        },
-        {
-            "text": "last",
-            "value": 1
-        },
-        {
-            "text": "chair",
-            "value": 1
-        },
-        {
-            "text": "cool",
-            "value": 1
-        },
-        {
-            "text": "finally",
-            "value": 1
-        },
-        {
-            "text": "council",
-            "value": 1
-        },
-        {
-            "text": "room",
-            "value": 1
-        },
-        {
-            "text": "complete",
-            "value": 1
-        },
-        {
-            "text": "gavel",
-            "value": 1
-        },
-        {
-            "text": "grateful",
-            "value": 1
-        },
-        {
-            "text": "proud",
-            "value": 1
-        },
-        {
-            "text": "mahi",
-            "value": 1
-        },
-        {
-            "text": "work",
-            "value": 1
-        },
-        {
-            "text": "Trainee",
-            "value": 1
-        },
-        {
-            "text": "reps",
-            "value": 1
-        },
-        {
-            "text": "done",
-            "value": 1
-        },
-        {
-            "text": "year",
-            "value": 1
-        },
-        {
-            "text": "excited",
-            "value": 1
-        },
-        {
-            "text": "next",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "exec",
-            "value": 1
-        },
-        {
-            "text": "Oh",
-            "value": 1
-        },
-        {
-            "text": "hi",
-            "value": 1
-        },
-        {
-            "text": "day",
-            "value": 1
-        },
-        {
-            "text": "things",
-            "value": 1
-        },
-        {
-            "text": "orange",
-            "value": 1
-        },
-        {
-            "text": "gold",
-            "value": 1
-        },
-        {
-            "text": "stall",
-            "value": 1
-        },
-        {
-            "text": "J13",
-            "value": 1
-        },
-        {
-            "text": "along",
-            "value": 1
-        },
-        {
-            "text": "wall",
-            "value": 1
-        },
-        {
-            "text": "near",
-            "value": 1
-        },
-        {
-            "text": "Nicholson",
-            "value": 1
-        },
-        {
-            "text": "St",
-            "value": 1
-        },
-        {
-            "text": "entry",
+            "text": "LYGON",
             "value": 1
         }
     ]

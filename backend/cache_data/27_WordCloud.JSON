@@ -1,27 +1,23 @@
 {
     "word_freq": [
         {
-            "text": "Bathroom",
+            "text": "BATHROOM",
             "value": 2
         },
         {
-            "text": "transformation",
+            "text": "TRANSFORMATION",
             "value": 1
         },
         {
-            "text": "Kensington",
+            "text": "KENSINGTON",
             "value": 1
         },
         {
-            "text": "one",
+            "text": "GOLD",
             "value": 1
         },
         {
-            "text": "Gold",
-            "value": 1
-        },
-        {
-            "text": "card",
+            "text": "CARD",
             "value": 1
         },
         {
@@ -29,35 +25,35 @@
             "value": 1
         },
         {
-            "text": "Clients",
+            "text": "CLIENTS",
             "value": 1
         },
         {
-            "text": "level",
+            "text": "LEVEL",
             "value": 1
         },
         {
-            "text": "trip",
+            "text": "TRIP",
             "value": 1
         },
         {
-            "text": "hazards",
+            "text": "HAZARDS",
             "value": 1
         },
         {
-            "text": "team",
+            "text": "TEAM",
             "value": 1
         },
         {
-            "text": "delivered",
+            "text": "DELIVERED",
             "value": 1
         },
         {
-            "text": "full",
+            "text": "FULL",
             "value": 1
         },
         {
-            "text": "satisfaction",
+            "text": "SATISFACTION",
             "value": 1
         }
     ]

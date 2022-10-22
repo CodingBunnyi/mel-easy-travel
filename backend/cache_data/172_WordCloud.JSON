@@ -1,7 +1,19 @@
 {
     "word_freq": [
         {
-            "text": "Thailand",
+            "text": "DINNER",
+            "value": 1
+        },
+        {
+            "text": "BIRYANI",
+            "value": 1
+        },
+        {
+            "text": "RUIN",
+            "value": 1
+        },
+        {
+            "text": "THAILAND",
             "value": 1
         },
         {
@@ -9,55 +21,55 @@
             "value": 1
         },
         {
-            "text": "brand",
+            "text": "BRAND",
             "value": 1
         },
         {
-            "text": "suki",
+            "text": "SUKI",
             "value": 2
         },
         {
-            "text": "sauce",
+            "text": "SAUCE",
             "value": 2
         },
         {
-            "text": "costs",
+            "text": "COSTS",
             "value": 2
         },
         {
-            "text": "small",
+            "text": "SMALL",
             "value": 1
         },
         {
-            "text": "bottle",
+            "text": "BOTTLE",
             "value": 1
         },
         {
-            "text": "Australia",
+            "text": "AUSTRALIA",
             "value": 1
         },
         {
-            "text": "Non",
+            "text": "NON",
             "value": 1
         },
         {
-            "text": "branded",
+            "text": "BRANDED",
             "value": 1
         },
         {
-            "text": "around",
+            "text": "AROUND",
             "value": 1
         },
         {
-            "text": "Talad",
+            "text": "TALAD",
             "value": 1
         },
         {
-            "text": "Thai",
+            "text": "THAI",
             "value": 1
         },
         {
-            "text": "Abbotsford",
+            "text": "ABBOTSFORD",
             "value": 1
         },
         {

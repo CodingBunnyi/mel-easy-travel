@@ -1,91 +1,179 @@
 {
     "word_freq": [
         {
-            "text": "World",
+            "text": "WOW",
             "value": 1
         },
         {
-            "text": "Supercross",
+            "text": "ELYSE",
             "value": 1
         },
         {
-            "text": "Championship",
+            "text": "TIM",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "LARGER",
+            "value": 1
+        },
+        {
+            "text": "LIFE",
+            "value": 1
+        },
+        {
+            "text": "WEDDING",
+            "value": 1
+        },
+        {
+            "text": "RECEPTION",
+            "value": 1
+        },
+        {
+            "text": "PRIVILEGED",
+            "value": 1
+        },
+        {
+            "text": "MC",
+            "value": 1
+        },
+        {
+            "text": "TONIGHT",
+            "value": 2
+        },
+        {
+            "text": "SHOWTIME",
+            "value": 1
+        },
+        {
+            "text": "EVENT",
+            "value": 1
+        },
+        {
+            "text": "GROUP",
+            "value": 1
+        },
+        {
+            "text": "WAKE",
+            "value": 1
+        },
+        {
+            "text": "4AM",
+            "value": 1
+        },
+        {
+            "text": "WATCH",
+            "value": 1
+        },
+        {
+            "text": "LIVE",
+            "value": 1
+        },
+        {
+            "text": "AUSTRALIA",
+            "value": 1
+        },
+        {
+            "text": "THINK",
+            "value": 1
+        },
+        {
+            "text": "SX",
+            "value": 1
+        },
+        {
+            "text": "ADDICTION",
+            "value": 1
+        },
+        {
+            "text": "MARVEL",
+            "value": 1
+        },
+        {
+            "text": "STADIUM",
+            "value": 1
+        },
+        {
+            "text": "WORLD",
+            "value": 1
+        },
+        {
+            "text": "SUPERCROSS",
+            "value": 1
+        },
+        {
+            "text": "CHAMPIONSHIP",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
             "value": 3
         },
         {
-            "text": "Massive",
+            "text": "MASSIVE",
             "value": 1
         },
         {
-            "text": "thanks",
+            "text": "THANKS",
+            "value": 5
+        },
+        {
+            "text": "SEATS",
             "value": 1
         },
         {
-            "text": "seats",
+            "text": "NICE",
             "value": 1
         },
         {
-            "text": "nice",
-            "value": 1
-        },
-        {
-            "text": "work",
+            "text": "WORK",
             "value": 2
         },
         {
-            "text": "guys",
+            "text": "GUYS",
             "value": 2
         },
         {
-            "text": "Table",
+            "text": "TABLE",
             "value": 1
         },
         {
-            "text": "confirmed",
+            "text": "CONFIRMED",
             "value": 1
         },
         {
-            "text": "Zine",
+            "text": "ZINE",
             "value": 1
         },
         {
-            "text": "Fair",
+            "text": "FAIR",
             "value": 1
         },
         {
-            "text": "week",
+            "text": "GO",
             "value": 1
         },
         {
-            "text": "go",
+            "text": "MISSION",
             "value": 1
         },
         {
-            "text": "Mission",
-            "value": 2
-        },
-        {
-            "text": "Seafarers",
-            "value": 2
-        },
-        {
-            "text": "Victoria",
-            "value": 4
-        },
-        {
-            "text": "Ichi",
+            "text": "SEAFARERS",
             "value": 1
         },
         {
-            "text": "mak",
+            "text": "VICTORIA",
+            "value": 3
+        },
+        {
+            "text": "ICHI",
             "value": 1
         },
         {
-            "text": "Docklands",
+            "text": "MAK",
+            "value": 1
+        },
+        {
+            "text": "DOCKLANDS",
             "value": 13
         },
         {
@@ -93,123 +181,111 @@
             "value": 3
         },
         {
-            "text": "boat",
+            "text": "BOAT",
             "value": 1
         },
         {
-            "text": "show",
+            "text": "SHOW",
             "value": 1
         },
         {
-            "text": "Portarlington",
+            "text": "PORTARLINGTON",
             "value": 1
         },
         {
-            "text": "Ferry",
+            "text": "FERRY",
             "value": 1
         },
         {
-            "text": "Thanks",
-            "value": 4
-        },
-        {
-            "text": "portphillipferries",
+            "text": "PORTPHILLIPFERRIES",
             "value": 1
         },
         {
-            "text": "transport",
+            "text": "TRANSPORT",
             "value": 1
         },
         {
-            "text": "today",
+            "text": "TODAY",
             "value": 3
         },
         {
-            "text": "awesome",
+            "text": "AWESOME",
             "value": 1
         },
         {
-            "text": "geelongracingclub",
+            "text": "GEELONGRACINGCLUB",
             "value": 1
         },
         {
-            "text": "Port",
+            "text": "PORT",
             "value": 1
         },
         {
-            "text": "Phillip",
+            "text": "PHILLIP",
             "value": 1
         },
         {
-            "text": "Ferries",
+            "text": "FERRIES",
             "value": 1
         },
         {
-            "text": "Mel",
+            "text": "MEL",
             "value": 1
         },
         {
-            "text": "bin",
+            "text": "BIN",
             "value": 1
         },
         {
-            "text": "Aka",
+            "text": "TRIP",
             "value": 1
         },
         {
-            "text": "trip",
+            "text": "PHOTODUMP",
             "value": 1
         },
         {
-            "text": "photodump",
+            "text": "ROUND",
             "value": 1
         },
         {
-            "text": "Round",
+            "text": "BIT",
             "value": 1
         },
         {
-            "text": "bit",
+            "text": "DECADENCE",
             "value": 1
         },
         {
-            "text": "decadence",
+            "text": "STATUE",
             "value": 1
         },
         {
-            "text": "statue",
+            "text": "COW",
             "value": 1
         },
         {
-            "text": "Cow",
+            "text": "TREE",
             "value": 1
         },
         {
-            "text": "Tree",
+            "text": "LATE",
             "value": 1
         },
         {
-            "text": "Late",
+            "text": "CHECK",
             "value": 1
         },
         {
-            "text": "check",
+            "text": "SNOOZE",
             "value": 1
         },
         {
-            "text": "snooze",
-            "value": 1
+            "text": "GOOD",
+            "value": 3
         },
         {
-            "text": "good",
-            "value": 2
-        },
-        {
-            "text": "tonight",
-            "value": 1
-        },
-        {
-            "text": "Drinking",
+            "text": "DRINKING",
             "value": 9
         },
         {
@@ -221,71 +297,63 @@
             "value": 1
         },
         {
-            "text": "Banks",
+            "text": "BANKS",
             "value": 1
         },
         {
-            "text": "Brewing",
+            "text": "BREWING",
             "value": 3
         },
         {
-            "text": "Travelodge",
+            "text": "TRAVELODGE",
             "value": 9
         },
         {
-            "text": "lot",
+            "text": "LOT",
             "value": 1
         },
         {
-            "text": "sediment",
+            "text": "SEDIMENT",
             "value": 1
         },
         {
-            "text": "one",
+            "text": "TASTES",
             "value": 1
         },
         {
-            "text": "still",
+            "text": "STRAIGHT",
             "value": 1
         },
         {
-            "text": "tastes",
+            "text": "SHOOTER",
             "value": 1
         },
         {
-            "text": "Straight",
+            "text": "FOX",
             "value": 1
         },
         {
-            "text": "Shooter",
+            "text": "FRIDAY",
             "value": 1
         },
         {
-            "text": "Fox",
+            "text": "CRAFT",
             "value": 1
         },
         {
-            "text": "Friday",
-            "value": 1
-        },
-        {
-            "text": "Craft",
-            "value": 1
-        },
-        {
-            "text": "Brewery",
+            "text": "BREWERY",
             "value": 2
         },
         {
-            "text": "Riwaka",
+            "text": "RIWAKA",
             "value": 1
         },
         {
-            "text": "Wai",
+            "text": "WAI",
             "value": 1
         },
         {
-            "text": "iti",
+            "text": "ITI",
             "value": 1
         },
         {
@@ -293,203 +361,195 @@
             "value": 2
         },
         {
-            "text": "Lost",
+            "text": "LOST",
             "value": 1
         },
         {
-            "text": "Palms",
+            "text": "PALMS",
             "value": 1
         },
         {
-            "text": "Co",
+            "text": "HAPPY",
+            "value": 1
+        },
+        {
+            "text": "TUESDAY",
+            "value": 1
+        },
+        {
+            "text": "SITTING",
+            "value": 1
+        },
+        {
+            "text": "HILL",
+            "value": 1
+        },
+        {
+            "text": "DEEDS",
+            "value": 1
+        },
+        {
+            "text": "LUCKY",
+            "value": 1
+        },
+        {
+            "text": "OPPORTUNITY",
+            "value": 1
+        },
+        {
+            "text": "TRAVEL",
+            "value": 1
+        },
+        {
+            "text": "PRESENT",
+            "value": 1
+        },
+        {
+            "text": "RESEARCH",
+            "value": 1
+        },
+        {
+            "text": "COLLEAGUES",
+            "value": 1
+        },
+        {
+            "text": "FACE",
+            "value": 2
+        },
+        {
+            "text": "CUP",
+            "value": 1
+        },
+        {
+            "text": "FULL",
+            "value": 1
+        },
+        {
+            "text": "YO",
+            "value": 1
+        },
+        {
+            "text": "GOOBER",
+            "value": 1
+        },
+        {
+            "text": "LIME",
+            "value": 2
+        },
+        {
+            "text": "SUBTLE",
+            "value": 1
+        },
+        {
+            "text": "HOPING",
+            "value": 1
+        },
+        {
+            "text": "WOULD",
+            "value": 1
+        },
+        {
+            "text": "PROMINENT",
+            "value": 1
+        },
+        {
+            "text": "FREAKY",
+            "value": 1
+        },
+        {
+            "text": "DREAMS",
+            "value": 1
+        },
+        {
+            "text": "MOUNTAIN",
+            "value": 4
+        },
+        {
+            "text": "CULTURE",
+            "value": 4
+        },
+        {
+            "text": "BEER",
             "value": 5
         },
         {
-            "text": "Happy",
+            "text": "MIND",
             "value": 1
         },
         {
-            "text": "Tuesday",
+            "text": "BENDER",
             "value": 1
         },
         {
-            "text": "Sitting",
+            "text": "THIRST",
             "value": 1
         },
         {
-            "text": "Hill",
+            "text": "TRAP",
             "value": 1
         },
         {
-            "text": "Deeds",
+            "text": "DIMENSION",
             "value": 1
         },
         {
-            "text": "lucky",
+            "text": "COCA",
             "value": 1
         },
         {
-            "text": "opportunity",
+            "text": "COLA",
             "value": 1
         },
         {
-            "text": "travel",
+            "text": "WARNING",
             "value": 1
         },
         {
-            "text": "present",
+            "text": "LABELS",
             "value": 1
         },
         {
-            "text": "research",
+            "text": "MEXICO",
             "value": 1
         },
         {
-            "text": "colleagues",
-            "value": 1
-        },
-        {
-            "text": "face",
+            "text": "SHARING",
             "value": 2
         },
         {
-            "text": "Cup",
+            "text": "WONDERFUL",
             "value": 1
         },
         {
-            "text": "full",
+            "text": "RANGE",
             "value": 1
         },
         {
-            "text": "Yo",
-            "value": 1
-        },
-        {
-            "text": "goober",
-            "value": 1
-        },
-        {
-            "text": "lime",
+            "text": "ADVOCACY",
             "value": 2
         },
         {
-            "text": "subtle",
+            "text": "INITIATIVES",
             "value": 1
         },
         {
-            "text": "hoping",
+            "text": "SHARED",
             "value": 1
         },
         {
-            "text": "would",
+            "text": "GHANA",
             "value": 1
         },
         {
-            "text": "prominent",
+            "text": "EXAMPLES",
             "value": 1
         },
         {
-            "text": "Freaky",
+            "text": "TERRIFIC",
             "value": 1
         },
         {
-            "text": "Dreams",
-            "value": 1
-        },
-        {
-            "text": "Mountain",
-            "value": 4
-        },
-        {
-            "text": "Culture",
-            "value": 4
-        },
-        {
-            "text": "Beer",
-            "value": 4
-        },
-        {
-            "text": "Mind",
-            "value": 1
-        },
-        {
-            "text": "Bender",
-            "value": 1
-        },
-        {
-            "text": "Thirst",
-            "value": 1
-        },
-        {
-            "text": "Trap",
-            "value": 1
-        },
-        {
-            "text": "Dimension",
-            "value": 1
-        },
-        {
-            "text": "Coca",
-            "value": 1
-        },
-        {
-            "text": "Cola",
-            "value": 1
-        },
-        {
-            "text": "warning",
-            "value": 1
-        },
-        {
-            "text": "labels",
-            "value": 1
-        },
-        {
-            "text": "Mexico",
-            "value": 1
-        },
-        {
-            "text": "sharing",
-            "value": 2
-        },
-        {
-            "text": "Wonderful",
-            "value": 1
-        },
-        {
-            "text": "range",
-            "value": 1
-        },
-        {
-            "text": "advocacy",
-            "value": 2
-        },
-        {
-            "text": "initiatives",
-            "value": 1
-        },
-        {
-            "text": "shared",
-            "value": 1
-        },
-        {
-            "text": "Ghana",
-            "value": 1
-        },
-        {
-            "text": "examples",
-            "value": 1
-        },
-        {
-            "text": "us",
-            "value": 1
-        },
-        {
-            "text": "Terrific",
-            "value": 1
-        },
-        {
-            "text": "turnout",
+            "text": "TURNOUT",
             "value": 1
         },
         {
@@ -497,131 +557,95 @@
             "value": 1
         },
         {
-            "text": "International",
+            "text": "INTERNATIONAL",
             "value": 2
         },
         {
-            "text": "Congress",
+            "text": "CONGRESS",
             "value": 2
         },
         {
-            "text": "Obesity",
+            "text": "OBESITY",
             "value": 2
         },
         {
-            "text": "Satellite",
+            "text": "SATELLITE",
             "value": 2
         },
         {
-            "text": "Meeting",
+            "text": "MEETING",
+            "value": 2
+        },
+        {
+            "text": "LOVELY",
             "value": 1
         },
         {
-            "text": "lovely",
+            "text": "SEE",
             "value": 1
         },
         {
-            "text": "see",
+            "text": "MANY",
             "value": 1
         },
         {
-            "text": "many",
+            "text": "RESEARCHERS",
             "value": 1
         },
         {
-            "text": "researchers",
+            "text": "ROOM",
             "value": 1
         },
         {
-            "text": "room",
+            "text": "GREAT",
             "value": 1
         },
         {
-            "text": "Great",
+            "text": "BIG",
             "value": 1
         },
         {
-            "text": "meeting",
+            "text": "DISCUSSIONS",
             "value": 1
         },
         {
-            "text": "Big",
+            "text": "NUTRITION",
             "value": 1
         },
         {
-            "text": "discussions",
+            "text": "SUSTAINABILITY",
             "value": 1
         },
         {
-            "text": "nutrition",
+            "text": "JOINING",
             "value": 1
         },
         {
-            "text": "sustainability",
+            "text": "DOTS",
             "value": 1
         },
         {
-            "text": "joining",
+            "text": "WARM",
             "value": 1
         },
         {
-            "text": "dots",
+            "text": "WELCOME",
             "value": 1
         },
         {
-            "text": "warm",
+            "text": "NEVER",
             "value": 1
         },
         {
-            "text": "welcome",
+            "text": "HEARD",
             "value": 1
         },
         {
-            "text": "Never",
+            "text": "ANNIE",
             "value": 1
         },
         {
-            "text": "heard",
-            "value": 1
-        },
-        {
-            "text": "Good",
-            "value": 1
-        },
-        {
-            "text": "beer",
-            "value": 1
-        },
-        {
-            "text": "Annie",
-            "value": 1
-        },
-        {
-            "text": "Cornella",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "Yarra",
-            "value": 1
-        },
-        {
-            "text": "outside",
-            "value": 1
-        },
-        {
-            "text": "Jeff",
-            "value": 1
-        },
-        {
-            "text": "Shed",
+            "text": "CORNELLA",
             "value": 1
         }
     ]
