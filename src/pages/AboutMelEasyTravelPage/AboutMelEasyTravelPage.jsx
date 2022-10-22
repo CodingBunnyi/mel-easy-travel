@@ -27,7 +27,7 @@ const AboutMelEasyTravelPage = () => {
             } }
           >
             <h1 className="about-title">About MelEasyTravel</h1>
-            <p1 className="p1">MelEasyTravel is xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br></br>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br></br>xxxxxxxxxxxxxxxxxxx.</p1>
+            <p1 className="p1">Mel-easy-travel can help users query the latest Twitter comments by clicking on the location on the map, and generate visual graphics based on Twitter and other data to help users travel better. At the same time, users can check the weather in Melbourne on the project.</p1>
             <h2 className="contact-title">Contact us</h2>
 
             <Grid container spacing={ 3 }>
@@ -138,7 +138,7 @@ const AboutMelEasyTravelPage = () => {
                   <Box sx={ { display: 'flex', flexDirection: 'column', overflowY: 'scroll' } } >
                     <CardContent sx={ { flex: '1 0 auto' } }>
                       <Typography component="div" variant="h5">
-                        Shangguan
+                        Peicong Shangguan
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
@@ -146,11 +146,11 @@ const AboutMelEasyTravelPage = () => {
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
-                        Email: yuhqian1@student.unimelb.edu.au
+                        Email: pshangguan@student.unimelb.edu.au
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
-                        Controbution: Mac Miller ksafkjnask jdn kjl ndfk j nsd kjlf nlkjsa ndfjk lnsajk dfnj ksdn fkjn sakjf nkjsd nflkjn sakjd fnjksnk fjnsak jnfksn kfjn sakf ndkj sanf jsnk jdfnkj snfkj skfn
+                        Student ID: 1222843
                       </Typography>
                     </CardContent>
                   </Box>
