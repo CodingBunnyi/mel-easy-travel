@@ -26,8 +26,8 @@ const AboutMelEasyTravelPage = () => {
               flexDirection: 'column',
             } }
           >
-            <h1 className="about-title">About MelEasyTravel</h1>
-            <p1 className="p1">Mel-easy-travel can help users query the latest Twitter comments by clicking on the location on the map, and generate visual graphics based on Twitter and other data to help users travel better. At the same time, users can check the weather in Melbourne on the project.</p1>
+            <h1 className="about-title">About MelEasy</h1>
+            <p1 className="p1">MelEasy can help users query the latest Twitter comments by clicking on the location on the map, and generate visual graphics based on Twitter and other data to help users travel better. At the same time, users can check the weather in Melbourne on the project.</p1>
             <h2 className="contact-title">Contact us</h2>
 
             <Grid container spacing={ 3 }>

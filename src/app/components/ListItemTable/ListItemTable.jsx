@@ -11,7 +11,7 @@ export const mainListItem = [
 ];
 
 export const secondaryListItem = [
-  {name: "About MelEasyTravel", link: "about-mel-easy-travel", icon: <AssignmentIcon />}, 
+  {name: "About MelEasy", link: "about-mel-easy-travel", icon: <AssignmentIcon />}, 
   {name: "Data and Reference", link: "data-source", icon: <AssignmentIcon />}, 
 ]
 
