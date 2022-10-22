@@ -1,13 +1,10 @@
 import * as React from 'react';
-import restaurant from '../../../../../assets/images/restaurant.svg';
+import FiberManualRecordIcon from '@mui/icons-material/FiberManualRecord';
+import { indigo } from '@mui/material/colors';
 
 function Pin() {
   return (
-    <img 
-      height={ 25 }
-      style={ { 'cursor': 'pointer'} }
-      src={ restaurant }
-      />
+    <FiberManualRecordIcon style={ { 'cursor': 'pointer'} } sx={ { color: indigo [300], fontSize: 7 } }/>
   );
 }
 
