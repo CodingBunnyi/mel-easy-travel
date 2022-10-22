@@ -55,7 +55,7 @@ const AboutMelEasyTravelPage = () => {
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
-                        Controbution: Mac Miller ksafkjnask jdn kjl ndfk j nsd kjlf nlkjsa ndfjk lnsajk dfnj ksdn fkjn sakjf nkjsd nflkjn sakjd fnjksnk fjnsak jnfksn kfjn sakf ndkj sanf jsnk jdfnkj snfkj skfn
+                        Student ID: 1244574
                       </Typography>
                     </CardContent>
                   </Box>
@@ -86,7 +86,7 @@ const AboutMelEasyTravelPage = () => {
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
-                        Controbution: Mac Miller ksafkjnask jdn kjl ndfk j nsd kjlf nlkjsa ndfjk lnsajk dfnj ksdn fkjn sakjf nkjsd nflkjn sakjd fnjksnk fjnsak jnfksn kfjn sakf ndkj sanf jsnk jdfnkj snfkj skfn
+                        jn sakjd fnjksnk fjnsak jnfksn kfjn sakf ndkj sanf jsnk jdfnkj snfkj skfn
                       </Typography>
                     </CardContent>
                   </Box>
