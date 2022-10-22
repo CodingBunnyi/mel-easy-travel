@@ -210,7 +210,7 @@ export default function MelCityMap() {
         pitch: 0
       } }
       style = { {width: '100vw' , height: '100vh'} }
-      mapStyle="mapbox://styles/onennine/cl9j10z9j000l14p84mtb9idn"
+      mapStyle="mapbox://styles/mapbox/light-v10"
       mapboxAccessToken = { MAPBOX_TOKEN }
     >
       <FullscreenControl position="top-left" />
