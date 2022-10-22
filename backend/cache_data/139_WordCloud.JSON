@@ -1,19 +1,19 @@
 {
     "word_freq": [
         {
-            "text": "North",
+            "text": "NORTH",
             "value": 3
         },
         {
-            "text": "Melbourne",
+            "text": "MELBOURNE",
             "value": 3
         },
         {
-            "text": "Recreation",
+            "text": "RECREATION",
             "value": 3
         },
         {
-            "text": "Reserve",
+            "text": "RESERVE",
             "value": 3
         },
         {
@@ -21,71 +21,63 @@
             "value": 1
         },
         {
-            "text": "night",
+            "text": "NIGHT",
             "value": 3
         },
         {
-            "text": "ladder",
+            "text": "LADDER",
             "value": 3
         },
         {
-            "text": "teams",
+            "text": "TEAMS",
             "value": 3
         },
         {
-            "text": "make",
+            "text": "SURE",
             "value": 3
         },
         {
-            "text": "sure",
+            "text": "RESULTS",
             "value": 3
         },
         {
-            "text": "results",
+            "text": "EXPECTED",
             "value": 3
         },
         {
-            "text": "expected",
+            "text": "FINALS",
             "value": 3
         },
         {
-            "text": "week",
+            "text": "START",
             "value": 3
         },
         {
-            "text": "finals",
+            "text": "SUMMER",
             "value": 3
         },
         {
-            "text": "start",
+            "text": "STRAIGHT",
             "value": 3
         },
         {
-            "text": "summer",
+            "text": "21ST",
             "value": 3
         },
         {
-            "text": "straight",
+            "text": "NOVEMBER",
             "value": 3
         },
         {
-            "text": "21st",
+            "text": "REGISTRATION",
             "value": 3
         },
         {
-            "text": "November",
+            "text": "ALREADY",
             "value": 3
         },
         {
-            "text": "Registration",
-            "value": 3
-        },
-        {
-            "text": "already",
-            "value": 3
-        },
-        {
-            "text": "open",
+            "text": "OPEN",
             "value": 3
         },
         {
@@ -93,55 +85,15 @@
             "value": 1
         },
         {
-            "text": "Thursday",
+            "text": "THURSDAY",
             "value": 1
         },
         {
-            "text": "Love",
+            "text": "LOVE",
             "value": 1
         },
         {
-            "text": "place",
-            "value": 1
-        },
-        {
-            "text": "truely",
-            "value": 1
-        },
-        {
-            "text": "fabulous",
-            "value": 1
-        },
-        {
-            "text": "occasion",
-            "value": 1
-        },
-        {
-            "text": "Min",
-            "value": 1
-        },
-        {
-            "text": "Anh",
-            "value": 1
-        },
-        {
-            "text": "married",
-            "value": 1
-        },
-        {
-            "text": "Dimitrios",
-            "value": 1
-        },
-        {
-            "text": "Two",
-            "value": 1
-        },
-        {
-            "text": "Ton",
-            "value": 1
-        },
-        {
-            "text": "Max",
+            "text": "PLACE",
             "value": 1
         }
     ]

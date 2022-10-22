@@ -1,19 +1,111 @@
 {
     "word_freq": [
         {
-            "text": "Awesome",
+            "text": "TODAY",
             "value": 1
         },
         {
-            "text": "exec",
+            "text": "COMRADES",
             "value": 1
         },
         {
-            "text": "security",
+            "text": "PARLIAMENT",
+            "value": 1
+        },
+        {
+            "text": "SAY",
+            "value": 1
+        },
+        {
+            "text": "STORIES",
+            "value": 1
+        },
+        {
+            "text": "ABUSE",
+            "value": 1
+        },
+        {
+            "text": "LANDLORDS",
+            "value": 1
+        },
+        {
+            "text": "AGENTS",
             "value": 2
         },
         {
-            "text": "simulation",
+            "text": "GOVERNMENT",
+            "value": 1
+        },
+        {
+            "text": "PARASITES",
+            "value": 1
+        },
+        {
+            "text": "FORTUNE",
+            "value": 1
+        },
+        {
+            "text": "BASIC",
+            "value": 1
+        },
+        {
+            "text": "HUMAN",
+            "value": 1
+        },
+        {
+            "text": "SAFE",
+            "value": 1
+        },
+        {
+            "text": "SHELTER",
+            "value": 1
+        },
+        {
+            "text": "ALONE",
+            "value": 1
+        },
+        {
+            "text": "FRAGILE",
+            "value": 1
+        },
+        {
+            "text": "TOGETHER",
+            "value": 1
+        },
+        {
+            "text": "MOUNTAIN",
+            "value": 1
+        },
+        {
+            "text": "EUROPEAN",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 4
+        },
+        {
+            "text": "VIC",
+            "value": 2
+        },
+        {
+            "text": "KUDO",
+            "value": 1
+        },
+        {
+            "text": "AWESOME",
+            "value": 1
+        },
+        {
+            "text": "EXEC",
+            "value": 1
+        },
+        {
+            "text": "SECURITY",
+            "value": 2
+        },
+        {
+            "text": "SIMULATION",
             "value": 1
         },
         {
@@ -21,359 +113,307 @@
             "value": 1
         },
         {
-            "text": "forum",
+            "text": "FORUM",
             "value": 1
         },
         {
-            "text": "afternoon",
+            "text": "AFTERNOON",
             "value": 1
         },
         {
-            "text": "Exhibition",
+            "text": "EXHIBITION",
             "value": 1
         },
         {
-            "text": "St",
+            "text": "LANES",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "CLOSED",
+            "value": 1
+        },
+        {
+            "text": "SOUTHBOUND",
             "value": 2
         },
         {
-            "text": "lanes",
+            "text": "MIDDLE",
             "value": 1
         },
         {
-            "text": "closed",
+            "text": "LANE",
             "value": 1
         },
         {
-            "text": "southbound",
+            "text": "BLOCKED",
+            "value": 1
+        },
+        {
+            "text": "FLINDERS",
+            "value": 1
+        },
+        {
+            "text": "GOOD",
             "value": 2
         },
         {
-            "text": "Middle",
+            "text": "MORNING",
             "value": 1
         },
         {
-            "text": "lane",
+            "text": "THURSDAY",
             "value": 1
         },
         {
-            "text": "blocked",
+            "text": "HILLS",
             "value": 1
         },
         {
-            "text": "Flinders",
+            "text": "2X6X200",
             "value": 1
         },
         {
-            "text": "Good",
+            "text": "JOG",
             "value": 1
         },
         {
-            "text": "morning",
+            "text": "BACK",
+            "value": 1
+        },
+        {
+            "text": "ALTERNATING",
+            "value": 1
+        },
+        {
+            "text": "EASY",
+            "value": 1
+        },
+        {
+            "text": "HARD",
+            "value": 1
+        },
+        {
+            "text": "30SEC",
+            "value": 1
+        },
+        {
+            "text": "CRYING",
+            "value": 1
+        },
+        {
+            "text": "MIDNIGHTS",
+            "value": 1
+        },
+        {
+            "text": "HEY",
+            "value": 1
+        },
+        {
+            "text": "MOB",
+            "value": 1
+        },
+        {
+            "text": "ORGANISED",
+            "value": 1
+        },
+        {
+            "text": "HYPERPOP",
+            "value": 1
+        },
+        {
+            "text": "NIGHT",
+            "value": 1
+        },
+        {
+            "text": "COMING",
             "value": 2
         },
         {
-            "text": "Thursday",
+            "text": "SATURDAY",
             "value": 1
         },
         {
-            "text": "Hills",
+            "text": "LOOP",
             "value": 1
         },
         {
-            "text": "2x6x200",
+            "text": "BAR",
             "value": 1
         },
         {
-            "text": "jog",
+            "text": "SLAY",
             "value": 1
         },
         {
-            "text": "back",
+            "text": "ALONG",
             "value": 1
         },
         {
-            "text": "Alternating",
+            "text": "GIVE",
             "value": 1
         },
         {
-            "text": "easy",
+            "text": "BIG",
             "value": 1
         },
         {
-            "text": "hard",
+            "text": "KISS",
             "value": 1
         },
         {
-            "text": "30sec",
+            "text": "PROMISE",
             "value": 1
         },
         {
-            "text": "good",
+            "text": "BUSINESS",
             "value": 1
         },
         {
-            "text": "come",
+            "text": "USUAL",
+            "value": 1
+        },
+        {
+            "text": "PROF",
+            "value": 1
+        },
+        {
+            "text": "CLARE",
+            "value": 1
+        },
+        {
+            "text": "SCOTT",
+            "value": 1
+        },
+        {
+            "text": "CHAIR",
+            "value": 1
+        },
+        {
+            "text": "JOINT",
+            "value": 1
+        },
+        {
+            "text": "DIVISION",
+            "value": 1
+        },
+        {
+            "text": "HEAD",
+            "value": 1
+        },
+        {
+            "text": "MEMBER",
+            "value": 1
+        },
+        {
+            "text": "ORDER",
+            "value": 1
+        },
+        {
+            "text": "AUSTRALIA",
+            "value": 1
+        },
+        {
+            "text": "SUPERSTAR",
+            "value": 1
+        },
+        {
+            "text": "CLINICIAN",
+            "value": 1
+        },
+        {
+            "text": "SCIENTIST",
+            "value": 1
+        },
+        {
+            "text": "STARSTRUCK",
+            "value": 1
+        },
+        {
+            "text": "EMOTIONAL",
+            "value": 1
+        },
+        {
+            "text": "MEET",
+            "value": 1
+        },
+        {
+            "text": "LIVING",
+            "value": 1
+        },
+        {
+            "text": "LEGEND",
+            "value": 1
+        },
+        {
+            "text": "PERSON",
             "value": 2
         },
         {
-            "text": "crying",
+            "text": "YESTERDAY",
             "value": 1
         },
         {
-            "text": "midnights",
+            "text": "IMPRESSIVE",
             "value": 1
         },
         {
-            "text": "day",
+            "text": "ALSO",
             "value": 1
         },
         {
-            "text": "hey",
+            "text": "WARM",
             "value": 1
         },
         {
-            "text": "mob",
+            "text": "CARING",
             "value": 1
         },
         {
-            "text": "organised",
+            "text": "SMILES",
             "value": 1
         },
         {
-            "text": "hyperpop",
+            "text": "EYES",
             "value": 1
         },
         {
-            "text": "night",
+            "text": "ANYONE",
             "value": 1
         },
         {
-            "text": "coming",
-            "value": 2
-        },
-        {
-            "text": "saturday",
+            "text": "TELL",
             "value": 1
         },
         {
-            "text": "loop",
+            "text": "HOPE",
             "value": 1
         },
         {
-            "text": "bar",
+            "text": "SEE",
             "value": 1
         },
         {
-            "text": "slay",
+            "text": "HARRY",
             "value": 1
         },
         {
-            "text": "along",
+            "text": "POTTER",
             "value": 1
         },
         {
-            "text": "give",
+            "text": "CURSED",
             "value": 1
         },
         {
-            "text": "big",
+            "text": "CHILD",
             "value": 1
         },
         {
-            "text": "kiss",
+            "text": "EXPECTO",
             "value": 1
         },
         {
-            "text": "promise",
-            "value": 1
-        },
-        {
-            "text": "Business",
-            "value": 1
-        },
-        {
-            "text": "usual",
-            "value": 1
-        },
-        {
-            "text": "Prof",
-            "value": 1
-        },
-        {
-            "text": "Clare",
-            "value": 1
-        },
-        {
-            "text": "Scott",
-            "value": 1
-        },
-        {
-            "text": "Chair",
-            "value": 1
-        },
-        {
-            "text": "Joint",
-            "value": 1
-        },
-        {
-            "text": "Division",
-            "value": 1
-        },
-        {
-            "text": "Head",
-            "value": 1
-        },
-        {
-            "text": "Member",
-            "value": 1
-        },
-        {
-            "text": "Order",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 1
-        },
-        {
-            "text": "Superstar",
-            "value": 1
-        },
-        {
-            "text": "clinician",
-            "value": 1
-        },
-        {
-            "text": "scientist",
-            "value": 1
-        },
-        {
-            "text": "Starstruck",
-            "value": 1
-        },
-        {
-            "text": "emotional",
-            "value": 1
-        },
-        {
-            "text": "meet",
-            "value": 1
-        },
-        {
-            "text": "living",
-            "value": 1
-        },
-        {
-            "text": "legend",
-            "value": 1
-        },
-        {
-            "text": "person",
-            "value": 2
-        },
-        {
-            "text": "yesterday",
-            "value": 1
-        },
-        {
-            "text": "impressive",
-            "value": 1
-        },
-        {
-            "text": "Also",
-            "value": 1
-        },
-        {
-            "text": "warm",
-            "value": 1
-        },
-        {
-            "text": "caring",
-            "value": 1
-        },
-        {
-            "text": "smiles",
-            "value": 1
-        },
-        {
-            "text": "eyes",
-            "value": 1
-        },
-        {
-            "text": "Anyone",
-            "value": 1
-        },
-        {
-            "text": "tell",
-            "value": 1
-        },
-        {
-            "text": "Hope",
-            "value": 1
-        },
-        {
-            "text": "see",
-            "value": 1
-        },
-        {
-            "text": "Harry",
-            "value": 1
-        },
-        {
-            "text": "Potter",
-            "value": 1
-        },
-        {
-            "text": "Cursed",
-            "value": 1
-        },
-        {
-            "text": "Child",
-            "value": 1
-        },
-        {
-            "text": "Expecto",
-            "value": 1
-        },
-        {
-            "text": "Patronum",
-            "value": 1
-        },
-        {
-            "text": "arrived",
-            "value": 1
-        },
-        {
-            "text": "Singapore",
-            "value": 1
-        },
-        {
-            "text": "saw",
-            "value": 1
-        },
-        {
-            "text": "Win",
-            "value": 1
-        },
-        {
-            "text": "spaghetti",
-            "value": 1
-        },
-        {
-            "text": "victory",
-            "value": 1
-        },
-        {
-            "text": "Pellegrinis",
-            "value": 1
-        },
-        {
-            "text": "fight",
+            "text": "PATRONUM",
             "value": 1
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "count": 6,
+    "count": 5,
     "data": [
         {
             "tid": 1583205861706432512,
@@ -85,22 +85,6 @@
             "place_type": "city",
             "longitude": 144.98559,
             "latitude": -37.80823,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581059933684240385,
-            "uid": 14820495,
-            "author": "Chris Rodda",
-            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
-            "time": "2022-10-14 23:10:37 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "#latergram Returned after an age for delicious pizza at #TheCode - and delicious tiramisù… @ The CODE pizza bar https://t.co/a8sTICSrbt",
-            "clean_text": "Returned after an age for delicious pizza at and delicious tiramis The CODE pizza bar",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9854533,
-            "latitude": -37.8067433,
             "photo_urls": []
         }
     ]

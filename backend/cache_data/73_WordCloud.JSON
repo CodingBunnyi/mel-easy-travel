@@ -1,211 +1,135 @@
 {
     "word_freq": [
         {
-            "text": "posted",
-            "value": 6
+            "text": "IRONY",
+            "value": 1
         },
         {
-            "text": "photo",
-            "value": 6
+            "text": "LIMPED",
+            "value": 1
         },
         {
-            "text": "Schmucks",
-            "value": 4
+            "text": "WAY",
+            "value": 1
         },
         {
-            "text": "Bagels",
-            "value": 4
+            "text": "MELBOURNE",
+            "value": 12
         },
         {
-            "text": "Madison",
+            "text": "HOUR",
+            "value": 1
+        },
+        {
+            "text": "ORDEAL",
+            "value": 1
+        },
+        {
+            "text": "SENT",
+            "value": 1
+        },
+        {
+            "text": "SURVEY",
+            "value": 1
+        },
+        {
+            "text": "FFS",
+            "value": 1
+        },
+        {
+            "text": "BUSY",
+            "value": 1
+        },
+        {
+            "text": "DEEPLY",
             "value": 2
         },
         {
-            "text": "Tower",
+            "text": "CONTENT",
+            "value": 1
+        },
+        {
+            "text": "CAFFEINATED",
+            "value": 1
+        },
+        {
+            "text": "FACE",
+            "value": 1
+        },
+        {
+            "text": "COURTESY",
+            "value": 1
+        },
+        {
+            "text": "CAPTAINS",
+            "value": 1
+        },
+        {
+            "text": "INDUSTRY",
+            "value": 1
+        },
+        {
+            "text": "GENTLEMANS",
+            "value": 1
+        },
+        {
+            "text": "OUTFITTER",
+            "value": 1
+        },
+        {
+            "text": "CAFE",
             "value": 2
         },
         {
-            "text": "Upper",
-            "value": 2
-        },
-        {
-            "text": "West",
-            "value": 2
-        },
-        {
-            "text": "Side",
-            "value": 2
-        },
-        {
-            "text": "Melbourne",
-            "value": 15
-        },
-        {
-            "text": "vic",
-            "value": 2
-        },
-        {
-            "text": "Lonsdale",
+            "text": "SPA",
             "value": 1
         },
         {
-            "text": "St",
-            "value": 2
-        },
-        {
-            "text": "lanes",
-            "value": 2
-        },
-        {
-            "text": "closed",
-            "value": 2
-        },
-        {
-            "text": "eastbound",
-            "value": 2
-        },
-        {
-            "text": "Queen",
+            "text": "TIME",
             "value": 1
         },
         {
-            "text": "Nice",
+            "text": "SAKURA",
             "value": 1
         },
         {
-            "text": "back",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "warm",
-            "value": 1
-        },
-        {
-            "text": "welcome",
-            "value": 1
-        },
-        {
-            "text": "Basement",
-            "value": 1
-        },
-        {
-            "text": "Cafe",
-            "value": 1
-        },
-        {
-            "text": "Bar",
-            "value": 3
-        },
-        {
-            "text": "Networking",
-            "value": 1
-        },
-        {
-            "text": "everywhere",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 2
-        },
-        {
-            "text": "Espresso",
-            "value": 1
-        },
-        {
-            "text": "bar",
-            "value": 1
-        },
-        {
-            "text": "best",
-            "value": 2
-        },
-        {
-            "text": "coffe",
-            "value": 1
-        },
-        {
-            "text": "Impresso",
-            "value": 1
-        },
-        {
-            "text": "Coffee",
-            "value": 1
-        },
-        {
-            "text": "Commonwealth",
-            "value": 1
-        },
-        {
-            "text": "Bank",
+            "text": "LOUNGE",
             "value": 1
         },
         {
             "text": "VIC",
-            "value": 6
+            "value": 5
         },
         {
-            "text": "King",
+            "text": "DANY",
             "value": 1
         },
         {
-            "text": "Gooness",
+            "text": "MAIA",
             "value": 1
         },
         {
-            "text": "Tori's",
+            "text": "PARIS",
             "value": 1
         },
         {
-            "text": "Victoria",
-            "value": 3
-        },
-        {
-            "text": "Another",
+            "text": "CAT",
             "value": 1
         },
         {
-            "text": "day",
+            "text": "JAZZ",
             "value": 1
         },
         {
-            "text": "another",
+            "text": "CLUB",
             "value": 1
         },
         {
-            "text": "coffee",
+            "text": "BRICK",
             "value": 1
         },
         {
-            "text": "Last",
-            "value": 1
-        },
-        {
-            "text": "night",
-            "value": 1
-        },
-        {
-            "text": "people",
-            "value": 1
-        },
-        {
-            "text": "Docklands",
-            "value": 1
-        },
-        {
-            "text": "Pizzeria",
-            "value": 1
-        },
-        {
-            "text": "Degustation",
-            "value": 1
-        },
-        {
-            "text": "Whitehart",
+            "text": "LANE",
             "value": 1
         },
         {
@@ -213,43 +137,151 @@
             "value": 1
         },
         {
-            "text": "find",
-            "value": 1
-        },
-        {
-            "text": "interesting",
-            "value": 1
-        },
-        {
-            "text": "Melb",
-            "value": 1
-        },
-        {
-            "text": "Syd",
-            "value": 1
-        },
-        {
-            "text": "days",
-            "value": 1
-        },
-        {
-            "text": "fine",
+            "text": "VICTORIA",
             "value": 2
         },
         {
-            "text": "brunch",
+            "text": "PHOTO",
+            "value": 6
+        },
+        {
+            "text": "SCHMUCKS",
+            "value": 4
+        },
+        {
+            "text": "BAGELS",
+            "value": 4
+        },
+        {
+            "text": "MADISON",
             "value": 1
         },
         {
-            "text": "replacing",
+            "text": "TOWER",
             "value": 1
         },
         {
-            "text": "dining",
+            "text": "UPPER",
             "value": 1
         },
         {
-            "text": "dinner",
+            "text": "WEST",
+            "value": 1
+        },
+        {
+            "text": "SIDE",
+            "value": 1
+        },
+        {
+            "text": "LONSDALE",
+            "value": 1
+        },
+        {
+            "text": "LANES",
+            "value": 2
+        },
+        {
+            "text": "CLOSED",
+            "value": 2
+        },
+        {
+            "text": "EASTBOUND",
+            "value": 2
+        },
+        {
+            "text": "QUEEN",
+            "value": 1
+        },
+        {
+            "text": "NICE",
+            "value": 1
+        },
+        {
+            "text": "BACK",
+            "value": 1
+        },
+        {
+            "text": "THANKS",
+            "value": 1
+        },
+        {
+            "text": "WARM",
+            "value": 1
+        },
+        {
+            "text": "WELCOME",
+            "value": 1
+        },
+        {
+            "text": "BASEMENT",
+            "value": 1
+        },
+        {
+            "text": "BAR",
+            "value": 3
+        },
+        {
+            "text": "NETWORKING",
+            "value": 1
+        },
+        {
+            "text": "EVERYWHERE",
+            "value": 1
+        },
+        {
+            "text": "AUSTRALIA",
+            "value": 2
+        },
+        {
+            "text": "ESPRESSO",
+            "value": 1
+        },
+        {
+            "text": "BEST",
+            "value": 2
+        },
+        {
+            "text": "COFFE",
+            "value": 1
+        },
+        {
+            "text": "IMPRESSO",
+            "value": 1
+        },
+        {
+            "text": "COFFEE",
+            "value": 2
+        },
+        {
+            "text": "COMMONWEALTH",
+            "value": 1
+        },
+        {
+            "text": "BANK",
+            "value": 1
+        },
+        {
+            "text": "KING",
+            "value": 1
+        },
+        {
+            "text": "GOONESS",
+            "value": 1
+        },
+        {
+            "text": "TORI'S",
+            "value": 1
+        },
+        {
+            "text": "LAST",
+            "value": 1
+        },
+        {
+            "text": "NIGHT",
+            "value": 1
+        },
+        {
+            "text": "PEOPLE",
             "value": 1
         }
     ]

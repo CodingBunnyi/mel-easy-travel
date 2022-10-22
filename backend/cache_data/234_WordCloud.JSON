@@ -1,7 +1,7 @@
 {
     "word_freq": [
         {
-            "text": "Citylink",
+            "text": "CITYLINK",
             "value": 1
         },
         {
@@ -9,63 +9,63 @@
             "value": 1
         },
         {
-            "text": "Cremorne",
+            "text": "CREMORNE",
             "value": 1
         },
         {
-            "text": "lanes",
+            "text": "LANES",
             "value": 1
         },
         {
-            "text": "closed",
+            "text": "CLOSED",
             "value": 2
         },
         {
-            "text": "inbound",
+            "text": "INBOUND",
             "value": 2
         },
         {
-            "text": "Left",
+            "text": "LEFT",
             "value": 1
         },
         {
-            "text": "lane",
+            "text": "LANE",
             "value": 1
         },
         {
-            "text": "priot",
+            "text": "PRIOT",
             "value": 1
         },
         {
-            "text": "Punt",
+            "text": "PUNT",
             "value": 1
         },
         {
-            "text": "Road",
+            "text": "ROAD",
             "value": 1
         },
         {
-            "text": "Exploring",
+            "text": "EXPLORING",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "MELBOURNE",
             "value": 1
         },
         {
-            "text": "today",
+            "text": "TODAY",
             "value": 1
         },
         {
-            "text": "soaking",
+            "text": "SOAKING",
             "value": 1
         },
         {
-            "text": "glorious",
+            "text": "GLORIOUS",
             "value": 1
         },
         {
-            "text": "weather",
+            "text": "WEATHER",
             "value": 1
         }
     ]

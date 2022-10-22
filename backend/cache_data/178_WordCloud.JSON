@@ -1,103 +1,263 @@
 {
     "word_freq": [
         {
-            "text": "Jazz",
-            "value": 4
-        },
-        {
-            "text": "cheese",
-            "value": 1
-        },
-        {
-            "text": "platter",
-            "value": 1
-        },
-        {
-            "text": "perfect",
-            "value": 1
-        },
-        {
-            "text": "evening",
-            "value": 1
-        },
-        {
-            "text": "Kelvin",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 11
-        },
-        {
-            "text": "International",
-            "value": 1
-        },
-        {
-            "text": "Festival",
-            "value": 1
-        },
-        {
-            "text": "weekend",
+            "text": "TOLD",
             "value": 2
         },
         {
-            "text": "Alexander",
+            "text": "BACK",
             "value": 1
         },
         {
-            "text": "Hamilton",
+            "text": "LINE",
+            "value": 2
+        },
+        {
+            "text": "BAR",
+            "value": 2
+        },
+        {
+            "text": "CUT",
             "value": 1
         },
         {
-            "text": "Majesty's",
-            "value": 2
+            "text": "SOUVO",
+            "value": 1
         },
         {
-            "text": "Theatre",
-            "value": 2
-        },
-        {
-            "text": "posted",
-            "value": 5
-        },
-        {
-            "text": "photo",
+            "text": "PHOTO",
             "value": 6
         },
         {
-            "text": "Cambodia",
+            "text": "COMEDY",
+            "value": 2
+        },
+        {
+            "text": "THEATRE",
+            "value": 4
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 14
+        },
+        {
+            "text": "ABSOLUTELY",
             "value": 1
         },
         {
-            "text": "Kitchen",
+            "text": "AMAZING",
+            "value": 2
+        },
+        {
+            "text": "STATE",
             "value": 1
         },
         {
-            "text": "Crane",
+            "text": "LIBRARY",
             "value": 1
         },
         {
-            "text": "Restaurant",
+            "text": "VICTORIA",
             "value": 1
         },
         {
             "text": "VIC",
-            "value": 6
+            "value": 7
         },
         {
-            "text": "Awesome",
+            "text": "TODAY",
+            "value": 2
+        },
+        {
+            "text": "COMRADES",
             "value": 1
         },
         {
-            "text": "exec",
+            "text": "PARLIAMENT",
+            "value": 1
+        },
+        {
+            "text": "SAY",
             "value": 2
         },
         {
-            "text": "security",
+            "text": "STORIES",
+            "value": 1
+        },
+        {
+            "text": "ABUSE",
+            "value": 1
+        },
+        {
+            "text": "LANDLORDS",
+            "value": 1
+        },
+        {
+            "text": "AGENTS",
             "value": 2
         },
         {
-            "text": "simulation",
+            "text": "GOVERNMENT",
+            "value": 1
+        },
+        {
+            "text": "PARASITES",
+            "value": 1
+        },
+        {
+            "text": "FORTUNE",
+            "value": 1
+        },
+        {
+            "text": "BASIC",
+            "value": 1
+        },
+        {
+            "text": "HUMAN",
+            "value": 1
+        },
+        {
+            "text": "SAFE",
+            "value": 1
+        },
+        {
+            "text": "SHELTER",
+            "value": 1
+        },
+        {
+            "text": "ALONE",
+            "value": 1
+        },
+        {
+            "text": "FRAGILE",
+            "value": 1
+        },
+        {
+            "text": "TOGETHER",
+            "value": 3
+        },
+        {
+            "text": "MOUNTAIN",
+            "value": 1
+        },
+        {
+            "text": "EUROPEAN",
+            "value": 1
+        },
+        {
+            "text": "KUDO",
+            "value": 1
+        },
+        {
+            "text": "COUPLES",
+            "value": 1
+        },
+        {
+            "text": "MUSICAL",
+            "value": 1
+        },
+        {
+            "text": "STAY",
+            "value": 1
+        },
+        {
+            "text": "AWAY",
+            "value": 1
+        },
+        {
+            "text": "BEST",
+            "value": 2
+        },
+        {
+            "text": "CITY",
+            "value": 1
+        },
+        {
+            "text": "CREATORS",
+            "value": 1
+        },
+        {
+            "text": "FABLE",
+            "value": 1
+        },
+        {
+            "text": "JAZZ",
+            "value": 4
+        },
+        {
+            "text": "CHEESE",
+            "value": 1
+        },
+        {
+            "text": "PLATTER",
+            "value": 1
+        },
+        {
+            "text": "PERFECT",
+            "value": 1
+        },
+        {
+            "text": "EVENING",
+            "value": 1
+        },
+        {
+            "text": "KELVIN",
+            "value": 1
+        },
+        {
+            "text": "INTERNATIONAL",
+            "value": 1
+        },
+        {
+            "text": "FESTIVAL",
+            "value": 1
+        },
+        {
+            "text": "WEEKEND",
+            "value": 2
+        },
+        {
+            "text": "ALEXANDER",
+            "value": 1
+        },
+        {
+            "text": "HAMILTON",
+            "value": 1
+        },
+        {
+            "text": "MAJESTY'S",
+            "value": 2
+        },
+        {
+            "text": "CAMBODIA",
+            "value": 1
+        },
+        {
+            "text": "KITCHEN",
+            "value": 1
+        },
+        {
+            "text": "CRANE",
+            "value": 1
+        },
+        {
+            "text": "RESTAURANT",
+            "value": 1
+        },
+        {
+            "text": "AWESOME",
+            "value": 1
+        },
+        {
+            "text": "EXEC",
+            "value": 1
+        },
+        {
+            "text": "SECURITY",
+            "value": 2
+        },
+        {
+            "text": "SIMULATION",
             "value": 1
         },
         {
@@ -105,163 +265,143 @@
             "value": 1
         },
         {
-            "text": "forum",
+            "text": "FORUM",
             "value": 1
         },
         {
-            "text": "afternoon",
+            "text": "AFTERNOON",
             "value": 1
         },
         {
-            "text": "Looking",
+            "text": "LOOKING",
             "value": 1
         },
         {
-            "text": "forward",
+            "text": "FORWARD",
             "value": 1
         },
         {
-            "text": "sitting",
+            "text": "SITTING",
             "value": 1
         },
         {
-            "text": "jazzboutiqueband",
+            "text": "JAZZBOUTIQUEBAND",
             "value": 1
         },
         {
-            "text": "melbournemarriott",
+            "text": "MELBOURNEMARRIOTT",
             "value": 1
         },
         {
-            "text": "tonight",
+            "text": "TONIGHT",
             "value": 1
         },
         {
-            "text": "Marriott",
+            "text": "MARRIOTT",
             "value": 1
         },
         {
-            "text": "Hotel",
+            "text": "HOTEL",
             "value": 1
         },
         {
-            "text": "drinks1806",
+            "text": "DRINKS1806",
             "value": 1
         },
         {
-            "text": "good",
+            "text": "GOOD",
             "value": 1
         },
         {
-            "text": "come",
+            "text": "CRYING",
+            "value": 1
+        },
+        {
+            "text": "MIDNIGHTS",
+            "value": 1
+        },
+        {
+            "text": "HEY",
+            "value": 1
+        },
+        {
+            "text": "MOB",
+            "value": 1
+        },
+        {
+            "text": "ORGANISED",
+            "value": 1
+        },
+        {
+            "text": "HYPERPOP",
+            "value": 1
+        },
+        {
+            "text": "NIGHT",
+            "value": 1
+        },
+        {
+            "text": "COMING",
             "value": 2
         },
         {
-            "text": "crying",
+            "text": "SATURDAY",
             "value": 1
         },
         {
-            "text": "midnights",
+            "text": "LOOP",
             "value": 1
         },
         {
-            "text": "day",
-            "value": 3
-        },
-        {
-            "text": "hey",
+            "text": "SLAY",
             "value": 1
         },
         {
-            "text": "mob",
+            "text": "ALONG",
             "value": 1
         },
         {
-            "text": "organised",
+            "text": "GIVE",
             "value": 1
         },
         {
-            "text": "hyperpop",
+            "text": "BIG",
             "value": 1
         },
         {
-            "text": "night",
+            "text": "KISS",
+            "value": 1
+        },
+        {
+            "text": "PROMISE",
+            "value": 1
+        },
+        {
+            "text": "EXTINCTION",
             "value": 2
         },
         {
-            "text": "coming",
+            "text": "REBELLION",
+            "value": 1
+        },
+        {
+            "text": "TARGETING",
+            "value": 1
+        },
+        {
+            "text": "WORTHY",
+            "value": 1
+        },
+        {
+            "text": "CAUSE",
+            "value": 1
+        },
+        {
+            "text": "CLIMATE",
             "value": 2
         },
         {
-            "text": "saturday",
-            "value": 1
-        },
-        {
-            "text": "loop",
-            "value": 1
-        },
-        {
-            "text": "bar",
-            "value": 1
-        },
-        {
-            "text": "slay",
-            "value": 1
-        },
-        {
-            "text": "along",
-            "value": 1
-        },
-        {
-            "text": "give",
-            "value": 1
-        },
-        {
-            "text": "big",
-            "value": 1
-        },
-        {
-            "text": "kiss",
-            "value": 1
-        },
-        {
-            "text": "promise",
-            "value": 1
-        },
-        {
-            "text": "Extinction",
-            "value": 1
-        },
-        {
-            "text": "Rebellion",
-            "value": 1
-        },
-        {
-            "text": "targeting",
-            "value": 1
-        },
-        {
-            "text": "another",
-            "value": 1
-        },
-        {
-            "text": "worthy",
-            "value": 1
-        },
-        {
-            "text": "cause",
-            "value": 1
-        },
-        {
-            "text": "today",
-            "value": 1
-        },
-        {
-            "text": "climate",
-            "value": 1
-        },
-        {
-            "text": "criminals",
+            "text": "CRIMINALS",
             "value": 1
         },
         {
@@ -270,10 +410,6 @@
         },
         {
             "text": "GAS",
-            "value": 1
-        },
-        {
-            "text": "CLIMATE",
             "value": 1
         },
         {
@@ -289,119 +425,111 @@
             "value": 1
         },
         {
-            "text": "EXTINCTION",
+            "text": "SHOTS",
             "value": 1
         },
         {
-            "text": "shots",
+            "text": "BAND",
             "value": 1
         },
         {
-            "text": "band",
-            "value": 1
-        },
-        {
-            "text": "last",
+            "text": "LAST",
             "value": 2
         },
         {
-            "text": "week",
+            "text": "MUCH",
+            "value": 1
+        },
+        {
+            "text": "FUN",
+            "value": 1
+        },
+        {
+            "text": "PLAY",
+            "value": 1
+        },
+        {
+            "text": "LIVE",
+            "value": 1
+        },
+        {
+            "text": "INCREDIBLE",
+            "value": 1
+        },
+        {
+            "text": "GROUP",
+            "value": 1
+        },
+        {
+            "text": "MUSOS",
+            "value": 1
+        },
+        {
+            "text": "THANKS",
+            "value": 1
+        },
+        {
+            "text": "JACKMILLIGANN",
+            "value": 1
+        },
+        {
+            "text": "SETTING",
+            "value": 1
+        },
+        {
+            "text": "SCENE",
+            "value": 1
+        },
+        {
+            "text": "TOFF",
+            "value": 1
+        },
+        {
+            "text": "TOWN",
+            "value": 1
+        },
+        {
+            "text": "PROF",
             "value": 2
         },
         {
-            "text": "much",
+            "text": "BANITA",
             "value": 1
         },
         {
-            "text": "fun",
-            "value": 2
-        },
-        {
-            "text": "play",
+            "text": "BISSONDOYAL",
             "value": 1
         },
         {
-            "text": "live",
+            "text": "BHEENICK",
             "value": 1
         },
         {
-            "text": "incredible",
+            "text": "MODERATING",
             "value": 1
         },
         {
-            "text": "group",
+            "text": "TODAY'S",
             "value": 1
         },
         {
-            "text": "musos",
+            "text": "CONVERSATION",
             "value": 1
         },
         {
-            "text": "Thanks",
+            "text": "ROBIN",
             "value": 1
         },
         {
-            "text": "jackmilligann",
+            "text": "HEALY",
             "value": 1
         },
         {
-            "text": "setting",
+            "text": "MORNING'S",
             "value": 1
         },
         {
-            "text": "scene",
-            "value": 1
-        },
-        {
-            "text": "Toff",
-            "value": 1
-        },
-        {
-            "text": "Town",
-            "value": 2
-        },
-        {
-            "text": "Prof",
-            "value": 2
-        },
-        {
-            "text": "Banita",
-            "value": 1
-        },
-        {
-            "text": "Bissondoyal",
-            "value": 1
-        },
-        {
-            "text": "Bheenick",
-            "value": 1
-        },
-        {
-            "text": "moderating",
-            "value": 1
-        },
-        {
-            "text": "today's",
-            "value": 1
-        },
-        {
-            "text": "conversation",
-            "value": 1
-        },
-        {
-            "text": "Robin",
-            "value": 1
-        },
-        {
-            "text": "Healy",
-            "value": 1
-        },
-        {
-            "text": "morning's",
-            "value": 1
-        },
-        {
-            "text": "symposium",
+            "text": "SYMPOSIUM",
             "value": 1
         },
         {
@@ -409,619 +537,127 @@
             "value": 1
         },
         {
-            "text": "AquaS",
+            "text": "AQUAS",
             "value": 1
         },
         {
-            "text": "tripod",
+            "text": "TRIPOD",
             "value": 1
         },
         {
-            "text": "Anyone",
+            "text": "ANYONE",
             "value": 1
         },
         {
-            "text": "tell",
+            "text": "TELL",
             "value": 1
         },
         {
-            "text": "Hope",
+            "text": "HOPE",
             "value": 1
         },
         {
-            "text": "see",
+            "text": "SEE",
             "value": 1
         },
         {
-            "text": "Last",
+            "text": "ARTS",
             "value": 1
         },
         {
-            "text": "Arts",
+            "text": "AWARDS",
             "value": 1
         },
         {
-            "text": "Awards",
+            "text": "CELEBRATION",
             "value": 1
         },
         {
-            "text": "Celebration",
+            "text": "DAISO",
             "value": 1
         },
         {
-            "text": "Daiso",
+            "text": "OKAY",
             "value": 1
         },
         {
-            "text": "okay",
+            "text": "SICK",
             "value": 1
         },
         {
-            "text": "sick",
+            "text": "SCREEN",
             "value": 1
         },
         {
-            "text": "screen",
+            "text": "GRABS",
             "value": 1
         },
         {
-            "text": "grabs",
+            "text": "FOOTAGE",
             "value": 1
         },
         {
-            "text": "footage",
+            "text": "BABIE",
             "value": 1
         },
         {
-            "text": "babie",
-            "value": 1
-        },
-        {
-            "text": "club",
-            "value": 1
-        },
-        {
-            "text": "Harry",
-            "value": 1
-        },
-        {
-            "text": "Potter",
-            "value": 1
-        },
-        {
-            "text": "Cursed",
-            "value": 1
-        },
-        {
-            "text": "Child",
-            "value": 1
-        },
-        {
-            "text": "Expecto",
-            "value": 1
-        },
-        {
-            "text": "Patronum",
-            "value": 1
-        },
-        {
-            "text": "get",
-            "value": 1
-        },
-        {
-            "text": "cocky",
-            "value": 1
-        },
-        {
-            "text": "Can't",
-            "value": 1
-        },
-        {
-            "text": "say",
-            "value": 1
-        },
-        {
-            "text": "Amazing",
-            "value": 1
-        },
-        {
-            "text": "hype",
-            "value": 1
-        },
-        {
-            "text": "enphoz",
-            "value": 1
-        },
-        {
-            "text": "Terrace",
-            "value": 1
-        },
-        {
-            "text": "Exhibition",
-            "value": 1
-        },
-        {
-            "text": "st",
-            "value": 1
-        },
-        {
-            "text": "Bennetts",
-            "value": 1
-        },
-        {
-            "text": "Lane",
-            "value": 1
-        },
-        {
-            "text": "Club",
-            "value": 1
-        },
-        {
-            "text": "Finishing",
-            "value": 1
-        },
-        {
-            "text": "excellent",
+            "text": "CLUB",
             "value": 2
         },
         {
-            "text": "way",
-            "value": 2
-        },
-        {
-            "text": "BANGER",
-            "value": 1
-        },
-        {
-            "text": "NIGHT",
-            "value": 1
-        },
-        {
-            "text": "absolute",
-            "value": 1
-        },
-        {
-            "text": "blast",
-            "value": 1
-        },
-        {
-            "text": "casting",
-            "value": 1
-        },
-        {
-            "text": "amazing",
-            "value": 1
-        },
-        {
-            "text": "grab",
-            "value": 1
-        },
-        {
-            "text": "celebrate",
-            "value": 1
-        },
-        {
-            "text": "awesome",
-            "value": 2
-        },
-        {
-            "text": "community",
-            "value": 1
-        },
-        {
-            "text": "Cheers",
-            "value": 1
-        },
-        {
-            "text": "rock",
-            "value": 1
-        },
-        {
-            "text": "people",
-            "value": 1
-        },
-        {
-            "text": "little",
-            "value": 1
-        },
-        {
-            "text": "post",
-            "value": 1
-        },
-        {
-            "text": "dinner",
-            "value": 2
-        },
-        {
-            "text": "treat",
-            "value": 2
-        },
-        {
-            "text": "TIME",
-            "value": 1
-        },
-        {
-            "text": "BEREAL",
-            "value": 1
-        },
-        {
-            "text": "noods",
-            "value": 1
-        },
-        {
-            "text": "arrived",
-            "value": 1
-        },
-        {
-            "text": "morning",
-            "value": 1
-        },
-        {
-            "text": "Singapore",
-            "value": 1
-        },
-        {
-            "text": "saw",
-            "value": 1
-        },
-        {
-            "text": "Win",
-            "value": 1
-        },
-        {
-            "text": "spaghetti",
-            "value": 1
-        },
-        {
-            "text": "victory",
-            "value": 1
-        },
-        {
-            "text": "Pellegrinis",
-            "value": 1
-        },
-        {
-            "text": "Going",
-            "value": 1
-        },
-        {
-            "text": "hot",
-            "value": 1
-        },
-        {
-            "text": "Kpop",
-            "value": 1
-        },
-        {
-            "text": "kinda",
-            "value": 1
-        },
-        {
-            "text": "birthday",
-            "value": 1
-        },
-        {
-            "text": "event",
-            "value": 1
-        },
-        {
-            "text": "prettiest",
-            "value": 1
-        },
-        {
-            "text": "winged",
-            "value": 1
-        },
-        {
-            "text": "cupsleeve",
-            "value": 1
-        },
-        {
-            "text": "Cool",
-            "value": 1
-        },
-        {
-            "text": "funny",
-            "value": 1
-        },
-        {
-            "text": "freebie",
-            "value": 1
-        },
-        {
-            "text": "lenticular",
-            "value": 1
-        },
-        {
-            "text": "pc",
-            "value": 2
-        },
-        {
-            "text": "Best",
-            "value": 1
-        },
-        {
-            "text": "part",
-            "value": 1
-        },
-        {
-            "text": "picking",
-            "value": 1
-        },
-        {
-            "text": "album",
-            "value": 1
-        },
-        {
-            "text": "getting",
-            "value": 1
-        },
-        {
-            "text": "prepare",
-            "value": 1
-        },
-        {
-            "text": "concert",
-            "value": 1
-        },
-        {
-            "text": "Saturday",
-            "value": 2
-        },
-        {
-            "text": "arvo",
-            "value": 1
-        },
-        {
-            "text": "comedy",
-            "value": 1
-        },
-        {
-            "text": "anne",
-            "value": 1
-        },
-        {
-            "text": "edmonds",
-            "value": 1
-        },
-        {
-            "text": "friends",
-            "value": 1
-        },
-        {
-            "text": "fabulous",
-            "value": 1
-        },
-        {
-            "text": "spend",
-            "value": 1
-        },
-        {
-            "text": "city",
-            "value": 1
-        },
-        {
-            "text": "Comedy",
-            "value": 1
-        },
-        {
-            "text": "Republic",
-            "value": 1
-        },
-        {
-            "text": "Fire",
-            "value": 1
-        },
-        {
-            "text": "spinners",
-            "value": 1
-        },
-        {
-            "text": "bring",
-            "value": 1
-        },
-        {
-            "text": "spark",
-            "value": 1
-        },
-        {
-            "text": "events",
-            "value": 1
-        },
-        {
-            "text": "one",
-            "value": 1
-        },
-        {
-            "text": "moto",
-            "value": 1
-        },
-        {
-            "text": "GP",
-            "value": 2
-        },
-        {
-            "text": "Phillip",
-            "value": 2
-        },
-        {
-            "text": "Island",
-            "value": 2
-        },
-        {
-            "text": "thanks",
-            "value": 1
-        },
-        {
-            "text": "Top",
-            "value": 1
-        },
-        {
-            "text": "Dog",
-            "value": 1
-        },
-        {
-            "text": "race",
-            "value": 1
-        },
-        {
-            "text": "Circuit",
-            "value": 1
-        },
-        {
-            "text": "First",
+            "text": "HARRY",
             "value": 1
         },
         {
-            "text": "face",
-            "value": 2
-        },
-        {
-            "text": "meeting",
-            "value": 1
-        },
-        {
-            "text": "since",
-            "value": 1
-        },
-        {
-            "text": "Feb",
-            "value": 1
-        },
-        {
-            "text": "chair",
-            "value": 1
-        },
-        {
-            "text": "cool",
-            "value": 1
-        },
-        {
-            "text": "finally",
-            "value": 1
-        },
-        {
-            "text": "council",
-            "value": 1
-        },
-        {
-            "text": "room",
-            "value": 1
-        },
-        {
-            "text": "complete",
-            "value": 1
-        },
-        {
-            "text": "gavel",
-            "value": 1
-        },
-        {
-            "text": "grateful",
-            "value": 1
-        },
-        {
-            "text": "proud",
-            "value": 1
-        },
-        {
-            "text": "mahi",
-            "value": 1
-        },
-        {
-            "text": "work",
-            "value": 1
-        },
-        {
-            "text": "Trainee",
-            "value": 1
-        },
-        {
-            "text": "reps",
-            "value": 1
-        },
-        {
-            "text": "done",
-            "value": 1
-        },
-        {
-            "text": "year",
-            "value": 1
-        },
-        {
-            "text": "excited",
-            "value": 1
-        },
-        {
-            "text": "next",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "Tram",
-            "value": 1
-        },
-        {
-            "text": "Stop",
+            "text": "POTTER",
             "value": 1
         },
         {
-            "text": "Circle",
+            "text": "CURSED",
             "value": 1
         },
         {
-            "text": "Thai",
+            "text": "CHILD",
             "value": 1
         },
         {
-            "text": "PappaRich",
+            "text": "EXPECTO",
             "value": 1
         },
         {
-            "text": "Vic",
+            "text": "PATRONUM",
             "value": 1
         },
         {
-            "text": "fight",
+            "text": "COCKY",
             "value": 1
         },
         {
-            "text": "HAMILTON",
+            "text": "CAN'T",
             "value": 1
         },
         {
-            "text": "MUSICAL",
+            "text": "HYPE",
             "value": 1
         },
         {
-            "text": "b'day",
+            "text": "ENPHOZ",
             "value": 1
-        },
-        {
-            "text": "Celebrating",
-            "value": 1
-        },
-        {
-            "text": "great",
-            "value": 2
         },
         {
-            "text": "leadership",
+            "text": "TERRACE",
             "value": 1
         },
         {
-            "text": "Stand",
+            "text": "EXHIBITION",
             "value": 1
         },
         {
-            "text": "contributions",
+            "text": "BENNETTS",
             "value": 1
         },
         {
-            "text": "adventures",
+            "text": "LANE",
             "value": 1
         }
     ]

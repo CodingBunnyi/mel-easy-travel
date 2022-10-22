@@ -1,239 +1,295 @@
 {
     "word_freq": [
         {
-            "text": "Table",
+            "text": "WOW",
             "value": 1
         },
         {
-            "text": "confirmed",
+            "text": "ELYSE",
             "value": 1
         },
         {
-            "text": "Zine",
+            "text": "TIM",
             "value": 1
         },
         {
-            "text": "Fair",
+            "text": "LARGER",
             "value": 1
         },
         {
-            "text": "week",
-            "value": 3
-        },
-        {
-            "text": "go",
+            "text": "LIFE",
             "value": 1
         },
         {
-            "text": "Mission",
+            "text": "WEDDING",
+            "value": 1
+        },
+        {
+            "text": "RECEPTION",
+            "value": 1
+        },
+        {
+            "text": "PRIVILEGED",
             "value": 2
         },
         {
-            "text": "Seafarers",
-            "value": 2
+            "text": "MC",
+            "value": 1
         },
         {
-            "text": "Victoria",
-            "value": 2
-        },
-        {
-            "text": "Great",
-            "value": 3
-        },
-        {
-            "text": "talk",
+            "text": "TONIGHT",
             "value": 4
         },
         {
-            "text": "lab",
+            "text": "SHOWTIME",
             "value": 1
         },
         {
-            "text": "linking",
-            "value": 1
-        },
-        {
-            "text": "diet",
+            "text": "EVENT",
             "value": 2
         },
         {
-            "text": "gut",
+            "text": "GROUP",
             "value": 1
         },
         {
-            "text": "microbiome",
+            "text": "INTRESTING",
             "value": 1
         },
         {
-            "text": "phenotype",
+            "text": "POINTS",
             "value": 1
         },
         {
-            "text": "pre",
+            "text": "LESSONS",
             "value": 1
         },
         {
-            "text": "diabetes",
+            "text": "INFORMAS",
             "value": 2
         },
         {
-            "text": "Day",
+            "text": "IMPLEMENTATION",
+            "value": 1
+        },
+        {
+            "text": "AFRICA",
+            "value": 1
+        },
+        {
+            "text": "TABLE",
+            "value": 1
+        },
+        {
+            "text": "CONFIRMED",
+            "value": 1
+        },
+        {
+            "text": "ZINE",
+            "value": 1
+        },
+        {
+            "text": "FAIR",
+            "value": 1
+        },
+        {
+            "text": "GO",
+            "value": 1
+        },
+        {
+            "text": "MISSION",
+            "value": 1
+        },
+        {
+            "text": "SEAFARERS",
+            "value": 1
+        },
+        {
+            "text": "VICTORIA",
+            "value": 1
+        },
+        {
+            "text": "GREAT",
+            "value": 5
+        },
+        {
+            "text": "TALK",
+            "value": 3
+        },
+        {
+            "text": "LAB",
+            "value": 1
+        },
+        {
+            "text": "LINKING",
+            "value": 1
+        },
+        {
+            "text": "DIET",
+            "value": 2
+        },
+        {
+            "text": "GUT",
+            "value": 1
+        },
+        {
+            "text": "MICROBIOME",
+            "value": 1
+        },
+        {
+            "text": "PHENOTYPE",
+            "value": 1
+        },
+        {
+            "text": "PRE",
+            "value": 1
+        },
+        {
+            "text": "DIABETES",
+            "value": 2
+        },
+        {
+            "text": "INTERNATIONAL",
             "value": 7
         },
         {
-            "text": "International",
-            "value": 6
-        },
-        {
-            "text": "Congress",
-            "value": 6
-        },
-        {
-            "text": "Obesity",
+            "text": "CONGRESS",
             "value": 7
         },
         {
-            "text": "day",
-            "value": 1
+            "text": "OBESITY",
+            "value": 13
         },
         {
-            "text": "present",
+            "text": "PRESENT",
             "value": 3
         },
         {
-            "text": "epidemiology",
+            "text": "EPIDEMIOLOGY",
             "value": 1
         },
         {
-            "text": "weight",
+            "text": "WEIGHT",
             "value": 3
         },
         {
-            "text": "gain",
+            "text": "GAIN",
             "value": 1
         },
         {
-            "text": "people",
+            "text": "PEOPLE",
             "value": 2
         },
         {
-            "text": "serious",
-            "value": 1
-        },
-        {
-            "text": "mental",
+            "text": "SERIOUS",
             "value": 2
         },
         {
-            "text": "illness",
+            "text": "MENTAL",
             "value": 2
         },
         {
-            "text": "using",
-            "value": 1
-        },
-        {
-            "text": "data",
-            "value": 1
-        },
-        {
-            "text": "Thank",
+            "text": "ILLNESS",
             "value": 2
         },
         {
-            "text": "invitation",
+            "text": "USING",
             "value": 1
         },
         {
-            "text": "getting",
+            "text": "DATA",
+            "value": 1
+        },
+        {
+            "text": "THANK",
             "value": 2
         },
         {
-            "text": "stand",
+            "text": "INVITATION",
             "value": 1
         },
         {
-            "text": "shoulders",
-            "value": 1
-        },
-        {
-            "text": "giants",
-            "value": 1
-        },
-        {
-            "text": "mentor",
-            "value": 1
-        },
-        {
-            "text": "ro",
-            "value": 1
-        },
-        {
-            "text": "Dr",
+            "text": "GETTING",
             "value": 2
         },
         {
-            "text": "Shiriki",
+            "text": "STAND",
             "value": 1
         },
         {
-            "text": "Kumanyika",
+            "text": "SHOULDERS",
             "value": 1
         },
         {
-            "text": "received",
+            "text": "GIANTS",
             "value": 1
         },
         {
-            "text": "James",
+            "text": "MENTOR",
             "value": 1
         },
         {
-            "text": "Award",
+            "text": "RO",
             "value": 1
         },
         {
-            "text": "global",
+            "text": "DR",
             "value": 2
         },
         {
-            "text": "force",
+            "text": "SHIRIKI",
             "value": 1
         },
         {
-            "text": "health",
+            "text": "KUMANYIKA",
+            "value": 1
+        },
+        {
+            "text": "RECEIVED",
+            "value": 1
+        },
+        {
+            "text": "JAMES",
+            "value": 1
+        },
+        {
+            "text": "AWARD",
             "value": 2
         },
         {
-            "text": "equity",
+            "text": "GLOBAL",
+            "value": 2
+        },
+        {
+            "text": "FORCE",
             "value": 1
         },
         {
-            "text": "obesity",
-            "value": 6
+            "text": "HEALTH",
+            "value": 2
         },
         {
-            "text": "prevention",
+            "text": "EQUITY",
+            "value": 1
+        },
+        {
+            "text": "PREVENTION",
             "value": 3
         },
         {
-            "text": "privileged",
+            "text": "LEARN",
             "value": 1
         },
         {
-            "text": "learn",
+            "text": "WEST",
             "value": 1
         },
         {
-            "text": "West",
+            "text": "GATE",
             "value": 1
         },
         {
-            "text": "Gate",
-            "value": 1
-        },
-        {
-            "text": "Fwy",
+            "text": "FWY",
             "value": 1
         },
         {
@@ -241,351 +297,319 @@
             "value": 1
         },
         {
-            "text": "Docklands",
+            "text": "DOCKLANDS",
             "value": 11
         },
         {
-            "text": "lanes",
+            "text": "LANES",
             "value": 1
         },
         {
-            "text": "closed",
+            "text": "CLOSED",
             "value": 2
         },
         {
-            "text": "inbound",
+            "text": "INBOUND",
             "value": 2
         },
         {
-            "text": "Left",
+            "text": "LEFT",
             "value": 1
         },
         {
-            "text": "lane",
+            "text": "LANE",
             "value": 1
         },
         {
-            "text": "Montague",
+            "text": "MONTAGUE",
             "value": 1
         },
         {
-            "text": "Street",
+            "text": "COOL",
             "value": 1
         },
         {
-            "text": "Cool",
+            "text": "NEWS",
             "value": 1
         },
         {
-            "text": "news",
+            "text": "ILL",
             "value": 1
         },
         {
-            "text": "Tonight",
+            "text": "COMPETING",
             "value": 1
         },
         {
-            "text": "ill",
+            "text": "ARENA",
             "value": 1
         },
         {
-            "text": "competing",
+            "text": "SERIES",
             "value": 1
         },
         {
-            "text": "Arena",
+            "text": "FAN",
             "value": 1
         },
         {
-            "text": "Series",
+            "text": "CONTEST",
             "value": 1
         },
         {
-            "text": "fan",
+            "text": "WINNER",
             "value": 1
         },
         {
-            "text": "contest",
+            "text": "STREAM",
             "value": 1
         },
         {
-            "text": "winner",
+            "text": "STARTS",
             "value": 1
         },
         {
-            "text": "Stream",
+            "text": "30PM",
             "value": 1
         },
         {
-            "text": "Starts",
+            "text": "CATCH",
+            "value": 2
+        },
+        {
+            "text": "ICHI",
             "value": 1
         },
         {
-            "text": "30pm",
-            "value": 1
-        },
-        {
-            "text": "Catch",
-            "value": 1
-        },
-        {
-            "text": "Ichi",
-            "value": 1
-        },
-        {
-            "text": "mak",
+            "text": "MAK",
             "value": 1
         },
         {
             "text": "VIC",
-            "value": 3
-        },
-        {
-            "text": "Uplifting",
-            "value": 1
-        },
-        {
-            "text": "presentation",
-            "value": 1
-        },
-        {
-            "text": "anti",
-            "value": 1
-        },
-        {
-            "text": "medications",
-            "value": 1
-        },
-        {
-            "text": "available",
-            "value": 1
-        },
-        {
-            "text": "pipeline",
-            "value": 1
-        },
-        {
-            "text": "takeaway",
-            "value": 1
-        },
-        {
-            "text": "still",
             "value": 2
         },
         {
-            "text": "need",
-            "value": 3
-        },
-        {
-            "text": "simultaneously",
+            "text": "UPLIFTING",
             "value": 1
         },
         {
-            "text": "address",
+            "text": "PRESENTATION",
             "value": 1
         },
         {
-            "text": "obesogenic",
+            "text": "ANTI",
             "value": 1
         },
         {
-            "text": "environment",
+            "text": "MEDICATIONS",
+            "value": 1
+        },
+        {
+            "text": "AVAILABLE",
+            "value": 1
+        },
+        {
+            "text": "PIPELINE",
+            "value": 1
+        },
+        {
+            "text": "TAKEAWAY",
+            "value": 1
+        },
+        {
+            "text": "SIMULTANEOUSLY",
+            "value": 1
+        },
+        {
+            "text": "ADDRESS",
+            "value": 1
+        },
+        {
+            "text": "OBESOGENIC",
+            "value": 1
+        },
+        {
+            "text": "ENVIRONMENT",
             "value": 2
         },
         {
-            "text": "stigma",
+            "text": "STIGMA",
             "value": 1
         },
         {
-            "text": "improve",
+            "text": "IMPROVE",
             "value": 2
         },
         {
-            "text": "patient",
+            "text": "PATIENT",
             "value": 1
         },
         {
-            "text": "examples",
+            "text": "EXAMPLES",
             "value": 2
         },
         {
-            "text": "involving",
+            "text": "INVOLVING",
             "value": 1
         },
         {
-            "text": "retailers",
+            "text": "RETAILERS",
             "value": 1
         },
         {
-            "text": "via",
+            "text": "VIA",
             "value": 1
         },
         {
-            "text": "co",
+            "text": "DESIGNED",
+            "value": 1
+        },
+        {
+            "text": "CREATED",
+            "value": 1
+        },
+        {
+            "text": "INITIATIVES",
             "value": 2
         },
         {
-            "text": "designed",
+            "text": "TOOLKITS",
             "value": 1
         },
         {
-            "text": "created",
-            "value": 1
-        },
-        {
-            "text": "initiatives",
+            "text": "HELP",
             "value": 2
         },
         {
-            "text": "toolkits",
+            "text": "STORES",
             "value": 1
         },
         {
-            "text": "help",
+            "text": "HEALTHIER",
             "value": 1
         },
         {
-            "text": "make",
-            "value": 1
-        },
-        {
-            "text": "stores",
-            "value": 1
-        },
-        {
-            "text": "healthier",
-            "value": 1
-        },
-        {
-            "text": "food",
+            "text": "FOOD",
             "value": 2
         },
         {
-            "text": "riverside",
+            "text": "RIVERSIDE",
             "value": 1
         },
         {
-            "text": "social",
+            "text": "SOCIAL",
             "value": 1
         },
         {
-            "text": "jaw",
+            "text": "JAW",
             "value": 1
         },
         {
-            "text": "dropping",
+            "text": "DROPPING",
             "value": 1
         },
         {
-            "text": "industry",
+            "text": "INDUSTRY",
             "value": 1
         },
         {
-            "text": "tactics",
+            "text": "TACTICS",
             "value": 1
         },
         {
-            "text": "Mexico",
+            "text": "MEXICO",
             "value": 4
         },
         {
-            "text": "posted",
-            "value": 10
+            "text": "PHOTO",
+            "value": 8
         },
         {
-            "text": "photo",
-            "value": 10
+            "text": "MELBOURNE",
+            "value": 8
         },
         {
-            "text": "Melbourne",
-            "value": 10
+            "text": "CONVENTION",
+            "value": 5
         },
         {
-            "text": "Convention",
-            "value": 6
+            "text": "EXHIBITION",
+            "value": 5
         },
         {
-            "text": "Exhibition",
-            "value": 6
-        },
-        {
-            "text": "Centre",
-            "value": 6
+            "text": "CENTRE",
+            "value": 5
         },
         {
             "text": "MCEC",
             "value": 5
         },
         {
-            "text": "grassy",
+            "text": "GRASSY",
             "value": 1
         },
         {
-            "text": "knoll",
+            "text": "KNOLL",
             "value": 1
         },
         {
-            "text": "swarming",
+            "text": "SWARMING",
             "value": 1
         },
         {
-            "text": "ie",
+            "text": "IE",
             "value": 1
         },
         {
-            "text": "vermin",
+            "text": "VERMIN",
             "value": 1
         },
         {
-            "text": "Help",
+            "text": "EXCELLENT",
             "value": 1
         },
         {
-            "text": "Excellent",
+            "text": "ULTRA",
             "value": 1
         },
         {
-            "text": "Ultra",
+            "text": "PROCESSED",
             "value": 1
         },
         {
-            "text": "processed",
-            "value": 1
-        },
-        {
-            "text": "foods",
+            "text": "FOODS",
             "value": 2
         },
         {
-            "text": "making",
+            "text": "MAKING",
             "value": 2
         },
         {
-            "text": "Australians",
+            "text": "AUSTRALIANS",
             "value": 1
         },
         {
-            "text": "shopping",
+            "text": "SHOPPING",
             "value": 1
         },
         {
-            "text": "baskets",
+            "text": "BASKETS",
             "value": 1
         },
         {
-            "text": "consistently",
+            "text": "CONSISTENTLY",
             "value": 1
         },
         {
-            "text": "higher",
+            "text": "HIGHER",
             "value": 1
         },
         {
-            "text": "living",
+            "text": "LIVING",
             "value": 1
         },
         {
-            "text": "low",
+            "text": "LOW",
             "value": 1
         },
         {
@@ -593,147 +617,143 @@
             "value": 1
         },
         {
-            "text": "areas",
+            "text": "AREAS",
             "value": 1
         },
         {
-            "text": "Key",
+            "text": "KEY",
             "value": 1
         },
         {
-            "text": "findings",
+            "text": "FINDINGS",
             "value": 1
         },
         {
-            "text": "upcoming",
+            "text": "UPCOMING",
             "value": 1
         },
         {
-            "text": "review",
+            "text": "REVIEW",
             "value": 1
         },
         {
-            "text": "Aus",
+            "text": "AUS",
             "value": 2
         },
         {
-            "text": "guidelines",
+            "text": "GUIDELINES",
             "value": 1
         },
         {
-            "text": "Sharing",
-            "value": 1
+            "text": "SHARING",
+            "value": 4
         },
         {
-            "text": "methods",
+            "text": "METHODS",
             "value": 2
         },
         {
-            "text": "maximise",
+            "text": "MAXIMISE",
             "value": 1
         },
         {
-            "text": "evidence",
+            "text": "EVIDENCE",
             "value": 1
         },
         {
-            "text": "synthesis",
+            "text": "SYNTHESIS",
             "value": 1
         },
         {
-            "text": "learnt",
+            "text": "LEARNT",
             "value": 1
         },
         {
-            "text": "Fascinating",
+            "text": "FASCINATING",
             "value": 1
         },
         {
-            "text": "sugary",
+            "text": "SUGARY",
             "value": 1
         },
         {
-            "text": "drinks",
+            "text": "DRINKS",
             "value": 1
         },
         {
-            "text": "tax",
+            "text": "TAX",
             "value": 1
         },
         {
-            "text": "warning",
+            "text": "WARNING",
             "value": 2
         },
         {
-            "text": "labels",
+            "text": "LABELS",
             "value": 3
         },
         {
-            "text": "successful",
+            "text": "SUCCESSFUL",
             "value": 1
         },
         {
-            "text": "cutting",
+            "text": "CUTTING",
             "value": 1
         },
         {
-            "text": "sugar",
+            "text": "SUGAR",
             "value": 1
         },
         {
-            "text": "levels",
+            "text": "LEVELS",
             "value": 1
         },
         {
-            "text": "lead",
+            "text": "LEAD",
             "value": 1
         },
         {
-            "text": "use",
+            "text": "USE",
             "value": 2
         },
         {
-            "text": "sweeteners",
+            "text": "SWEETENERS",
             "value": 1
         },
         {
-            "text": "led",
+            "text": "LED",
             "value": 1
         },
         {
-            "text": "development",
+            "text": "DEVELOPMENT",
             "value": 1
         },
         {
-            "text": "precautionary",
+            "text": "PRECAUTIONARY",
             "value": 1
         },
         {
-            "text": "look",
+            "text": "LOOK",
             "value": 1
         },
         {
-            "text": "easy",
+            "text": "EASY",
             "value": 1
         },
         {
-            "text": "Come",
-            "value": 2
+            "text": "CHECK",
+            "value": 3
         },
         {
-            "text": "check",
-            "value": 2
-        },
-        {
-            "text": "posters",
+            "text": "POSTERS",
             "value": 1
         },
         {
-            "text": "afternoon",
+            "text": "AFTERNOON",
             "value": 1
         },
         {
-            "text": "running",
+            "text": "RUNNING",
             "value": 1
         },
         {
@@ -745,263 +765,227 @@
             "value": 1
         },
         {
-            "text": "presenting",
+            "text": "PRESENTING",
             "value": 2
         },
         {
-            "text": "work",
+            "text": "WORK",
             "value": 6
         },
         {
-            "text": "prelim",
+            "text": "PRELIM",
             "value": 1
         },
         {
-            "text": "delivery",
+            "text": "DELIVERY",
             "value": 1
         },
         {
-            "text": "feature",
+            "text": "FEATURE",
             "value": 1
         },
         {
-            "text": "results",
+            "text": "RESULTS",
             "value": 2
         },
         {
-            "text": "intervention",
+            "text": "INTERVENTION",
             "value": 1
         },
         {
-            "text": "coding",
+            "text": "CODING",
             "value": 1
         },
         {
-            "text": "project",
+            "text": "PROJECT",
             "value": 1
         },
         {
-            "text": "Protocol",
+            "text": "PROTOCOL",
             "value": 1
         },
         {
             "text": "PAX",
-            "value": 7
+            "value": 6
         },
         {
             "text": "AU",
-            "value": 7
+            "value": 6
         },
         {
-            "text": "receiving",
+            "text": "RECEIVING",
             "value": 1
         },
         {
-            "text": "award",
-            "value": 1
-        },
-        {
-            "text": "young",
+            "text": "YOUNG",
             "value": 2
         },
         {
-            "text": "leader",
+            "text": "LEADER",
             "value": 1
         },
         {
-            "text": "well",
+            "text": "WELL",
             "value": 1
         },
         {
-            "text": "deserved",
+            "text": "DESERVED",
             "value": 1
         },
         {
-            "text": "recognition",
+            "text": "RECOGNITION",
             "value": 1
         },
         {
-            "text": "event",
+            "text": "IMPORTANT",
             "value": 1
         },
         {
-            "text": "important",
+            "text": "DESERVES",
             "value": 1
         },
         {
-            "text": "Serious",
+            "text": "SPECIAL",
             "value": 1
         },
         {
-            "text": "deserves",
+            "text": "ATTENTION",
             "value": 1
         },
         {
-            "text": "special",
+            "text": "INTRA",
             "value": 1
         },
         {
-            "text": "attention",
+            "text": "UTERINE",
             "value": 1
         },
         {
-            "text": "intra",
+            "text": "CONNECTIONS",
             "value": 1
         },
         {
-            "text": "uterine",
+            "text": "THIN",
             "value": 1
         },
         {
-            "text": "connections",
+            "text": "FAT",
             "value": 1
         },
         {
-            "text": "thin",
+            "text": "INDIANS",
             "value": 1
         },
         {
-            "text": "fat",
+            "text": "FEELING",
             "value": 1
         },
         {
-            "text": "indians",
+            "text": "PROUD",
             "value": 1
         },
         {
-            "text": "Feeling",
-            "value": 1
-        },
-        {
-            "text": "proud",
-            "value": 1
-        },
-        {
-            "text": "see",
+            "text": "SEE",
             "value": 4
         },
         {
-            "text": "Yagnik",
+            "text": "YAGNIK",
             "value": 1
         },
         {
-            "text": "sirs",
+            "text": "SIRS",
             "value": 1
         },
         {
-            "text": "chat",
+            "text": "CHAT",
             "value": 1
         },
         {
-            "text": "taxonomy",
+            "text": "TAXONOMY",
             "value": 1
         },
         {
-            "text": "interventions",
+            "text": "INTERVENTIONS",
             "value": 1
         },
         {
-            "text": "afternoons",
+            "text": "AFTERNOONS",
             "value": 1
         },
         {
-            "text": "poster",
+            "text": "POSTER",
             "value": 1
         },
         {
-            "text": "session",
+            "text": "SESSION",
             "value": 1
         },
         {
-            "text": "Full",
-            "value": 1
-        },
-        {
-            "text": "paper",
-            "value": 1
-        },
-        {
-            "text": "Check",
-            "value": 1
-        },
-        {
-            "text": "amazing",
+            "text": "FULL",
             "value": 2
         },
         {
-            "text": "clinical",
+            "text": "PAPER",
             "value": 1
         },
         {
-            "text": "director",
+            "text": "AMAZING",
             "value": 1
         },
         {
-            "text": "Sophie",
+            "text": "CLINICAL",
             "value": 1
         },
         {
-            "text": "international",
+            "text": "DIRECTOR",
             "value": 1
         },
         {
-            "text": "congress",
+            "text": "SOPHIE",
             "value": 1
         },
         {
-            "text": "sharing",
+            "text": "TIER",
+            "value": 1
+        },
+        {
+            "text": "MANAGEMENT",
+            "value": 1
+        },
+        {
+            "text": "SUPPORT",
             "value": 3
         },
         {
-            "text": "great",
+            "text": "PROGRESS",
+            "value": 1
+        },
+        {
+            "text": "LEARNING",
             "value": 2
         },
         {
-            "text": "tier",
+            "text": "DEFEAT",
             "value": 1
         },
         {
-            "text": "management",
+            "text": "SCHOOL",
             "value": 1
         },
         {
-            "text": "support",
+            "text": "LATE",
+            "value": 2
+        },
+        {
+            "text": "SNOOZE",
+            "value": 1
+        },
+        {
+            "text": "GOOD",
             "value": 3
         },
         {
-            "text": "progress",
-            "value": 1
-        },
-        {
-            "text": "Learning",
-            "value": 1
-        },
-        {
-            "text": "defeat",
-            "value": 1
-        },
-        {
-            "text": "school",
-            "value": 1
-        },
-        {
-            "text": "Late",
-            "value": 1
-        },
-        {
-            "text": "snooze",
-            "value": 1
-        },
-        {
-            "text": "good",
-            "value": 2
-        },
-        {
-            "text": "tonight",
-            "value": 2
-        },
-        {
-            "text": "Drinking",
+            "text": "DRINKING",
             "value": 9
         },
         {
@@ -1013,67 +997,63 @@
             "value": 1
         },
         {
-            "text": "Banks",
+            "text": "BANKS",
             "value": 1
         },
         {
-            "text": "Brewing",
+            "text": "BREWING",
             "value": 3
         },
         {
-            "text": "Travelodge",
+            "text": "TRAVELODGE",
             "value": 9
         },
         {
-            "text": "lot",
+            "text": "LOT",
             "value": 1
         },
         {
-            "text": "sediment",
+            "text": "SEDIMENT",
             "value": 1
         },
         {
-            "text": "one",
+            "text": "TASTES",
             "value": 1
         },
         {
-            "text": "tastes",
+            "text": "STRAIGHT",
             "value": 1
         },
         {
-            "text": "Straight",
+            "text": "SHOOTER",
             "value": 1
         },
         {
-            "text": "Shooter",
+            "text": "FOX",
             "value": 1
         },
         {
-            "text": "Fox",
+            "text": "FRIDAY",
             "value": 1
         },
         {
-            "text": "Friday",
+            "text": "CRAFT",
             "value": 1
         },
         {
-            "text": "Craft",
-            "value": 1
-        },
-        {
-            "text": "Brewery",
+            "text": "BREWERY",
             "value": 2
         },
         {
-            "text": "Riwaka",
+            "text": "RIWAKA",
             "value": 1
         },
         {
-            "text": "Wai",
+            "text": "WAI",
             "value": 1
         },
         {
-            "text": "iti",
+            "text": "ITI",
             "value": 1
         },
         {
@@ -1081,295 +1061,267 @@
             "value": 2
         },
         {
-            "text": "Lost",
+            "text": "LOST",
             "value": 1
         },
         {
-            "text": "Palms",
+            "text": "PALMS",
             "value": 1
         },
         {
-            "text": "Co",
-            "value": 5
-        },
-        {
-            "text": "Welcoming",
+            "text": "WELCOMING",
             "value": 1
         },
         {
-            "text": "Ceremony",
+            "text": "CEREMONY",
             "value": 1
         },
         {
-            "text": "president",
+            "text": "PRESIDENT",
             "value": 1
         },
         {
-            "text": "Prof",
+            "text": "PROF",
             "value": 2
         },
         {
-            "text": "Baur",
+            "text": "BAUR",
             "value": 1
         },
         {
-            "text": "Happy",
+            "text": "HAPPY",
             "value": 1
         },
         {
-            "text": "Tuesday",
+            "text": "TUESDAY",
             "value": 1
         },
         {
-            "text": "Sitting",
+            "text": "SITTING",
             "value": 1
         },
         {
-            "text": "Hill",
+            "text": "HILL",
             "value": 1
         },
         {
-            "text": "Deeds",
+            "text": "DEEDS",
             "value": 1
         },
         {
-            "text": "lucky",
+            "text": "LUCKY",
             "value": 1
         },
         {
-            "text": "opportunity",
-            "value": 1
-        },
-        {
-            "text": "travel",
-            "value": 1
-        },
-        {
-            "text": "research",
-            "value": 1
-        },
-        {
-            "text": "colleagues",
+            "text": "OPPORTUNITY",
             "value": 2
         },
         {
-            "text": "face",
+            "text": "TRAVEL",
+            "value": 1
+        },
+        {
+            "text": "RESEARCH",
+            "value": 1
+        },
+        {
+            "text": "COLLEAGUES",
             "value": 2
         },
         {
-            "text": "Cup",
-            "value": 1
-        },
-        {
-            "text": "full",
-            "value": 1
-        },
-        {
-            "text": "beautiful",
-            "value": 1
-        },
-        {
-            "text": "welcome",
+            "text": "FACE",
             "value": 2
         },
         {
-            "text": "layers",
+            "text": "CUP",
             "value": 1
         },
         {
-            "text": "Naarm",
+            "text": "BEAUTIFUL",
             "value": 1
         },
         {
-            "text": "country",
+            "text": "WELCOME",
+            "value": 2
+        },
+        {
+            "text": "LAYERS",
+            "value": 1
+        },
+        {
+            "text": "NAARM",
+            "value": 1
+        },
+        {
+            "text": "COUNTRY",
             "value": 6
         },
         {
-            "text": "water",
+            "text": "WATER",
             "value": 1
         },
         {
-            "text": "wind",
+            "text": "WIND",
             "value": 1
         },
         {
-            "text": "star",
+            "text": "STAR",
             "value": 1
         },
         {
-            "text": "pay",
+            "text": "PAY",
             "value": 1
         },
         {
-            "text": "respect",
+            "text": "RESPECT",
             "value": 1
         },
         {
-            "text": "Wurundjeri",
+            "text": "WURUNDJERI",
             "value": 1
         },
         {
-            "text": "Woi",
+            "text": "WOI",
             "value": 1
         },
         {
-            "text": "Wurrung",
+            "text": "WURRUNG",
             "value": 2
         },
         {
-            "text": "Bunurong",
+            "text": "BUNURONG",
             "value": 1
         },
         {
-            "text": "Boon",
+            "text": "BOON",
             "value": 1
         },
         {
-            "text": "peoples",
+            "text": "PEOPLES",
             "value": 1
         },
         {
-            "text": "elders",
+            "text": "ELDERS",
             "value": 1
         },
         {
-            "text": "past",
+            "text": "PAST",
             "value": 1
         },
         {
-            "text": "emerging",
+            "text": "EMERGING",
             "value": 1
         },
         {
-            "text": "Opportunity",
+            "text": "SCIENTIST",
             "value": 1
         },
         {
-            "text": "Scientist",
+            "text": "AROUND",
             "value": 1
         },
         {
-            "text": "Around",
+            "text": "GLOBE",
             "value": 1
         },
         {
-            "text": "Globe",
+            "text": "START",
             "value": 1
         },
         {
-            "text": "start",
+            "text": "BOYD",
             "value": 1
         },
         {
-            "text": "Boyd",
+            "text": "SWINBURNS",
             "value": 1
         },
         {
-            "text": "Swinburns",
+            "text": "UNDERWAY",
             "value": 1
         },
         {
-            "text": "underway",
+            "text": "EXCITING",
             "value": 1
         },
         {
-            "text": "exciting",
+            "text": "CLOSELY",
             "value": 1
         },
         {
-            "text": "catch",
+            "text": "RARELY",
             "value": 1
         },
         {
-            "text": "closely",
+            "text": "PERSON",
             "value": 1
         },
         {
-            "text": "rarely",
+            "text": "HERE'S",
             "value": 1
         },
         {
-            "text": "get",
+            "text": "NETWORKING",
             "value": 1
         },
         {
-            "text": "person",
+            "text": "KICKING",
             "value": 1
         },
         {
-            "text": "Here's",
+            "text": "STRONG",
             "value": 1
         },
         {
-            "text": "learning",
+            "text": "DISCUSSING",
             "value": 1
         },
         {
-            "text": "networking",
+            "text": "SYNDEMIC",
             "value": 1
         },
         {
-            "text": "kicking",
+            "text": "UNDERNUTRITION",
             "value": 1
         },
         {
-            "text": "strong",
+            "text": "CLIMATE",
             "value": 1
         },
         {
-            "text": "discussing",
+            "text": "CHANGE",
             "value": 1
         },
         {
-            "text": "syndemic",
+            "text": "TRIP",
             "value": 1
         },
         {
-            "text": "undernutrition",
+            "text": "FINALLY",
             "value": 1
         },
         {
-            "text": "climate",
+            "text": "SMOL",
             "value": 1
         },
         {
-            "text": "change",
+            "text": "GAME",
             "value": 1
         },
         {
-            "text": "trip",
+            "text": "DEV",
             "value": 1
         },
         {
-            "text": "finally",
+            "text": "FRIEND",
             "value": 1
         },
         {
-            "text": "smol",
+            "text": "CIRCLE",
             "value": 1
         },
         {
-            "text": "game",
-            "value": 1
-        },
-        {
-            "text": "dev",
-            "value": 1
-        },
-        {
-            "text": "friend",
-            "value": 1
-        },
-        {
-            "text": "circle",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "isolation",
+            "text": "ISOLATION",
             "value": 1
         },
         {
@@ -1377,435 +1329,251 @@
             "value": 1
         },
         {
-            "text": "Yo",
+            "text": "YO",
             "value": 1
         },
         {
-            "text": "goober",
+            "text": "GOOBER",
             "value": 1
         },
         {
-            "text": "lime",
+            "text": "LIME",
             "value": 2
         },
         {
-            "text": "subtle",
+            "text": "SUBTLE",
             "value": 1
         },
         {
-            "text": "hoping",
+            "text": "HOPING",
             "value": 1
         },
         {
-            "text": "would",
+            "text": "WOULD",
             "value": 1
         },
         {
-            "text": "prominent",
+            "text": "PROMINENT",
             "value": 1
         },
         {
-            "text": "Freaky",
+            "text": "FREAKY",
             "value": 1
         },
         {
-            "text": "Dreams",
+            "text": "DREAMS",
             "value": 1
         },
         {
-            "text": "Mountain",
+            "text": "MOUNTAIN",
             "value": 4
         },
         {
-            "text": "Culture",
+            "text": "CULTURE",
             "value": 4
         },
         {
-            "text": "Beer",
-            "value": 4
+            "text": "BEER",
+            "value": 5
         },
         {
-            "text": "Mind",
+            "text": "MIND",
             "value": 1
         },
         {
-            "text": "Bender",
+            "text": "BENDER",
             "value": 1
         },
         {
-            "text": "Thirst",
+            "text": "THIRST",
             "value": 1
         },
         {
-            "text": "Trap",
+            "text": "TRAP",
             "value": 1
         },
         {
-            "text": "Dimension",
+            "text": "DIMENSION",
             "value": 1
         },
         {
-            "text": "Coca",
+            "text": "COCA",
             "value": 1
         },
         {
-            "text": "Cola",
+            "text": "COLA",
             "value": 1
         },
         {
-            "text": "Thanks",
+            "text": "THANKS",
             "value": 3
         },
         {
-            "text": "Wonderful",
+            "text": "WONDERFUL",
             "value": 1
         },
         {
-            "text": "range",
+            "text": "RANGE",
             "value": 1
         },
         {
-            "text": "advocacy",
+            "text": "ADVOCACY",
             "value": 2
         },
         {
-            "text": "shared",
+            "text": "SHARED",
             "value": 1
         },
         {
-            "text": "Ghana",
+            "text": "GHANA",
             "value": 1
         },
         {
-            "text": "us",
+            "text": "TERRIFIC",
             "value": 1
         },
         {
-            "text": "Terrific",
+            "text": "TURNOUT",
             "value": 1
         },
         {
-            "text": "turnout",
-            "value": 1
-        },
-        {
-            "text": "today",
+            "text": "TODAY",
             "value": 2
         },
         {
-            "text": "INFORMAS",
-            "value": 1
-        },
-        {
-            "text": "Satellite",
+            "text": "SATELLITE",
             "value": 2
         },
         {
-            "text": "Meeting",
-            "value": 1
-        },
-        {
-            "text": "lovely",
-            "value": 1
-        },
-        {
-            "text": "many",
-            "value": 1
-        },
-        {
-            "text": "researchers",
+            "text": "MEETING",
             "value": 2
         },
         {
-            "text": "room",
+            "text": "LOVELY",
             "value": 1
         },
         {
-            "text": "meeting",
+            "text": "MANY",
             "value": 1
         },
         {
-            "text": "Big",
+            "text": "RESEARCHERS",
             "value": 1
         },
         {
-            "text": "discussions",
+            "text": "ROOM",
             "value": 1
         },
         {
-            "text": "nutrition",
+            "text": "BIG",
             "value": 1
         },
         {
-            "text": "sustainability",
+            "text": "DISCUSSIONS",
             "value": 1
         },
         {
-            "text": "joining",
+            "text": "NUTRITION",
             "value": 1
         },
         {
-            "text": "dots",
+            "text": "SUSTAINABILITY",
             "value": 1
         },
         {
-            "text": "warm",
+            "text": "JOINING",
             "value": 1
         },
         {
-            "text": "normal",
+            "text": "DOTS",
             "value": 1
         },
         {
-            "text": "boring",
+            "text": "WARM",
             "value": 1
         },
         {
-            "text": "Never",
+            "text": "NORMAL",
             "value": 1
         },
         {
-            "text": "heard",
+            "text": "BORING",
             "value": 1
         },
         {
-            "text": "guys",
+            "text": "NEVER",
             "value": 1
         },
         {
-            "text": "Good",
+            "text": "HEARD",
             "value": 1
         },
         {
-            "text": "beer",
+            "text": "GUYS",
             "value": 1
         },
         {
-            "text": "Annie",
+            "text": "ANNIE",
             "value": 1
         },
         {
-            "text": "Cornella",
+            "text": "CORNELLA",
             "value": 1
         },
         {
-            "text": "know",
+            "text": "KNOW",
             "value": 1
         },
         {
-            "text": "late",
+            "text": "WOOO",
             "value": 1
         },
         {
-            "text": "wooo",
-            "value": 1
-        },
-        {
-            "text": "Live",
+            "text": "LIVE",
             "value": 2
         },
         {
-            "text": "Concert",
+            "text": "CONCERT",
             "value": 2
         },
         {
-            "text": "sincerely",
+            "text": "SINCERELY",
             "value": 2
         },
         {
-            "text": "appreciate",
+            "text": "APPRECIATE",
             "value": 2
         },
         {
-            "text": "love",
+            "text": "LOVE",
             "value": 2
         },
         {
-            "text": "Wraith",
+            "text": "WRAITH",
             "value": 1
         },
         {
-            "text": "Quarantine",
+            "text": "QUARANTINE",
             "value": 1
         },
         {
-            "text": "Apex",
+            "text": "APEX",
             "value": 1
         },
         {
-            "text": "Legends",
+            "text": "LEGENDS",
             "value": 1
         },
         {
-            "text": "SnaphappyIan",
+            "text": "SNAPHAPPYIAN",
             "value": 1
         },
         {
-            "text": "ig",
+            "text": "IG",
             "value": 1
         },
         {
-            "text": "Tickets",
-            "value": 1
-        },
-        {
-            "text": "Back",
-            "value": 1
-        },
-        {
-            "text": "home",
-            "value": 1
-        },
-        {
-            "text": "brilliant",
-            "value": 1
-        },
-        {
-            "text": "evening",
-            "value": 1
-        },
-        {
-            "text": "listening",
-            "value": 1
-        },
-        {
-            "text": "blow",
-            "value": 1
-        },
-        {
-            "text": "mind",
-            "value": 1
-        },
-        {
-            "text": "infiniteness",
-            "value": 1
-        },
-        {
-            "text": "universe",
-            "value": 1
-        },
-        {
-            "text": "really",
-            "value": 1
-        },
-        {
-            "text": "overwhelm",
-            "value": 1
-        },
-        {
-            "text": "allow",
-            "value": 1
-        },
-        {
-            "text": "Professor",
-            "value": 3
-        },
-        {
-            "text": "Brian",
-            "value": 3
-        },
-        {
-            "text": "Cox",
-            "value": 3
-        },
-        {
-            "text": "lie",
-            "value": 1
-        },
-        {
-            "text": "Ooohh",
-            "value": 1
-        },
-        {
-            "text": "ATM",
-            "value": 1
-        },
-        {
-            "text": "DFO",
-            "value": 1
-        },
-        {
-            "text": "South",
-            "value": 2
-        },
-        {
-            "text": "Wharf",
-            "value": 2
-        },
-        {
-            "text": "Lecture",
-            "value": 1
-        },
-        {
-            "text": "Time",
-            "value": 1
-        },
-        {
-            "text": "concentrate",
-            "value": 1
-        },
-        {
-            "text": "Horizons",
-            "value": 1
-        },
-        {
-            "text": "21st",
-            "value": 1
-        },
-        {
-            "text": "Century",
-            "value": 1
-        },
-        {
-            "text": "Space",
-            "value": 1
-        },
-        {
-            "text": "Odyssey",
-            "value": 1
-        },
-        {
-            "text": "Yarra",
-            "value": 1
-        },
-        {
-            "text": "outside",
-            "value": 1
-        },
-        {
-            "text": "Jeff",
-            "value": 1
-        },
-        {
-            "text": "Shed",
-            "value": 1
-        },
-        {
-            "text": "Chaired",
-            "value": 1
-        },
-        {
-            "text": "presented",
-            "value": 1
-        },
-        {
-            "text": "group",
-            "value": 1
-        },
-        {
-            "text": "Even",
-            "value": 1
-        },
-        {
-            "text": "managed",
-            "value": 1
-        },
-        {
-            "text": "celebrity",
-            "value": 1
-        },
-        {
-            "text": "crush",
+            "text": "TICKETS",
             "value": 1
         }
     ]

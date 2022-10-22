@@ -1,635 +1,151 @@
 {
     "word_freq": [
         {
-            "text": "Sales",
+            "text": "TOLD",
             "value": 1
         },
         {
-            "text": "job",
-            "value": 9
+            "text": "BACK",
+            "value": 2
         },
         {
-            "text": "might",
+            "text": "LINE",
+            "value": 1
+        },
+        {
+            "text": "BAR",
             "value": 4
         },
         {
-            "text": "great",
-            "value": 3
-        },
-        {
-            "text": "fit",
-            "value": 2
-        },
-        {
-            "text": "Click",
+            "text": "IRONY",
             "value": 1
         },
         {
-            "text": "link",
-            "value": 5
-        },
-        {
-            "text": "bio",
-            "value": 5
-        },
-        {
-            "text": "see",
+            "text": "LIMPED",
             "value": 1
         },
         {
-            "text": "Senior",
-            "value": 5
-        },
-        {
-            "text": "Solution",
+            "text": "WAY",
             "value": 2
         },
         {
-            "text": "Engineer",
-            "value": 4
+            "text": "MELBOURNE",
+            "value": 14
         },
         {
-            "text": "Epicor",
-            "value": 2
-        },
-        {
-            "text": "road",
+            "text": "HOUR",
             "value": 1
         },
         {
-            "text": "trip",
+            "text": "ORDEAL",
             "value": 1
         },
         {
-            "text": "Mastercard",
-            "value": 2
-        },
-        {
-            "text": "strive",
+            "text": "SENT",
             "value": 1
         },
         {
-            "text": "create",
+            "text": "SURVEY",
             "value": 1
         },
         {
-            "text": "culture",
+            "text": "FFS",
             "value": 1
         },
         {
-            "text": "decency",
+            "text": "BUSY",
             "value": 1
         },
         {
-            "text": "belonging",
+            "text": "DEEPLY",
+            "value": 2
+        },
+        {
+            "text": "CONTENT",
             "value": 1
         },
         {
-            "text": "looking",
-            "value": 2
-        },
-        {
-            "text": "company",
-            "value": 2
-        },
-        {
-            "text": "belong",
-            "value": 2
-        },
-        {
-            "text": "check",
+            "text": "CAFFEINATED",
             "value": 1
         },
         {
-            "text": "latest",
-            "value": 4
-        },
-        {
-            "text": "posting",
+            "text": "FACE",
             "value": 1
         },
         {
-            "text": "Managing",
+            "text": "COURTESY",
+            "value": 1
+        },
+        {
+            "text": "CAPTAINS",
+            "value": 1
+        },
+        {
+            "text": "INDUSTRY",
+            "value": 1
+        },
+        {
+            "text": "GENTLEMANS",
+            "value": 1
+        },
+        {
+            "text": "OUTFITTER",
+            "value": 1
+        },
+        {
+            "text": "CAFE",
             "value": 2
         },
         {
-            "text": "Consultant",
-            "value": 4
+            "text": "SPA",
+            "value": 1
         },
         {
-            "text": "Advisors",
-            "value": 2
+            "text": "TIME",
+            "value": 1
         },
         {
-            "text": "Client",
-            "value": 2
+            "text": "SAKURA",
+            "value": 1
         },
         {
-            "text": "Services",
-            "value": 2
+            "text": "LOUNGE",
+            "value": 1
         },
         {
             "text": "VIC",
-            "value": 15
+            "value": 11
         },
         {
-            "text": "posted",
-            "value": 7
-        },
-        {
-            "text": "photo",
-            "value": 7
-        },
-        {
-            "text": "Schmucks",
-            "value": 4
-        },
-        {
-            "text": "Bagels",
-            "value": 4
-        },
-        {
-            "text": "Join",
-            "value": 1
-        },
-        {
-            "text": "Getinge",
-            "value": 2
-        },
-        {
-            "text": "team",
-            "value": 2
-        },
-        {
-            "text": "See",
-            "value": 3
-        },
-        {
-            "text": "opening",
-            "value": 1
-        },
-        {
-            "text": "Madison",
-            "value": 2
-        },
-        {
-            "text": "Tower",
-            "value": 2
-        },
-        {
-            "text": "Upper",
-            "value": 2
-        },
-        {
-            "text": "West",
-            "value": 2
-        },
-        {
-            "text": "Side",
-            "value": 2
-        },
-        {
-            "text": "Melbourne",
-            "value": 20
-        },
-        {
-            "text": "vic",
-            "value": 2
-        },
-        {
-            "text": "Lonsdale",
-            "value": 1
-        },
-        {
-            "text": "St",
-            "value": 2
-        },
-        {
-            "text": "lanes",
-            "value": 2
-        },
-        {
-            "text": "closed",
-            "value": 2
-        },
-        {
-            "text": "eastbound",
-            "value": 2
-        },
-        {
-            "text": "Queen",
-            "value": 1
-        },
-        {
-            "text": "curious",
-            "value": 1
-        },
-        {
-            "text": "love",
-            "value": 1
-        },
-        {
-            "text": "learn",
-            "value": 1
-        },
-        {
-            "text": "want",
-            "value": 1
-        },
-        {
-            "text": "constantly",
-            "value": 1
-        },
-        {
-            "text": "get",
-            "value": 2
-        },
-        {
-            "text": "better",
-            "value": 1
-        },
-        {
-            "text": "SS",
-            "value": 3
-        },
-        {
-            "text": "Technologies",
-            "value": 2
-        },
-        {
-            "text": "perfect",
-            "value": 1
-        },
-        {
-            "text": "career",
-            "value": 1
-        },
-        {
-            "text": "opportunity",
-            "value": 2
-        },
-        {
-            "text": "Nice",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "warm",
-            "value": 1
-        },
-        {
-            "text": "welcome",
-            "value": 1
-        },
-        {
-            "text": "Basement",
-            "value": 1
-        },
-        {
-            "text": "Cafe",
-            "value": 1
-        },
-        {
-            "text": "Bar",
-            "value": 3
-        },
-        {
-            "text": "Networking",
-            "value": 1
-        },
-        {
-            "text": "everywhere",
-            "value": 1
-        },
-        {
-            "text": "teammates",
-            "value": 1
-        },
-        {
-            "text": "like",
-            "value": 4
-        },
-        {
-            "text": "openings",
-            "value": 1
-        },
-        {
-            "text": "including",
-            "value": 1
-        },
-        {
-            "text": "Analyst",
-            "value": 1
-        },
-        {
-            "text": "Account",
-            "value": 1
-        },
-        {
-            "text": "Management",
-            "value": 1
-        },
-        {
-            "text": "via",
-            "value": 2
-        },
-        {
-            "text": "Principal",
-            "value": 1
-        },
-        {
-            "text": "ERP",
-            "value": 2
-        },
-        {
-            "text": "value",
-            "value": 1
-        },
-        {
-            "text": "high",
-            "value": 1
-        },
-        {
-            "text": "energy",
-            "value": 1
-        },
-        {
-            "text": "people",
-            "value": 4
-        },
-        {
-            "text": "entrepreneurial",
-            "value": 1
-        },
-        {
-            "text": "spirit",
-            "value": 1
-        },
-        {
-            "text": "motivated",
-            "value": 1
-        },
-        {
-            "text": "self",
-            "value": 1
-        },
-        {
-            "text": "starters",
-            "value": 1
-        },
-        {
-            "text": "eager",
-            "value": 1
-        },
-        {
-            "text": "make",
-            "value": 1
-        },
-        {
-            "text": "contribution",
-            "value": 1
-        },
-        {
-            "text": "part",
-            "value": 1
-        },
-        {
-            "text": "larger",
-            "value": 1
-        },
-        {
-            "text": "Sound",
-            "value": 1
-        },
-        {
-            "text": "Let",
-            "value": 1
-        },
-        {
-            "text": "talk",
-            "value": 1
-        },
-        {
-            "text": "Gianluca",
-            "value": 1
-        },
-        {
-            "text": "Victorian",
-            "value": 1
-        },
-        {
-            "text": "Australia",
-            "value": 4
-        },
-        {
-            "text": "click",
-            "value": 1
-        },
-        {
-            "text": "apply",
-            "value": 3
-        },
-        {
-            "text": "Espresso",
-            "value": 1
-        },
-        {
-            "text": "bar",
-            "value": 1
-        },
-        {
-            "text": "best",
-            "value": 2
-        },
-        {
-            "text": "coffe",
-            "value": 1
-        },
-        {
-            "text": "Impresso",
-            "value": 1
-        },
-        {
-            "text": "Coffee",
-            "value": 1
-        },
-        {
-            "text": "Commonwealth",
-            "value": 1
-        },
-        {
-            "text": "Bank",
-            "value": 1
-        },
-        {
-            "text": "need",
-            "value": 1
-        },
-        {
-            "text": "build",
-            "value": 1
-        },
-        {
-            "text": "right",
-            "value": 1
-        },
-        {
-            "text": "relationship",
-            "value": 1
-        },
-        {
-            "text": "early",
-            "value": 1
-        },
-        {
-            "text": "possible",
-            "value": 1
-        },
-        {
-            "text": "Learning",
-            "value": 1
-        },
-        {
-            "text": "focus",
-            "value": 1
-        },
-        {
-            "text": "shy",
-            "value": 1
-        },
-        {
-            "text": "Score",
-            "value": 1
-        },
-        {
-            "text": "Product",
-            "value": 1
-        },
-        {
-            "text": "Manager",
-            "value": 1
-        },
-        {
-            "text": "asking",
-            "value": 1
-        },
-        {
-            "text": "referrals",
-            "value": 1
-        },
-        {
-            "text": "way",
-            "value": 1
-        },
-        {
-            "text": "meeting",
-            "value": 1
-        },
-        {
-            "text": "HR",
-            "value": 2
-        },
-        {
-            "text": "Check",
-            "value": 2
-        },
-        {
-            "text": "King",
-            "value": 1
-        },
-        {
-            "text": "recommend",
-            "value": 1
-        },
-        {
-            "text": "anyone",
-            "value": 1
-        },
-        {
-            "text": "Gooness",
-            "value": 1
-        },
-        {
-            "text": "Tori's",
-            "value": 1
-        },
-        {
-            "text": "Victoria",
-            "value": 3
-        },
-        {
-            "text": "Smart",
-            "value": 1
-        },
-        {
-            "text": "Superb",
-            "value": 1
-        },
-        {
-            "text": "technology",
-            "value": 1
-        },
-        {
-            "text": "currently",
-            "value": 1
-        },
-        {
-            "text": "hiring",
-            "value": 1
-        },
-        {
-            "text": "featured",
-            "value": 1
-        },
-        {
-            "text": "Apply",
-            "value": 3
-        },
-        {
-            "text": "today",
-            "value": 1
-        },
-        {
-            "text": "Network",
-            "value": 1
-        },
-        {
-            "text": "Operations",
+            "text": "DANY",
             "value": 1
         },
         {
-            "text": "Last",
+            "text": "MAIA",
             "value": 1
         },
         {
-            "text": "night",
+            "text": "PARIS",
             "value": 1
         },
         {
-            "text": "Emporium",
+            "text": "CAT",
             "value": 1
         },
         {
-            "text": "Docklands",
+            "text": "JAZZ",
             "value": 1
         },
         {
-            "text": "Pizzeria",
+            "text": "CLUB",
             "value": 1
         },
         {
-            "text": "Degustation",
+            "text": "BRICK",
             "value": 1
         },
         {
-            "text": "Whitehart",
+            "text": "LANE",
             "value": 1
         },
         {
@@ -637,99 +153,603 @@
             "value": 1
         },
         {
-            "text": "Thrive",
+            "text": "VICTORIA",
+            "value": 2
+        },
+        {
+            "text": "WANT",
+            "value": 2
+        },
+        {
+            "text": "LAND",
             "value": 1
         },
         {
-            "text": "workplace",
+            "text": "JOB",
+            "value": 11
+        },
+        {
+            "text": "LIKE",
+            "value": 5
+        },
+        {
+            "text": "SENIOR",
+            "value": 5
+        },
+        {
+            "text": "NETWORK",
+            "value": 2
+        },
+        {
+            "text": "OPERATIONS",
+            "value": 2
+        },
+        {
+            "text": "ENGINEER",
+            "value": 4
+        },
+        {
+            "text": "TECHNOLOGIES",
+            "value": 3
+        },
+        {
+            "text": "APPLICANT",
             "value": 1
         },
         {
-            "text": "celebrates",
+            "text": "TRACKING",
             "value": 1
         },
         {
-            "text": "new",
+            "text": "SYSTEMS",
             "value": 1
         },
         {
-            "text": "perspectives",
+            "text": "LOOK",
             "value": 1
         },
         {
-            "text": "allows",
+            "text": "SPECIFIC",
             "value": 1
         },
         {
-            "text": "Unlock",
+            "text": "KEYWORDS",
+            "value": 2
+        },
+        {
+            "text": "USE",
             "value": 1
         },
         {
-            "text": "potential",
+            "text": "RIGHT",
+            "value": 2
+        },
+        {
+            "text": "RESUME",
             "value": 1
         },
         {
-            "text": "submit",
+            "text": "FRONT",
             "value": 1
         },
         {
-            "text": "quit",
+            "text": "HIRING",
+            "value": 2
+        },
+        {
+            "text": "MANAGER",
+            "value": 2
+        },
+        {
+            "text": "NERVOUS",
             "value": 1
         },
         {
-            "text": "jobs",
+            "text": "APPLY",
+            "value": 5
+        },
+        {
+            "text": "CLOUD",
             "value": 1
         },
         {
-            "text": "Field",
+            "text": "RELIABILITY",
             "value": 1
         },
         {
-            "text": "Service",
+            "text": "ANALYST",
+            "value": 2
+        },
+        {
+            "text": "SR",
             "value": 1
         },
         {
-            "text": "Infection",
+            "text": "EPICOR",
+            "value": 3
+        },
+        {
+            "text": "EVEN",
             "value": 1
         },
         {
-            "text": "Control",
+            "text": "MATCH",
             "value": 1
         },
         {
-            "text": "look",
+            "text": "MIGHT",
+            "value": 3
+        },
+        {
+            "text": "UNDERESTIMATING",
             "value": 1
         },
         {
-            "text": "know",
+            "text": "VALUE",
+            "value": 2
+        },
+        {
+            "text": "LINK",
+            "value": 5
+        },
+        {
+            "text": "INFO",
             "value": 1
         },
         {
-            "text": "able",
+            "text": "SALES",
             "value": 1
         },
         {
-            "text": "reach",
+            "text": "GREAT",
+            "value": 3
+        },
+        {
+            "text": "FIT",
+            "value": 2
+        },
+        {
+            "text": "SEE",
+            "value": 4
+        },
+        {
+            "text": "SOLUTION",
+            "value": 2
+        },
+        {
+            "text": "ROAD",
             "value": 1
         },
         {
-            "text": "directly",
+            "text": "TRIP",
             "value": 1
         },
         {
-            "text": "Ready",
+            "text": "MASTERCARD",
+            "value": 2
+        },
+        {
+            "text": "STRIVE",
             "value": 1
         },
         {
-            "text": "Little",
+            "text": "CREATE",
             "value": 1
         },
         {
-            "text": "Bourke",
+            "text": "CULTURE",
             "value": 1
         },
         {
-            "text": "Street",
+            "text": "DECENCY",
+            "value": 1
+        },
+        {
+            "text": "BELONGING",
+            "value": 1
+        },
+        {
+            "text": "LOOKING",
+            "value": 2
+        },
+        {
+            "text": "COMPANY",
+            "value": 1
+        },
+        {
+            "text": "BELONG",
+            "value": 1
+        },
+        {
+            "text": "CHECK",
+            "value": 2
+        },
+        {
+            "text": "LATEST",
+            "value": 4
+        },
+        {
+            "text": "POSTING",
+            "value": 1
+        },
+        {
+            "text": "MANAGING",
+            "value": 1
+        },
+        {
+            "text": "CONSULTANT",
+            "value": 3
+        },
+        {
+            "text": "ADVISORS",
+            "value": 1
+        },
+        {
+            "text": "CLIENT",
+            "value": 1
+        },
+        {
+            "text": "SERVICES",
+            "value": 1
+        },
+        {
+            "text": "PHOTO",
+            "value": 6
+        },
+        {
+            "text": "SCHMUCKS",
+            "value": 4
+        },
+        {
+            "text": "BAGELS",
+            "value": 4
+        },
+        {
+            "text": "JOIN",
+            "value": 1
+        },
+        {
+            "text": "GETINGE",
+            "value": 1
+        },
+        {
+            "text": "TEAM",
+            "value": 2
+        },
+        {
+            "text": "OPENING",
+            "value": 1
+        },
+        {
+            "text": "MADISON",
+            "value": 1
+        },
+        {
+            "text": "TOWER",
+            "value": 1
+        },
+        {
+            "text": "UPPER",
+            "value": 1
+        },
+        {
+            "text": "WEST",
+            "value": 1
+        },
+        {
+            "text": "SIDE",
+            "value": 1
+        },
+        {
+            "text": "LONSDALE",
+            "value": 1
+        },
+        {
+            "text": "LANES",
+            "value": 2
+        },
+        {
+            "text": "CLOSED",
+            "value": 2
+        },
+        {
+            "text": "EASTBOUND",
+            "value": 2
+        },
+        {
+            "text": "QUEEN",
+            "value": 1
+        },
+        {
+            "text": "CURIOUS",
+            "value": 1
+        },
+        {
+            "text": "LOVE",
+            "value": 1
+        },
+        {
+            "text": "LEARN",
+            "value": 1
+        },
+        {
+            "text": "CONSTANTLY",
+            "value": 1
+        },
+        {
+            "text": "BETTER",
+            "value": 1
+        },
+        {
+            "text": "PERFECT",
+            "value": 1
+        },
+        {
+            "text": "CAREER",
+            "value": 1
+        },
+        {
+            "text": "OPPORTUNITY",
+            "value": 2
+        },
+        {
+            "text": "NICE",
+            "value": 1
+        },
+        {
+            "text": "THANKS",
+            "value": 1
+        },
+        {
+            "text": "WARM",
+            "value": 1
+        },
+        {
+            "text": "WELCOME",
+            "value": 1
+        },
+        {
+            "text": "BASEMENT",
+            "value": 1
+        },
+        {
+            "text": "NETWORKING",
+            "value": 1
+        },
+        {
+            "text": "EVERYWHERE",
+            "value": 1
+        },
+        {
+            "text": "TEAMMATES",
+            "value": 1
+        },
+        {
+            "text": "OPENINGS",
+            "value": 1
+        },
+        {
+            "text": "INCLUDING",
+            "value": 1
+        },
+        {
+            "text": "ACCOUNT",
+            "value": 1
+        },
+        {
+            "text": "MANAGEMENT",
+            "value": 1
+        },
+        {
+            "text": "VIA",
+            "value": 2
+        },
+        {
+            "text": "PRINCIPAL",
+            "value": 1
+        },
+        {
+            "text": "ERP",
+            "value": 2
+        },
+        {
+            "text": "HIGH",
+            "value": 1
+        },
+        {
+            "text": "ENERGY",
+            "value": 1
+        },
+        {
+            "text": "PEOPLE",
+            "value": 3
+        },
+        {
+            "text": "ENTREPRENEURIAL",
+            "value": 1
+        },
+        {
+            "text": "SPIRIT",
+            "value": 1
+        },
+        {
+            "text": "MOTIVATED",
+            "value": 1
+        },
+        {
+            "text": "SELF",
+            "value": 1
+        },
+        {
+            "text": "STARTERS",
+            "value": 1
+        },
+        {
+            "text": "EAGER",
+            "value": 1
+        },
+        {
+            "text": "CONTRIBUTION",
+            "value": 1
+        },
+        {
+            "text": "PART",
+            "value": 1
+        },
+        {
+            "text": "LARGER",
+            "value": 1
+        },
+        {
+            "text": "SOUND",
+            "value": 1
+        },
+        {
+            "text": "TALK",
+            "value": 1
+        },
+        {
+            "text": "GIANLUCA",
+            "value": 1
+        },
+        {
+            "text": "VICTORIAN",
+            "value": 1
+        },
+        {
+            "text": "AUSTRALIA",
+            "value": 4
+        },
+        {
+            "text": "ESPRESSO",
+            "value": 1
+        },
+        {
+            "text": "BEST",
+            "value": 2
+        },
+        {
+            "text": "COFFE",
+            "value": 1
+        },
+        {
+            "text": "IMPRESSO",
+            "value": 1
+        },
+        {
+            "text": "COFFEE",
+            "value": 1
+        },
+        {
+            "text": "COMMONWEALTH",
+            "value": 1
+        },
+        {
+            "text": "BANK",
+            "value": 1
+        },
+        {
+            "text": "BUILD",
+            "value": 1
+        },
+        {
+            "text": "RELATIONSHIP",
+            "value": 1
+        },
+        {
+            "text": "EARLY",
+            "value": 1
+        },
+        {
+            "text": "POSSIBLE",
+            "value": 1
+        },
+        {
+            "text": "LEARNING",
+            "value": 1
+        },
+        {
+            "text": "FOCUS",
+            "value": 1
+        },
+        {
+            "text": "SHY",
+            "value": 1
+        },
+        {
+            "text": "SCORE",
+            "value": 1
+        },
+        {
+            "text": "PRODUCT",
+            "value": 1
+        },
+        {
+            "text": "ASKING",
+            "value": 1
+        },
+        {
+            "text": "REFERRALS",
+            "value": 1
+        },
+        {
+            "text": "MEETING",
+            "value": 1
+        },
+        {
+            "text": "HR",
+            "value": 1
+        },
+        {
+            "text": "KING",
+            "value": 1
+        },
+        {
+            "text": "RECOMMEND",
+            "value": 1
+        },
+        {
+            "text": "ANYONE",
+            "value": 1
+        },
+        {
+            "text": "GOONESS",
+            "value": 1
+        },
+        {
+            "text": "TORI'S",
+            "value": 1
+        },
+        {
+            "text": "SMART",
+            "value": 1
+        },
+        {
+            "text": "SUPERB",
+            "value": 1
+        },
+        {
+            "text": "TECHNOLOGY",
+            "value": 1
+        },
+        {
+            "text": "CURRENTLY",
+            "value": 1
+        },
+        {
+            "text": "FEATURED",
+            "value": 1
+        },
+        {
+            "text": "TODAY",
+            "value": 1
+        },
+        {
+            "text": "LAST",
+            "value": 1
+        },
+        {
+            "text": "NIGHT",
             "value": 1
         }
     ]

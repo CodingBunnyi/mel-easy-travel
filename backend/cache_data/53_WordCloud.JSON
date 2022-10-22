@@ -1,39 +1,59 @@
 {
     "word_freq": [
         {
-            "text": "Nar",
+            "text": "HORSEPOWER",
             "value": 1
         },
         {
-            "text": "Bangkok",
+            "text": "DOCK",
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 2
+            "text": "DOT",
+            "value": 1
+        },
+        {
+            "text": "KILDA",
+            "value": 1
+        },
+        {
+            "text": "ROAD",
+            "value": 1
         },
         {
             "text": "VIC",
+            "value": 2
+        },
+        {
+            "text": "NAR",
             "value": 1
         },
         {
-            "text": "Exploring",
+            "text": "BANGKOK",
             "value": 1
         },
         {
-            "text": "today",
+            "text": "MELBOURNE",
+            "value": 2
+        },
+        {
+            "text": "EXPLORING",
             "value": 1
         },
         {
-            "text": "soaking",
+            "text": "TODAY",
             "value": 1
         },
         {
-            "text": "glorious",
+            "text": "SOAKING",
             "value": 1
         },
         {
-            "text": "weather",
+            "text": "GLORIOUS",
+            "value": 1
+        },
+        {
+            "text": "WEATHER",
             "value": 1
         }
     ]

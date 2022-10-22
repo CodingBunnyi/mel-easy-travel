@@ -1,183 +1,191 @@
 {
     "word_freq": [
         {
-            "text": "Good",
+            "text": "DINNER",
             "value": 1
         },
         {
-            "text": "morning",
+            "text": "BIRYANI",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "RUIN",
             "value": 1
         },
         {
-            "text": "Thursday",
+            "text": "GOOD",
             "value": 1
         },
         {
-            "text": "Hills",
+            "text": "MORNING",
             "value": 1
         },
         {
-            "text": "2x6x200",
+            "text": "MELBOURNE",
             "value": 1
         },
         {
-            "text": "jog",
+            "text": "THURSDAY",
             "value": 1
         },
         {
-            "text": "back",
+            "text": "HILLS",
             "value": 1
         },
         {
-            "text": "Alternating",
+            "text": "2X6X200",
             "value": 1
         },
         {
-            "text": "easy",
+            "text": "JOG",
             "value": 1
         },
         {
-            "text": "hard",
+            "text": "BACK",
             "value": 1
         },
         {
-            "text": "30sec",
+            "text": "ALTERNATING",
             "value": 1
         },
         {
-            "text": "Prof",
+            "text": "EASY",
             "value": 1
         },
         {
-            "text": "Clare",
+            "text": "HARD",
             "value": 1
         },
         {
-            "text": "Scott",
+            "text": "30SEC",
             "value": 1
         },
         {
-            "text": "Chair",
+            "text": "PROF",
             "value": 1
         },
         {
-            "text": "Joint",
+            "text": "CLARE",
             "value": 1
         },
         {
-            "text": "Division",
+            "text": "SCOTT",
             "value": 1
         },
         {
-            "text": "Head",
+            "text": "CHAIR",
             "value": 1
         },
         {
-            "text": "Member",
+            "text": "JOINT",
             "value": 1
         },
         {
-            "text": "Order",
+            "text": "DIVISION",
             "value": 1
         },
         {
-            "text": "Australia",
+            "text": "HEAD",
             "value": 1
         },
         {
-            "text": "Superstar",
+            "text": "MEMBER",
             "value": 1
         },
         {
-            "text": "clinician",
+            "text": "ORDER",
             "value": 1
         },
         {
-            "text": "scientist",
+            "text": "AUSTRALIA",
             "value": 1
         },
         {
-            "text": "Starstruck",
+            "text": "SUPERSTAR",
             "value": 1
         },
         {
-            "text": "emotional",
+            "text": "CLINICIAN",
             "value": 1
         },
         {
-            "text": "meet",
+            "text": "SCIENTIST",
             "value": 1
         },
         {
-            "text": "living",
+            "text": "STARSTRUCK",
             "value": 1
         },
         {
-            "text": "legend",
+            "text": "EMOTIONAL",
             "value": 1
         },
         {
-            "text": "person",
+            "text": "MEET",
+            "value": 1
+        },
+        {
+            "text": "LIVING",
+            "value": 1
+        },
+        {
+            "text": "LEGEND",
+            "value": 1
+        },
+        {
+            "text": "PERSON",
             "value": 2
         },
         {
-            "text": "yesterday",
+            "text": "YESTERDAY",
             "value": 1
         },
         {
-            "text": "impressive",
+            "text": "IMPRESSIVE",
             "value": 1
         },
         {
-            "text": "Also",
+            "text": "ALSO",
             "value": 1
         },
         {
-            "text": "warm",
+            "text": "WARM",
             "value": 1
         },
         {
-            "text": "caring",
+            "text": "CARING",
             "value": 1
         },
         {
-            "text": "smiles",
+            "text": "SMILES",
             "value": 1
         },
         {
-            "text": "eyes",
+            "text": "EYES",
             "value": 1
         },
         {
-            "text": "Using",
+            "text": "USING",
             "value": 1
         },
         {
-            "text": "Monday",
+            "text": "MONDAY",
             "value": 1
         },
         {
-            "text": "make",
+            "text": "SUNDAYS",
             "value": 1
         },
         {
-            "text": "Sundays",
+            "text": "COM",
             "value": 1
         },
         {
-            "text": "com",
+            "text": "VOLUNTEERING",
             "value": 1
         },
         {
-            "text": "Volunteering",
-            "value": 1
-        },
-        {
-            "text": "AgileAus2022",
+            "text": "AGILEAUS2022",
             "value": 1
         }
     ]

@@ -1,6 +1,453 @@
 {
-    "count": 41,
+    "count": 56,
     "data": [
+        {
+            "tid": 1583828970943807488,
+            "uid": 1384286019533504529,
+            "author": "Hassaan Abbasi",
+            "user_img": "https://pbs.twimg.com/profile_images/1468994230320340998/PBUbILEv_normal.jpg",
+            "time": "2022-10-22 14:33:47 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Good luck Pakistani Tigers 🐯 for the world cup battle against arch rivals tomorrow 🏏\n\nGo & make the nation 🇵🇰 proud ✌🏻\n\n#T20WC2022 | #PAKvIND | #RoarLikeATiger @ Melbourne Cricket Ground (MCG) https://t.co/TclYzWfsbL",
+            "clean_text": "Good luck Pakistani Tigers for the world cup battle against arch rivals tomorrow Go make the nation proud Melbourne Cricket Ground MCG",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98346154,
+            "latitude": -37.81984,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583819331733192704,
+            "uid": 34216035,
+            "author": "Sushant Mehta",
+            "user_img": "https://pbs.twimg.com/profile_images/1528363714298073088/GkhVugoC_normal.jpg",
+            "time": "2022-10-22 13:55:29 +0000",
+            "like_no": 692,
+            "language": "en",
+            "text": "Virat Kohli & KL Rahul after an intense net session, both seemed relaxed & very positive for the big game against Pakistan 🇮🇳 #ViratKohli #SportsYaari https://t.co/CcgNsmfZWd",
+            "clean_text": "Virat Kohli KL Rahul after an intense net session both seemed relaxed very positive for the big game against Pakistan",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfrbR8QaYAAyKAH.jpg"
+            ]
+        },
+        {
+            "tid": 1583816724444762112,
+            "uid": 34216035,
+            "author": "Sushant Mehta",
+            "user_img": "https://pbs.twimg.com/profile_images/1528363714298073088/GkhVugoC_normal.jpg",
+            "time": "2022-10-22 13:45:07 +0000",
+            "like_no": 908,
+            "language": "en",
+            "text": "Virat Kohli & Hardik Pandya had a long conversation after Kohli faced & applauded Pandya’s fiery spell in the nets 🇮🇳 #ViratKohli #HardikPandya #SportsYaari https://t.co/PzrXy0s9nH",
+            "clean_text": "Virat Kohli Hardik Pandya had a long conversation after Kohli faced applauded Pandya s fiery spell in the nets",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfrY6QeakAA4k3k.jpg"
+            ]
+        },
+        {
+            "tid": 1583799235060781056,
+            "uid": 482805851,
+            "author": "Matthew Rees",
+            "user_img": "https://pbs.twimg.com/profile_images/1550101407872782336/PWkqLLht_normal.jpg",
+            "time": "2022-10-22 12:35:37 +0000",
+            "like_no": 11,
+            "language": "en",
+            "text": "Tame Impala / Melbourne \n\n🪣 📝 https://t.co/iAiYON9d25",
+            "clean_text": "Tame Impala Melbourne",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfrJADsUAAEVixR.jpg",
+                "https://pbs.twimg.com/media/FfrJADrVIAAYYLS.jpg"
+            ]
+        },
+        {
+            "tid": 1583781422145282048,
+            "uid": 1189093571959259136,
+            "author": "Kasss 🛫🦋✨",
+            "user_img": "https://pbs.twimg.com/profile_images/1322768517817532417/RJ0Lcv1K_normal.jpg",
+            "time": "2022-10-22 11:24:50 +0000",
+            "like_no": 3,
+            "language": "en",
+            "text": "It’s only take 2 and a bit years but we’re finally here!! @tameimpala thank you 🙏🏼 https://t.co/dao5GKrx1q",
+            "clean_text": "It s only take 2 and a bit years but we re finally here thank you",
+            "place_name": "Rod Laver Arena",
+            "place_type": "poi",
+            "longitude": 144.97856855392456,
+            "latitude": -37.82159899843773,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffq4vEAVEAArowm.jpg",
+                "https://pbs.twimg.com/media/Ffq4vD-UYAMc_Gx.jpg",
+                "https://pbs.twimg.com/media/Ffq4vECUYAE-qDY.jpg"
+            ]
+        },
+        {
+            "tid": 1583772654464487425,
+            "uid": 1440610191796441096,
+            "author": "Muneeb Amjad",
+            "user_img": "https://pbs.twimg.com/profile_images/1475874522091900938/OKppN3Fm_normal.jpg",
+            "time": "2022-10-22 10:50:00 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Idr when I smiled more in life. \nMet @DennisCricket_ https://t.co/nL3G3Ca8S0",
+            "clean_text": "Idr when I smiled more in life Met",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffqw1SNUoAEx8eI.jpg"
+            ]
+        },
+        {
+            "tid": 1583756460583895040,
+            "uid": 368923228,
+            "author": "Nitin Srivastava",
+            "user_img": "https://pbs.twimg.com/profile_images/1237642404724908033/cJZvjtzq_normal.jpg",
+            "time": "2022-10-22 09:45:39 +0000",
+            "like_no": 13,
+            "language": "en",
+            "text": "After a good seven years, back at this place functional since 1853. https://t.co/BeHq8XWQ2F",
+            "clean_text": "After a good seven years back at this place functional since 1853",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfqiGqEVIAAu9aA.jpg"
+            ]
+        },
+        {
+            "tid": 1583743674701074433,
+            "uid": 719211298244853765,
+            "author": "UMESH",
+            "user_img": "https://pbs.twimg.com/profile_images/1583777288994185216/lj76WyvM_normal.jpg",
+            "time": "2022-10-22 08:54:51 +0000",
+            "like_no": 7,
+            "language": "en",
+            "text": "All set for the big clash tomorrow, bring it on! #INDvPAK https://t.co/WsxSShwyZE",
+            "clean_text": "All set for the big clash tomorrow bring it on",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfqWePNUYAE-U5m.jpg"
+            ]
+        },
+        {
+            "tid": 1583742949606666240,
+            "uid": 601712763,
+            "author": "BNA - Basketball News Australia",
+            "user_img": "https://pbs.twimg.com/profile_images/1514223682368905222/VdkFA2bY_normal.jpg",
+            "time": "2022-10-22 08:51:58 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "@mitchellcreek55 has managed to hold off a determined @brisbanebullets to get the nail biting win the for @semelbphoenix @ John Cain Arena https://t.co/9XTduLBeFw",
+            "clean_text": "has managed to hold off a determined to get the nail biting win the for John Cain Arena",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.98158848,
+            "latitude": -37.82291387,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583736267279601665,
+            "uid": 34216035,
+            "author": "Sushant Mehta",
+            "user_img": "https://pbs.twimg.com/profile_images/1528363714298073088/GkhVugoC_normal.jpg",
+            "time": "2022-10-22 08:25:25 +0000",
+            "like_no": 3054,
+            "language": "en",
+            "text": "So the weather predication for tomorrow has gone from increasing showers to cloudy with a shower or two in the afternoon! India VS Pakistan is on 🔥🇮🇳🇵🇰 #SportsYaari @YaariSports",
+            "clean_text": "So the weather predication for tomorrow has gone from increasing showers to cloudy with a shower or two in the afternoon India VS Pakistan is on",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583734744256503808,
+            "uid": 23207311,
+            "author": "Bring back “The Wonder of You”",
+            "user_img": "https://pbs.twimg.com/profile_images/1282126931412922368/67v2suOE_normal.jpg",
+            "time": "2022-10-22 08:19:22 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Finally (at @RodLaverArena in Melbourne, VIC) https://t.co/WQwhO3d9ZY",
+            "clean_text": "Finally at in Melbourne VIC",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.97856855,
+            "latitude": -37.821599,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583733606828032000,
+            "uid": 719211298244853765,
+            "author": "UMESH",
+            "user_img": "https://pbs.twimg.com/profile_images/1583777288994185216/lj76WyvM_normal.jpg",
+            "time": "2022-10-22 08:14:50 +0000",
+            "like_no": 11,
+            "language": "en",
+            "text": "The KING. #INDvPAK https://t.co/8ZKtxJTrJK",
+            "clean_text": "The KING",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfqNUDSUcAA8g3N.jpg"
+            ]
+        },
+        {
+            "tid": 1583731765385957381,
+            "uid": 719211298244853765,
+            "author": "UMESH",
+            "user_img": "https://pbs.twimg.com/profile_images/1583777288994185216/lj76WyvM_normal.jpg",
+            "time": "2022-10-22 08:07:31 +0000",
+            "like_no": 8,
+            "language": "en",
+            "text": "Got to watch the KING himself practicing in the nets, all set for tomorrow’s #INDvPAK. https://t.co/IsMoFuyXUm",
+            "clean_text": "Got to watch the KING himself practicing in the nets all set for tomorrow s",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1583731583688712192/pu/img/R8U4-cCFH2o9Rh3d.jpg"
+            ]
+        },
+        {
+            "tid": 1583708743597891584,
+            "uid": 763976637830406144,
+            "author": "Gul 🇵🇰🇦🇺",
+            "user_img": "https://pbs.twimg.com/profile_images/1548935950482386944/njdvZzFt_normal.jpg",
+            "time": "2022-10-22 06:36:03 +0000",
+            "like_no": 72,
+            "language": "en",
+            "text": "PTI supporters chanting IK slogans at MCG before Pak vs Ind blockbuster!\n#عمران_خان_ہماری_ریڈ_لائن https://t.co/AxZ5jF4fYR",
+            "clean_text": "PTI supporters chanting IK slogans at MCG before Pak vs Ind blockbuster",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1583708615860371457/pu/img/02ef8C5wNftXfEm0.jpg"
+            ]
+        },
+        {
+            "tid": 1583701105951010818,
+            "uid": 363171898,
+            "author": "Vatsal Patel",
+            "user_img": "https://pbs.twimg.com/profile_images/1405064545102532609/dhfoUDjL_normal.jpg",
+            "time": "2022-10-22 06:05:42 +0000",
+            "like_no": 14,
+            "language": "en",
+            "text": "The sun 🌞 is out at the @MCG Hope to have a full match tomorrow #INDvPAK #T20WorldCup2022 #Crickettwitter https://t.co/418HnbPuWg https://t.co/isgQIEQwe9",
+            "clean_text": "The sun is out at the Hope to have a full match tomorrow",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1583701044525400064/pu/img/VlB4L2vu1GuiYw1B.jpg",
+                "https://pbs.twimg.com/media/FfpvwA8aYAIHF9N.jpg"
+            ]
+        },
+        {
+            "tid": 1583700859917303808,
+            "uid": 173890260,
+            "author": "Faizan Lakhani",
+            "user_img": "https://pbs.twimg.com/profile_images/1538627429211701249/SF0X9PIv_normal.jpg",
+            "time": "2022-10-22 06:04:43 +0000",
+            "like_no": 1385,
+            "language": "en",
+            "text": "The sun is out and the weather is getting better. https://t.co/cXl3Z0ZdOS",
+            "clean_text": "The sun is out and the weather is getting better",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffpvie2aAAIrhQ0.jpg"
+            ]
+        },
+        {
+            "tid": 1583684746353135616,
+            "uid": 998297418415333376,
+            "author": "Shubham Sakhuja",
+            "user_img": "https://pbs.twimg.com/profile_images/1559469121393541120/l9sJpDbF_normal.jpg",
+            "time": "2022-10-22 05:00:41 +0000",
+            "like_no": 7,
+            "language": "en",
+            "text": "It’s high time. #T20WorldCup #INDvPAK https://t.co/sWpH44L9xF",
+            "clean_text": "It s high time",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffpg4QuVUBUjkRO.jpg"
+            ]
+        },
+        {
+            "tid": 1583665050329690113,
+            "uid": 34216035,
+            "author": "Sushant Mehta",
+            "user_img": "https://pbs.twimg.com/profile_images/1528363714298073088/GkhVugoC_normal.jpg",
+            "time": "2022-10-22 03:42:25 +0000",
+            "like_no": 3569,
+            "language": "en",
+            "text": "Captain Rohit Sharma starts the press conference by admitting he’s ‘very nervous’ #SportsYaari #RohitSharma https://t.co/75YBonanbW",
+            "clean_text": "Captain Rohit Sharma starts the press conference by admitting he s very nervous",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfpO96KaUAAMYoE.jpg"
+            ]
+        },
+        {
+            "tid": 1583658291041038337,
+            "uid": 34216035,
+            "author": "Sushant Mehta",
+            "user_img": "https://pbs.twimg.com/profile_images/1528363714298073088/GkhVugoC_normal.jpg",
+            "time": "2022-10-22 03:15:34 +0000",
+            "like_no": 2740,
+            "language": "en",
+            "text": "Captain Rohit Sharma’s press conference will begin in 15 minutes, we will get you all the updates only on #SportsYaari @YaariSports #RohitSharma",
+            "clean_text": "Captain Rohit Sharma s press conference will begin in 15 minutes we will get you all the updates only on",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583647114504335360,
+            "uid": 34216035,
+            "author": "Sushant Mehta",
+            "user_img": "https://pbs.twimg.com/profile_images/1528363714298073088/GkhVugoC_normal.jpg",
+            "time": "2022-10-22 02:31:09 +0000",
+            "like_no": 2906,
+            "language": "en",
+            "text": "Indian tricolour at the MCG ahead of the #INDvsPAK game tomorrow, the Sun is out & the covers are off! https://t.co/A0LplytcOu",
+            "clean_text": "Indian tricolour at the MCG ahead of the game tomorrow the Sun is out the covers are off",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffo-pv4aMAA5LHs.jpg"
+            ]
+        },
+        {
+            "tid": 1583642960226238464,
+            "uid": 47852114,
+            "author": "Chetan Narula",
+            "user_img": "https://pbs.twimg.com/profile_images/1566615159128199168/0ag-9ikI_normal.jpg",
+            "time": "2022-10-22 02:14:39 +0000",
+            "like_no": 1098,
+            "language": "en",
+            "text": "A very good morning to everyone in India (and Pakistan). This is the view outside MCG at 1pm. The sun is out. Forecast has improved massively this morning. No more rain expected until Monday. Yes, read that again!! 🙂#IndvPak #IndvsPak #T20WorldCup https://t.co/XXVEFr2JLt",
+            "clean_text": "A very good morning to everyone in India and Pakistan This is the view outside MCG at 1pm The sun is out Forecast has improved massively this morning No more rain expected until Monday Yes read that again",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/Ffo64EtUoAAydt4.jpg"
+            ]
+        },
+        {
+            "tid": 1583627813886005248,
+            "uid": 34216035,
+            "author": "Sushant Mehta",
+            "user_img": "https://pbs.twimg.com/profile_images/1528363714298073088/GkhVugoC_normal.jpg",
+            "time": "2022-10-22 01:14:27 +0000",
+            "like_no": 3823,
+            "language": "en",
+            "text": "Finally stopped raining at the MCG! \nThe big cover is off 🤞 https://t.co/0tCX3sO7vF",
+            "clean_text": "Finally stopped raining at the MCG The big cover is off",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfotGZEaAAE8299.jpg"
+            ]
+        },
+        {
+            "tid": 1583468480942133249,
+            "uid": 4610847428,
+            "author": "Arjit Sharma",
+            "user_img": "https://pbs.twimg.com/profile_images/1056297642706264065/MEbk4ZhT_normal.jpg",
+            "time": "2022-10-21 14:41:19 +0000",
+            "like_no": 2,
+            "language": "en",
+            "text": "It’s always a worth working with you @vps_vivek #ICCT20WorldCup #TeamIndia #INDvPAK https://t.co/UMBCPCxhDC https://t.co/W544UOpvLN",
+            "clean_text": "It s always a worth working with you",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/media/FfmcIciVUAMAJXj.jpg",
+                "https://pbs.twimg.com/media/FfmcIcrUYAA9dvN.jpg",
+                "https://pbs.twimg.com/ext_tw_video_thumb/1583468412918824960/pu/img/pyVhSQzzRdBowCcv.jpg",
+                "https://pbs.twimg.com/ext_tw_video_thumb/1583468412939907074/pu/img/riLzGEZnktcOU8c_.jpg"
+            ]
+        },
+        {
+            "tid": 1583467650113413125,
+            "uid": 4610847428,
+            "author": "Arjit Sharma",
+            "user_img": "https://pbs.twimg.com/profile_images/1056297642706264065/MEbk4ZhT_normal.jpg",
+            "time": "2022-10-21 14:38:01 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "It was a pleasure meeting you sir! ✨@vikrantgupta73 #ICCT20WorldCup #TeamIndia https://t.co/4Dfy1Gu7Aw",
+            "clean_text": "It was a pleasure meeting you sir",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1583467622636474369/pu/img/cKM0WZGxoKw9ATkY.jpg"
+            ]
+        },
+        {
+            "tid": 1583455966141775873,
+            "uid": 34216035,
+            "author": "Sushant Mehta",
+            "user_img": "https://pbs.twimg.com/profile_images/1528363714298073088/GkhVugoC_normal.jpg",
+            "time": "2022-10-21 13:51:36 +0000",
+            "like_no": 1867,
+            "language": "en",
+            "text": "Naseem Shah RATTLED Babar Azam & Rizwan, this kid is a star ⭐️\n#SportsYaari https://t.co/rtlh31yi4C",
+            "clean_text": "Naseem Shah RATTLED Babar Azam Rizwan this kid is a star",
+            "place_name": "Melbourne Cricket Ground (MCG)",
+            "place_type": "poi",
+            "longitude": 144.98334288597107,
+            "latitude": -37.81962430538924,
+            "photo_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1583455353341370369/pu/img/GqKzjCaIdLNvqqDt.jpg"
+            ]
+        },
         {
             "tid": 1583414547310051331,
             "uid": 34216035,
@@ -534,183 +981,6 @@
             "latitude": -37.82159899843773,
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfI1YbNaAAAtnh3.jpg"
-            ]
-        },
-        {
-            "tid": 1581241565137158144,
-            "uid": 601712763,
-            "author": "BNA - Basketball News Australia",
-            "user_img": "https://pbs.twimg.com/profile_images/1514223682368905222/VdkFA2bY_normal.jpg",
-            "time": "2022-10-15 11:12:21 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "@izayahleafa facilitates the offence for the @breakersnz to deliver them an 8 point win 85 - 77 over the @semelbphoenix @ John Cain Arena https://t.co/5TJCX6zz41",
-            "clean_text": "facilitates the offence for the to deliver them an 8 point win 85 77 over the John Cain Arena",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.98158848,
-            "latitude": -37.82291387,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581212778324701185,
-            "uid": 20297179,
-            "author": "Pete B 🏳️‍🌈 🇦🇺💉💉💉",
-            "user_img": "https://pbs.twimg.com/profile_images/584159214878138368/f_VbFCME_normal.jpg",
-            "time": "2022-10-15 09:17:58 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Nice drop to have with Fat Freddy at the Bowl - Drinking a Pale Ale by @grandridgebeer @ Sidney Myer Music Bowl  — https://t.co/PNUjHD75jl",
-            "clean_text": "Nice drop to have with Fat Freddy at the Bowl Drinking a Pale Ale by Sidney Myer Music Bowl",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9746246,
-            "latitude": -37.8238678,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581208425316261888,
-            "uid": 1054520871446970368,
-            "author": "South East Melbourne Phoenix",
-            "user_img": "https://pbs.twimg.com/profile_images/1082194093759811584/-sJl8CCs_normal.jpg",
-            "time": "2022-10-15 09:00:40 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Welcome the players onto the court Phoenix fans‼️\n\nIt’s almost game time‼️\n\n📺 Tune in on @ESPNAusNZ via @kayosports or @Foxtel https://t.co/TX4JkB368T",
-            "clean_text": "Welcome the players onto the court Phoenix fans It s almost game time Tune in on via or",
-            "place_name": "John Cain Arena",
-            "place_type": "poi",
-            "longitude": 144.98189449310303,
-            "latitude": -37.82283209541227,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1581208214925762560/pu/img/tIx_OmCadOooQFl8.jpg"
-            ]
-        },
-        {
-            "tid": 1581207938747625472,
-            "uid": 13126372,
-            "author": "Matt Gillard",
-            "user_img": "https://pbs.twimg.com/profile_images/1496342264028618754/fbC1Cofu_normal.jpg",
-            "time": "2022-10-15 08:58:44 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "Fat Freddy’s drop about to come on https://t.co/TQ6utdZZj8",
-            "clean_text": "Fat Freddy s drop about to come on",
-            "place_name": "Sidney Myer Music Bowl",
-            "place_type": "poi",
-            "longitude": 144.97462570667267,
-            "latitude": -37.82386601651505,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfGUPABUoAAx-rx.jpg"
-            ]
-        },
-        {
-            "tid": 1581171707674390528,
-            "uid": 13126372,
-            "author": "Matt Gillard",
-            "user_img": "https://pbs.twimg.com/profile_images/1496342264028618754/fbC1Cofu_normal.jpg",
-            "time": "2022-10-15 06:34:46 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Big Saturday #jazz https://t.co/EhTuXZaytK",
-            "clean_text": "Big Saturday",
-            "place_name": "Sidney Myer Music Bowl",
-            "place_type": "poi",
-            "longitude": 144.97462570667267,
-            "latitude": -37.82386601651505,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfFzRnMUcAAKyV7.jpg"
-            ]
-        },
-        {
-            "tid": 1581164630839545857,
-            "uid": 125966823,
-            "author": "Dr Bec Szabo",
-            "user_img": "https://pbs.twimg.com/profile_images/1030055031112753152/47lzEHyS_normal.jpg",
-            "time": "2022-10-15 06:06:39 +0000",
-            "like_no": 24,
-            "language": "en",
-            "text": "Back at the bowl @MelbJazzFest 💜 https://t.co/JAmHzS6smD",
-            "clean_text": "Back at the bowl",
-            "place_name": "Sidney Myer Music Bowl",
-            "place_type": "poi",
-            "longitude": 144.97462570667267,
-            "latitude": -37.82386601651505,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfFs1huaUAA7IDH.jpg",
-                "https://pbs.twimg.com/media/FfFs1hwacAEvl2l.jpg",
-                "https://pbs.twimg.com/media/FfFs1hwaAAAWaL8.jpg",
-                "https://pbs.twimg.com/media/FfFs1hxagAEI05E.jpg"
-            ]
-        },
-        {
-            "tid": 1581140030378377216,
-            "uid": 125966823,
-            "author": "Dr Bec Szabo",
-            "user_img": "https://pbs.twimg.com/profile_images/1030055031112753152/47lzEHyS_normal.jpg",
-            "time": "2022-10-15 04:28:54 +0000",
-            "like_no": 9,
-            "language": "en",
-            "text": "Clear skies for now. Opening @MelbJazzFest 💜 https://t.co/35krXjoU9t",
-            "clean_text": "Clear skies for now Opening",
-            "place_name": "Sidney Myer Music Bowl",
-            "place_type": "poi",
-            "longitude": 144.97462570667267,
-            "latitude": -37.82386601651505,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfFWeXfaYAAPLzm.jpg"
-            ]
-        },
-        {
-            "tid": 1581071791488872450,
-            "uid": 351432484,
-            "author": "Will Carter",
-            "user_img": "https://pbs.twimg.com/profile_images/1519909631627493376/i7RQ76xE_normal.jpg",
-            "time": "2022-10-14 23:57:44 +0000",
-            "like_no": 2,
-            "language": "en",
-            "text": "Let’s get ready to rumble!!\n\nBring it on. https://t.co/BSR7Dn6J9r",
-            "clean_text": "Let s get ready to rumble Bring it on",
-            "place_name": "Rod Laver Arena",
-            "place_type": "poi",
-            "longitude": 144.97856855392456,
-            "latitude": -37.82159899843773,
-            "photo_urls": [
-                "https://pbs.twimg.com/ext_tw_video_thumb/1581071664657313792/pu/img/3I4bmXiWIC6-wukP.jpg"
-            ]
-        },
-        {
-            "tid": 1581062245458784256,
-            "uid": 248967794,
-            "author": "tre dallas",
-            "user_img": "https://pbs.twimg.com/profile_images/598816920498876416/aTvPWhST_normal.jpg",
-            "time": "2022-10-14 23:19:48 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ Melbourne Park https://t.co/W5qV6HhEbM",
-            "clean_text": "Just posted a photo Melbourne Park",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.97841879,
-            "latitude": -37.82046197,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581053653267681280,
-            "uid": 821498919322468352,
-            "author": "Alex Conrad",
-            "user_img": "https://pbs.twimg.com/profile_images/1537724244595179520/mdfkdcPB_normal.jpg",
-            "time": "2022-10-14 22:45:40 +0000",
-            "like_no": 3,
-            "language": "en",
-            "text": "Will there be any “deception” today? https://t.co/Kt4UEN3VwU",
-            "clean_text": "Will there be any deception today",
-            "place_name": "Rod Laver Arena",
-            "place_type": "poi",
-            "longitude": 144.97856855392456,
-            "latitude": -37.82159899843773,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfEH6WFaMAATUNF.jpg"
             ]
         }
     ]

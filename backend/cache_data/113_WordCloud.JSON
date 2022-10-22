@@ -1,63 +1,59 @@
 {
     "word_freq": [
         {
-            "text": "Racecourse",
+            "text": "RACECOURSE",
             "value": 2
         },
         {
-            "text": "Rd",
+            "text": "RD",
             "value": 2
         },
         {
-            "text": "Flemington",
+            "text": "FLEMINGTON",
             "value": 2
         },
         {
-            "text": "lanes",
+            "text": "LANES",
             "value": 3
         },
         {
-            "text": "closed",
+            "text": "CLOSED",
             "value": 3
         },
         {
-            "text": "westbound",
+            "text": "WESTBOUND",
             "value": 2
         },
         {
-            "text": "Road",
+            "text": "ROAD",
             "value": 1
         },
         {
-            "text": "directions",
+            "text": "DIRECTIONS",
             "value": 1
         },
         {
-            "text": "near",
+            "text": "NEAR",
             "value": 1
         },
         {
-            "text": "Newmarket",
+            "text": "NEWMARKET",
             "value": 1
         },
         {
-            "text": "outbound",
+            "text": "OUTBOUND",
             "value": 1
         },
         {
-            "text": "diverted",
+            "text": "DIVERTED",
             "value": 1
         },
         {
-            "text": "Eastwood",
+            "text": "EASTWOOD",
             "value": 1
         },
         {
-            "text": "Street",
-            "value": 1
-        },
-        {
-            "text": "recognise",
+            "text": "RECOGNISE",
             "value": 1
         }
     ]

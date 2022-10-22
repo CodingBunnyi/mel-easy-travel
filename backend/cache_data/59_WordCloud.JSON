@@ -1,15 +1,15 @@
 {
     "word_freq": [
         {
-            "text": "Nar",
+            "text": "NAR",
             "value": 1
         },
         {
-            "text": "Bangkok",
+            "text": "BANGKOK",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "MELBOURNE",
             "value": 2
         },
         {
@@ -17,23 +17,23 @@
             "value": 1
         },
         {
-            "text": "Exploring",
+            "text": "EXPLORING",
             "value": 1
         },
         {
-            "text": "today",
+            "text": "TODAY",
             "value": 1
         },
         {
-            "text": "soaking",
+            "text": "SOAKING",
             "value": 1
         },
         {
-            "text": "glorious",
+            "text": "GLORIOUS",
             "value": 1
         },
         {
-            "text": "weather",
+            "text": "WEATHER",
             "value": 1
         }
     ]

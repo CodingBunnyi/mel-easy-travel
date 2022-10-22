@@ -1,15 +1,15 @@
 {
     "word_freq": [
         {
-            "text": "West",
+            "text": "WEST",
             "value": 5
         },
         {
-            "text": "Gate",
+            "text": "GATE",
             "value": 5
         },
         {
-            "text": "Fwy",
+            "text": "FWY",
             "value": 4
         },
         {
@@ -17,56 +17,52 @@
             "value": 5
         },
         {
-            "text": "Port",
+            "text": "PORT",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "MELBOURNE",
             "value": 1
         },
         {
-            "text": "lanes",
+            "text": "LANES",
             "value": 6
         },
         {
-            "text": "closed",
+            "text": "CLOSED",
             "value": 10
         },
         {
-            "text": "outbound",
+            "text": "OUTBOUND",
             "value": 8
         },
         {
-            "text": "left",
+            "text": "LEFT",
             "value": 3
         },
         {
-            "text": "lane",
+            "text": "LANE",
             "value": 5
         },
         {
-            "text": "Kings",
+            "text": "KINGS",
             "value": 1
         },
         {
-            "text": "Ramp",
+            "text": "RAMP",
             "value": 1
         },
         {
-            "text": "Docklands",
+            "text": "DOCKLANDS",
             "value": 4
         },
         {
-            "text": "right",
+            "text": "RIGHT",
             "value": 3
         },
         {
-            "text": "near",
+            "text": "NEAR",
             "value": 2
-        },
-        {
-            "text": "Two",
-            "value": 1
         }
     ]
 }

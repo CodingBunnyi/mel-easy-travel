@@ -1,159 +1,207 @@
 {
     "word_freq": [
         {
-            "text": "Queen",
-            "value": 3
+            "text": "SPIEGELTENT",
+            "value": 1
         },
         {
-            "text": "Victoria",
-            "value": 3
+            "text": "THINGS",
+            "value": 1
         },
         {
-            "text": "Market",
+            "text": "CASE",
+            "value": 1
+        },
+        {
+            "text": "PAKISTANI",
+            "value": 1
+        },
+        {
+            "text": "PLAYERS",
+            "value": 1
+        },
+        {
+            "text": "LOOKING",
+            "value": 1
+        },
+        {
+            "text": "SUGGESTIONS",
+            "value": 1
+        },
+        {
+            "text": "GOOD",
             "value": 2
         },
         {
-            "text": "St",
+            "text": "BURGER",
             "value": 1
         },
         {
-            "text": "North",
+            "text": "PLACE",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "TOWN",
+            "value": 1
+        },
+        {
+            "text": "TONIGHT",
+            "value": 1
+        },
+        {
+            "text": "PRETTY",
+            "value": 1
+        },
+        {
+            "text": "DAMN",
+            "value": 1
+        },
+        {
+            "text": "BRICK",
+            "value": 1
+        },
+        {
+            "text": "LANE",
+            "value": 2
+        },
+        {
+            "text": "MELBOURNE",
             "value": 8
         },
         {
-            "text": "lanes",
+            "text": "CBD",
             "value": 1
         },
         {
-            "text": "closed",
-            "value": 2
-        },
-        {
-            "text": "westbound",
-            "value": 2
-        },
-        {
-            "text": "Left",
-            "value": 1
-        },
-        {
-            "text": "lane",
-            "value": 1
-        },
-        {
-            "text": "Peel",
-            "value": 1
-        },
-        {
-            "text": "Street",
-            "value": 1
-        },
-        {
-            "text": "due",
-            "value": 1
-        },
-        {
-            "text": "Nice",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "warm",
-            "value": 1
-        },
-        {
-            "text": "welcome",
-            "value": 1
-        },
-        {
-            "text": "Basement",
-            "value": 1
-        },
-        {
-            "text": "Cafe",
-            "value": 1
-        },
-        {
-            "text": "Bar",
-            "value": 1
-        },
-        {
-            "text": "Networking",
-            "value": 1
-        },
-        {
-            "text": "everywhere",
-            "value": 1
-        },
-        {
-            "text": "Still",
-            "value": 1
-        },
-        {
-            "text": "buzzing",
-            "value": 1
-        },
-        {
-            "text": "launch",
-            "value": 2
-        },
-        {
-            "text": "Learning",
-            "value": 2
-        },
-        {
-            "text": "Whiteness",
+            "text": "VICTORIA",
             "value": 3
         },
         {
-            "text": "Education",
+            "text": "QUEEN",
             "value": 2
         },
         {
-            "text": "Settler",
+            "text": "MARKET",
+            "value": 1
+        },
+        {
+            "text": "NORTH",
+            "value": 1
+        },
+        {
+            "text": "LANES",
+            "value": 1
+        },
+        {
+            "text": "CLOSED",
             "value": 2
         },
         {
-            "text": "Colonial",
+            "text": "WESTBOUND",
             "value": 2
         },
         {
-            "text": "State",
+            "text": "LEFT",
+            "value": 1
+        },
+        {
+            "text": "PEEL",
+            "value": 1
+        },
+        {
+            "text": "DUE",
+            "value": 1
+        },
+        {
+            "text": "NICE",
+            "value": 1
+        },
+        {
+            "text": "BACK",
+            "value": 1
+        },
+        {
+            "text": "THANKS",
+            "value": 1
+        },
+        {
+            "text": "WARM",
+            "value": 1
+        },
+        {
+            "text": "WELCOME",
+            "value": 1
+        },
+        {
+            "text": "BASEMENT",
+            "value": 1
+        },
+        {
+            "text": "CAFE",
+            "value": 1
+        },
+        {
+            "text": "BAR",
+            "value": 1
+        },
+        {
+            "text": "NETWORKING",
+            "value": 1
+        },
+        {
+            "text": "EVERYWHERE",
+            "value": 1
+        },
+        {
+            "text": "BUZZING",
+            "value": 1
+        },
+        {
+            "text": "LAUNCH",
             "value": 2
         },
         {
-            "text": "key",
+            "text": "LEARNING",
+            "value": 2
+        },
+        {
+            "text": "WHITENESS",
+            "value": 4
+        },
+        {
+            "text": "EDUCATION",
+            "value": 2
+        },
+        {
+            "text": "SETTLER",
+            "value": 2
+        },
+        {
+            "text": "COLONIAL",
+            "value": 2
+        },
+        {
+            "text": "STATE",
+            "value": 2
+        },
+        {
+            "text": "KEY",
             "value": 1
         },
         {
-            "text": "exploration",
+            "text": "EXPLORATION",
             "value": 1
         },
         {
-            "text": "whiteness",
+            "text": "TAUGHT",
             "value": 1
         },
         {
-            "text": "taught",
+            "text": "LOVELY",
             "value": 1
         },
         {
-            "text": "Lovely",
-            "value": 1
-        },
-        {
-            "text": "meet",
+            "text": "MEET",
             "value": 1
         },
         {
@@ -161,123 +209,119 @@
             "value": 1
         },
         {
-            "text": "learned",
+            "text": "LEARNED",
             "value": 1
         },
         {
-            "text": "Let",
+            "text": "TALK",
             "value": 1
         },
         {
-            "text": "talk",
+            "text": "UNLEARN",
             "value": 1
         },
         {
-            "text": "unlearn",
+            "text": "ALSO",
             "value": 1
         },
         {
-            "text": "Also",
+            "text": "PANEL",
             "value": 1
         },
         {
-            "text": "panel",
+            "text": "EMMA",
             "value": 1
         },
         {
-            "text": "Emma",
+            "text": "KEFFORD",
             "value": 1
         },
         {
-            "text": "Kefford",
+            "text": "GIANLUCA",
             "value": 1
         },
         {
-            "text": "Gianluca",
+            "text": "VIA",
             "value": 1
         },
         {
-            "text": "via",
+            "text": "VICTORIAN",
             "value": 1
         },
         {
-            "text": "Victorian",
+            "text": "AUSTRALIA",
             "value": 1
         },
         {
-            "text": "Australia",
+            "text": "SWIMMING",
             "value": 1
         },
         {
-            "text": "Swimming",
+            "text": "SHORT",
             "value": 1
         },
         {
-            "text": "short",
+            "text": "COURSE",
             "value": 1
         },
         {
-            "text": "course",
+            "text": "POOL",
             "value": 1
         },
         {
-            "text": "pool",
+            "text": "MAKES",
             "value": 1
         },
         {
-            "text": "makes",
+            "text": "FEEL",
             "value": 1
         },
         {
-            "text": "feel",
-            "value": 1
-        },
-        {
-            "text": "like",
+            "text": "LIKE",
             "value": 2
         },
         {
-            "text": "absolute",
+            "text": "ABSOLUTE",
             "value": 1
         },
         {
-            "text": "hero",
+            "text": "HERO",
             "value": 1
         },
         {
-            "text": "second",
+            "text": "SECOND",
             "value": 1
         },
         {
-            "text": "laps",
+            "text": "LAPS",
             "value": 1
         },
         {
-            "text": "pure",
+            "text": "PURE",
             "value": 1
         },
         {
-            "text": "Olympian",
+            "text": "OLYMPIAN",
             "value": 1
         },
         {
-            "text": "stuff",
+            "text": "STUFF",
             "value": 1
         },
         {
-            "text": "City",
-            "value": 3
+            "text": "CITY",
+            "value": 4
         },
         {
-            "text": "Mart",
+            "text": "MART",
             "value": 1
         },
         {
-            "text": "Asian",
+            "text": "ASIAN",
             "value": 1
         },
         {
-            "text": "Grocery",
+            "text": "GROCERY",
             "value": 1
         },
         {
@@ -285,87 +329,63 @@
             "value": 3
         },
         {
-            "text": "Post",
+            "text": "SHOW",
             "value": 1
         },
         {
-            "text": "show",
+            "text": "FEED",
             "value": 1
         },
         {
-            "text": "feed",
+            "text": "LAST",
             "value": 1
         },
         {
-            "text": "Day",
+            "text": "WEEKEND",
             "value": 1
         },
         {
-            "text": "last",
+            "text": "PET",
             "value": 1
         },
         {
-            "text": "day",
+            "text": "SHOP",
             "value": 1
         },
         {
-            "text": "weekend",
+            "text": "OPENING",
             "value": 1
         },
         {
-            "text": "Vic",
+            "text": "BRUNSWICK",
             "value": 1
         },
         {
-            "text": "Pet",
+            "text": "VISITED",
             "value": 1
         },
         {
-            "text": "Shop",
+            "text": "NEW",
             "value": 1
         },
         {
-            "text": "opening",
+            "text": "FINAL",
             "value": 1
         },
         {
-            "text": "Brunswick",
+            "text": "STAGES",
             "value": 1
         },
         {
-            "text": "visited",
+            "text": "SET",
             "value": 1
         },
         {
-            "text": "new",
+            "text": "MUCH",
             "value": 1
         },
         {
-            "text": "city",
-            "value": 1
-        },
-        {
-            "text": "one",
-            "value": 1
-        },
-        {
-            "text": "final",
-            "value": 1
-        },
-        {
-            "text": "stages",
-            "value": 1
-        },
-        {
-            "text": "set",
-            "value": 1
-        },
-        {
-            "text": "much",
-            "value": 1
-        },
-        {
-            "text": "decal",
+            "text": "DECAL",
             "value": 1
         },
         {
@@ -373,19 +393,19 @@
             "value": 2
         },
         {
-            "text": "campus",
+            "text": "CAMPUS",
             "value": 2
         },
         {
-            "text": "Dirty",
+            "text": "DIRTY",
             "value": 1
         },
         {
-            "text": "Laundry",
+            "text": "LAUNDRY",
             "value": 1
         },
         {
-            "text": "display",
+            "text": "DISPLAY",
             "value": 1
         },
         {
@@ -393,39 +413,23 @@
             "value": 1
         },
         {
-            "text": "particularly",
+            "text": "PARTICULARLY",
             "value": 1
         },
         {
-            "text": "cyanotype",
+            "text": "CYANOTYPE",
             "value": 1
         },
         {
-            "text": "photogram",
+            "text": "PHOTOGRAM",
             "value": 1
         },
         {
-            "text": "title",
+            "text": "TITLE",
             "value": 1
         },
         {
-            "text": "flags",
-            "value": 1
-        },
-        {
-            "text": "amazing",
-            "value": 1
-        },
-        {
-            "text": "Saturday",
-            "value": 1
-        },
-        {
-            "text": "night",
-            "value": 1
-        },
-        {
-            "text": "Discipline",
+            "text": "FLAGS",
             "value": 1
         }
     ]

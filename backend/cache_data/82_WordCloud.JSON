@@ -1,79 +1,75 @@
 {
     "word_freq": [
         {
-            "text": "West",
-            "value": 5
+            "text": "WEST",
+            "value": 3
         },
         {
-            "text": "Gate",
-            "value": 4
+            "text": "GATE",
+            "value": 3
         },
         {
-            "text": "Fwy",
-            "value": 4
+            "text": "FWY",
+            "value": 3
         },
         {
             "text": "M1",
-            "value": 4
+            "value": 3
         },
         {
-            "text": "Port",
-            "value": 4
+            "text": "PORT",
+            "value": 3
         },
         {
-            "text": "Melbourne",
-            "value": 4
+            "text": "MELBOURNE",
+            "value": 3
         },
         {
-            "text": "lanes",
-            "value": 8
-        },
-        {
-            "text": "closed",
-            "value": 8
-        },
-        {
-            "text": "inbound",
+            "text": "LANES",
             "value": 5
         },
         {
-            "text": "Two",
-            "value": 3
+            "text": "CLOSED",
+            "value": 6
         },
         {
-            "text": "right",
+            "text": "INBOUND",
+            "value": 4
+        },
+        {
+            "text": "LEFT",
+            "value": 2
+        },
+        {
+            "text": "LANE",
             "value": 1
         },
         {
-            "text": "near",
+            "text": "CITYBOUND",
+            "value": 2
+        },
+        {
+            "text": "NEAR",
+            "value": 2
+        },
+        {
+            "text": "RIGHT",
             "value": 1
         },
         {
-            "text": "Vegemite",
+            "text": "VEGEMITE",
             "value": 1
         },
         {
-            "text": "smells",
+            "text": "SMELLS",
             "value": 1
         },
         {
-            "text": "ripe",
+            "text": "RIPE",
             "value": 1
         },
         {
-            "text": "today",
-            "value": 1
-        },
-        {
-            "text": "left",
-            "value": 1
-        },
-        {
-            "text": "citybound",
-            "value": 3
-        },
-        {
-            "text": "Three",
+            "text": "TODAY",
             "value": 1
         }
     ]

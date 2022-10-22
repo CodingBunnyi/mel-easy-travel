@@ -1,40 +1,40 @@
 {
     "word_freq": [
         {
-            "text": "Western",
+            "text": "GOALS",
             "value": 2
         },
         {
-            "text": "United",
+            "text": "MACLAREN",
             "value": 1
         },
         {
-            "text": "Macarthur",
+            "text": "PENALTY",
             "value": 1
         },
         {
-            "text": "FC",
-            "value": 2
-        },
-        {
-            "text": "Goals",
-            "value": 2
-        },
-        {
-            "text": "Millar",
+            "text": "CADETE",
             "value": 1
         },
         {
-            "text": "head",
+            "text": "GOAL",
+            "value": 3
+        },
+        {
+            "text": "RED",
             "value": 1
         },
         {
-            "text": "Wales",
+            "text": "CARD",
+            "value": 1
+        },
+        {
+            "text": "BRILLANTE",
             "value": 1
         },
         {
             "text": "TIME",
-            "value": 2
+            "value": 3
         },
         {
             "text": "POSSESION",
@@ -45,143 +45,111 @@
             "value": 2
         },
         {
-            "text": "GOAL",
+            "text": "MELBOURNE",
+            "value": 5
+        },
+        {
+            "text": "DERBY",
+            "value": 1
+        },
+        {
+            "text": "MON",
+            "value": 1
+        },
+        {
+            "text": "BOYS",
+            "value": 1
+        },
+        {
+            "text": "NUMBER",
+            "value": 1
+        },
+        {
+            "text": "AAMI",
             "value": 2
         },
         {
-            "text": "Melbourne",
-            "value": 4
+            "text": "PARK",
+            "value": 2
+        },
+        {
+            "text": "PICTURE",
+            "value": 1
+        },
+        {
+            "text": "PERFECT",
+            "value": 1
+        },
+        {
+            "text": "WESTERN",
+            "value": 1
+        },
+        {
+            "text": "UNITED",
+            "value": 1
+        },
+        {
+            "text": "MACARTHUR",
+            "value": 1
+        },
+        {
+            "text": "FC",
+            "value": 1
+        },
+        {
+            "text": "MILLAR",
+            "value": 1
+        },
+        {
+            "text": "HEAD",
+            "value": 1
+        },
+        {
+            "text": "WALES",
+            "value": 1
         },
         {
             "text": "VIC",
             "value": 1
         },
         {
-            "text": "Football",
+            "text": "FOOTBALL",
             "value": 1
         },
         {
-            "text": "Club",
+            "text": "CLUB",
             "value": 1
         },
         {
-            "text": "Administration",
+            "text": "ADMINISTRATION",
             "value": 1
         },
         {
-            "text": "realise",
+            "text": "REALISE",
             "value": 1
         },
         {
-            "text": "almost",
+            "text": "ALMOST",
             "value": 1
         },
         {
-            "text": "time",
+            "text": "SUIT",
             "value": 1
         },
         {
-            "text": "suit",
+            "text": "GOOD",
             "value": 1
         },
         {
-            "text": "Good",
-            "value": 2
-        },
-        {
-            "text": "night",
+            "text": "NIGHT",
             "value": 1
         },
         {
-            "text": "Bad",
+            "text": "BAD",
             "value": 1
         },
         {
-            "text": "result",
-            "value": 1
-        },
-        {
-            "text": "AAMI",
-            "value": 1
-        },
-        {
-            "text": "Park",
-            "value": 1
-        },
-        {
-            "text": "atmosphere",
-            "value": 1
-        },
-        {
-            "text": "sets",
-            "value": 1
-        },
-        {
-            "text": "fans",
-            "value": 1
-        },
-        {
-            "text": "tonight",
-            "value": 1
-        },
-        {
-            "text": "I'll",
-            "value": 1
-        },
-        {
-            "text": "back",
-            "value": 1
-        },
-        {
-            "text": "Sydney",
-            "value": 2
-        },
-        {
-            "text": "Wanderers",
-            "value": 1
-        },
-        {
-            "text": "Mr",
-            "value": 1
-        },
-        {
-            "text": "ela",
-            "value": 1
-        },
-        {
-            "text": "Seagulls",
-            "value": 1
-        },
-        {
-            "text": "playing",
-            "value": 1
-        },
-        {
-            "text": "formation",
-            "value": 1
-        },
-        {
-            "text": "defense",
-            "value": 1
-        },
-        {
-            "text": "Victory",
-            "value": 1
-        },
-        {
-            "text": "western",
-            "value": 1
-        },
-        {
-            "text": "Wanders",
-            "value": 1
-        },
-        {
-            "text": "Let",
-            "value": 1
-        },
-        {
-            "text": "go",
+            "text": "RESULT",
             "value": 1
         }
     ]

@@ -1,352 +1,160 @@
 {
     "word_freq": [
         {
-            "text": "Hurrah",
+            "text": "HURRAH",
             "value": 1
         },
         {
-            "text": "bringing",
+            "text": "BRINGING",
             "value": 1
         },
         {
-            "text": "us",
+            "text": "GENUINELY",
             "value": 1
         },
         {
-            "text": "genuinely",
+            "text": "WILDLIFE",
+            "value": 1
+        },
+        {
+            "text": "FRIENDLY",
             "value": 2
         },
         {
-            "text": "wildlife",
+            "text": "FARMER",
             "value": 1
         },
         {
-            "text": "friendly",
+            "text": "FABULOUS",
+            "value": 1
+        },
+        {
+            "text": "TASTING",
+            "value": 1
+        },
+        {
+            "text": "COFFEE",
             "value": 2
         },
         {
-            "text": "farmer",
+            "text": "INCREDIBLY",
             "value": 1
         },
         {
-            "text": "fabulous",
+            "text": "THOUGHTFUL",
             "value": 1
         },
         {
-            "text": "tasting",
+            "text": "INITIATIVE",
             "value": 1
         },
         {
-            "text": "coffee",
+            "text": "TRUE",
             "value": 1
         },
         {
-            "text": "Incredibly",
+            "text": "SUSTAINABILITY",
             "value": 1
         },
         {
-            "text": "thoughtful",
+            "text": "THROUGHOUT",
             "value": 1
         },
         {
-            "text": "initiative",
+            "text": "SUPPLY",
             "value": 1
         },
         {
-            "text": "true",
+            "text": "CHAIN",
             "value": 1
         },
         {
-            "text": "sustainability",
+            "text": "TOTALLY",
             "value": 1
         },
         {
-            "text": "throughout",
+            "text": "ENJOY",
             "value": 1
         },
         {
-            "text": "supply",
-            "value": 1
-        },
-        {
-            "text": "chain",
-            "value": 1
-        },
-        {
-            "text": "Coffee",
-            "value": 1
-        },
-        {
-            "text": "totally",
-            "value": 1
-        },
-        {
-            "text": "enjoy",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "Ready",
-            "value": 1
-        },
-        {
-            "text": "another",
-            "value": 1
-        },
-        {
-            "text": "season",
-            "value": 1
-        },
-        {
-            "text": "Massive",
-            "value": 1
-        },
-        {
-            "text": "thanks",
-            "value": 1
-        },
-        {
-            "text": "stuartkranzbuhler",
-            "value": 1
-        },
-        {
-            "text": "justinlampard",
-            "value": 1
-        },
-        {
-            "text": "everyone",
-            "value": 1
-        },
-        {
-            "text": "graynicolls",
-            "value": 1
-        },
-        {
-            "text": "ausnz",
-            "value": 1
-        },
-        {
-            "text": "refurbing",
-            "value": 1
-        },
-        {
-            "text": "beauties",
-            "value": 1
-        },
-        {
-            "text": "Princes",
-            "value": 10
-        },
-        {
-            "text": "Park",
-            "value": 10
-        },
-        {
-            "text": "Full",
-            "value": 1
-        },
-        {
-            "text": "tourists",
-            "value": 1
-        },
-        {
-            "text": "today",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 1
-        },
-        {
-            "text": "Zoo",
-            "value": 1
-        },
-        {
-            "text": "Street",
-            "value": 1
-        },
-        {
-            "text": "iPhone",
+            "text": "THANKS",
             "value": 2
         },
         {
-            "text": "Pro",
+            "text": "READY",
+            "value": 1
+        },
+        {
+            "text": "SEASON",
+            "value": 1
+        },
+        {
+            "text": "MASSIVE",
+            "value": 1
+        },
+        {
+            "text": "STUARTKRANZBUHLER",
+            "value": 1
+        },
+        {
+            "text": "JUSTINLAMPARD",
+            "value": 1
+        },
+        {
+            "text": "EVERYONE",
+            "value": 1
+        },
+        {
+            "text": "GRAYNICOLLS",
+            "value": 1
+        },
+        {
+            "text": "AUSNZ",
+            "value": 1
+        },
+        {
+            "text": "REFURBING",
+            "value": 1
+        },
+        {
+            "text": "BEAUTIES",
+            "value": 1
+        },
+        {
+            "text": "PRINCES",
+            "value": 5
+        },
+        {
+            "text": "PARK",
+            "value": 5
+        },
+        {
+            "text": "FULL",
+            "value": 1
+        },
+        {
+            "text": "TOURISTS",
+            "value": 1
+        },
+        {
+            "text": "TODAY",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 1
+        },
+        {
+            "text": "ZOO",
+            "value": 1
+        },
+        {
+            "text": "IPHONE",
             "value": 2
         },
         {
-            "text": "photo",
+            "text": "PRO",
             "value": 2
-        },
-        {
-            "text": "dump",
-            "value": 2
-        },
-        {
-            "text": "part",
-            "value": 2
-        },
-        {
-            "text": "two",
-            "value": 1
-        },
-        {
-            "text": "one",
-            "value": 2
-        },
-        {
-            "text": "put",
-            "value": 1
-        },
-        {
-            "text": "perspective",
-            "value": 1
-        },
-        {
-            "text": "days",
-            "value": 2
-        },
-        {
-            "text": "ago",
-            "value": 1
-        },
-        {
-            "text": "final",
-            "value": 1
-        },
-        {
-            "text": "class",
-            "value": 2
-        },
-        {
-            "text": "Year",
-            "value": 1
-        },
-        {
-            "text": "told",
-            "value": 2
-        },
-        {
-            "text": "calling",
-            "value": 1
-        },
-        {
-            "text": "AFLW",
-            "value": 2
-        },
-        {
-            "text": "football",
-            "value": 1
-        },
-        {
-            "text": "year",
-            "value": 2
-        },
-        {
-            "text": "later",
-            "value": 1
-        },
-        {
-            "text": "dreaming",
-            "value": 1
-        },
-        {
-            "text": "Taking",
-            "value": 1
-        },
-        {
-            "text": "short",
-            "value": 1
-        },
-        {
-            "text": "moment",
-            "value": 1
-        },
-        {
-            "text": "reflect",
-            "value": 1
-        },
-        {
-            "text": "Today",
-            "value": 1
-        },
-        {
-            "text": "incredible",
-            "value": 1
-        },
-        {
-            "text": "ever",
-            "value": 1
-        },
-        {
-            "text": "call",
-            "value": 2
-        },
-        {
-            "text": "wonderful",
-            "value": 1
-        },
-        {
-            "text": "people",
-            "value": 1
-        },
-        {
-            "text": "marquee",
-            "value": 1
-        },
-        {
-            "text": "round",
-            "value": 1
-        },
-        {
-            "text": "means",
-            "value": 1
-        },
-        {
-            "text": "much",
-            "value": 1
-        },
-        {
-            "text": "Pride",
-            "value": 2
-        },
-        {
-            "text": "Round",
-            "value": 2
-        },
-        {
-            "text": "honour",
-            "value": 1
-        },
-        {
-            "text": "October",
-            "value": 2
-        },
-        {
-            "text": "ESSENDON",
-            "value": 12
-        },
-        {
-            "text": "GO",
-            "value": 2
-        },
-        {
-            "text": "MIGHTY",
-            "value": 2
-        },
-        {
-            "text": "BOMBERS",
-            "value": 2
-        },
-        {
-            "text": "SASH",
-            "value": 2
-        },
-        {
-            "text": "ready",
-            "value": 1
         }
     ]
 }

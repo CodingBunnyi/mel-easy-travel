@@ -1,6 +1,22 @@
 {
-    "count": 37,
+    "count": 33,
     "data": [
+        {
+            "tid": 1583758220774215681,
+            "uid": 2194707014,
+            "author": "Snirt Racing",
+            "user_img": "https://pbs.twimg.com/profile_images/1538484473922297859/6_VD3_zw_normal.jpg",
+            "time": "2022-10-22 09:52:39 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "When you wake up at 4am to watch the @wsxchampionship live from Australia, I think you have a SX addiction. @ Marvel Stadium https://t.co/bRB5TT9Twy",
+            "clean_text": "When you wake up at 4am to watch the live from Australia I think you have a SX addiction Marvel Stadium",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.94868321,
+            "latitude": -37.81695175,
+            "photo_urls": []
+        },
         {
             "tid": 1583363649485164545,
             "uid": 634493633,
@@ -548,88 +564,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfJkgQrVUAAFTU6.jpg"
             ]
-        },
-        {
-            "tid": 1581236368667463681,
-            "uid": 404869728,
-            "author": "น้องตุนมะยอน♡",
-            "user_img": "https://pbs.twimg.com/profile_images/1494529900652367872/2taIEB7O_normal.jpg",
-            "time": "2022-10-15 10:51:42 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "I'm at Madison Tower - Upper West Side in Melbourne, vic https://t.co/P7G68jPpX8",
-            "clean_text": "I'm at Madison Tower Upper West Side in Melbourne vic",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95367113,
-            "latitude": -37.81543253,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581236330054373376,
-            "uid": 404869728,
-            "author": "น้องตุนมะยอน♡",
-            "user_img": "https://pbs.twimg.com/profile_images/1494529900652367872/2taIEB7O_normal.jpg",
-            "time": "2022-10-15 10:51:33 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "I'm at @Coles in Docklands, VIC https://t.co/DaZEOSiVwb",
-            "clean_text": "I'm at in Docklands VIC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.9523105,
-            "latitude": -37.81491327,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581173035171983366,
-            "uid": 404869728,
-            "author": "น้องตุนมะยอน♡",
-            "user_img": "https://pbs.twimg.com/profile_images/1494529900652367872/2taIEB7O_normal.jpg",
-            "time": "2022-10-15 06:40:03 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "I'm at @NandosAus in Melbourne, VIC https://t.co/DBirb6753W",
-            "clean_text": "I'm at in Melbourne VIC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95558396,
-            "latitude": -37.81583,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581102890889773056,
-            "uid": 295995883,
-            "author": "Donna 🐄💖 🐯🏆🏆🏆💛🖤",
-            "user_img": "https://pbs.twimg.com/profile_images/1559289659431063552/8To-ENyt_normal.jpg",
-            "time": "2022-10-15 02:01:19 +0000",
-            "like_no": 4,
-            "language": "en",
-            "text": "It's been a big couple of weeks \nAlmost home ! https://t.co/1RZe7UkDjR",
-            "clean_text": "It's been a big couple of weeks Almost home",
-            "place_name": "Southern Cross Station",
-            "place_type": "poi",
-            "longitude": 144.95293193097913,
-            "latitude": -37.81789991565541,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfE0sRfVsAAeZVx.jpg"
-            ]
-        },
-        {
-            "tid": 1581081654465990656,
-            "uid": 93532074,
-            "author": "James 'Mr Galileo' Alexander",
-            "user_img": "https://pbs.twimg.com/profile_images/1487907920570302464/yn-YLJ1i_normal.jpg",
-            "time": "2022-10-15 00:36:56 +0000",
-            "like_no": 1,
-            "language": "en",
-            "text": "I find it interesting how in Melb and Syd these days ‘fine brunch’ is replacing fine dining/dinner..",
-            "clean_text": "I find it interesting how in Melb and Syd these days fine brunch is replacing fine dining dinner",
-            "place_name": "Higher Ground",
-            "place_type": "poi",
-            "longitude": 144.953028561221,
-            "latitude": -37.81599506329736,
-            "photo_urls": []
         }
     ]
 }

@@ -1,207 +1,275 @@
 {
     "word_freq": [
         {
-            "text": "Hareruya",
+            "text": "CASE",
             "value": 1
         },
         {
-            "text": "Pantry",
+            "text": "PAKISTANI",
             "value": 1
         },
         {
-            "text": "Carlton",
-            "value": 3
+            "text": "PLAYERS",
+            "value": 1
+        },
+        {
+            "text": "LOOKING",
+            "value": 1
+        },
+        {
+            "text": "SUGGESTIONS",
+            "value": 1
+        },
+        {
+            "text": "GOOD",
+            "value": 2
+        },
+        {
+            "text": "BURGER",
+            "value": 1
+        },
+        {
+            "text": "PLACE",
+            "value": 1
+        },
+        {
+            "text": "TOWN",
+            "value": 1
+        },
+        {
+            "text": "TONIGHT",
+            "value": 1
+        },
+        {
+            "text": "PRETTY",
+            "value": 2
+        },
+        {
+            "text": "DAMN",
+            "value": 1
+        },
+        {
+            "text": "SATURDAY",
+            "value": 1
+        },
+        {
+            "text": "COOL",
+            "value": 2
+        },
+        {
+            "text": "KIDS",
+            "value": 1
+        },
+        {
+            "text": "PLAY",
+            "value": 1
+        },
+        {
+            "text": "ARTS",
+            "value": 1
+        },
+        {
+            "text": "RIGHT",
+            "value": 1
+        },
+        {
+            "text": "TOOK",
+            "value": 1
+        },
+        {
+            "text": "TRIP",
+            "value": 1
+        },
+        {
+            "text": "SPIRITUAL",
+            "value": 1
+        },
+        {
+            "text": "HOME",
+            "value": 1
+        },
+        {
+            "text": "HARERUYA",
+            "value": 1
+        },
+        {
+            "text": "PANTRY",
+            "value": 1
+        },
+        {
+            "text": "CARLTON",
+            "value": 2
         },
         {
             "text": "VIC",
             "value": 2
         },
         {
-            "text": "nice",
+            "text": "NICE",
             "value": 1
         },
         {
-            "text": "way",
+            "text": "WAY",
             "value": 1
         },
         {
-            "text": "conclude",
+            "text": "CONCLUDE",
             "value": 1
         },
         {
-            "text": "Machine",
+            "text": "MACHINE",
             "value": 1
         },
         {
-            "text": "Learning",
+            "text": "LEARNING",
             "value": 3
         },
         {
-            "text": "Applications",
+            "text": "APPLICATIONS",
             "value": 1
         },
         {
-            "text": "Health",
+            "text": "HEALTH",
             "value": 1
         },
         {
-            "text": "course",
+            "text": "COURSE",
             "value": 2
         },
         {
-            "text": "immersive",
+            "text": "IMMERSIVE",
             "value": 1
         },
         {
-            "text": "space",
+            "text": "SPACE",
             "value": 1
         },
         {
-            "text": "honor",
+            "text": "HONOR",
             "value": 1
         },
         {
-            "text": "Tutor",
+            "text": "TUTOR",
             "value": 1
         },
         {
-            "text": "team",
+            "text": "TEAM",
             "value": 1
         },
         {
-            "text": "world's",
+            "text": "WORLD'S",
             "value": 1
         },
         {
-            "text": "best",
+            "text": "BEST",
             "value": 1
         },
         {
-            "text": "cricket",
+            "text": "CRICKET",
             "value": 1
         },
         {
-            "text": "photographer",
+            "text": "PHOTOGRAPHER",
             "value": 1
         },
         {
-            "text": "king",
+            "text": "KING",
             "value": 1
         },
         {
-            "text": "Facebook",
+            "text": "FACEBOOK",
             "value": 1
         },
         {
-            "text": "Pretty",
+            "text": "SHOWING",
             "value": 1
         },
         {
-            "text": "day",
+            "text": "VISITORS",
+            "value": 1
+        },
+        {
+            "text": "AROUND",
+            "value": 1
+        },
+        {
+            "text": "CAMPUS",
+            "value": 1
+        },
+        {
+            "text": "EXCITED",
+            "value": 1
+        },
+        {
+            "text": "NEXT",
+            "value": 1
+        },
+        {
+            "text": "MANY",
+            "value": 1
+        },
+        {
+            "text": "CROSS",
+            "value": 1
+        },
+        {
+            "text": "OVERS",
+            "value": 1
+        },
+        {
+            "text": "COLLECTIVE",
+            "value": 1
+        },
+        {
+            "text": "WORK",
+            "value": 1
+        },
+        {
+            "text": "BUZZING",
+            "value": 1
+        },
+        {
+            "text": "LAUNCH",
             "value": 2
         },
         {
-            "text": "showing",
-            "value": 1
+            "text": "WHITENESS",
+            "value": 4
         },
         {
-            "text": "visitors",
-            "value": 1
-        },
-        {
-            "text": "around",
-            "value": 1
-        },
-        {
-            "text": "campus",
-            "value": 1
-        },
-        {
-            "text": "Excited",
-            "value": 1
-        },
-        {
-            "text": "next",
-            "value": 1
-        },
-        {
-            "text": "year",
-            "value": 1
-        },
-        {
-            "text": "many",
-            "value": 1
-        },
-        {
-            "text": "cross",
-            "value": 1
-        },
-        {
-            "text": "overs",
-            "value": 1
-        },
-        {
-            "text": "collective",
-            "value": 1
-        },
-        {
-            "text": "work",
-            "value": 1
-        },
-        {
-            "text": "Still",
-            "value": 1
-        },
-        {
-            "text": "buzzing",
-            "value": 1
-        },
-        {
-            "text": "launch",
+            "text": "EDUCATION",
             "value": 2
         },
         {
-            "text": "Whiteness",
-            "value": 3
-        },
-        {
-            "text": "Education",
+            "text": "SETTLER",
             "value": 2
         },
         {
-            "text": "Settler",
+            "text": "COLONIAL",
             "value": 2
         },
         {
-            "text": "Colonial",
+            "text": "STATE",
             "value": 2
         },
         {
-            "text": "State",
-            "value": 2
-        },
-        {
-            "text": "key",
+            "text": "KEY",
             "value": 1
         },
         {
-            "text": "exploration",
+            "text": "EXPLORATION",
             "value": 1
         },
         {
-            "text": "whiteness",
+            "text": "TAUGHT",
             "value": 1
         },
         {
-            "text": "taught",
+            "text": "LOVELY",
             "value": 1
         },
         {
-            "text": "Lovely",
-            "value": 1
-        },
-        {
-            "text": "meet",
+            "text": "MEET",
             "value": 1
         },
         {
@@ -209,307 +277,199 @@
             "value": 1
         },
         {
-            "text": "learned",
+            "text": "LEARNED",
             "value": 1
         },
         {
-            "text": "Let",
+            "text": "TALK",
             "value": 1
         },
         {
-            "text": "talk",
+            "text": "UNLEARN",
             "value": 1
         },
         {
-            "text": "unlearn",
+            "text": "ALSO",
             "value": 1
         },
         {
-            "text": "Also",
+            "text": "PANEL",
             "value": 1
         },
         {
-            "text": "panel",
+            "text": "EMMA",
             "value": 1
         },
         {
-            "text": "Emma",
+            "text": "KEFFORD",
             "value": 1
         },
         {
-            "text": "Kefford",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
-            "value": 4
-        },
-        {
-            "text": "Victoria",
+            "text": "MELBOURNE",
             "value": 2
         },
         {
-            "text": "Argyle",
-            "value": 3
-        },
-        {
-            "text": "Square",
-            "value": 3
-        },
-        {
-            "text": "Swimming",
+            "text": "VICTORIA",
             "value": 1
         },
         {
-            "text": "short",
+            "text": "ARGYLE",
             "value": 1
         },
         {
-            "text": "pool",
+            "text": "SQUARE",
             "value": 1
         },
         {
-            "text": "makes",
+            "text": "SWIMMING",
             "value": 1
         },
         {
-            "text": "feel",
+            "text": "SHORT",
             "value": 1
         },
         {
-            "text": "like",
+            "text": "POOL",
             "value": 1
         },
         {
-            "text": "absolute",
+            "text": "MAKES",
             "value": 1
         },
         {
-            "text": "hero",
+            "text": "FEEL",
             "value": 1
         },
         {
-            "text": "second",
+            "text": "LIKE",
             "value": 1
         },
         {
-            "text": "laps",
+            "text": "ABSOLUTE",
             "value": 1
         },
         {
-            "text": "pure",
+            "text": "HERO",
             "value": 1
         },
         {
-            "text": "Olympian",
+            "text": "SECOND",
             "value": 1
         },
         {
-            "text": "stuff",
+            "text": "LAPS",
             "value": 1
         },
         {
-            "text": "posted",
+            "text": "PURE",
             "value": 1
         },
         {
-            "text": "photo",
+            "text": "OLYMPIAN",
             "value": 1
         },
         {
-            "text": "Internal",
+            "text": "STUFF",
             "value": 1
         },
         {
-            "text": "Flux",
+            "text": "PHOTO",
             "value": 1
         },
         {
-            "text": "Studios",
+            "text": "INTERNAL",
             "value": 1
         },
         {
-            "text": "City",
+            "text": "FLUX",
             "value": 1
         },
         {
-            "text": "Mart",
+            "text": "STUDIOS",
             "value": 1
         },
         {
-            "text": "Asian",
+            "text": "CITY",
             "value": 1
         },
         {
-            "text": "Grocery",
+            "text": "MART",
             "value": 1
         },
         {
-            "text": "One",
+            "text": "ASIAN",
             "value": 1
         },
         {
-            "text": "everything",
+            "text": "GROCERY",
             "value": 1
         },
         {
-            "text": "Seven",
+            "text": "EVERYTHING",
             "value": 1
         },
         {
-            "text": "Seeds",
+            "text": "SEVEN",
             "value": 1
         },
         {
-            "text": "Sunday",
+            "text": "SEEDS",
             "value": 1
         },
         {
-            "text": "night",
+            "text": "SUNDAY",
             "value": 1
         },
         {
-            "text": "dinners",
+            "text": "NIGHT",
             "value": 1
         },
         {
-            "text": "ice",
+            "text": "DINNERS",
             "value": 1
         },
         {
-            "text": "creams",
+            "text": "ICE",
             "value": 1
         },
         {
-            "text": "Post",
+            "text": "CREAMS",
             "value": 1
         },
         {
-            "text": "show",
+            "text": "SHOW",
             "value": 1
         },
         {
-            "text": "feed",
+            "text": "FEED",
             "value": 1
         },
         {
-            "text": "Day",
+            "text": "LAST",
             "value": 1
         },
         {
-            "text": "last",
-            "value": 2
-        },
-        {
-            "text": "weekend",
+            "text": "WEEKEND",
             "value": 1
         },
         {
-            "text": "Ultra",
+            "text": "ULTRA",
             "value": 1
         },
         {
-            "text": "elegant",
+            "text": "ELEGANT",
             "value": 1
         },
         {
-            "text": "former",
+            "text": "FORMER",
             "value": 1
         },
         {
-            "text": "warehouse",
+            "text": "WAREHOUSE",
             "value": 1
         },
         {
-            "text": "Lygon",
-            "value": 2
-        },
-        {
-            "text": "Street",
-            "value": 2
-        },
-        {
-            "text": "Fringe",
-            "value": 1
-        },
-        {
-            "text": "Festival",
-            "value": 1
-        },
-        {
-            "text": "Block",
-            "value": 1
-        },
-        {
-            "text": "Party",
-            "value": 1
-        },
-        {
-            "text": "15th",
-            "value": 1
-        },
-        {
-            "text": "October",
-            "value": 1
-        },
-        {
-            "text": "interacting",
-            "value": 1
-        },
-        {
-            "text": "things",
-            "value": 1
-        },
-        {
-            "text": "science",
-            "value": 1
-        },
-        {
-            "text": "friend",
-            "value": 1
-        },
-        {
-            "text": "Science",
-            "value": 1
-        },
-        {
-            "text": "Gallery",
-            "value": 1
-        },
-        {
-            "text": "Discipline",
-            "value": 1
-        },
-        {
-            "text": "Coffee",
-            "value": 1
-        },
-        {
-            "text": "croissant",
-            "value": 1
-        },
-        {
-            "text": "workshop",
-            "value": 1
-        },
-        {
-            "text": "friendly",
-            "value": 1
-        },
-        {
-            "text": "right",
-            "value": 1
-        },
-        {
-            "text": "guys",
-            "value": 1
-        },
-        {
-            "text": "Woodside",
-            "value": 1
-        },
-        {
-            "text": "Green",
+            "text": "LYGON",
             "value": 1
         }
     ]

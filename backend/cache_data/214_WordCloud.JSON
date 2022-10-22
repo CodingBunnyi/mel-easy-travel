@@ -1,75 +1,59 @@
 {
     "word_freq": [
         {
-            "text": "Vegemite",
+            "text": "VEGEMITE",
             "value": 1
         },
         {
-            "text": "smells",
+            "text": "SMELLS",
             "value": 1
         },
         {
-            "text": "ripe",
+            "text": "RIPE",
             "value": 1
         },
         {
-            "text": "today",
+            "text": "TODAY",
             "value": 1
         },
         {
-            "text": "West",
-            "value": 4
+            "text": "WEST",
+            "value": 1
         },
         {
-            "text": "Gate",
-            "value": 3
+            "text": "GATE",
+            "value": 1
         },
         {
-            "text": "Fwy",
-            "value": 3
+            "text": "FWY",
+            "value": 1
         },
         {
             "text": "M1",
-            "value": 3
-        },
-        {
-            "text": "Port",
-            "value": 3
-        },
-        {
-            "text": "Melbourne",
-            "value": 3
-        },
-        {
-            "text": "lanes",
-            "value": 6
-        },
-        {
-            "text": "closed",
-            "value": 6
-        },
-        {
-            "text": "outbound",
-            "value": 2
-        },
-        {
-            "text": "Two",
-            "value": 2
-        },
-        {
-            "text": "left",
             "value": 1
         },
         {
-            "text": "inbound",
+            "text": "PORT",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 1
+        },
+        {
+            "text": "LANES",
             "value": 2
         },
         {
-            "text": "citybound",
+            "text": "CLOSED",
             "value": 2
         },
         {
-            "text": "Three",
+            "text": "OUTBOUND",
+            "value": 2
+        },
+        {
+            "text": "LEFT",
             "value": 1
         }
     ]

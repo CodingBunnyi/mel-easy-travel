@@ -1,111 +1,167 @@
 {
     "word_freq": [
         {
-            "text": "Hurrah",
+            "text": "MIXED",
             "value": 1
         },
         {
-            "text": "bringing",
+            "text": "INDOOR",
             "value": 1
         },
         {
-            "text": "us",
+            "text": "GOOD",
             "value": 1
         },
         {
-            "text": "genuinely",
+            "text": "WIN",
             "value": 1
         },
         {
-            "text": "wildlife",
-            "value": 1
-        },
-        {
-            "text": "friendly",
+            "text": "TODAY",
             "value": 2
         },
         {
-            "text": "farmer",
+            "text": "TEAM",
             "value": 1
         },
         {
-            "text": "fabulous",
+            "text": "THRILLED",
             "value": 1
         },
         {
-            "text": "tasting",
+            "text": "COACHED",
             "value": 1
         },
         {
-            "text": "coffee",
+            "text": "PRESIDENT",
             "value": 1
         },
         {
-            "text": "Incredibly",
+            "text": "AWARD",
             "value": 1
         },
         {
-            "text": "thoughtful",
+            "text": "RECIPIENTS",
             "value": 1
         },
         {
-            "text": "initiative",
+            "text": "ONYA",
             "value": 1
         },
         {
-            "text": "true",
+            "text": "HUEY",
             "value": 1
         },
         {
-            "text": "sustainability",
+            "text": "ELI",
             "value": 1
         },
         {
-            "text": "throughout",
+            "text": "FUTURE",
             "value": 1
         },
         {
-            "text": "supply",
+            "text": "HOCKEY",
             "value": 1
         },
         {
-            "text": "chain",
+            "text": "BRIGHT",
             "value": 1
         },
         {
-            "text": "Coffee",
+            "text": "HURRAH",
             "value": 1
         },
         {
-            "text": "totally",
+            "text": "BRINGING",
             "value": 1
         },
         {
-            "text": "enjoy",
+            "text": "GENUINELY",
             "value": 1
         },
         {
-            "text": "Thanks",
+            "text": "WILDLIFE",
             "value": 1
         },
         {
-            "text": "Full",
+            "text": "FRIENDLY",
+            "value": 2
+        },
+        {
+            "text": "FARMER",
             "value": 1
         },
         {
-            "text": "tourists",
+            "text": "FABULOUS",
             "value": 1
         },
         {
-            "text": "today",
+            "text": "TASTING",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "COFFEE",
+            "value": 2
+        },
+        {
+            "text": "INCREDIBLY",
             "value": 1
         },
         {
-            "text": "Zoo",
+            "text": "THOUGHTFUL",
+            "value": 1
+        },
+        {
+            "text": "INITIATIVE",
+            "value": 1
+        },
+        {
+            "text": "TRUE",
+            "value": 1
+        },
+        {
+            "text": "SUSTAINABILITY",
+            "value": 1
+        },
+        {
+            "text": "THROUGHOUT",
+            "value": 1
+        },
+        {
+            "text": "SUPPLY",
+            "value": 1
+        },
+        {
+            "text": "CHAIN",
+            "value": 1
+        },
+        {
+            "text": "TOTALLY",
+            "value": 1
+        },
+        {
+            "text": "ENJOY",
+            "value": 1
+        },
+        {
+            "text": "THANKS",
+            "value": 1
+        },
+        {
+            "text": "FULL",
+            "value": 1
+        },
+        {
+            "text": "TOURISTS",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 1
+        },
+        {
+            "text": "ZOO",
             "value": 1
         }
     ]

@@ -1,271 +1,163 @@
 {
     "word_freq": [
         {
-            "text": "Victoria",
+            "text": "CASE",
             "value": 1
         },
         {
-            "text": "St",
+            "text": "PAKISTANI",
             "value": 1
         },
         {
-            "text": "North",
+            "text": "PLAYERS",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "LOOKING",
+            "value": 1
+        },
+        {
+            "text": "SUGGESTIONS",
+            "value": 1
+        },
+        {
+            "text": "GOOD",
             "value": 2
         },
         {
-            "text": "lanes",
+            "text": "BURGER",
             "value": 1
         },
         {
-            "text": "closed",
+            "text": "PLACE",
+            "value": 1
+        },
+        {
+            "text": "TOWN",
+            "value": 1
+        },
+        {
+            "text": "TONIGHT",
+            "value": 1
+        },
+        {
+            "text": "PRETTY",
+            "value": 1
+        },
+        {
+            "text": "DAMN",
+            "value": 1
+        },
+        {
+            "text": "VICTORIA",
+            "value": 1
+        },
+        {
+            "text": "NORTH",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
             "value": 2
         },
         {
-            "text": "westbound",
+            "text": "LANES",
+            "value": 1
+        },
+        {
+            "text": "CLOSED",
             "value": 2
         },
         {
-            "text": "Left",
+            "text": "WESTBOUND",
+            "value": 2
+        },
+        {
+            "text": "LEFT",
             "value": 1
         },
         {
-            "text": "lane",
+            "text": "LANE",
             "value": 1
         },
         {
-            "text": "Peel",
+            "text": "PEEL",
             "value": 1
         },
         {
-            "text": "Street",
+            "text": "DUE",
             "value": 1
         },
         {
-            "text": "due",
+            "text": "MISS",
             "value": 1
         },
         {
-            "text": "Miss",
+            "text": "WILLOW",
             "value": 1
         },
         {
-            "text": "Willow",
+            "text": "GRACE",
             "value": 1
         },
         {
-            "text": "Grace",
+            "text": "LOVED",
             "value": 1
         },
         {
-            "text": "loved",
+            "text": "CUDDLES",
             "value": 1
         },
         {
-            "text": "cuddles",
+            "text": "AUNTY",
             "value": 1
         },
         {
-            "text": "aunty",
+            "text": "MADDIE",
             "value": 1
         },
         {
-            "text": "Maddie",
+            "text": "EVERYTHING",
             "value": 1
         },
         {
-            "text": "week",
+            "text": "SEVEN",
             "value": 1
         },
         {
-            "text": "One",
+            "text": "SEEDS",
             "value": 1
         },
         {
-            "text": "everything",
+            "text": "SHOW",
             "value": 1
         },
         {
-            "text": "Seven",
+            "text": "FEED",
             "value": 1
         },
         {
-            "text": "Seeds",
+            "text": "LAST",
             "value": 1
         },
         {
-            "text": "Post",
+            "text": "WEEKEND",
             "value": 1
         },
         {
-            "text": "show",
-            "value": 1
-        },
-        {
-            "text": "feed",
-            "value": 1
-        },
-        {
-            "text": "Day",
-            "value": 1
-        },
-        {
-            "text": "last",
-            "value": 1
-        },
-        {
-            "text": "day",
-            "value": 1
-        },
-        {
-            "text": "weekend",
-            "value": 1
-        },
-        {
-            "text": "Queen",
-            "value": 1
-        },
-        {
-            "text": "Vic",
-            "value": 1
-        },
-        {
-            "text": "Pet",
-            "value": 1
-        },
-        {
-            "text": "Shop",
+            "text": "QUEEN",
             "value": 1
         },
         {
             "text": "VIC",
+            "value": 2
+        },
+        {
+            "text": "PET",
             "value": 1
         },
         {
-            "text": "Amazing",
-            "value": 1
-        },
-        {
-            "text": "bread",
-            "value": 1
-        },
-        {
-            "text": "croissants",
-            "value": 1
-        },
-        {
-            "text": "breadclubofficial",
-            "value": 1
-        },
-        {
-            "text": "Like",
-            "value": 1
-        },
-        {
-            "text": "France",
-            "value": 1
-        },
-        {
-            "text": "Well",
-            "value": 1
-        },
-        {
-            "text": "done",
-            "value": 1
-        },
-        {
-            "text": "Brice",
-            "value": 1
-        },
-        {
-            "text": "et",
-            "value": 1
-        },
-        {
-            "text": "Tim",
-            "value": 1
-        },
-        {
-            "text": "good",
-            "value": 1
-        },
-        {
-            "text": "Bread",
-            "value": 1
-        },
-        {
-            "text": "Club",
-            "value": 1
-        },
-        {
-            "text": "Tasty",
-            "value": 1
-        },
-        {
-            "text": "RIPA",
-            "value": 1
-        },
-        {
-            "text": "Cheers",
-            "value": 1
-        },
-        {
-            "text": "Drinking",
-            "value": 1
-        },
-        {
-            "text": "King",
-            "value": 1
-        },
-        {
-            "text": "River",
-            "value": 1
-        },
-        {
-            "text": "Red",
-            "value": 1
-        },
-        {
-            "text": "IPA",
-            "value": 1
-        },
-        {
-            "text": "Tantric",
-            "value": 1
-        },
-        {
-            "text": "Sexuality",
-            "value": 1
-        },
-        {
-            "text": "Coaching",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "Peter",
-            "value": 1
-        },
-        {
-            "text": "MacCallum",
-            "value": 1
-        },
-        {
-            "text": "Cancer",
-            "value": 1
-        },
-        {
-            "text": "Centre",
+            "text": "SHOP",
             "value": 1
         }
     ]

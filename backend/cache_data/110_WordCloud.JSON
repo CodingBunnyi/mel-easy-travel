@@ -1,67 +1,63 @@
 {
     "word_freq": [
         {
-            "text": "Awesome",
+            "text": "AWESOME",
             "value": 1
         },
         {
-            "text": "make",
+            "text": "SHOW",
             "value": 1
         },
         {
-            "text": "show",
+            "text": "GOOD",
             "value": 1
         },
         {
-            "text": "good",
+            "text": "HEAD",
             "value": 1
         },
         {
-            "text": "head",
+            "text": "ALONG",
             "value": 1
         },
         {
-            "text": "along",
+            "text": "OLD",
             "value": 1
         },
         {
-            "text": "old",
+            "text": "BUDDY",
             "value": 1
         },
         {
-            "text": "buddy",
+            "text": "DISTRICT",
             "value": 1
         },
         {
-            "text": "District",
-            "value": 1
-        },
-        {
-            "text": "Docklands",
+            "text": "DOCKLANDS",
             "value": 3
         },
         {
-            "text": "Khadijah",
+            "text": "KHADIJAH",
             "value": 1
         },
         {
-            "text": "birthday",
+            "text": "BIRTHDAY",
             "value": 1
         },
         {
-            "text": "Archie",
+            "text": "ARCHIE",
             "value": 1
         },
         {
-            "text": "Brothers",
+            "text": "BROTHERS",
             "value": 1
         },
         {
-            "text": "Cirque",
+            "text": "CIRQUE",
             "value": 1
         },
         {
-            "text": "Electriq",
+            "text": "ELECTRIQ",
             "value": 1
         },
         {
@@ -69,23 +65,23 @@
             "value": 2
         },
         {
-            "text": "Thai",
+            "text": "THAI",
             "value": 1
         },
         {
-            "text": "late",
+            "text": "LATE",
             "value": 1
         },
         {
-            "text": "lunch",
+            "text": "LUNCH",
             "value": 1
         },
         {
-            "text": "Miss",
+            "text": "MISS",
             "value": 1
         },
         {
-            "text": "Ping",
+            "text": "PING",
             "value": 1
         }
     ]

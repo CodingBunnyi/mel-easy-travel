@@ -1,19 +1,587 @@
 {
     "word_freq": [
         {
-            "text": "10pm",
+            "text": "GOOD",
+            "value": 3
+        },
+        {
+            "text": "LUCK",
             "value": 1
         },
         {
-            "text": "Melbourne",
+            "text": "PAKISTANI",
+            "value": 1
+        },
+        {
+            "text": "TIGERS",
+            "value": 1
+        },
+        {
+            "text": "WORLD",
             "value": 4
         },
         {
-            "text": "Started",
+            "text": "CUP",
+            "value": 2
+        },
+        {
+            "text": "BATTLE",
             "value": 1
         },
         {
-            "text": "pouring",
+            "text": "ARCH",
+            "value": 1
+        },
+        {
+            "text": "RIVALS",
+            "value": 1
+        },
+        {
+            "text": "TOMORROW",
+            "value": 7
+        },
+        {
+            "text": "GO",
+            "value": 2
+        },
+        {
+            "text": "NATION",
+            "value": 1
+        },
+        {
+            "text": "PROUD",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 6
+        },
+        {
+            "text": "CRICKET",
+            "value": 1
+        },
+        {
+            "text": "GROUND",
+            "value": 1
+        },
+        {
+            "text": "MCG",
+            "value": 6
+        },
+        {
+            "text": "VIRAT",
+            "value": 2
+        },
+        {
+            "text": "KOHLI",
+            "value": 3
+        },
+        {
+            "text": "KL",
+            "value": 1
+        },
+        {
+            "text": "RAHUL",
+            "value": 2
+        },
+        {
+            "text": "INTENSE",
+            "value": 2
+        },
+        {
+            "text": "NET",
+            "value": 1
+        },
+        {
+            "text": "SESSION",
+            "value": 2
+        },
+        {
+            "text": "SEEMED",
+            "value": 1
+        },
+        {
+            "text": "RELAXED",
+            "value": 1
+        },
+        {
+            "text": "POSITIVE",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 5
+        },
+        {
+            "text": "GAME",
+            "value": 6
+        },
+        {
+            "text": "PAKISTAN",
+            "value": 5
+        },
+        {
+            "text": "HARDIK",
+            "value": 1
+        },
+        {
+            "text": "PANDYA",
+            "value": 2
+        },
+        {
+            "text": "LONG",
+            "value": 1
+        },
+        {
+            "text": "CONVERSATION",
+            "value": 1
+        },
+        {
+            "text": "FACED",
+            "value": 1
+        },
+        {
+            "text": "APPLAUDED",
+            "value": 1
+        },
+        {
+            "text": "FIERY",
+            "value": 1
+        },
+        {
+            "text": "SPELL",
+            "value": 1
+        },
+        {
+            "text": "NETS",
+            "value": 3
+        },
+        {
+            "text": "TAME",
+            "value": 1
+        },
+        {
+            "text": "IMPALA",
+            "value": 1
+        },
+        {
+            "text": "TAKE",
+            "value": 1
+        },
+        {
+            "text": "BIT",
+            "value": 1
+        },
+        {
+            "text": "FINALLY",
+            "value": 3
+        },
+        {
+            "text": "THANK",
+            "value": 1
+        },
+        {
+            "text": "IDR",
+            "value": 1
+        },
+        {
+            "text": "SMILED",
+            "value": 1
+        },
+        {
+            "text": "LIFE",
+            "value": 1
+        },
+        {
+            "text": "MET",
+            "value": 2
+        },
+        {
+            "text": "SEVEN",
+            "value": 1
+        },
+        {
+            "text": "BACK",
+            "value": 1
+        },
+        {
+            "text": "PLACE",
+            "value": 2
+        },
+        {
+            "text": "FUNCTIONAL",
+            "value": 1
+        },
+        {
+            "text": "SINCE",
+            "value": 1
+        },
+        {
+            "text": "SET",
+            "value": 2
+        },
+        {
+            "text": "CLASH",
+            "value": 1
+        },
+        {
+            "text": "BRING",
+            "value": 1
+        },
+        {
+            "text": "MANAGED",
+            "value": 1
+        },
+        {
+            "text": "HOLD",
+            "value": 1
+        },
+        {
+            "text": "DETERMINED",
+            "value": 1
+        },
+        {
+            "text": "NAIL",
+            "value": 1
+        },
+        {
+            "text": "BITING",
+            "value": 1
+        },
+        {
+            "text": "WIN",
+            "value": 2
+        },
+        {
+            "text": "JOHN",
+            "value": 4
+        },
+        {
+            "text": "CAIN",
+            "value": 4
+        },
+        {
+            "text": "ARENA",
+            "value": 5
+        },
+        {
+            "text": "WEATHER",
+            "value": 4
+        },
+        {
+            "text": "PREDICATION",
+            "value": 1
+        },
+        {
+            "text": "GONE",
+            "value": 1
+        },
+        {
+            "text": "INCREASING",
+            "value": 1
+        },
+        {
+            "text": "SHOWERS",
+            "value": 1
+        },
+        {
+            "text": "CLOUDY",
+            "value": 1
+        },
+        {
+            "text": "SHOWER",
+            "value": 2
+        },
+        {
+            "text": "AFTERNOON",
+            "value": 2
+        },
+        {
+            "text": "INDIA",
+            "value": 6
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
+            "text": "KING",
+            "value": 3
+        },
+        {
+            "text": "WATCH",
+            "value": 2
+        },
+        {
+            "text": "PRACTICING",
+            "value": 1
+        },
+        {
+            "text": "DINNER",
+            "value": 1
+        },
+        {
+            "text": "BIRYANI",
+            "value": 1
+        },
+        {
+            "text": "RUIN",
+            "value": 1
+        },
+        {
+            "text": "PTI",
+            "value": 1
+        },
+        {
+            "text": "SUPPORTERS",
+            "value": 1
+        },
+        {
+            "text": "CHANTING",
+            "value": 1
+        },
+        {
+            "text": "IK",
+            "value": 1
+        },
+        {
+            "text": "SLOGANS",
+            "value": 1
+        },
+        {
+            "text": "PAK",
+            "value": 2
+        },
+        {
+            "text": "IND",
+            "value": 1
+        },
+        {
+            "text": "BLOCKBUSTER",
+            "value": 1
+        },
+        {
+            "text": "SUN",
+            "value": 4
+        },
+        {
+            "text": "HOPE",
+            "value": 1
+        },
+        {
+            "text": "FULL",
+            "value": 2
+        },
+        {
+            "text": "MATCH",
+            "value": 2
+        },
+        {
+            "text": "GETTING",
+            "value": 2
+        },
+        {
+            "text": "BETTER",
+            "value": 1
+        },
+        {
+            "text": "HIGH",
+            "value": 1
+        },
+        {
+            "text": "TIME",
+            "value": 2
+        },
+        {
+            "text": "CAPTAIN",
+            "value": 4
+        },
+        {
+            "text": "ROHIT",
+            "value": 6
+        },
+        {
+            "text": "SHARMA",
+            "value": 6
+        },
+        {
+            "text": "STARTS",
+            "value": 1
+        },
+        {
+            "text": "PRESS",
+            "value": 2
+        },
+        {
+            "text": "CONFERENCE",
+            "value": 2
+        },
+        {
+            "text": "ADMITTING",
+            "value": 1
+        },
+        {
+            "text": "NERVOUS",
+            "value": 1
+        },
+        {
+            "text": "BEGIN",
+            "value": 1
+        },
+        {
+            "text": "MINUTES",
+            "value": 1
+        },
+        {
+            "text": "UPDATES",
+            "value": 1
+        },
+        {
+            "text": "INDIAN",
+            "value": 1
+        },
+        {
+            "text": "TRICOLOUR",
+            "value": 1
+        },
+        {
+            "text": "AHEAD",
+            "value": 2
+        },
+        {
+            "text": "COVERS",
+            "value": 1
+        },
+        {
+            "text": "MORNING",
+            "value": 2
+        },
+        {
+            "text": "EVERYONE",
+            "value": 1
+        },
+        {
+            "text": "VIEW",
+            "value": 1
+        },
+        {
+            "text": "OUTSIDE",
+            "value": 1
+        },
+        {
+            "text": "1PM",
+            "value": 1
+        },
+        {
+            "text": "FORECAST",
+            "value": 1
+        },
+        {
+            "text": "IMPROVED",
+            "value": 1
+        },
+        {
+            "text": "MASSIVELY",
+            "value": 1
+        },
+        {
+            "text": "RAIN",
+            "value": 2
+        },
+        {
+            "text": "EXPECTED",
+            "value": 1
+        },
+        {
+            "text": "MONDAY",
+            "value": 2
+        },
+        {
+            "text": "YES",
+            "value": 1
+        },
+        {
+            "text": "READ",
+            "value": 1
+        },
+        {
+            "text": "STOPPED",
+            "value": 2
+        },
+        {
+            "text": "RAINING",
+            "value": 2
+        },
+        {
+            "text": "COVER",
+            "value": 1
+        },
+        {
+            "text": "ALWAYS",
+            "value": 1
+        },
+        {
+            "text": "WORTH",
+            "value": 1
+        },
+        {
+            "text": "WORKING",
+            "value": 1
+        },
+        {
+            "text": "PLEASURE",
+            "value": 1
+        },
+        {
+            "text": "MEETING",
+            "value": 1
+        },
+        {
+            "text": "SIR",
+            "value": 1
+        },
+        {
+            "text": "NASEEM",
+            "value": 1
+        },
+        {
+            "text": "SHAH",
+            "value": 1
+        },
+        {
+            "text": "RATTLED",
+            "value": 1
+        },
+        {
+            "text": "BABAR",
+            "value": 2
+        },
+        {
+            "text": "AZAM",
+            "value": 2
+        },
+        {
+            "text": "RIZWAN",
+            "value": 1
+        },
+        {
+            "text": "KID",
+            "value": 1
+        },
+        {
+            "text": "STAR",
+            "value": 1
+        },
+        {
+            "text": "10PM",
+            "value": 1
+        },
+        {
+            "text": "STARTED",
+            "value": 1
+        },
+        {
+            "text": "POURING",
             "value": 2
         },
         {
@@ -21,7 +589,7 @@
             "value": 1
         },
         {
-            "text": "statement",
+            "text": "STATEMENT",
             "value": 1
         },
         {
@@ -29,19 +597,19 @@
             "value": 1
         },
         {
-            "text": "Masood's",
+            "text": "MASOOD'S",
             "value": 1
         },
         {
-            "text": "neurological",
+            "text": "NEUROLOGICAL",
             "value": 1
         },
         {
-            "text": "observations",
+            "text": "OBSERVATIONS",
             "value": 1
         },
         {
-            "text": "normal",
+            "text": "NORMAL",
             "value": 1
         },
         {
@@ -49,419 +617,295 @@
             "value": 1
         },
         {
-            "text": "scan",
+            "text": "SCAN",
             "value": 1
         },
         {
-            "text": "shows",
+            "text": "SHOWS",
             "value": 1
         },
         {
-            "text": "superficial",
+            "text": "SUPERFICIAL",
             "value": 1
         },
         {
-            "text": "bruising",
+            "text": "BRUISING",
             "value": 1
         },
         {
-            "text": "ball",
+            "text": "BALL",
             "value": 2
         },
         {
-            "text": "struck",
+            "text": "STRUCK",
             "value": 2
         },
         {
-            "text": "currently",
+            "text": "CURRENTLY",
             "value": 1
         },
         {
-            "text": "asymptomatic",
+            "text": "ASYMPTOMATIC",
             "value": 1
         },
         {
-            "text": "concussion",
+            "text": "CONCUSSION",
             "value": 1
         },
         {
-            "text": "tested",
+            "text": "TESTED",
             "value": 1
         },
         {
-            "text": "tomorrow",
+            "text": "DRAVID",
             "value": 1
         },
         {
-            "text": "Rohit",
-            "value": 4
-        },
-        {
-            "text": "Sharma",
-            "value": 4
-        },
-        {
-            "text": "Rahul",
+            "text": "MATTHEW",
             "value": 1
         },
         {
-            "text": "Dravid",
+            "text": "HAYDEN",
             "value": 1
         },
         {
-            "text": "Babar",
+            "text": "DISCUSSION",
             "value": 1
         },
         {
-            "text": "Azam",
+            "text": "CAPTAINS",
             "value": 1
         },
         {
-            "text": "Matthew",
+            "text": "COACHES",
             "value": 1
         },
         {
-            "text": "Hayden",
+            "text": "CAMPS",
             "value": 1
         },
         {
-            "text": "Intense",
+            "text": "PRESSURE",
             "value": 1
         },
         {
-            "text": "discussion",
-            "value": 1
-        },
-        {
-            "text": "captains",
-            "value": 1
-        },
-        {
-            "text": "coaches",
-            "value": 1
-        },
-        {
-            "text": "camps",
-            "value": 1
-        },
-        {
-            "text": "pressure",
-            "value": 1
-        },
-        {
-            "text": "Sunday",
+            "text": "SUNDAY",
             "value": 3
         },
         {
-            "text": "Watch",
+            "text": "EPISODE",
             "value": 1
         },
         {
-            "text": "FULL",
+            "text": "15MIN",
             "value": 1
         },
         {
-            "text": "episode",
+            "text": "PASSING",
             "value": 1
         },
         {
-            "text": "Stopped",
+            "text": "EVEN",
             "value": 1
         },
         {
-            "text": "raining",
+            "text": "OVERS",
             "value": 1
         },
         {
-            "text": "15min",
+            "text": "REDUCED",
             "value": 1
         },
         {
-            "text": "passing",
+            "text": "EVERY",
             "value": 1
         },
         {
-            "text": "shower",
+            "text": "UPDATE",
             "value": 1
         },
         {
-            "text": "even",
+            "text": "SPOKE",
             "value": 1
         },
         {
-            "text": "overs",
+            "text": "SOON",
             "value": 1
         },
         {
-            "text": "reduced",
-            "value": 1
-        },
-        {
-            "text": "still",
-            "value": 1
-        },
-        {
-            "text": "game",
-            "value": 4
-        },
-        {
-            "text": "get",
-            "value": 2
-        },
-        {
-            "text": "every",
-            "value": 1
-        },
-        {
-            "text": "update",
-            "value": 1
-        },
-        {
-            "text": "weather",
-            "value": 2
-        },
-        {
-            "text": "Spoke",
-            "value": 1
-        },
-        {
-            "text": "soon",
-            "value": 1
-        },
-        {
-            "text": "43pm",
+            "text": "43PM",
             "value": 1
         },
         {
             "text": "BEST",
-            "value": 1
-        },
-        {
-            "text": "news",
-            "value": 1
-        },
-        {
-            "text": "MCG",
-            "value": 1
-        },
-        {
-            "text": "Met",
-            "value": 1
-        },
-        {
-            "text": "department",
-            "value": 1
-        },
-        {
-            "text": "predicted",
-            "value": 1
-        },
-        {
-            "text": "chance",
-            "value": 1
-        },
-        {
-            "text": "rain",
-            "value": 1
-        },
-        {
-            "text": "afternoon",
-            "value": 1
-        },
-        {
-            "text": "evening",
-            "value": 1
-        },
-        {
-            "text": "today",
             "value": 3
         },
         {
-            "text": "35pm",
+            "text": "NEWS",
             "value": 1
         },
         {
-            "text": "nothing",
+            "text": "DEPARTMENT",
             "value": 1
         },
         {
-            "text": "drops",
+            "text": "PREDICTED",
             "value": 1
         },
         {
-            "text": "scared",
+            "text": "CHANCE",
             "value": 1
         },
         {
-            "text": "India",
-            "value": 4
-        },
-        {
-            "text": "Pak",
+            "text": "EVENING",
             "value": 1
         },
         {
-            "text": "super",
-            "value": 1
-        },
-        {
-            "text": "Dinesh",
+            "text": "TODAY",
             "value": 2
         },
         {
-            "text": "Karthik",
+            "text": "35PM",
+            "value": 1
+        },
+        {
+            "text": "NOTHING",
+            "value": 1
+        },
+        {
+            "text": "DROPS",
+            "value": 1
+        },
+        {
+            "text": "SCARED",
+            "value": 1
+        },
+        {
+            "text": "SUPER",
+            "value": 1
+        },
+        {
+            "text": "DINESH",
             "value": 2
         },
         {
-            "text": "getting",
-            "value": 1
-        },
-        {
-            "text": "groove",
-            "value": 1
-        },
-        {
-            "text": "big",
+            "text": "KARTHIK",
             "value": 2
         },
         {
-            "text": "match",
+            "text": "GROOVE",
             "value": 1
         },
         {
-            "text": "days",
-            "value": 1
-        },
-        {
-            "text": "captain",
-            "value": 1
-        },
-        {
-            "text": "Md",
+            "text": "MD",
             "value": 2
         },
         {
-            "text": "Siraj",
+            "text": "SIRAJ",
             "value": 1
         },
         {
-            "text": "Shami",
+            "text": "SHAMI",
             "value": 1
         },
         {
-            "text": "Arshdee",
+            "text": "ARSHDEE",
             "value": 1
         },
         {
-            "text": "Singh",
+            "text": "SINGH",
             "value": 1
         },
         {
-            "text": "Axar",
+            "text": "AXAR",
             "value": 1
         },
         {
-            "text": "Patel",
+            "text": "PATEL",
             "value": 1
         },
         {
-            "text": "Shardul",
+            "text": "SHARDUL",
             "value": 1
         },
         {
-            "text": "Thakur",
+            "text": "THAKUR",
             "value": 1
         },
         {
-            "text": "Deepak",
+            "text": "DEEPAK",
             "value": 1
         },
         {
-            "text": "Hooda",
+            "text": "HOODA",
             "value": 1
         },
         {
-            "text": "attended",
+            "text": "ATTENDED",
             "value": 1
         },
         {
-            "text": "team",
+            "text": "TEAM",
+            "value": 3
+        },
+        {
+            "text": "OPTIONAL",
+            "value": 1
+        },
+        {
+            "text": "TRAINING",
+            "value": 1
+        },
+        {
+            "text": "MASOOD",
             "value": 2
         },
         {
-            "text": "optional",
+            "text": "LEAVES",
             "value": 1
         },
         {
-            "text": "training",
+            "text": "ICE",
             "value": 1
         },
         {
-            "text": "session",
+            "text": "PACK",
             "value": 1
         },
         {
-            "text": "Masood",
-            "value": 2
-        },
-        {
-            "text": "leaves",
+            "text": "FACE",
             "value": 1
         },
         {
-            "text": "ice",
+            "text": "NAWAZ",
             "value": 1
         },
         {
-            "text": "pack",
+            "text": "HIT",
             "value": 1
         },
         {
-            "text": "face",
+            "text": "SHOT",
             "value": 1
         },
         {
-            "text": "Nawaz",
+            "text": "PLAY",
             "value": 1
         },
         {
-            "text": "hit",
+            "text": "FAKHAR",
             "value": 1
         },
         {
-            "text": "shot",
+            "text": "ZAMAN",
             "value": 1
         },
         {
-            "text": "play",
+            "text": "COULD",
             "value": 1
         },
         {
-            "text": "place",
-            "value": 1
-        },
-        {
-            "text": "Fakhar",
-            "value": 1
-        },
-        {
-            "text": "Zaman",
-            "value": 1
-        },
-        {
-            "text": "could",
-            "value": 1
-        },
-        {
-            "text": "problem",
-            "value": 1
-        },
-        {
-            "text": "Pakistan",
-            "value": 2
-        },
-        {
-            "text": "Captain",
+            "text": "PROBLEM",
             "value": 1
         },
         {
@@ -469,91 +913,63 @@
             "value": 1
         },
         {
-            "text": "touch",
+            "text": "TOUCH",
             "value": 1
         },
         {
-            "text": "nets",
+            "text": "LIFTS",
             "value": 1
         },
         {
-            "text": "ahead",
+            "text": "CALM",
             "value": 1
         },
         {
-            "text": "lifts",
+            "text": "STORM",
             "value": 1
         },
         {
-            "text": "John",
-            "value": 4
-        },
-        {
-            "text": "Cain",
-            "value": 4
-        },
-        {
-            "text": "Arena",
-            "value": 5
-        },
-        {
-            "text": "king",
+            "text": "GAL",
             "value": 1
         },
         {
-            "text": "Calm",
+            "text": "PAL",
             "value": 1
         },
         {
-            "text": "storm",
+            "text": "KEEN",
             "value": 1
         },
         {
-            "text": "day",
-            "value": 2
-        },
-        {
-            "text": "Gal",
+            "text": "NETTY",
             "value": 1
         },
         {
-            "text": "pal",
+            "text": "ACTION",
             "value": 1
         },
         {
-            "text": "keen",
+            "text": "CATCH",
             "value": 1
         },
         {
-            "text": "netty",
+            "text": "SHIMMY",
             "value": 1
         },
         {
-            "text": "action",
+            "text": "SIGNING",
             "value": 1
         },
         {
-            "text": "Catch",
+            "text": "POSTERS",
             "value": 1
         },
         {
-            "text": "Shimmy",
+            "text": "TAKING",
             "value": 1
         },
         {
-            "text": "signing",
-            "value": 1
-        },
-        {
-            "text": "posters",
-            "value": 1
-        },
-        {
-            "text": "taking",
-            "value": 1
-        },
-        {
-            "text": "pics",
+            "text": "PICS",
             "value": 1
         },
         {
@@ -565,287 +981,155 @@
             "value": 1
         },
         {
-            "text": "October",
+            "text": "OCTOBER",
             "value": 1
         },
         {
-            "text": "Trans",
+            "text": "TRANS",
             "value": 1
         },
         {
-            "text": "Tasman",
+            "text": "TASMAN",
             "value": 1
         },
         {
-            "text": "Cup",
+            "text": "SERIES",
             "value": 1
         },
         {
-            "text": "Series",
+            "text": "AUSTRALIANMENSNETBALL",
             "value": 1
         },
         {
-            "text": "Game",
+            "text": "DECIDING",
             "value": 1
         },
         {
-            "text": "australianmensnetball",
+            "text": "USING",
             "value": 1
         },
         {
-            "text": "Get",
+            "text": "SUNDAYS",
             "value": 1
         },
         {
-            "text": "deciding",
+            "text": "COM",
             "value": 1
         },
         {
-            "text": "Using",
+            "text": "BOXING",
             "value": 1
         },
         {
-            "text": "Monday",
+            "text": "SPORT",
             "value": 1
         },
         {
-            "text": "make",
+            "text": "ROD",
             "value": 1
         },
         {
-            "text": "Sundays",
+            "text": "LAVER",
             "value": 1
         },
         {
-            "text": "com",
+            "text": "VOLUNTEERING",
             "value": 1
         },
         {
-            "text": "Boxing",
+            "text": "AGILEAUS2022",
             "value": 1
         },
         {
-            "text": "best",
-            "value": 2
-        },
-        {
-            "text": "sport",
-            "value": 1
-        },
-        {
-            "text": "world",
-            "value": 3
-        },
-        {
-            "text": "Rod",
-            "value": 1
-        },
-        {
-            "text": "Laver",
-            "value": 1
-        },
-        {
-            "text": "Volunteering",
-            "value": 1
-        },
-        {
-            "text": "AgileAus2022",
-            "value": 1
-        },
-        {
-            "text": "fight",
+            "text": "FIGHT",
             "value": 5
         },
         {
-            "text": "showing",
+            "text": "SHOWING",
             "value": 1
         },
         {
-            "text": "shake",
+            "text": "SHAKE",
             "value": 1
         },
         {
-            "text": "hands",
+            "text": "HANDS",
             "value": 1
         },
         {
-            "text": "Plenty",
+            "text": "PLENTY",
             "value": 1
         },
         {
-            "text": "class",
+            "text": "CLASS",
             "value": 1
         },
         {
-            "text": "Team",
-            "value": 1
-        },
-        {
-            "text": "Haney",
+            "text": "HANEY",
             "value": 2
         },
         {
-            "text": "Kambosos",
+            "text": "KAMBOSOS",
             "value": 1
         },
         {
-            "text": "post",
+            "text": "TITLE",
             "value": 1
         },
         {
-            "text": "title",
+            "text": "RASHAD",
             "value": 1
         },
         {
-            "text": "Rashad",
+            "text": "KELLY",
             "value": 1
         },
         {
-            "text": "Kelly",
+            "text": "SHOWED",
             "value": 1
         },
         {
-            "text": "showed",
+            "text": "DELIVER",
             "value": 1
         },
         {
-            "text": "deliver",
-            "value": 2
-        },
-        {
-            "text": "point",
-            "value": 2
-        },
-        {
-            "text": "win",
-            "value": 2
-        },
-        {
-            "text": "Let",
-            "value": 2
-        },
-        {
-            "text": "go",
+            "text": "POINT",
             "value": 1
         },
         {
-            "text": "least",
+            "text": "LEAST",
             "value": 1
         },
         {
-            "text": "wear",
+            "text": "WEAR",
             "value": 1
         },
         {
-            "text": "beanie",
+            "text": "BEANIE",
             "value": 1
         },
         {
-            "text": "puffer",
+            "text": "PUFFER",
             "value": 1
         },
         {
-            "text": "jacket",
+            "text": "JACKET",
             "value": 1
         },
         {
-            "text": "one",
+            "text": "ABSOLUTE",
             "value": 1
         },
         {
-            "text": "absolute",
+            "text": "CRACKER",
             "value": 1
         },
         {
-            "text": "cracker",
+            "text": "ATMOSPHERE",
             "value": 1
         },
         {
-            "text": "atmosphere",
-            "value": 1
-        },
-        {
-            "text": "Kambosis",
-            "value": 1
-        },
-        {
-            "text": "TIME",
-            "value": 1
-        },
-        {
-            "text": "facilitates",
-            "value": 1
-        },
-        {
-            "text": "offence",
-            "value": 1
-        },
-        {
-            "text": "Welcome",
-            "value": 1
-        },
-        {
-            "text": "players",
-            "value": 1
-        },
-        {
-            "text": "onto",
-            "value": 1
-        },
-        {
-            "text": "court",
-            "value": 1
-        },
-        {
-            "text": "Phoenix",
-            "value": 1
-        },
-        {
-            "text": "fans",
-            "value": 1
-        },
-        {
-            "text": "almost",
-            "value": 1
-        },
-        {
-            "text": "time",
-            "value": 1
-        },
-        {
-            "text": "Tune",
-            "value": 1
-        },
-        {
-            "text": "via",
-            "value": 1
-        },
-        {
-            "text": "ready",
-            "value": 1
-        },
-        {
-            "text": "rumble",
-            "value": 1
-        },
-        {
-            "text": "Bring",
-            "value": 1
-        },
-        {
-            "text": "posted",
-            "value": 1
-        },
-        {
-            "text": "photo",
-            "value": 1
-        },
-        {
-            "text": "Park",
-            "value": 1
-        },
-        {
-            "text": "deception",
+            "text": "KAMBOSIS",
             "value": 1
         }
     ]

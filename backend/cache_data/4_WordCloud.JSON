@@ -1,75 +1,127 @@
 {
     "word_freq": [
         {
-            "text": "Looking",
-            "value": 1
-        },
-        {
-            "text": "forward",
-            "value": 1
-        },
-        {
-            "text": "sitting",
-            "value": 1
-        },
-        {
-            "text": "jazzboutiqueband",
-            "value": 1
-        },
-        {
-            "text": "melbournemarriott",
-            "value": 1
-        },
-        {
-            "text": "tonight",
-            "value": 1
-        },
-        {
-            "text": "Melbourne",
+            "text": "PHOTO",
             "value": 3
         },
         {
-            "text": "Marriott",
+            "text": "COMEDY",
+            "value": 2
+        },
+        {
+            "text": "THEATRE",
+            "value": 2
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 5
+        },
+        {
+            "text": "SEE",
             "value": 1
         },
         {
-            "text": "Hotel",
+            "text": "IMAX",
+            "value": 2
+        },
+        {
+            "text": "CARLTON",
             "value": 1
         },
         {
-            "text": "Extinction",
+            "text": "VIC",
             "value": 1
         },
         {
-            "text": "Rebellion",
+            "text": "COUPLES",
             "value": 1
         },
         {
-            "text": "targeting",
+            "text": "MUSICAL",
             "value": 1
         },
         {
-            "text": "another",
+            "text": "TOGETHER",
+            "value": 2
+        },
+        {
+            "text": "STAY",
             "value": 1
         },
         {
-            "text": "worthy",
+            "text": "AWAY",
             "value": 1
         },
         {
-            "text": "cause",
+            "text": "INSIDE",
             "value": 1
         },
         {
-            "text": "today",
+            "text": "MUSEUM",
             "value": 1
         },
         {
-            "text": "climate",
+            "text": "LOOKING",
             "value": 1
         },
         {
-            "text": "criminals",
+            "text": "FORWARD",
+            "value": 1
+        },
+        {
+            "text": "SITTING",
+            "value": 1
+        },
+        {
+            "text": "JAZZBOUTIQUEBAND",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNEMARRIOTT",
+            "value": 1
+        },
+        {
+            "text": "TONIGHT",
+            "value": 1
+        },
+        {
+            "text": "MARRIOTT",
+            "value": 1
+        },
+        {
+            "text": "HOTEL",
+            "value": 1
+        },
+        {
+            "text": "EXTINCTION",
+            "value": 2
+        },
+        {
+            "text": "REBELLION",
+            "value": 1
+        },
+        {
+            "text": "TARGETING",
+            "value": 1
+        },
+        {
+            "text": "WORTHY",
+            "value": 1
+        },
+        {
+            "text": "CAUSE",
+            "value": 1
+        },
+        {
+            "text": "TODAY",
+            "value": 1
+        },
+        {
+            "text": "CLIMATE",
+            "value": 2
+        },
+        {
+            "text": "CRIMINALS",
             "value": 1
         },
         {
@@ -78,10 +130,6 @@
         },
         {
             "text": "GAS",
-            "value": 1
-        },
-        {
-            "text": "CLIMATE",
             "value": 1
         },
         {
@@ -97,275 +145,71 @@
             "value": 1
         },
         {
-            "text": "EXTINCTION",
-            "value": 1
-        },
-        {
-            "text": "Premiere",
-            "value": 1
-        },
-        {
-            "text": "IMAX",
-            "value": 1
-        },
-        {
-            "text": "premiere",
-            "value": 1
-        },
-        {
-            "text": "Sunday",
-            "value": 1
-        },
-        {
-            "text": "night",
-            "value": 1
-        },
-        {
-            "text": "dinners",
-            "value": 1
-        },
-        {
-            "text": "ice",
-            "value": 1
-        },
-        {
-            "text": "creams",
-            "value": 1
-        },
-        {
-            "text": "Bags",
-            "value": 1
-        },
-        {
-            "text": "made",
-            "value": 1
-        },
-        {
-            "text": "ring",
-            "value": 1
-        },
-        {
-            "text": "pulls",
-            "value": 1
-        },
-        {
-            "text": "Delata",
-            "value": 1
-        },
-        {
-            "text": "Genius",
-            "value": 1
-        },
-        {
-            "text": "posted",
+            "text": "PREMIERE",
             "value": 2
         },
         {
-            "text": "photo",
-            "value": 2
-        },
-        {
-            "text": "Terrace",
+            "text": "SUNDAY",
             "value": 1
         },
         {
-            "text": "Exhibition",
+            "text": "NIGHT",
             "value": 1
         },
         {
-            "text": "st",
+            "text": "DINNERS",
             "value": 1
         },
         {
-            "text": "Bennetts",
+            "text": "ICE",
             "value": 1
         },
         {
-            "text": "Lane",
+            "text": "CREAMS",
             "value": 1
         },
         {
-            "text": "Jazz",
+            "text": "BAGS",
             "value": 1
         },
         {
-            "text": "Club",
+            "text": "RING",
             "value": 1
         },
         {
-            "text": "Finishing",
+            "text": "PULLS",
             "value": 1
         },
         {
-            "text": "excellent",
-            "value": 2
-        },
-        {
-            "text": "day",
-            "value": 2
-        },
-        {
-            "text": "way",
+            "text": "DELATA",
             "value": 1
         },
         {
-            "text": "people",
+            "text": "GENIUS",
             "value": 1
         },
         {
-            "text": "fun",
+            "text": "TERRACE",
             "value": 1
         },
         {
-            "text": "First",
+            "text": "EXHIBITION",
             "value": 1
         },
         {
-            "text": "face",
-            "value": 2
-        },
-        {
-            "text": "meeting",
+            "text": "BENNETTS",
             "value": 1
         },
         {
-            "text": "since",
+            "text": "LANE",
             "value": 1
         },
         {
-            "text": "Feb",
+            "text": "JAZZ",
             "value": 1
         },
         {
-            "text": "last",
-            "value": 1
-        },
-        {
-            "text": "chair",
-            "value": 1
-        },
-        {
-            "text": "cool",
-            "value": 1
-        },
-        {
-            "text": "finally",
-            "value": 1
-        },
-        {
-            "text": "council",
-            "value": 1
-        },
-        {
-            "text": "room",
-            "value": 1
-        },
-        {
-            "text": "complete",
-            "value": 1
-        },
-        {
-            "text": "gavel",
-            "value": 1
-        },
-        {
-            "text": "grateful",
-            "value": 1
-        },
-        {
-            "text": "proud",
-            "value": 1
-        },
-        {
-            "text": "mahi",
-            "value": 1
-        },
-        {
-            "text": "work",
-            "value": 1
-        },
-        {
-            "text": "Trainee",
-            "value": 1
-        },
-        {
-            "text": "reps",
-            "value": 1
-        },
-        {
-            "text": "done",
-            "value": 1
-        },
-        {
-            "text": "year",
-            "value": 1
-        },
-        {
-            "text": "excited",
-            "value": 1
-        },
-        {
-            "text": "next",
-            "value": 1
-        },
-        {
-            "text": "years",
-            "value": 1
-        },
-        {
-            "text": "exec",
-            "value": 1
-        },
-        {
-            "text": "Oh",
-            "value": 1
-        },
-        {
-            "text": "hi",
-            "value": 1
-        },
-        {
-            "text": "things",
-            "value": 1
-        },
-        {
-            "text": "orange",
-            "value": 1
-        },
-        {
-            "text": "gold",
-            "value": 1
-        },
-        {
-            "text": "stall",
-            "value": 1
-        },
-        {
-            "text": "J13",
-            "value": 1
-        },
-        {
-            "text": "along",
-            "value": 1
-        },
-        {
-            "text": "wall",
-            "value": 1
-        },
-        {
-            "text": "near",
-            "value": 1
-        },
-        {
-            "text": "Nicholson",
-            "value": 1
-        },
-        {
-            "text": "St",
-            "value": 1
-        },
-        {
-            "text": "entry",
+            "text": "CLUB",
             "value": 1
         }
     ]

@@ -1,215 +1,271 @@
 {
     "word_freq": [
         {
-            "text": "World",
+            "text": "WAKE",
             "value": 1
         },
         {
-            "text": "Supercross",
+            "text": "4AM",
             "value": 1
         },
         {
-            "text": "Championship",
+            "text": "WATCH",
             "value": 1
         },
         {
-            "text": "Melbourne",
-            "value": 2
-        },
-        {
-            "text": "Massive",
+            "text": "LIVE",
             "value": 1
         },
         {
-            "text": "thanks",
+            "text": "AUSTRALIA",
             "value": 1
         },
         {
-            "text": "seats",
+            "text": "THINK",
             "value": 1
         },
         {
-            "text": "nice",
+            "text": "SX",
             "value": 1
         },
         {
-            "text": "work",
+            "text": "ADDICTION",
             "value": 1
         },
         {
-            "text": "guys",
+            "text": "MARVEL",
             "value": 1
         },
         {
-            "text": "Ichi",
+            "text": "STADIUM",
             "value": 1
         },
         {
-            "text": "mak",
+            "text": "WURUNDJERI",
             "value": 1
         },
         {
-            "text": "Docklands",
+            "text": "WAY",
+            "value": 1
+        },
+        {
+            "text": "DOCKLANDS",
             "value": 6
         },
         {
-            "text": "VIC",
-            "value": 4
-        },
-        {
-            "text": "boat",
+            "text": "LANES",
             "value": 1
         },
         {
-            "text": "show",
+            "text": "CLOSED",
             "value": 1
         },
         {
-            "text": "Victoria",
-            "value": 3
-        },
-        {
-            "text": "Crank",
-            "value": 1
-        },
-        {
-            "text": "Em",
-            "value": 1
-        },
-        {
-            "text": "Harbour",
-            "value": 1
-        },
-        {
-            "text": "Portarlington",
-            "value": 1
-        },
-        {
-            "text": "Ferry",
-            "value": 1
-        },
-        {
-            "text": "Thanks",
-            "value": 1
-        },
-        {
-            "text": "portphillipferries",
-            "value": 1
-        },
-        {
-            "text": "transport",
-            "value": 1
-        },
-        {
-            "text": "today",
-            "value": 1
-        },
-        {
-            "text": "awesome",
-            "value": 1
-        },
-        {
-            "text": "geelongracingclub",
-            "value": 1
-        },
-        {
-            "text": "Port",
-            "value": 1
-        },
-        {
-            "text": "Phillip",
-            "value": 1
-        },
-        {
-            "text": "Ferries",
-            "value": 1
-        },
-        {
-            "text": "opposition",
-            "value": 1
-        },
-        {
-            "text": "fanclowns",
-            "value": 1
-        },
-        {
-            "text": "waaaah",
-            "value": 1
-        },
-        {
-            "text": "hate",
+            "text": "WESTBOUND",
             "value": 2
         },
         {
-            "text": "st",
+            "text": "LEFT",
             "value": 1
         },
         {
-            "text": "kilda",
+            "text": "TURN",
             "value": 1
         },
         {
-            "text": "ross",
+            "text": "LANE",
             "value": 1
         },
         {
-            "text": "lyon",
+            "text": "ONTO",
             "value": 1
         },
         {
-            "text": "Mel",
+            "text": "DUDLEY",
             "value": 1
         },
         {
-            "text": "bin",
+            "text": "WORLD",
             "value": 1
         },
         {
-            "text": "Aka",
+            "text": "SUPERCROSS",
             "value": 1
         },
         {
-            "text": "trip",
+            "text": "CHAMPIONSHIP",
             "value": 1
         },
         {
-            "text": "photodump",
+            "text": "MELBOURNE",
+            "value": 2
+        },
+        {
+            "text": "MASSIVE",
             "value": 1
         },
         {
-            "text": "Round",
+            "text": "THANKS",
+            "value": 2
+        },
+        {
+            "text": "SEATS",
             "value": 1
         },
         {
-            "text": "bit",
+            "text": "NICE",
             "value": 1
         },
         {
-            "text": "decadence",
+            "text": "WORK",
             "value": 1
         },
         {
-            "text": "statue",
+            "text": "GUYS",
             "value": 1
         },
         {
-            "text": "Cow",
+            "text": "ICHI",
             "value": 1
         },
         {
-            "text": "Tree",
+            "text": "MAK",
             "value": 1
         },
         {
-            "text": "Hello",
+            "text": "VIC",
+            "value": 3
+        },
+        {
+            "text": "BOAT",
             "value": 1
         },
         {
-            "text": "May",
+            "text": "SHOW",
             "value": 1
         },
         {
-            "text": "introduce",
+            "text": "VICTORIA",
+            "value": 3
+        },
+        {
+            "text": "CRANK",
+            "value": 1
+        },
+        {
+            "text": "EM",
+            "value": 1
+        },
+        {
+            "text": "HARBOUR",
+            "value": 1
+        },
+        {
+            "text": "PORTARLINGTON",
+            "value": 1
+        },
+        {
+            "text": "FERRY",
+            "value": 1
+        },
+        {
+            "text": "PORTPHILLIPFERRIES",
+            "value": 1
+        },
+        {
+            "text": "TRANSPORT",
+            "value": 1
+        },
+        {
+            "text": "TODAY",
+            "value": 1
+        },
+        {
+            "text": "AWESOME",
+            "value": 1
+        },
+        {
+            "text": "GEELONGRACINGCLUB",
+            "value": 1
+        },
+        {
+            "text": "PORT",
+            "value": 1
+        },
+        {
+            "text": "PHILLIP",
+            "value": 1
+        },
+        {
+            "text": "FERRIES",
+            "value": 1
+        },
+        {
+            "text": "OPPOSITION",
+            "value": 1
+        },
+        {
+            "text": "FANCLOWNS",
+            "value": 1
+        },
+        {
+            "text": "WAAAAH",
+            "value": 1
+        },
+        {
+            "text": "HATE",
+            "value": 2
+        },
+        {
+            "text": "KILDA",
+            "value": 1
+        },
+        {
+            "text": "ROSS",
+            "value": 1
+        },
+        {
+            "text": "LYON",
+            "value": 1
+        },
+        {
+            "text": "MEL",
+            "value": 1
+        },
+        {
+            "text": "BIN",
+            "value": 1
+        },
+        {
+            "text": "TRIP",
+            "value": 1
+        },
+        {
+            "text": "PHOTODUMP",
+            "value": 1
+        },
+        {
+            "text": "ROUND",
+            "value": 1
+        },
+        {
+            "text": "BIT",
+            "value": 1
+        },
+        {
+            "text": "DECADENCE",
+            "value": 1
+        },
+        {
+            "text": "STATUE",
+            "value": 1
+        },
+        {
+            "text": "COW",
+            "value": 1
+        },
+        {
+            "text": "TREE",
             "value": 1
         }
     ]

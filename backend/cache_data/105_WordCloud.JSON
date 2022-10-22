@@ -1,111 +1,183 @@
 {
     "word_freq": [
         {
-            "text": "Docklands",
+            "text": "DELIGHTED",
+            "value": 1
+        },
+        {
+            "text": "PARTICIPATE",
+            "value": 1
+        },
+        {
+            "text": "BOUNCING",
+            "value": 1
+        },
+        {
+            "text": "BACK",
+            "value": 1
+        },
+        {
+            "text": "PERSONAL",
+            "value": 1
+        },
+        {
+            "text": "RESILIENCE",
+            "value": 2
+        },
+        {
+            "text": "SCIENCE",
+            "value": 1
+        },
+        {
+            "text": "INSIGHTS",
+            "value": 1
+        },
+        {
+            "text": "PODCAST",
+            "value": 1
+        },
+        {
+            "text": "TOPIC",
+            "value": 1
+        },
+        {
+            "text": "'THE",
+            "value": 1
+        },
+        {
+            "text": "RELATIONSHIP",
+            "value": 1
+        },
+        {
+            "text": "SELF",
+            "value": 1
+        },
+        {
+            "text": "ESTEEM",
+            "value": 1
+        },
+        {
+            "text": "RECORDED",
+            "value": 1
+        },
+        {
+            "text": "MARCH",
+            "value": 1
+        },
+        {
+            "text": "PLEASE",
+            "value": 1
+        },
+        {
+            "text": "WATCH",
+            "value": 1
+        },
+        {
+            "text": "YOUTUBE",
+            "value": 1
+        },
+        {
+            "text": "VIDEO",
+            "value": 1
+        },
+        {
+            "text": "DOCKLANDS",
             "value": 4
         },
         {
-            "text": "Victoria",
+            "text": "VICTORIA",
             "value": 1
         },
         {
-            "text": "Harbour",
+            "text": "HARBOUR",
             "value": 1
         },
         {
-            "text": "Thanks",
+            "text": "THANKS",
             "value": 1
         },
         {
-            "text": "portphillipferries",
+            "text": "PORTPHILLIPFERRIES",
             "value": 1
         },
         {
-            "text": "transport",
+            "text": "TRANSPORT",
             "value": 1
         },
         {
-            "text": "today",
+            "text": "TODAY",
             "value": 1
         },
         {
-            "text": "awesome",
+            "text": "AWESOME",
+            "value": 2
+        },
+        {
+            "text": "GEELONGRACINGCLUB",
             "value": 1
         },
         {
-            "text": "geelongracingclub",
+            "text": "PORT",
             "value": 1
         },
         {
-            "text": "Port",
+            "text": "PHILLIP",
             "value": 1
         },
         {
-            "text": "Phillip",
+            "text": "FERRIES",
             "value": 1
         },
         {
-            "text": "Ferries",
+            "text": "SHOW",
             "value": 1
         },
         {
-            "text": "Awesome",
+            "text": "GOOD",
             "value": 1
         },
         {
-            "text": "make",
+            "text": "HEAD",
             "value": 1
         },
         {
-            "text": "show",
+            "text": "ALONG",
             "value": 1
         },
         {
-            "text": "good",
+            "text": "OLD",
             "value": 1
         },
         {
-            "text": "head",
+            "text": "BUDDY",
             "value": 1
         },
         {
-            "text": "along",
+            "text": "DISTRICT",
             "value": 1
         },
         {
-            "text": "old",
+            "text": "KHADIJAH",
             "value": 1
         },
         {
-            "text": "buddy",
+            "text": "BIRTHDAY",
             "value": 1
         },
         {
-            "text": "District",
+            "text": "ARCHIE",
             "value": 1
         },
         {
-            "text": "Khadijah",
+            "text": "BROTHERS",
             "value": 1
         },
         {
-            "text": "birthday",
+            "text": "CIRQUE",
             "value": 1
         },
         {
-            "text": "Archie",
-            "value": 1
-        },
-        {
-            "text": "Brothers",
-            "value": 1
-        },
-        {
-            "text": "Cirque",
-            "value": 1
-        },
-        {
-            "text": "Electriq",
+            "text": "ELECTRIQ",
             "value": 1
         },
         {
@@ -113,35 +185,23 @@
             "value": 2
         },
         {
-            "text": "Thai",
+            "text": "THAI",
             "value": 1
         },
         {
-            "text": "late",
+            "text": "LATE",
             "value": 1
         },
         {
-            "text": "lunch",
+            "text": "LUNCH",
             "value": 1
         },
         {
-            "text": "Miss",
+            "text": "MISS",
             "value": 1
         },
         {
-            "text": "Ping",
-            "value": 1
-        },
-        {
-            "text": "Hello",
-            "value": 1
-        },
-        {
-            "text": "May",
-            "value": 1
-        },
-        {
-            "text": "introduce",
+            "text": "PING",
             "value": 1
         }
     ]
