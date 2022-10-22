@@ -78,15 +78,15 @@ const AboutMelEasyTravelPage = () => {
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
-                        Font-end Developer
+                        Back-end Developer
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
-                        Email: yuhqian1@student.unimelb.edu.au
+                        Email: cheng.chen6@student.unimelb.edu.au
                       </Typography>
 
                       <Typography variant="subtitle1" color="text.secondary" component="div">
-                        jn sakjd fnjksnk fjnsak jnfksn kfjn sakf ndkj sanf jsnk jdfnkj snfkj skfn
+                        Student ID: 1161885
                       </Typography>
                     </CardContent>
                   </Box>
