@@ -4,7 +4,7 @@ import nltk
 # Update stopwords list
 nltk.download('stopwords')
 CACHED_STOPWORDS = nltk.corpus.stopwords.words("english")
-CUSTOM_STOPWORDS = ['i\'m', 'vs', 'he\'s']
+CUSTOM_STOPWORDS = ['i\'m', 'vs', 'he\'s', 'posted', 'another', 'click', 'post', 'us', 'vol', 'one', 'two', 'still', 'need']
 
 CACHED_STOPWORDS = CACHED_STOPWORDS + CUSTOM_STOPWORDS
 
@@ -18,9 +18,9 @@ def update_word_cloud_data(json_dict: dict):
             for word in record['clean_text'].split():
                 if word.lower() not in CACHED_STOPWORDS and not word.isnumeric() and len(word) > 1:
                     try:
-                        word_freq_dict[word] += 1
+                        word_freq_dict[word.upper()] += 1
                     except KeyError:
-                        word_freq_dict[word] = 1
+                        word_freq_dict[word.upper()] = 1
 
     output_list = []
     for key, value in word_freq_dict.items():
