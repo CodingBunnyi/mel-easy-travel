@@ -11,7 +11,9 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
 import Dev1Image from '../../assets/images/dev_1.png';
-import avatarZ from '../../assets/images/avatar.JPG';
+import Dev2Image from '../../assets/images/dev_2.jpg';
+import Dev3Image from '../../assets/images/dev_3.jpg';
+import Dev4Image from '../../assets/images/dev_4.jpg';
 
 const AboutMelEasyTravelPage = () => {
   const theme = useTheme();
@@ -66,7 +68,7 @@ const AboutMelEasyTravelPage = () => {
                 <Card variant="outlined" sx={ { display: 'flex', height: '180px' } }>
                   <CardMedia
                     component="img"
-                    image={ Dev1Image }
+                    image={ Dev3Image }
                     alt="dev1 image"
                     style={ {width: 170} }
                   />
@@ -97,11 +99,10 @@ const AboutMelEasyTravelPage = () => {
                 <Card variant="outlined" sx={ { display: 'flex', height: '180px' } }>
                   <CardMedia
                     component="img"
-                    image={ avatarZ }
+                    image={ Dev4Image }
                     alt="dev1 image"
                     style={ {width: 170, 
-                      height: 170,
-                      borderRadius: 150 / 2,} }
+                    } }
                   />
 
                   <Box sx={ { display: 'flex', flexDirection: 'column', overflowY: 'scroll' } } >
@@ -130,7 +131,7 @@ const AboutMelEasyTravelPage = () => {
                 <Card variant="outlined" sx={ { display: 'flex', height: '180px' } }>
                   <CardMedia
                     component="img"
-                    image={ Dev1Image }
+                    image={ Dev2Image }
                     alt="dev1 image"
                     style={ {width: 170, } }
                   />
