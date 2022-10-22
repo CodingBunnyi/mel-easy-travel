@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### 1. Use `npm install` to install packages for frontend server
-### 2. Use `npm start` to start frontend server
+> 1. Use `npm install` to install packages for frontend server
+> 2. Use `npm start` to start frontend server
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   
 ## Run backend
