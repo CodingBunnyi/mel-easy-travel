@@ -44,7 +44,7 @@ function ControlPanel({ layerStatus, setLayerStatus }) {
 
         <FormControlLabel 
           control= { <Checkbox checked={ layerStatus.busMetroRoute } onChange= { () => handleBusLayerChange('busMetroRoute') } /> } 
-          label="Bus Metro Route" 
+          label="Metro Route" 
         />
 
         <FormControlLabel 
