@@ -7,7 +7,8 @@ import List from '@mui/material/List';
 import ListItemButton from '@mui/material/ListItemButton';
 import ListItemText from '@mui/material/ListItemText';
 import ListItemAvatar from '@mui/material/ListItemAvatar';
-import resource from '../../assets/images/resource.svg';
+import WorkIcon from '@mui/icons-material/Work';
+import Avatar from '@mui/material/Avatar';
 
 
 const DataPage = () => (
@@ -25,7 +26,9 @@ const DataPage = () => (
             <a href='https://openweathermap.org/' target="_blank" style={ {'text-decoration': 'none', 'color': 'inherit'} } rel="noreferrer">
               <ListItemButton >
                 <ListItemAvatar>
-                  <img src={ resource } height={ 42 }/>
+                  <Avatar>
+                    <WorkIcon />
+                  </Avatar>
                 </ListItemAvatar>
 
                 <ListItemText primary="Weather Data API" secondary="https://openweathermap.org/" />
@@ -35,7 +38,9 @@ const DataPage = () => (
             <a href='http://localhost:3000/data/BusMetroRoutes.json' target="_blank" style={ {'text-decoration': 'none', 'color': 'inherit'} } rel="noreferrer">
               <ListItemButton >
                 <ListItemAvatar>
-                  <img src={ resource } height={ 42 }/>
+                  <Avatar>
+                    <WorkIcon />
+                  </Avatar>
                 </ListItemAvatar>
 
                 <ListItemText primary="Bus Metro Routes" secondary="http://localhost:3000/data/BusMetroRoutes.json"/>
@@ -45,7 +50,9 @@ const DataPage = () => (
             <a href='http://localhost:3000/data/BusRegionalRoutes.json' target="_blank" style={ {'text-decoration': 'none', 'color': 'inherit'} } rel="noreferrer">
               <ListItemButton >
                 <ListItemAvatar>
-                  <img src={ resource } height={ 42 }/>
+                  <Avatar>
+                    <WorkIcon />
+                  </Avatar>
                 </ListItemAvatar>
 
                 <ListItemText primary="Bus Regional Routes" secondary="http://localhost:3000/data/BusRegionalRoutes.json"/>
@@ -55,7 +62,9 @@ const DataPage = () => (
             <a href='http://localhost:3000/data/MelbourneBicycleRoutesMGA.json' target="_blank" style={ {'text-decoration': 'none', 'color': 'inherit'} } rel="noreferrer">
               <ListItemButton >
                 <ListItemAvatar>
-                  <img src={ resource } height={ 42 }/>
+                  <Avatar>
+                    <WorkIcon />
+                  </Avatar>
                 </ListItemAvatar>
 
                 <ListItemText primary="Melbourne Bicycle Routes" secondary="http://localhost:3000/data/MelbourneBicycleRoutesMGA.json"/>
@@ -65,7 +74,9 @@ const DataPage = () => (
             <a href='http://localhost:3000/data/wind-speed-description.json' target="_blank" style={ {'text-decoration': 'none', 'color': 'inherit'} } rel="noreferrer">
               <ListItemButton >
                 <ListItemAvatar>
-                  <img src={ resource } height={ 42 }/>
+                  <Avatar>
+                    <WorkIcon />
+                  </Avatar>
                 </ListItemAvatar>
 
                 <ListItemText primary="Wind Speed Description" secondary="http://localhost:3000/data/wind-speed-description.json"/>
@@ -75,7 +86,9 @@ const DataPage = () => (
             <a href='https://developer.twitter.com/en/docs/twitter-api' target="_blank" style={ {'text-decoration': 'none', 'color': 'inherit'} } rel="noreferrer">
               <ListItemButton >
                 <ListItemAvatar>
-                  <img src={ resource } height={ 42 }/>
+                  <Avatar>
+                    <WorkIcon />
+                  </Avatar>
                 </ListItemAvatar>
 
                 <ListItemText primary="Twitter Data Api" secondary="https://developer.twitter.com/en/docs/twitter-api"/>
@@ -85,7 +98,9 @@ const DataPage = () => (
             <a href='http://localhost:3000/data/Melbourne_POIs_MGA.json' target="_blank" style={ {'text-decoration': 'none', 'color': 'inherit'} } rel="noreferrer">
               <ListItemButton >
                 <ListItemAvatar>
-                  <img src={ resource } height={ 42 }/>
+                  <Avatar>
+                    <WorkIcon />
+                  </Avatar>
                 </ListItemAvatar>
 
                 <ListItemText primary="Point of Interest" secondary="http://localhost:3000/data/Melbourne_POIs_MGA.json"/>
@@ -95,7 +110,9 @@ const DataPage = () => (
             <a href='http://localhost:3000/data/restaurant.json' target="_blank" style={ {'text-decoration': 'none', 'color': 'inherit'} } rel="noreferrer">
               <ListItemButton >
                 <ListItemAvatar>
-                  <img src={ resource } height={ 42 }/>
+                  <Avatar>
+                    <WorkIcon />
+                  </Avatar>
                 </ListItemAvatar>
 
                 <ListItemText primary="Restaurant" secondary="http://localhost:3000/data/restaurant.json"/>
