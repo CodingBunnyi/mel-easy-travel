@@ -9,14 +9,14 @@ import Title from '../Title/Title';
 
 
 export default function Weather({weatherData, setPage}) {
-  const [time, setTime] = useState(new Date().toLocaleTimeString());
+  const [time, setTime] = useState(new Date().toLocaleString('en', {timeZone: 'Australia/Melbourne'}));
   const handleClick = () => {
     setPage('Weather');
   }
 
   useEffect(() => {
     // eslint-disable-next-line no-undef
-    var timerID = setInterval( () => setTime(new Date().toLocaleTimeString()), 1000 );
+    var timerID = setInterval( () => setTime(new Date().toLocaleString('en', {timeZone: 'Australia/Melbourne'})), 1000 );
     return function cleanup() {
         // eslint-disable-next-line no-undef
         clearInterval(timerID);
@@ -28,7 +28,7 @@ export default function Weather({weatherData, setPage}) {
       <Title>Weather</Title>
 
       <Typography color="text.secondary" sx={ { flex: 1 } }>
-        <span className="time">{new Date().toDateString()} {time}</span>
+        <span className="time">{`Melbourne Time: ${time}`}</span>
       </Typography>
 
       <Typography variant="h6">
