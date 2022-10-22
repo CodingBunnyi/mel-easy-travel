@@ -43,7 +43,7 @@ const DataPage = () => (
                   </Avatar>
                 </ListItemAvatar>
 
-                <ListItemText primary="Bus Metro Routes" secondary="http://localhost:3000/data/BusMetroRoutes.json"/>
+                <ListItemText primary="Metro Routes" secondary="http://localhost:3000/data/BusMetroRoutes.json"/>
               </ListItemButton>
             </a>
 

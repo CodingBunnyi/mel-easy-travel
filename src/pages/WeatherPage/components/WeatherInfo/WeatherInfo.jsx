@@ -13,12 +13,12 @@ import LoadingBox from '../../../../app/components/LoadingBox/LoadingBox';
 import './WeatherInfo.scss';
 
 const WeatherInfo = ({ weatherData, weatherLoading }) => {
-  const [time, setTime] = useState(new Date().toLocaleTimeString());
+  const [time, setTime] = useState(new Date().toLocaleString('en', {timeZone: 'Australia/Melbourne'}));
   const windDirection = degToCompass(weatherData.current.wind_deg)
 
   useEffect(() => {
     // eslint-disable-next-line no-undef
-    var timerID = setInterval( () => setTime(new Date().toLocaleTimeString()), 1000 );
+    var timerID = setInterval( () => setTime(new Date().toLocaleString('en', {timeZone: 'Australia/Melbourne'})), 1000 );
     return function cleanup() {
         // eslint-disable-next-line no-undef
         clearInterval(timerID);
@@ -44,7 +44,7 @@ const WeatherInfo = ({ weatherData, weatherLoading }) => {
       {weatherLoading ? <LoadingBox /> : 
       <div className="current-info-container">
         <Typography color="text.secondary" sx={ { flex: 1 } }>
-          <span className="time">{new Date().toDateString()} {time}</span>
+          <span className="time">{`Melbourne Time: ${time}`}</span>
         </Typography>
 
         <Typography variant="h6">
