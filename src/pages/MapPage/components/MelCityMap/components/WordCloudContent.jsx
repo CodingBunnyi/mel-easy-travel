@@ -52,7 +52,7 @@ const WordCloudContent = ({ wordCloud, loading }) => {
 
       { loading.wordCloud ?
         <LoadingBox /> 
-      : (wordCloud.length !== 0 ? <ReactWordcloud options={ options } callbacks={ callbacks } words={ wordCloud } /> : <div>No word cloud data in last 7 days.</div>)}
+      : (wordCloud.length !== 0 ? <ReactWordcloud options={ options } maxWords={ 100 } size={ [550,380] } callbacks={ callbacks } words={ wordCloud } /> : <div>No word cloud data in last 7 days.</div>)}
     </div>
   )
 }

@@ -20,9 +20,9 @@ const OverallWordCloud = ({ overallWordCloudData }) => {
   };
 
   return(
-    <div style={ { width: '100%', height: '300px' } }>
+    <div style={ { width: '100%', height: '280px' } }>
       <Typography component="p" color="text.secondary">What are people talking about in Melbourne？ </Typography>
-      {overallWordCloudData.length !== 0 ? <ReactWordcloud options={ options } words={ overallWordCloudData } /> : <div>No word cloud data in last 7 days.</div>} 
+      {overallWordCloudData.length !== 0 ? <ReactWordcloud options={ options } maxWords={ 200 } words={ overallWordCloudData } /> : <div>No word cloud data in last 7 days.</div>} 
     </div>
   )
 }
