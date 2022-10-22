@@ -9,7 +9,7 @@ const OverallWordCloud = ({ overallWordCloudData }) => {
     enableTooltip: true,
     deterministic: false,
     fontFamily: "impact",
-    fontSizes: [15, 60],
+    fontSizes: [15, 55],
     fontStyle: "normal",
     fontWeight: "normal",
     padding: 1,
