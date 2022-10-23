@@ -1,7 +1,7 @@
 import React from 'react';
 import timeConverter from '../../../../utils/timeConverter';
 import timeConverter24To12 from '../../../../utils/timeConverter24To12';
-import { CartesianGrid, Legend, Line, ComposedChart, Tooltip, XAxis, YAxis, Bar, Area } from 'recharts';
+import { CartesianGrid, ResponsiveContainer, Legend, Line, ComposedChart, Tooltip, XAxis, YAxis, Bar, Area } from 'recharts';
 import { useTheme } from '@mui/material/styles';
 import Paper from '@mui/material/Paper';
 import { Typography } from '@mui/material';
@@ -58,64 +58,68 @@ const WeatherChart = ({ weatherData, weatherLoading }) => {
       </Typography>
 
       {weatherLoading ? <LoadingBox /> : 
-      <ComposedChart width={ 1100 } height={ 250 } data={ getData() }
-        margin={ { top: 5, right: 30, left: 20, bottom: 5 } }>
-        <CartesianGrid strokeDasharray="3 3" />
+      <ResponsiveContainer  width='100%' height={ 250 }>
+        <ComposedChart height={ 250 } data={ getData() }
+          margin={ { top: 0, right: 0, left: 0, bottom: 0 } }
+        >
+          <CartesianGrid strokeDasharray="3 3" />
 
-        <XAxis 
-          dataKey="time" 
-          stroke={ theme.palette.text.secondary }
-          style={ theme.typography.body2 }
+          <XAxis 
+            dataKey="time" 
+            stroke={ theme.palette.text.secondary }
+            style={ theme.typography.body2 }
         />
 
-        <YAxis 
-          yAxisId={ 1 } 
-          orientation="right"
-          tickFormatter={ (value) => (value + ' mm/h') }
-          stroke={ theme.palette.text.secondary }
-          style={ theme.typography.body2 }
+          <YAxis 
+            yAxisId={ 1 } 
+            orientation="right"
+            tickFormatter={ (value) => (value + ' mm/h') }
+            stroke={ theme.palette.text.secondary }
+            style={ theme.typography.body2 }
         />
 
-        <YAxis
-          yAxisId={ 2 }
-          tickFormatter={ (value) => (value + '°C') }
-          stroke={ theme.palette.text.secondary }
-          style={ theme.typography.body2 }
+          <YAxis
+            yAxisId={ 2 }
+            tickFormatter={ (value) => (value + '°C') }
+            stroke={ theme.palette.text.secondary }
+            style={ theme.typography.body2 }
         />
 
-        <YAxis 
-          yAxisId={ 3 } 
-          tickFormatter={ (value) => (value + ' m/s') }
-          stroke={ theme.palette.text.secondary }
-          style={ theme.typography.body2 }
+          <YAxis 
+            yAxisId={ 3 } 
+            tickFormatter={ (value) => (value + ' m/s') }
+            stroke={ theme.palette.text.secondary }
+            style={ theme.typography.body2 }
         />
 
-        <Tooltip content={ CustomTooltip } />
-        <Legend />
+          <Tooltip content={ CustomTooltip } />
+          <Legend />
 
-        <Area 
-          yAxisId={ 3 }
-          type="monotone"
-          dataKey="windSpeed"
-          fill="#8884d8"
-          stroke="#8884d8"
+          <Area 
+            yAxisId={ 3 }
+            type="monotone"
+            dataKey="windSpeed"
+            fill="#8884d8"
+            stroke="#8884d8"
         />
 
-        <Bar
-          yAxisId={ 1 }
-          dataKey="rain"
-          barSize={ 20 }
-          fill="#413ea0"
+          <Bar
+            yAxisId={ 1 }
+            dataKey="rain"
+            barSize={ 20 }
+            fill="#413ea0"
         />
 
-        <Line
-          yAxisId={ 2 }
-          type="monotone"
-          dataKey="temp"
-          stroke={ theme.palette.primary.main }
-          dot={ false }
+          <Line
+            yAxisId={ 2 }
+            type="monotone"
+            dataKey="temp"
+            stroke={ theme.palette.primary.main }
+            dot={ false }
         />
-      </ComposedChart>}
+        
+        </ComposedChart>
+      </ResponsiveContainer>}
     </Paper>
   )
 }
