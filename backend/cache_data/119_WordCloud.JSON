@@ -1,6 +1,14 @@
 {
     "word_freq": [
         {
+            "text": "READY",
+            "value": 1
+        },
+        {
+            "text": "USED",
+            "value": 1
+        },
+        {
             "text": "AWESOME",
             "value": 1
         },

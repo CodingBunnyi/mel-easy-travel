@@ -1,6 +1,46 @@
 {
     "word_freq": [
         {
+            "text": "FAIRY",
+            "value": 1
+        },
+        {
+            "text": "PER",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 1
+        },
+        {
+            "text": "NIGHT",
+            "value": 3
+        },
+        {
+            "text": "TE",
+            "value": 1
+        },
+        {
+            "text": "EXTRA",
+            "value": 1
+        },
+        {
+            "text": "AMOS",
+            "value": 1
+        },
+        {
+            "text": "KMTZR1",
+            "value": 1
+        },
+        {
+            "text": "JOINT",
+            "value": 1
+        },
+        {
+            "text": "BAR",
+            "value": 1
+        },
+        {
             "text": "LOVE",
             "value": 2
         },
@@ -86,10 +126,6 @@
         },
         {
             "text": "LANGHAM",
-            "value": 2
-        },
-        {
-            "text": "NIGHT",
             "value": 2
         },
         {

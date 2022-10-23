@@ -1,6 +1,38 @@
 {
     "word_freq": [
         {
+            "text": "00AM",
+            "value": 1
+        },
+        {
+            "text": "OVERCAST",
+            "value": 1
+        },
+        {
+            "text": "MORNING",
+            "value": 2
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 12
+        },
+        {
+            "text": "FAR",
+            "value": 1
+        },
+        {
+            "text": "RAIN",
+            "value": 1
+        },
+        {
+            "text": "EXPECTED",
+            "value": 1
+        },
+        {
+            "text": "TODAY",
+            "value": 3
+        },
+        {
             "text": "TOLD",
             "value": 1
         },
@@ -29,20 +61,12 @@
             "value": 4
         },
         {
-            "text": "MELBOURNE",
-            "value": 11
-        },
-        {
             "text": "ABSOLUTELY",
             "value": 1
         },
         {
             "text": "AMAZING",
             "value": 1
-        },
-        {
-            "text": "TODAY",
-            "value": 2
         },
         {
             "text": "COMRADES",
@@ -247,10 +271,6 @@
         {
             "text": "GOOD",
             "value": 2
-        },
-        {
-            "text": "MORNING",
-            "value": 1
         },
         {
             "text": "LOOKING",

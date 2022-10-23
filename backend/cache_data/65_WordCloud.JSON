@@ -1,6 +1,222 @@
 {
     "word_freq": [
         {
+            "text": "LOOKING",
+            "value": 4
+        },
+        {
+            "text": "SCORE",
+            "value": 2
+        },
+        {
+            "text": "JOB",
+            "value": 18
+        },
+        {
+            "text": "MASTERCARD",
+            "value": 3
+        },
+        {
+            "text": "LUCK",
+            "value": 1
+        },
+        {
+            "text": "LINK",
+            "value": 10
+        },
+        {
+            "text": "DESCRIPTION",
+            "value": 1
+        },
+        {
+            "text": "INFORMATION",
+            "value": 1
+        },
+        {
+            "text": "APPLY",
+            "value": 10
+        },
+        {
+            "text": "SENIOR",
+            "value": 5
+        },
+        {
+            "text": "MANAGING",
+            "value": 2
+        },
+        {
+            "text": "CONSULTANT",
+            "value": 4
+        },
+        {
+            "text": "ADVISORS",
+            "value": 2
+        },
+        {
+            "text": "CLIENT",
+            "value": 2
+        },
+        {
+            "text": "SERVICES",
+            "value": 2
+        },
+        {
+            "text": "VIC",
+            "value": 21
+        },
+        {
+            "text": "LUNCHTIME",
+            "value": 1
+        },
+        {
+            "text": "MEETING",
+            "value": 4
+        },
+        {
+            "text": "PALATABLE",
+            "value": 1
+        },
+        {
+            "text": "PROVISION",
+            "value": 1
+        },
+        {
+            "text": "DELICIOUS",
+            "value": 1
+        },
+        {
+            "text": "MUSHROOM",
+            "value": 1
+        },
+        {
+            "text": "PIES",
+            "value": 1
+        },
+        {
+            "text": "EVER",
+            "value": 1
+        },
+        {
+            "text": "RMIT",
+            "value": 2
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 20
+        },
+        {
+            "text": "CITY",
+            "value": 3
+        },
+        {
+            "text": "CAMPUS",
+            "value": 2
+        },
+        {
+            "text": "DETAILS",
+            "value": 2
+        },
+        {
+            "text": "NAS",
+            "value": 1
+        },
+        {
+            "text": "INCLUDING",
+            "value": 2
+        },
+        {
+            "text": "REFERENCE",
+            "value": 1
+        },
+        {
+            "text": "GRIFFINS",
+            "value": 1
+        },
+        {
+            "text": "CAPITOL",
+            "value": 1
+        },
+        {
+            "text": "THEATRE",
+            "value": 5
+        },
+        {
+            "text": "PLUS",
+            "value": 1
+        },
+        {
+            "text": "WORKING",
+            "value": 1
+        },
+        {
+            "text": "BREKKIE",
+            "value": 1
+        },
+        {
+            "text": "CAREER",
+            "value": 2
+        },
+        {
+            "text": "TIP",
+            "value": 1
+        },
+        {
+            "text": "LANDING",
+            "value": 1
+        },
+        {
+            "text": "JOBS",
+            "value": 4
+        },
+        {
+            "text": "LIKE",
+            "value": 10
+        },
+        {
+            "text": "PART",
+            "value": 3
+        },
+        {
+            "text": "TIME",
+            "value": 3
+        },
+        {
+            "text": "SORTER",
+            "value": 2
+        },
+        {
+            "text": "GO",
+            "value": 1
+        },
+        {
+            "text": "INFORMATIONAL",
+            "value": 2
+        },
+        {
+            "text": "INTERVIEWS",
+            "value": 1
+        },
+        {
+            "text": "BEST",
+            "value": 3
+        },
+        {
+            "text": "WAY",
+            "value": 3
+        },
+        {
+            "text": "HIRING",
+            "value": 5
+        },
+        {
+            "text": "MANAGER",
+            "value": 3
+        },
+        {
+            "text": "ASK",
+            "value": 1
+        },
+        {
             "text": "TOLD",
             "value": 2
         },
@@ -33,24 +249,12 @@
             "value": 2
         },
         {
-            "text": "THEATRE",
-            "value": 4
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 21
-        },
-        {
             "text": "IRONY",
             "value": 1
         },
         {
             "text": "LIMPED",
             "value": 1
-        },
-        {
-            "text": "WAY",
-            "value": 2
         },
         {
             "text": "HOUR",
@@ -90,11 +294,7 @@
         },
         {
             "text": "VICTORIA",
-            "value": 3
-        },
-        {
-            "text": "VIC",
-            "value": 20
+            "value": 2
         },
         {
             "text": "BUSY",
@@ -149,10 +349,6 @@
             "value": 2
         },
         {
-            "text": "JOB",
-            "value": 17
-        },
-        {
             "text": "COUPLES",
             "value": 1
         },
@@ -175,10 +371,6 @@
         {
             "text": "SPA",
             "value": 1
-        },
-        {
-            "text": "TIME",
-            "value": 2
         },
         {
             "text": "SAKURA",
@@ -233,24 +425,16 @@
             "value": 1
         },
         {
-            "text": "LIKE",
-            "value": 10
-        },
-        {
-            "text": "SENIOR",
-            "value": 5
-        },
-        {
             "text": "NETWORK",
-            "value": 2
+            "value": 1
         },
         {
             "text": "OPERATIONS",
-            "value": 2
+            "value": 1
         },
         {
             "text": "ENGINEER",
-            "value": 4
+            "value": 3
         },
         {
             "text": "TECHNOLOGIES",
@@ -297,22 +481,6 @@
             "value": 1
         },
         {
-            "text": "HIRING",
-            "value": 5
-        },
-        {
-            "text": "MANAGER",
-            "value": 2
-        },
-        {
-            "text": "BEST",
-            "value": 3
-        },
-        {
-            "text": "CITY",
-            "value": 4
-        },
-        {
             "text": "CREATORS",
             "value": 1
         },
@@ -323,10 +491,6 @@
         {
             "text": "NERVOUS",
             "value": 1
-        },
-        {
-            "text": "APPLY",
-            "value": 10
         },
         {
             "text": "CLOUD",
@@ -367,10 +531,6 @@
         {
             "text": "VALUE",
             "value": 2
-        },
-        {
-            "text": "LINK",
-            "value": 9
         },
         {
             "text": "INFO",
@@ -465,10 +625,6 @@
             "value": 6
         },
         {
-            "text": "DETAILS",
-            "value": 1
-        },
-        {
             "text": "STOREPERSON",
             "value": 2
         },
@@ -479,10 +635,6 @@
         {
             "text": "TRIP",
             "value": 1
-        },
-        {
-            "text": "MASTERCARD",
-            "value": 2
         },
         {
             "text": "STRIVE",
@@ -505,10 +657,6 @@
             "value": 1
         },
         {
-            "text": "LOOKING",
-            "value": 3
-        },
-        {
             "text": "COMPANY",
             "value": 2
         },
@@ -529,26 +677,6 @@
             "value": 1
         },
         {
-            "text": "MANAGING",
-            "value": 1
-        },
-        {
-            "text": "CONSULTANT",
-            "value": 3
-        },
-        {
-            "text": "ADVISORS",
-            "value": 1
-        },
-        {
-            "text": "CLIENT",
-            "value": 1
-        },
-        {
-            "text": "SERVICES",
-            "value": 1
-        },
-        {
             "text": "JOIN",
             "value": 1
         },
@@ -562,7 +690,7 @@
         },
         {
             "text": "OPENING",
-            "value": 2
+            "value": 1
         },
         {
             "text": "FORWARD",
@@ -645,10 +773,6 @@
             "value": 1
         },
         {
-            "text": "CAREER",
-            "value": 1
-        },
-        {
             "text": "OPPORTUNITY",
             "value": 2
         },
@@ -697,10 +821,6 @@
             "value": 2
         },
         {
-            "text": "JOBS",
-            "value": 3
-        },
-        {
             "text": "SOON",
             "value": 2
         },
@@ -738,7 +858,7 @@
         },
         {
             "text": "TODAY",
-            "value": 2
+            "value": 1
         },
         {
             "text": "CLIMATE",
@@ -750,7 +870,7 @@
         },
         {
             "text": "NEW",
-            "value": 2
+            "value": 1
         },
         {
             "text": "GAS",
@@ -778,11 +898,11 @@
         },
         {
             "text": "LAST",
-            "value": 3
+            "value": 2
         },
         {
             "text": "MUCH",
-            "value": 2
+            "value": 1
         },
         {
             "text": "FUN",
@@ -842,10 +962,6 @@
         },
         {
             "text": "OPENINGS",
-            "value": 1
-        },
-        {
-            "text": "INCLUDING",
             "value": 1
         },
         {
@@ -930,7 +1046,7 @@
         },
         {
             "text": "PEOPLE",
-            "value": 4
+            "value": 2
         },
         {
             "text": "ENTREPRENEURIAL",
@@ -959,10 +1075,6 @@
         {
             "text": "CONTRIBUTION",
             "value": 1
-        },
-        {
-            "text": "PART",
-            "value": 2
         },
         {
             "text": "LARGER",
@@ -1010,10 +1122,6 @@
         },
         {
             "text": "CELEBRATION",
-            "value": 1
-        },
-        {
-            "text": "SORTER",
             "value": 1
         },
         {
@@ -1109,10 +1217,6 @@
             "value": 1
         },
         {
-            "text": "SCORE",
-            "value": 1
-        },
-        {
             "text": "PRODUCT",
             "value": 1
         },
@@ -1122,10 +1226,6 @@
         },
         {
             "text": "REFERRALS",
-            "value": 1
-        },
-        {
-            "text": "MEETING",
             "value": 1
         },
         {
@@ -1214,102 +1314,6 @@
         },
         {
             "text": "BENNETTS",
-            "value": 1
-        },
-        {
-            "text": "BRUNSWICK",
-            "value": 1
-        },
-        {
-            "text": "VISITED",
-            "value": 1
-        },
-        {
-            "text": "FINAL",
-            "value": 1
-        },
-        {
-            "text": "STAGES",
-            "value": 1
-        },
-        {
-            "text": "SET",
-            "value": 1
-        },
-        {
-            "text": "DECAL",
-            "value": 1
-        },
-        {
-            "text": "RMIT",
-            "value": 2
-        },
-        {
-            "text": "CAMPUS",
-            "value": 2
-        },
-        {
-            "text": "DIRTY",
-            "value": 1
-        },
-        {
-            "text": "LAUNDRY",
-            "value": 1
-        },
-        {
-            "text": "DISPLAY",
-            "value": 1
-        },
-        {
-            "text": "WIP",
-            "value": 1
-        },
-        {
-            "text": "PARTICULARLY",
-            "value": 1
-        },
-        {
-            "text": "CYANOTYPE",
-            "value": 1
-        },
-        {
-            "text": "PHOTOGRAM",
-            "value": 1
-        },
-        {
-            "text": "TITLE",
-            "value": 1
-        },
-        {
-            "text": "FLAGS",
-            "value": 1
-        },
-        {
-            "text": "TORI'S",
-            "value": 1
-        },
-        {
-            "text": "SMART",
-            "value": 1
-        },
-        {
-            "text": "SUPERB",
-            "value": 1
-        },
-        {
-            "text": "TECHNOLOGY",
-            "value": 1
-        },
-        {
-            "text": "CURRENTLY",
-            "value": 1
-        },
-        {
-            "text": "FEATURED",
-            "value": 1
-        },
-        {
-            "text": "NIGHT",
             "value": 1
         }
     ]

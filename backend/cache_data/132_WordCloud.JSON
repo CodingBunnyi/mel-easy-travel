@@ -1,6 +1,50 @@
 {
     "word_freq": [
         {
+            "text": "PHOTO",
+            "value": 12
+        },
+        {
+            "text": "PRINCES",
+            "value": 1
+        },
+        {
+            "text": "BRIDGE",
+            "value": 1
+        },
+        {
+            "text": "FEDERATION",
+            "value": 2
+        },
+        {
+            "text": "SQUARE",
+            "value": 3
+        },
+        {
+            "text": "MAGNIFICENT",
+            "value": 1
+        },
+        {
+            "text": "EVENING",
+            "value": 2
+        },
+        {
+            "text": "LAST",
+            "value": 2
+        },
+        {
+            "text": "NIGHT",
+            "value": 3
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 7
+        },
+        {
+            "text": "SOULFUL",
+            "value": 1
+        },
+        {
             "text": "WOW",
             "value": 1
         },
@@ -25,10 +69,6 @@
             "value": 1
         },
         {
-            "text": "NIGHT",
-            "value": 2
-        },
-        {
             "text": "TRES",
             "value": 1
         },
@@ -47,10 +87,6 @@
         {
             "text": "RESTAURANT",
             "value": 1
-        },
-        {
-            "text": "PHOTO",
-            "value": 10
         },
         {
             "text": "AUSTRALIA",
@@ -99,10 +135,6 @@
         {
             "text": "EXHIBITION",
             "value": 1
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 6
         },
         {
             "text": "LANES",
@@ -354,10 +386,6 @@
         },
         {
             "text": "UPON",
-            "value": 1
-        },
-        {
-            "text": "LAST",
             "value": 1
         },
         {
@@ -821,10 +849,6 @@
             "value": 1
         },
         {
-            "text": "EVENING",
-            "value": 1
-        },
-        {
             "text": "VL15",
             "value": 1
         },
@@ -905,10 +929,6 @@
             "value": 1
         },
         {
-            "text": "SQUARE",
-            "value": 2
-        },
-        {
             "text": "THINK",
             "value": 1
         },
@@ -930,10 +950,6 @@
         },
         {
             "text": "7PM",
-            "value": 1
-        },
-        {
-            "text": "FEDERATION",
             "value": 1
         },
         {

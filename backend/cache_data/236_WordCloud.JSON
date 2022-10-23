@@ -1,6 +1,370 @@
 {
     "word_freq": [
         {
+            "text": "PRE",
+            "value": 1
+        },
+        {
+            "text": "ORDER",
+            "value": 1
+        },
+        {
+            "text": "BABY",
+            "value": 1
+        },
+        {
+            "text": "LINK",
+            "value": 17
+        },
+        {
+            "text": "ALBUM",
+            "value": 1
+        },
+        {
+            "text": "RIGHT",
+            "value": 4
+        },
+        {
+            "text": "DEC",
+            "value": 1
+        },
+        {
+            "text": "ONBOARD",
+            "value": 1
+        },
+        {
+            "text": "FOLKS",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 198
+        },
+        {
+            "text": "VICTORIA",
+            "value": 175
+        },
+        {
+            "text": "AUSTRALIA",
+            "value": 177
+        },
+        {
+            "text": "PHOTO",
+            "value": 120
+        },
+        {
+            "text": "LOOKING",
+            "value": 4
+        },
+        {
+            "text": "SCORE",
+            "value": 2
+        },
+        {
+            "text": "JOB",
+            "value": 18
+        },
+        {
+            "text": "MASTERCARD",
+            "value": 3
+        },
+        {
+            "text": "LUCK",
+            "value": 1
+        },
+        {
+            "text": "DESCRIPTION",
+            "value": 1
+        },
+        {
+            "text": "INFORMATION",
+            "value": 1
+        },
+        {
+            "text": "APPLY",
+            "value": 10
+        },
+        {
+            "text": "SENIOR",
+            "value": 5
+        },
+        {
+            "text": "MANAGING",
+            "value": 2
+        },
+        {
+            "text": "CONSULTANT",
+            "value": 4
+        },
+        {
+            "text": "ADVISORS",
+            "value": 2
+        },
+        {
+            "text": "CLIENT",
+            "value": 2
+        },
+        {
+            "text": "SERVICES",
+            "value": 3
+        },
+        {
+            "text": "VIC",
+            "value": 23
+        },
+        {
+            "text": "BACCHUS",
+            "value": 1
+        },
+        {
+            "text": "MARSH",
+            "value": 1
+        },
+        {
+            "text": "HOPEFULLY",
+            "value": 1
+        },
+        {
+            "text": "LOLS",
+            "value": 1
+        },
+        {
+            "text": "REMIND",
+            "value": 1
+        },
+        {
+            "text": "HANDS",
+            "value": 1
+        },
+        {
+            "text": "STEERING",
+            "value": 1
+        },
+        {
+            "text": "WHEEL",
+            "value": 1
+        },
+        {
+            "text": "LMAO",
+            "value": 1
+        },
+        {
+            "text": "DELICIOUS",
+            "value": 2
+        },
+        {
+            "text": "MEALS",
+            "value": 1
+        },
+        {
+            "text": "EVER",
+            "value": 1
+        },
+        {
+            "text": "WAY",
+            "value": 4
+        },
+        {
+            "text": "OPERA",
+            "value": 1
+        },
+        {
+            "text": "FLORA",
+            "value": 1
+        },
+        {
+            "text": "INDIAN",
+            "value": 2
+        },
+        {
+            "text": "RESTAURANT",
+            "value": 2
+        },
+        {
+            "text": "COMES",
+            "value": 2
+        },
+        {
+            "text": "RAIN",
+            "value": 2
+        },
+        {
+            "text": "FAIRY",
+            "value": 1
+        },
+        {
+            "text": "PER",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 3
+        },
+        {
+            "text": "NIGHT",
+            "value": 3
+        },
+        {
+            "text": "TE",
+            "value": 1
+        },
+        {
+            "text": "EXTRA",
+            "value": 1
+        },
+        {
+            "text": "AMOS",
+            "value": 1
+        },
+        {
+            "text": "KMTZR1",
+            "value": 1
+        },
+        {
+            "text": "JOINT",
+            "value": 1
+        },
+        {
+            "text": "BAR",
+            "value": 3
+        },
+        {
+            "text": "BRUNETTI",
+            "value": 1
+        },
+        {
+            "text": "LOVE",
+            "value": 3
+        },
+        {
+            "text": "MINI",
+            "value": 1
+        },
+        {
+            "text": "PLANT",
+            "value": 1
+        },
+        {
+            "text": "HOLDER",
+            "value": 2
+        },
+        {
+            "text": "HOLE",
+            "value": 1
+        },
+        {
+            "text": "BOTTOM",
+            "value": 1
+        },
+        {
+            "text": "DRAINAGE",
+            "value": 1
+        },
+        {
+            "text": "HAPPY",
+            "value": 2
+        },
+        {
+            "text": "CAREER",
+            "value": 2
+        },
+        {
+            "text": "TIP",
+            "value": 1
+        },
+        {
+            "text": "LANDING",
+            "value": 1
+        },
+        {
+            "text": "JOBS",
+            "value": 4
+        },
+        {
+            "text": "LIKE",
+            "value": 10
+        },
+        {
+            "text": "PART",
+            "value": 4
+        },
+        {
+            "text": "TIME",
+            "value": 7
+        },
+        {
+            "text": "SORTER",
+            "value": 2
+        },
+        {
+            "text": "GO",
+            "value": 3
+        },
+        {
+            "text": "INFORMATIONAL",
+            "value": 2
+        },
+        {
+            "text": "INTERVIEWS",
+            "value": 1
+        },
+        {
+            "text": "BEST",
+            "value": 3
+        },
+        {
+            "text": "MEETING",
+            "value": 6
+        },
+        {
+            "text": "HIRING",
+            "value": 5
+        },
+        {
+            "text": "MANAGER",
+            "value": 3
+        },
+        {
+            "text": "ASK",
+            "value": 1
+        },
+        {
+            "text": "00AM",
+            "value": 1
+        },
+        {
+            "text": "OVERCAST",
+            "value": 1
+        },
+        {
+            "text": "MORNING",
+            "value": 2
+        },
+        {
+            "text": "FAR",
+            "value": 2
+        },
+        {
+            "text": "EXPECTED",
+            "value": 1
+        },
+        {
+            "text": "TODAY",
+            "value": 3
+        },
+        {
+            "text": "SATURDAY",
+            "value": 2
+        },
+        {
+            "text": "NIGHTS",
+            "value": 1
+        },
+        {
+            "text": "TIGHTS",
+            "value": 1
+        },
+        {
             "text": "FIRST",
             "value": 1
         },
@@ -33,20 +397,12 @@
             "value": 1
         },
         {
-            "text": "FAR",
-            "value": 1
-        },
-        {
             "text": "WE'LL",
             "value": 1
         },
         {
             "text": "SEE",
             "value": 10
-        },
-        {
-            "text": "TIME",
-            "value": 6
         },
         {
             "text": "GOES",
@@ -63,18 +419,6 @@
         {
             "text": "35MM",
             "value": 1
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 193
-        },
-        {
-            "text": "VICTORIA",
-            "value": 171
-        },
-        {
-            "text": "AUSTRALIA",
-            "value": 172
         },
         {
             "text": "SUPREME",
@@ -153,10 +497,6 @@
             "value": 4
         },
         {
-            "text": "PHOTO",
-            "value": 117
-        },
-        {
             "text": "BELIEVE",
             "value": 1
         },
@@ -178,7 +518,7 @@
         },
         {
             "text": "SEXY",
-            "value": 3
+            "value": 2
         },
         {
             "text": "GOOD",
@@ -191,10 +531,6 @@
         {
             "text": "MUCH",
             "value": 2
-        },
-        {
-            "text": "LIKE",
-            "value": 9
         },
         {
             "text": "STYLE",
@@ -213,10 +549,6 @@
             "value": 3
         },
         {
-            "text": "BAR",
-            "value": 2
-        },
-        {
             "text": "CUT",
             "value": 1
         },
@@ -231,10 +563,6 @@
         {
             "text": "LIMPED",
             "value": 1
-        },
-        {
-            "text": "WAY",
-            "value": 2
         },
         {
             "text": "HOUR",
@@ -303,10 +631,6 @@
         {
             "text": "LIBRARY",
             "value": 6
-        },
-        {
-            "text": "VIC",
-            "value": 21
         },
         {
             "text": "BUSY",
@@ -413,20 +737,12 @@
             "value": 2
         },
         {
-            "text": "JOB",
-            "value": 17
-        },
-        {
             "text": "MEDIA",
             "value": 3
         },
         {
             "text": "WALL",
             "value": 1
-        },
-        {
-            "text": "RIGHT",
-            "value": 3
         },
         {
             "text": "COLLINS",
@@ -538,11 +854,7 @@
         },
         {
             "text": "LAST",
-            "value": 7
-        },
-        {
-            "text": "NIGHT",
-            "value": 3
+            "value": 6
         },
         {
             "text": "INSPIRING",
@@ -581,20 +893,16 @@
             "value": 3
         },
         {
-            "text": "SENIOR",
-            "value": 5
-        },
-        {
             "text": "NETWORK",
-            "value": 2
+            "value": 1
         },
         {
             "text": "OPERATIONS",
-            "value": 2
+            "value": 1
         },
         {
             "text": "ENGINEER",
-            "value": 4
+            "value": 3
         },
         {
             "text": "TECHNOLOGIES",
@@ -637,18 +945,6 @@
             "value": 1
         },
         {
-            "text": "HIRING",
-            "value": 5
-        },
-        {
-            "text": "MANAGER",
-            "value": 2
-        },
-        {
-            "text": "BEST",
-            "value": 3
-        },
-        {
             "text": "CITY",
             "value": 8
         },
@@ -671,10 +967,6 @@
         {
             "text": "NERVOUS",
             "value": 1
-        },
-        {
-            "text": "APPLY",
-            "value": 10
         },
         {
             "text": "CLOUD",
@@ -717,10 +1009,6 @@
             "value": 2
         },
         {
-            "text": "LINK",
-            "value": 15
-        },
-        {
             "text": "INFO",
             "value": 1
         },
@@ -755,10 +1043,6 @@
         {
             "text": "SUITS",
             "value": 1
-        },
-        {
-            "text": "GO",
-            "value": 2
         },
         {
             "text": "BRRR",
@@ -965,10 +1249,6 @@
             "value": 1
         },
         {
-            "text": "BIG",
-            "value": 2
-        },
-        {
             "text": "ACOUSTIC",
             "value": 1
         },
@@ -1022,10 +1302,6 @@
         },
         {
             "text": "CRANE",
-            "value": 1
-        },
-        {
-            "text": "RESTAURANT",
             "value": 1
         },
         {
@@ -1225,10 +1501,6 @@
             "value": 1
         },
         {
-            "text": "MASTERCARD",
-            "value": 2
-        },
-        {
             "text": "STRIVE",
             "value": 1
         },
@@ -1249,10 +1521,6 @@
             "value": 1
         },
         {
-            "text": "LOOKING",
-            "value": 3
-        },
-        {
             "text": "COMPANY",
             "value": 2
         },
@@ -1270,26 +1538,6 @@
         },
         {
             "text": "POSTING",
-            "value": 2
-        },
-        {
-            "text": "MANAGING",
-            "value": 1
-        },
-        {
-            "text": "CONSULTANT",
-            "value": 3
-        },
-        {
-            "text": "ADVISORS",
-            "value": 1
-        },
-        {
-            "text": "CLIENT",
-            "value": 1
-        },
-        {
-            "text": "SERVICES",
             "value": 2
         },
         {
@@ -1405,10 +1653,6 @@
             "value": 1
         },
         {
-            "text": "INDIAN",
-            "value": 1
-        },
-        {
             "text": "MULTI",
             "value": 1
         },
@@ -1486,7 +1730,7 @@
         },
         {
             "text": "FEATURED",
-            "value": 2
+            "value": 1
         },
         {
             "text": "SPEAKING",
@@ -1565,10 +1809,6 @@
             "value": 3
         },
         {
-            "text": "MEETING",
-            "value": 4
-        },
-        {
             "text": "RELEASE",
             "value": 3
         },
@@ -1621,19 +1861,11 @@
             "value": 1
         },
         {
-            "text": "LOVE",
-            "value": 3
-        },
-        {
             "text": "LEARN",
             "value": 1
         },
         {
             "text": "CONSTANTLY",
-            "value": 1
-        },
-        {
-            "text": "CAREER",
             "value": 1
         },
         {
@@ -1707,10 +1939,6 @@
         {
             "text": "HEAR",
             "value": 2
-        },
-        {
-            "text": "JOBS",
-            "value": 3
         },
         {
             "text": "SOON",
@@ -1913,10 +2141,6 @@
             "value": 1
         },
         {
-            "text": "DELICIOUS",
-            "value": 1
-        },
-        {
             "text": "HEALTHY",
             "value": 1
         },
@@ -1985,10 +2209,6 @@
             "value": 1
         },
         {
-            "text": "MORNING",
-            "value": 1
-        },
-        {
             "text": "OFFICE",
             "value": 1
         },
@@ -2006,15 +2226,11 @@
         },
         {
             "text": "RECENT",
-            "value": 2
+            "value": 1
         },
         {
             "text": "MONSTER",
             "value": 2
-        },
-        {
-            "text": "PART",
-            "value": 3
         },
         {
             "text": "EXHIBITION",
@@ -2226,7 +2442,7 @@
         },
         {
             "text": "PEOPLE",
-            "value": 5
+            "value": 3
         },
         {
             "text": "ENTREPRENEURIAL",
@@ -2278,10 +2494,6 @@
         },
         {
             "text": "FRIENDS",
-            "value": 1
-        },
-        {
-            "text": "HAPPY",
             "value": 1
         },
         {
@@ -2445,10 +2657,6 @@
             "value": 1
         },
         {
-            "text": "TODAY",
-            "value": 3
-        },
-        {
             "text": "FREE",
             "value": 1
         },
@@ -2538,10 +2746,6 @@
         },
         {
             "text": "SCPHOTOZ",
-            "value": 1
-        },
-        {
-            "text": "SORTER",
             "value": 1
         },
         {
@@ -2701,10 +2905,6 @@
             "value": 1
         },
         {
-            "text": "SCORE",
-            "value": 1
-        },
-        {
             "text": "PRODUCT",
             "value": 1
         },
@@ -2845,10 +3045,6 @@
             "value": 1
         },
         {
-            "text": "SATURDAY",
-            "value": 1
-        },
-        {
             "text": "5TH",
             "value": 1
         },
@@ -2950,10 +3146,6 @@
         },
         {
             "text": "CUTE",
-            "value": 1
-        },
-        {
-            "text": "HOLDER",
             "value": 1
         },
         {
@@ -3102,94 +3294,6 @@
         },
         {
             "text": "DARKNESS",
-            "value": 1
-        },
-        {
-            "text": "TORI'S",
-            "value": 1
-        },
-        {
-            "text": "WISHING",
-            "value": 1
-        },
-        {
-            "text": "HAPPINESS",
-            "value": 1
-        },
-        {
-            "text": "WORLD",
-            "value": 1
-        },
-        {
-            "text": "MAGNIFICENT",
-            "value": 1
-        },
-        {
-            "text": "DWARF",
-            "value": 1
-        },
-        {
-            "text": "SCOTT'S",
-            "value": 1
-        },
-        {
-            "text": "PINE",
-            "value": 1
-        },
-        {
-            "text": "YEARLY",
-            "value": 1
-        },
-        {
-            "text": "MAINTENANCE",
-            "value": 1
-        },
-        {
-            "text": "SMART",
-            "value": 1
-        },
-        {
-            "text": "SUPERB",
-            "value": 1
-        },
-        {
-            "text": "TECHNOLOGY",
-            "value": 1
-        },
-        {
-            "text": "CURRENTLY",
-            "value": 1
-        },
-        {
-            "text": "REPOST",
-            "value": 1
-        },
-        {
-            "text": "TEEITUPSCREENPRINTING",
-            "value": 1
-        },
-        {
-            "text": "CREWNECK",
-            "value": 1
-        },
-        {
-            "text": "SWEATS",
-            "value": 1
-        },
-        {
-            "text": "ALMIGHTY",
-            "value": 1
-        },
-        {
-            "text": "SKETCH",
-            "value": 1
-        },
-        {
-            "text": "LOGO",
-            "value": 1
-        },
-        {
-            "text": "SITE",
             "value": 1
         }
     ]

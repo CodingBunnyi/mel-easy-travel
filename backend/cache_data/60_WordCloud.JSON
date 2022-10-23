@@ -1,12 +1,36 @@
 {
     "word_freq": [
         {
-            "text": "FLEMINGTON",
+            "text": "CHEWING",
             "value": 1
         },
         {
-            "text": "RACECOURSE",
+            "text": "FAT",
             "value": 1
+        },
+        {
+            "text": "ANAMOE'S",
+            "value": 1
+        },
+        {
+            "text": "WIN",
+            "value": 1
+        },
+        {
+            "text": "JAMES",
+            "value": 1
+        },
+        {
+            "text": "CUMMINGS",
+            "value": 1
+        },
+        {
+            "text": "FLEMINGTON",
+            "value": 2
+        },
+        {
+            "text": "RACECOURSE",
+            "value": 2
         },
         {
             "text": "MARIBYRNONG",

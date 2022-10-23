@@ -1,5 +1,5 @@
 {
-    "count": 33,
+    "count": 32,
     "data": [
         {
             "tid": 1583758220774215681,
@@ -546,24 +546,6 @@
             "longitude": 144.953377,
             "latitude": -37.814801,
             "photo_urls": []
-        },
-        {
-            "tid": 1581436930742374400,
-            "uid": 369910627,
-            "author": "Jessie Liu",
-            "user_img": "https://pbs.twimg.com/profile_images/1218656367348576257/OpvMb7lz_normal.jpg",
-            "time": "2022-10-16 00:08:40 +0000",
-            "like_no": 4,
-            "language": "en",
-            "text": "Another day another coffee   @nothingbutjane https://t.co/CU6PPwxe8G",
-            "clean_text": "Another day another coffee",
-            "place_name": "Higher Ground",
-            "place_type": "poi",
-            "longitude": 144.953028561221,
-            "latitude": -37.81599506329736,
-            "photo_urls": [
-                "https://pbs.twimg.com/media/FfJkgQrVUAAFTU6.jpg"
-            ]
         }
     ]
 }

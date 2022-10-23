@@ -1,3 +1,48 @@
 {
-    "word_freq": []
+    "word_freq": [
+        {
+            "text": "WEST",
+            "value": 1
+        },
+        {
+            "text": "GATE",
+            "value": 1
+        },
+        {
+            "text": "FWY",
+            "value": 1
+        },
+        {
+            "text": "M1",
+            "value": 1
+        },
+        {
+            "text": "PORT",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 1
+        },
+        {
+            "text": "LANES",
+            "value": 2
+        },
+        {
+            "text": "CLOSED",
+            "value": 2
+        },
+        {
+            "text": "INBOUND",
+            "value": 1
+        },
+        {
+            "text": "LEFT",
+            "value": 1
+        },
+        {
+            "text": "CITYBOUND",
+            "value": 1
+        }
+    ]
 }

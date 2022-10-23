@@ -1,6 +1,86 @@
 {
     "word_freq": [
         {
+            "text": "MORNING",
+            "value": 2
+        },
+        {
+            "text": "EVERYONE",
+            "value": 1
+        },
+        {
+            "text": "WOKE",
+            "value": 1
+        },
+        {
+            "text": "LESS",
+            "value": 1
+        },
+        {
+            "text": "HOURS",
+            "value": 1
+        },
+        {
+            "text": "REMAINING",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 2
+        },
+        {
+            "text": "GAME",
+            "value": 1
+        },
+        {
+            "text": "SKY",
+            "value": 1
+        },
+        {
+            "text": "LOOKS",
+            "value": 2
+        },
+        {
+            "text": "MUCH",
+            "value": 2
+        },
+        {
+            "text": "BETTER",
+            "value": 1
+        },
+        {
+            "text": "PAST",
+            "value": 1
+        },
+        {
+            "text": "LIKE",
+            "value": 1
+        },
+        {
+            "text": "HARDLY",
+            "value": 1
+        },
+        {
+            "text": "GONNA",
+            "value": 1
+        },
+        {
+            "text": "RAIN",
+            "value": 4
+        },
+        {
+            "text": "TODAY",
+            "value": 4
+        },
+        {
+            "text": "YEAH",
+            "value": 1
+        },
+        {
+            "text": "HAPPENING",
+            "value": 1
+        },
+        {
             "text": "MELBOURNE",
             "value": 3
         },
@@ -73,10 +153,6 @@
             "value": 1
         },
         {
-            "text": "MORNING",
-            "value": 1
-        },
-        {
             "text": "RAINING",
             "value": 1
         },
@@ -123,10 +199,6 @@
         {
             "text": "CHANCE",
             "value": 1
-        },
-        {
-            "text": "RAIN",
-            "value": 3
         },
         {
             "text": "7PM",
@@ -199,10 +271,6 @@
         {
             "text": "THROBBING",
             "value": 1
-        },
-        {
-            "text": "TODAY",
-            "value": 3
         },
         {
             "text": "VULNERABLE",
@@ -294,10 +362,6 @@
         },
         {
             "text": "SUCKS",
-            "value": 1
-        },
-        {
-            "text": "MUCH",
             "value": 1
         },
         {
@@ -406,10 +470,6 @@
         },
         {
             "text": "RUN",
-            "value": 1
-        },
-        {
-            "text": "BIG",
             "value": 1
         },
         {

@@ -1,6 +1,138 @@
 {
     "word_freq": [
         {
+            "text": "LOOKING",
+            "value": 3
+        },
+        {
+            "text": "SCORE",
+            "value": 2
+        },
+        {
+            "text": "JOB",
+            "value": 18
+        },
+        {
+            "text": "MASTERCARD",
+            "value": 3
+        },
+        {
+            "text": "LUCK",
+            "value": 1
+        },
+        {
+            "text": "LINK",
+            "value": 10
+        },
+        {
+            "text": "DESCRIPTION",
+            "value": 1
+        },
+        {
+            "text": "INFORMATION",
+            "value": 1
+        },
+        {
+            "text": "APPLY",
+            "value": 10
+        },
+        {
+            "text": "SENIOR",
+            "value": 5
+        },
+        {
+            "text": "MANAGING",
+            "value": 2
+        },
+        {
+            "text": "CONSULTANT",
+            "value": 4
+        },
+        {
+            "text": "ADVISORS",
+            "value": 2
+        },
+        {
+            "text": "CLIENT",
+            "value": 2
+        },
+        {
+            "text": "SERVICES",
+            "value": 2
+        },
+        {
+            "text": "VIC",
+            "value": 20
+        },
+        {
+            "text": "CAREER",
+            "value": 2
+        },
+        {
+            "text": "TIP",
+            "value": 1
+        },
+        {
+            "text": "LANDING",
+            "value": 1
+        },
+        {
+            "text": "JOBS",
+            "value": 4
+        },
+        {
+            "text": "LIKE",
+            "value": 9
+        },
+        {
+            "text": "PART",
+            "value": 3
+        },
+        {
+            "text": "TIME",
+            "value": 4
+        },
+        {
+            "text": "SORTER",
+            "value": 2
+        },
+        {
+            "text": "GO",
+            "value": 1
+        },
+        {
+            "text": "INFORMATIONAL",
+            "value": 2
+        },
+        {
+            "text": "INTERVIEWS",
+            "value": 1
+        },
+        {
+            "text": "BEST",
+            "value": 2
+        },
+        {
+            "text": "WAY",
+            "value": 3
+        },
+        {
+            "text": "MEETING",
+            "value": 3
+        },
+        {
+            "text": "HIRING",
+            "value": 5
+        },
+        {
+            "text": "MANAGER",
+            "value": 3
+        },
+        {
+            "text": "ASK",
+            "value": 1
+        },
+        {
             "text": "IRONY",
             "value": 1
         },
@@ -9,12 +141,8 @@
             "value": 1
         },
         {
-            "text": "WAY",
-            "value": 2
-        },
-        {
             "text": "MELBOURNE",
-            "value": 16
+            "value": 15
         },
         {
             "text": "HOUR",
@@ -93,14 +221,6 @@
             "value": 2
         },
         {
-            "text": "JOB",
-            "value": 17
-        },
-        {
-            "text": "VIC",
-            "value": 19
-        },
-        {
             "text": "MEDIA",
             "value": 1
         },
@@ -119,10 +239,6 @@
         {
             "text": "SPA",
             "value": 1
-        },
-        {
-            "text": "TIME",
-            "value": 3
         },
         {
             "text": "SAKURA",
@@ -170,7 +286,7 @@
         },
         {
             "text": "VICTORIA",
-            "value": 2
+            "value": 1
         },
         {
             "text": "PHOTO",
@@ -189,24 +305,16 @@
             "value": 1
         },
         {
-            "text": "LIKE",
-            "value": 8
-        },
-        {
-            "text": "SENIOR",
-            "value": 5
-        },
-        {
             "text": "NETWORK",
-            "value": 2
+            "value": 1
         },
         {
             "text": "OPERATIONS",
-            "value": 2
+            "value": 1
         },
         {
             "text": "ENGINEER",
-            "value": 4
+            "value": 3
         },
         {
             "text": "TECHNOLOGIES",
@@ -249,20 +357,8 @@
             "value": 1
         },
         {
-            "text": "HIRING",
-            "value": 5
-        },
-        {
-            "text": "MANAGER",
-            "value": 2
-        },
-        {
             "text": "NERVOUS",
             "value": 1
-        },
-        {
-            "text": "APPLY",
-            "value": 10
         },
         {
             "text": "CLOUD",
@@ -303,10 +399,6 @@
         {
             "text": "VALUE",
             "value": 2
-        },
-        {
-            "text": "LINK",
-            "value": 9
         },
         {
             "text": "INFO",
@@ -405,10 +497,6 @@
             "value": 1
         },
         {
-            "text": "MASTERCARD",
-            "value": 2
-        },
-        {
             "text": "STRIVE",
             "value": 1
         },
@@ -429,10 +517,6 @@
             "value": 1
         },
         {
-            "text": "LOOKING",
-            "value": 2
-        },
-        {
             "text": "COMPANY",
             "value": 2
         },
@@ -450,26 +534,6 @@
         },
         {
             "text": "POSTING",
-            "value": 1
-        },
-        {
-            "text": "MANAGING",
-            "value": 1
-        },
-        {
-            "text": "CONSULTANT",
-            "value": 3
-        },
-        {
-            "text": "ADVISORS",
-            "value": 1
-        },
-        {
-            "text": "CLIENT",
-            "value": 1
-        },
-        {
-            "text": "SERVICES",
             "value": 1
         },
         {
@@ -550,7 +614,7 @@
         },
         {
             "text": "NIGHT",
-            "value": 2
+            "value": 1
         },
         {
             "text": "HELLLOOOO",
@@ -578,10 +642,6 @@
         },
         {
             "text": "PERFECT",
-            "value": 1
-        },
-        {
-            "text": "CAREER",
             "value": 1
         },
         {
@@ -639,10 +699,6 @@
         {
             "text": "HEAR",
             "value": 2
-        },
-        {
-            "text": "JOBS",
-            "value": 3
         },
         {
             "text": "SOON",
@@ -718,7 +774,7 @@
         },
         {
             "text": "PEOPLE",
-            "value": 4
+            "value": 2
         },
         {
             "text": "ENTREPRENEURIAL",
@@ -749,10 +805,6 @@
             "value": 1
         },
         {
-            "text": "PART",
-            "value": 2
-        },
-        {
             "text": "LARGER",
             "value": 1
         },
@@ -769,10 +821,6 @@
             "value": 1
         },
         {
-            "text": "BEST",
-            "value": 2
-        },
-        {
             "text": "COFFE",
             "value": 1
         },
@@ -782,7 +830,7 @@
         },
         {
             "text": "COFFEE",
-            "value": 2
+            "value": 1
         },
         {
             "text": "COMMONWEALTH",
@@ -790,10 +838,6 @@
         },
         {
             "text": "BANK",
-            "value": 1
-        },
-        {
-            "text": "SORTER",
             "value": 1
         },
         {
@@ -865,10 +909,6 @@
             "value": 1
         },
         {
-            "text": "SCORE",
-            "value": 1
-        },
-        {
             "text": "PRODUCT",
             "value": 1
         },
@@ -878,10 +918,6 @@
         },
         {
             "text": "REFERRALS",
-            "value": 1
-        },
-        {
-            "text": "MEETING",
             "value": 1
         },
         {
@@ -930,38 +966,6 @@
         },
         {
             "text": "READY",
-            "value": 1
-        },
-        {
-            "text": "TORI'S",
-            "value": 1
-        },
-        {
-            "text": "SMART",
-            "value": 1
-        },
-        {
-            "text": "SUPERB",
-            "value": 1
-        },
-        {
-            "text": "TECHNOLOGY",
-            "value": 1
-        },
-        {
-            "text": "CURRENTLY",
-            "value": 1
-        },
-        {
-            "text": "FEATURED",
-            "value": 1
-        },
-        {
-            "text": "TODAY",
-            "value": 1
-        },
-        {
-            "text": "LAST",
             "value": 1
         }
     ]

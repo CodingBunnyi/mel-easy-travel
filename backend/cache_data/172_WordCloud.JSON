@@ -1,6 +1,42 @@
 {
     "word_freq": [
         {
+            "text": "CARS",
+            "value": 1
+        },
+        {
+            "text": "STOP",
+            "value": 1
+        },
+        {
+            "text": "FUCKING",
+            "value": 1
+        },
+        {
+            "text": "USING",
+            "value": 1
+        },
+        {
+            "text": "CYCLE",
+            "value": 1
+        },
+        {
+            "text": "LANE",
+            "value": 2
+        },
+        {
+            "text": "OVERTAKING",
+            "value": 1
+        },
+        {
+            "text": "DELIBERATELY",
+            "value": 1
+        },
+        {
+            "text": "GEOTAGGED",
+            "value": 1
+        },
+        {
             "text": "DINNER",
             "value": 1
         },

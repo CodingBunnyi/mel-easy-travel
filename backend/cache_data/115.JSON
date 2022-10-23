@@ -1,5 +1,5 @@
 {
-    "count": 59,
+    "count": 57,
     "data": [
         {
             "tid": 1583772142348296194,
@@ -991,38 +991,6 @@
             "photo_urls": [
                 "https://pbs.twimg.com/media/FfKSMbRakAAQvmg.jpg"
             ]
-        },
-        {
-            "tid": 1581429445382275072,
-            "uid": 1412028962,
-            "author": "Dry Tickets",
-            "user_img": "https://pbs.twimg.com/profile_images/726988823914143744/BRbUi97__normal.jpg",
-            "time": "2022-10-15 23:38:55 +0000",
-            "like_no": 4,
-            "language": "en",
-            "text": "It’s tonight \nTickets at https://t.co/aV95lmy5rT @ Melbourne Convention and Exhibition Centre (MCEC) https://t.co/9K7uUL0uhM",
-            "clean_text": "It s tonight Tickets at Melbourne Convention and Exhibition Centre MCEC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95289588,
-            "latitude": -37.82531574,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581427776556408833,
-            "uid": 947478999394955264,
-            "author": "Crystal Note | #BerryWorldSMP #SimpSMP",
-            "user_img": "https://pbs.twimg.com/profile_images/1442070680053317635/5QYLlQRE_normal.jpg",
-            "time": "2022-10-15 23:32:18 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Just posted a photo @ Melbourne Convention and Exhibition Centre (MCEC) https://t.co/NxrD8sJPgC",
-            "clean_text": "Just posted a photo Melbourne Convention and Exhibition Centre MCEC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.95289588,
-            "latitude": -37.82531574,
-            "photo_urls": []
         }
     ]
 }

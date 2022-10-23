@@ -1,5 +1,5 @@
 {
-    "count": 25,
+    "count": 23,
     "data": [
         {
             "tid": 1583759295857901568,
@@ -403,38 +403,6 @@
             "place_type": "city",
             "longitude": 144.96761484,
             "latitude": -37.79823525,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581454109269721088,
-            "uid": 14820495,
-            "author": "Chris Rodda",
-            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
-            "time": "2022-10-16 01:16:56 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "While in #LygonSt have #DOCEspresso coffee - and in this case apple crumble cake, which didn’t seem really Italian! Mind you, there are definitely fewer Italian waiters too, perhaps a post-COVID thing? @ DOC https://t.co/1677R4ZDdY",
-            "clean_text": "While in have coffee and in this case apple crumble cake which didn t seem really Italian Mind you there are definitely fewer Italian waiters too perhaps a post COVID thing DOC",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.96745,
-            "latitude": -37.7993,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581452175649054720,
-            "uid": 14820495,
-            "author": "Chris Rodda",
-            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
-            "time": "2022-10-16 01:09:15 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Ultra-elegant former warehouse, #LygonSt #Carlton @ Lygon Street https://t.co/rKG0i4jriE",
-            "clean_text": "Ultra elegant former warehouse Lygon Street",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.96677634,
-            "latitude": -37.80153833,
             "photo_urls": []
         }
     ]

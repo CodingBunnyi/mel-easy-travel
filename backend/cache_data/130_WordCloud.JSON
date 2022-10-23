@@ -1,8 +1,76 @@
 {
     "word_freq": [
         {
-            "text": "FIRST",
+            "text": "PHOTO",
+            "value": 9
+        },
+        {
+            "text": "ART",
             "value": 1
+        },
+        {
+            "text": "CENTRE",
+            "value": 4
+        },
+        {
+            "text": "PLAYHOUSE",
+            "value": 1
+        },
+        {
+            "text": "PRINCES",
+            "value": 1
+        },
+        {
+            "text": "BRIDGE",
+            "value": 1
+        },
+        {
+            "text": "MAGNIFICENT",
+            "value": 1
+        },
+        {
+            "text": "EVENING",
+            "value": 1
+        },
+        {
+            "text": "LAST",
+            "value": 3
+        },
+        {
+            "text": "NIGHT",
+            "value": 3
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 11
+        },
+        {
+            "text": "SOULFUL",
+            "value": 1
+        },
+        {
+            "text": "DELIGHTFUL",
+            "value": 1
+        },
+        {
+            "text": "WATCH",
+            "value": 2
+        },
+        {
+            "text": "FAN",
+            "value": 1
+        },
+        {
+            "text": "SINCE",
+            "value": 1
+        },
+        {
+            "text": "FIRST",
+            "value": 2
+        },
+        {
+            "text": "TIME",
+            "value": 2
         },
         {
             "text": "SAW",
@@ -49,10 +117,6 @@
             "value": 1
         },
         {
-            "text": "PHOTO",
-            "value": 7
-        },
-        {
             "text": "COURTESY",
             "value": 1
         },
@@ -95,14 +159,6 @@
         {
             "text": "ARTS",
             "value": 1
-        },
-        {
-            "text": "CENTRE",
-            "value": 3
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 10
         },
         {
             "text": "ROW",
@@ -157,10 +213,6 @@
             "value": 1
         },
         {
-            "text": "LAST",
-            "value": 2
-        },
-        {
             "text": "THURSDAY",
             "value": 1
         },
@@ -199,10 +251,6 @@
         {
             "text": "LECTURE",
             "value": 2
-        },
-        {
-            "text": "NIGHT",
-            "value": 1
         },
         {
             "text": "LISTENING",
@@ -345,10 +393,6 @@
             "value": 1
         },
         {
-            "text": "TIME",
-            "value": 1
-        },
-        {
             "text": "CELEBRATING",
             "value": 1
         },
@@ -426,30 +470,6 @@
         },
         {
             "text": "WINTER",
-            "value": 1
-        },
-        {
-            "text": "FATFREDDYSDROPNZ",
-            "value": 1
-        },
-        {
-            "text": "ROCKING",
-            "value": 1
-        },
-        {
-            "text": "BOWL",
-            "value": 2
-        },
-        {
-            "text": "SIDNEY",
-            "value": 1
-        },
-        {
-            "text": "MYER",
-            "value": 1
-        },
-        {
-            "text": "MUSIC",
             "value": 1
         }
     ]

@@ -1,8 +1,116 @@
 {
     "word_freq": [
         {
+            "text": "PHOTO",
+            "value": 20
+        },
+        {
+            "text": "ART",
+            "value": 1
+        },
+        {
+            "text": "CENTRE",
+            "value": 6
+        },
+        {
+            "text": "PLAYHOUSE",
+            "value": 1
+        },
+        {
+            "text": "DELICIOUS",
+            "value": 1
+        },
+        {
+            "text": "MEALS",
+            "value": 1
+        },
+        {
+            "text": "EVER",
+            "value": 1
+        },
+        {
+            "text": "WAY",
+            "value": 2
+        },
+        {
+            "text": "OPERA",
+            "value": 1
+        },
+        {
+            "text": "FLORA",
+            "value": 1
+        },
+        {
+            "text": "INDIAN",
+            "value": 1
+        },
+        {
+            "text": "RESTAURANT",
+            "value": 1
+        },
+        {
+            "text": "PRINCES",
+            "value": 1
+        },
+        {
+            "text": "BRIDGE",
+            "value": 1
+        },
+        {
+            "text": "FEDERATION",
+            "value": 2
+        },
+        {
+            "text": "SQUARE",
+            "value": 3
+        },
+        {
+            "text": "MAGNIFICENT",
+            "value": 1
+        },
+        {
+            "text": "EVENING",
+            "value": 2
+        },
+        {
+            "text": "LAST",
+            "value": 4
+        },
+        {
+            "text": "NIGHT",
+            "value": 3
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 16
+        },
+        {
+            "text": "SOULFUL",
+            "value": 1
+        },
+        {
+            "text": "DELIGHTFUL",
+            "value": 1
+        },
+        {
+            "text": "WATCH",
+            "value": 2
+        },
+        {
+            "text": "FAN",
+            "value": 1
+        },
+        {
+            "text": "SINCE",
+            "value": 1
+        },
+        {
             "text": "FIRST",
-            "value": 5
+            "value": 6
+        },
+        {
+            "text": "TIME",
+            "value": 2
         },
         {
             "text": "SAW",
@@ -49,10 +157,6 @@
             "value": 1
         },
         {
-            "text": "PHOTO",
-            "value": 17
-        },
-        {
             "text": "COURTESY",
             "value": 1
         },
@@ -97,14 +201,6 @@
             "value": 2
         },
         {
-            "text": "CENTRE",
-            "value": 5
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 15
-        },
-        {
             "text": "ROW",
             "value": 1
         },
@@ -135,10 +231,6 @@
         {
             "text": "DECK",
             "value": 1
-        },
-        {
-            "text": "LAST",
-            "value": 3
         },
         {
             "text": "THURSDAY",
@@ -179,10 +271,6 @@
         {
             "text": "LECTURE",
             "value": 2
-        },
-        {
-            "text": "NIGHT",
-            "value": 1
         },
         {
             "text": "LISTENING",
@@ -566,10 +654,6 @@
         },
         {
             "text": "LEADING",
-            "value": 1
-        },
-        {
-            "text": "WAY",
             "value": 1
         },
         {
@@ -1017,10 +1101,6 @@
             "value": 1
         },
         {
-            "text": "EVENING",
-            "value": 1
-        },
-        {
             "text": "VL15",
             "value": 1
         },
@@ -1063,10 +1143,6 @@
         {
             "text": "BEST",
             "value": 2
-        },
-        {
-            "text": "TIME",
-            "value": 1
         },
         {
             "text": "CELEBRATING",
@@ -1137,10 +1213,6 @@
             "value": 1
         },
         {
-            "text": "SQUARE",
-            "value": 2
-        },
-        {
             "text": "THINK",
             "value": 1
         },
@@ -1162,10 +1234,6 @@
         },
         {
             "text": "7PM",
-            "value": 1
-        },
-        {
-            "text": "FEDERATION",
             "value": 1
         },
         {
@@ -1242,30 +1310,6 @@
         },
         {
             "text": "WINTER",
-            "value": 1
-        },
-        {
-            "text": "FATFREDDYSDROPNZ",
-            "value": 1
-        },
-        {
-            "text": "ROCKING",
-            "value": 1
-        },
-        {
-            "text": "BOWL",
-            "value": 2
-        },
-        {
-            "text": "SIDNEY",
-            "value": 1
-        },
-        {
-            "text": "MYER",
-            "value": 1
-        },
-        {
-            "text": "MUSIC",
             "value": 1
         }
     ]

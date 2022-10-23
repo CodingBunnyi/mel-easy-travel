@@ -1,6 +1,118 @@
 {
     "word_freq": [
         {
+            "text": "PSYCHEDELIC",
+            "value": 1
+        },
+        {
+            "text": "PANORAMA",
+            "value": 2
+        },
+        {
+            "text": "TOOK",
+            "value": 1
+        },
+        {
+            "text": "CONCERT",
+            "value": 1
+        },
+        {
+            "text": "GREATEST",
+            "value": 1
+        },
+        {
+            "text": "BACKHANDS",
+            "value": 1
+        },
+        {
+            "text": "TIME",
+            "value": 4
+        },
+        {
+            "text": "TRIPPING",
+            "value": 1
+        },
+        {
+            "text": "LIGHT",
+            "value": 1
+        },
+        {
+            "text": "FANTASTIC",
+            "value": 1
+        },
+        {
+            "text": "ROD",
+            "value": 2
+        },
+        {
+            "text": "LAVER",
+            "value": 2
+        },
+        {
+            "text": "ARENA",
+            "value": 6
+        },
+        {
+            "text": "MCG",
+            "value": 7
+        },
+        {
+            "text": "STADIUM",
+            "value": 1
+        },
+        {
+            "text": "NIGHT",
+            "value": 1
+        },
+        {
+            "text": "COUNTING",
+            "value": 1
+        },
+        {
+            "text": "HOURS",
+            "value": 1
+        },
+        {
+            "text": "BIGGEST",
+            "value": 2
+        },
+        {
+            "text": "MATCH",
+            "value": 3
+        },
+        {
+            "text": "TOURNAMENT",
+            "value": 1
+        },
+        {
+            "text": "PAKISTAN",
+            "value": 6
+        },
+        {
+            "text": "ZINDABAD",
+            "value": 1
+        },
+        {
+            "text": "WAITING",
+            "value": 1
+        },
+        {
+            "text": "MAY",
+            "value": 1
+        },
+        {
+            "text": "BEST",
+            "value": 4
+        },
+        {
+            "text": "TEAM",
+            "value": 4
+        },
+        {
+            "text": "WIN",
+            "value": 3
+        },
+        {
             "text": "GOOD",
             "value": 4
         },
@@ -42,7 +154,7 @@
         },
         {
             "text": "GO",
-            "value": 2
+            "value": 1
         },
         {
             "text": "NATION",
@@ -63,10 +175,6 @@
         {
             "text": "GROUND",
             "value": 1
-        },
-        {
-            "text": "MCG",
-            "value": 6
         },
         {
             "text": "VIRAT",
@@ -115,10 +223,6 @@
         {
             "text": "GAME",
             "value": 6
-        },
-        {
-            "text": "PAKISTAN",
-            "value": 5
         },
         {
             "text": "HARDIK",
@@ -249,20 +353,12 @@
             "value": 1
         },
         {
-            "text": "WIN",
-            "value": 2
-        },
-        {
             "text": "JOHN",
             "value": 4
         },
         {
             "text": "CAIN",
             "value": 4
-        },
-        {
-            "text": "ARENA",
-            "value": 5
         },
         {
             "text": "WEATHER",
@@ -361,10 +457,6 @@
             "value": 2
         },
         {
-            "text": "MATCH",
-            "value": 2
-        },
-        {
             "text": "GETTING",
             "value": 3
         },
@@ -375,10 +467,6 @@
         {
             "text": "HIGH",
             "value": 1
-        },
-        {
-            "text": "TIME",
-            "value": 3
         },
         {
             "text": "CAPTAIN",
@@ -725,10 +813,6 @@
             "value": 1
         },
         {
-            "text": "BEST",
-            "value": 3
-        },
-        {
             "text": "NEWS",
             "value": 1
         },
@@ -831,10 +915,6 @@
         {
             "text": "ATTENDED",
             "value": 1
-        },
-        {
-            "text": "TEAM",
-            "value": 3
         },
         {
             "text": "OPTIONAL",
@@ -1465,10 +1545,6 @@
             "value": 1
         },
         {
-            "text": "BIGGEST",
-            "value": 1
-        },
-        {
             "text": "CHANGE",
             "value": 1
         },
@@ -1577,14 +1653,6 @@
             "value": 1
         },
         {
-            "text": "ROD",
-            "value": 1
-        },
-        {
-            "text": "LAVER",
-            "value": 1
-        },
-        {
             "text": "TURNING",
             "value": 1
         },
@@ -1646,7 +1714,7 @@
         },
         {
             "text": "FIGHT",
-            "value": 5
+            "value": 3
         },
         {
             "text": "SHOWING",
@@ -1670,7 +1738,7 @@
         },
         {
             "text": "HANEY",
-            "value": 2
+            "value": 1
         },
         {
             "text": "KAMBOSOS",
@@ -1726,66 +1794,6 @@
         },
         {
             "text": "WINTER",
-            "value": 1
-        },
-        {
-            "text": "FATFREDDYSDROPNZ",
-            "value": 1
-        },
-        {
-            "text": "ROCKING",
-            "value": 1
-        },
-        {
-            "text": "BOWL",
-            "value": 2
-        },
-        {
-            "text": "SIDNEY",
-            "value": 1
-        },
-        {
-            "text": "MYER",
-            "value": 1
-        },
-        {
-            "text": "MUSIC",
-            "value": 1
-        },
-        {
-            "text": "LEAST",
-            "value": 1
-        },
-        {
-            "text": "WEAR",
-            "value": 1
-        },
-        {
-            "text": "BEANIE",
-            "value": 1
-        },
-        {
-            "text": "PUFFER",
-            "value": 1
-        },
-        {
-            "text": "JACKET",
-            "value": 1
-        },
-        {
-            "text": "ABSOLUTE",
-            "value": 1
-        },
-        {
-            "text": "CRACKER",
-            "value": 1
-        },
-        {
-            "text": "ATMOSPHERE",
-            "value": 1
-        },
-        {
-            "text": "KAMBOSIS",
             "value": 1
         }
     ]

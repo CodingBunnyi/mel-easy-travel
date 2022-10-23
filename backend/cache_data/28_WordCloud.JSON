@@ -1,11 +1,19 @@
 {
     "word_freq": [
         {
-            "text": "BATHROOM",
-            "value": 2
+            "text": "BREAKFAST",
+            "value": 1
         },
         {
-            "text": "TRANSFORMATION",
+            "text": "CHAMPIONS",
+            "value": 1
+        },
+        {
+            "text": "LOCAL",
+            "value": 1
+        },
+        {
+            "text": "FOLK",
             "value": 1
         },
         {
@@ -13,47 +21,7 @@
             "value": 1
         },
         {
-            "text": "GOLD",
-            "value": 1
-        },
-        {
-            "text": "CARD",
-            "value": 1
-        },
-        {
-            "text": "DVA",
-            "value": 1
-        },
-        {
-            "text": "CLIENTS",
-            "value": 1
-        },
-        {
-            "text": "LEVEL",
-            "value": 1
-        },
-        {
-            "text": "TRIP",
-            "value": 1
-        },
-        {
-            "text": "HAZARDS",
-            "value": 1
-        },
-        {
-            "text": "TEAM",
-            "value": 1
-        },
-        {
-            "text": "DELIVERED",
-            "value": 1
-        },
-        {
-            "text": "FULL",
-            "value": 1
-        },
-        {
-            "text": "SATISFACTION",
+            "text": "VIC",
             "value": 1
         }
     ]

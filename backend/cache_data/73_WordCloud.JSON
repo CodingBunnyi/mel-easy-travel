@@ -14,7 +14,7 @@
         },
         {
             "text": "MELBOURNE",
-            "value": 12
+            "value": 11
         },
         {
             "text": "HOUR",
@@ -138,7 +138,7 @@
         },
         {
             "text": "VICTORIA",
-            "value": 2
+            "value": 1
         },
         {
             "text": "PHOTO",
@@ -238,7 +238,7 @@
         },
         {
             "text": "BEST",
-            "value": 2
+            "value": 1
         },
         {
             "text": "COFFE",
@@ -250,7 +250,7 @@
         },
         {
             "text": "COFFEE",
-            "value": 2
+            "value": 1
         },
         {
             "text": "COMMONWEALTH",
@@ -266,22 +266,6 @@
         },
         {
             "text": "GOONESS",
-            "value": 1
-        },
-        {
-            "text": "TORI'S",
-            "value": 1
-        },
-        {
-            "text": "LAST",
-            "value": 1
-        },
-        {
-            "text": "NIGHT",
-            "value": 1
-        },
-        {
-            "text": "PEOPLE",
             "value": 1
         }
     ]

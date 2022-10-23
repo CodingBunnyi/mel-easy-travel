@@ -1,6 +1,270 @@
 {
     "word_freq": [
         {
+            "text": "PRE",
+            "value": 1
+        },
+        {
+            "text": "ORDER",
+            "value": 1
+        },
+        {
+            "text": "BABY",
+            "value": 1
+        },
+        {
+            "text": "LINK",
+            "value": 7
+        },
+        {
+            "text": "ALBUM",
+            "value": 1
+        },
+        {
+            "text": "RIGHT",
+            "value": 2
+        },
+        {
+            "text": "DEC",
+            "value": 1
+        },
+        {
+            "text": "ONBOARD",
+            "value": 1
+        },
+        {
+            "text": "FOLKS",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 196
+        },
+        {
+            "text": "VICTORIA",
+            "value": 181
+        },
+        {
+            "text": "AUSTRALIA",
+            "value": 185
+        },
+        {
+            "text": "PHOTO",
+            "value": 138
+        },
+        {
+            "text": "BACCHUS",
+            "value": 1
+        },
+        {
+            "text": "MARSH",
+            "value": 1
+        },
+        {
+            "text": "HOPEFULLY",
+            "value": 1
+        },
+        {
+            "text": "LOLS",
+            "value": 1
+        },
+        {
+            "text": "REMIND",
+            "value": 1
+        },
+        {
+            "text": "HANDS",
+            "value": 1
+        },
+        {
+            "text": "STEERING",
+            "value": 1
+        },
+        {
+            "text": "WHEEL",
+            "value": 1
+        },
+        {
+            "text": "LMAO",
+            "value": 1
+        },
+        {
+            "text": "ART",
+            "value": 5
+        },
+        {
+            "text": "CENTRE",
+            "value": 6
+        },
+        {
+            "text": "PLAYHOUSE",
+            "value": 1
+        },
+        {
+            "text": "DELICIOUS",
+            "value": 2
+        },
+        {
+            "text": "MEALS",
+            "value": 1
+        },
+        {
+            "text": "EVER",
+            "value": 1
+        },
+        {
+            "text": "WAY",
+            "value": 2
+        },
+        {
+            "text": "OPERA",
+            "value": 1
+        },
+        {
+            "text": "FLORA",
+            "value": 1
+        },
+        {
+            "text": "INDIAN",
+            "value": 2
+        },
+        {
+            "text": "RESTAURANT",
+            "value": 2
+        },
+        {
+            "text": "COMES",
+            "value": 4
+        },
+        {
+            "text": "RAIN",
+            "value": 1
+        },
+        {
+            "text": "FAIRY",
+            "value": 1
+        },
+        {
+            "text": "PER",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 3
+        },
+        {
+            "text": "NIGHT",
+            "value": 7
+        },
+        {
+            "text": "TE",
+            "value": 1
+        },
+        {
+            "text": "EXTRA",
+            "value": 1
+        },
+        {
+            "text": "AMOS",
+            "value": 1
+        },
+        {
+            "text": "KMTZR1",
+            "value": 1
+        },
+        {
+            "text": "JOINT",
+            "value": 1
+        },
+        {
+            "text": "BAR",
+            "value": 2
+        },
+        {
+            "text": "BRUNETTI",
+            "value": 1
+        },
+        {
+            "text": "VIC",
+            "value": 4
+        },
+        {
+            "text": "PRINCES",
+            "value": 1
+        },
+        {
+            "text": "BRIDGE",
+            "value": 1
+        },
+        {
+            "text": "LOVE",
+            "value": 3
+        },
+        {
+            "text": "MINI",
+            "value": 1
+        },
+        {
+            "text": "PLANT",
+            "value": 1
+        },
+        {
+            "text": "HOLDER",
+            "value": 2
+        },
+        {
+            "text": "HOLE",
+            "value": 1
+        },
+        {
+            "text": "BOTTOM",
+            "value": 1
+        },
+        {
+            "text": "DRAINAGE",
+            "value": 1
+        },
+        {
+            "text": "HAPPY",
+            "value": 2
+        },
+        {
+            "text": "FEDERATION",
+            "value": 2
+        },
+        {
+            "text": "SQUARE",
+            "value": 4
+        },
+        {
+            "text": "MAGNIFICENT",
+            "value": 1
+        },
+        {
+            "text": "EVENING",
+            "value": 2
+        },
+        {
+            "text": "LAST",
+            "value": 8
+        },
+        {
+            "text": "SOULFUL",
+            "value": 1
+        },
+        {
+            "text": "SATURDAY",
+            "value": 3
+        },
+        {
+            "text": "NIGHTS",
+            "value": 1
+        },
+        {
+            "text": "TIGHTS",
+            "value": 1
+        },
+        {
             "text": "FIRST",
             "value": 6
         },
@@ -63,18 +327,6 @@
         {
             "text": "35MM",
             "value": 1
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 190
-        },
-        {
-            "text": "VICTORIA",
-            "value": 176
-        },
-        {
-            "text": "AUSTRALIA",
-            "value": 180
         },
         {
             "text": "SUPREME",
@@ -153,10 +405,6 @@
             "value": 4
         },
         {
-            "text": "PHOTO",
-            "value": 132
-        },
-        {
             "text": "SAW",
             "value": 1
         },
@@ -230,7 +478,7 @@
         },
         {
             "text": "SEXY",
-            "value": 3
+            "value": 2
         },
         {
             "text": "GOOD",
@@ -285,14 +533,6 @@
             "value": 1
         },
         {
-            "text": "SATURDAY",
-            "value": 2
-        },
-        {
-            "text": "NIGHT",
-            "value": 5
-        },
-        {
             "text": "TRES",
             "value": 1
         },
@@ -305,20 +545,8 @@
             "value": 1
         },
         {
-            "text": "BAR",
-            "value": 1
-        },
-        {
-            "text": "RESTAURANT",
-            "value": 1
-        },
-        {
             "text": "ARTS",
             "value": 2
-        },
-        {
-            "text": "CENTRE",
-            "value": 5
         },
         {
             "text": "ROW",
@@ -331,10 +559,6 @@
         {
             "text": "SALE",
             "value": 2
-        },
-        {
-            "text": "LOVE",
-            "value": 3
         },
         {
             "text": "VIEW",
@@ -429,10 +653,6 @@
             "value": 1
         },
         {
-            "text": "RIGHT",
-            "value": 1
-        },
-        {
             "text": "COLLINS",
             "value": 1
         },
@@ -491,10 +711,6 @@
         {
             "text": "HALL",
             "value": 1
-        },
-        {
-            "text": "LAST",
-            "value": 7
         },
         {
             "text": "INSPIRING",
@@ -749,10 +965,6 @@
             "value": 2
         },
         {
-            "text": "LINK",
-            "value": 6
-        },
-        {
             "text": "MASONS",
             "value": 1
         },
@@ -765,10 +977,6 @@
             "value": 1
         },
         {
-            "text": "BIG",
-            "value": 2
-        },
-        {
             "text": "ACOUSTIC",
             "value": 1
         },
@@ -779,10 +987,6 @@
         {
             "text": "CITY",
             "value": 7
-        },
-        {
-            "text": "SQUARE",
-            "value": 3
         },
         {
             "text": "COMING",
@@ -1225,10 +1429,6 @@
             "value": 1
         },
         {
-            "text": "INDIAN",
-            "value": 1
-        },
-        {
             "text": "MULTI",
             "value": 1
         },
@@ -1373,10 +1573,6 @@
             "value": 1
         },
         {
-            "text": "COMES",
-            "value": 2
-        },
-        {
             "text": "NEXT",
             "value": 2
         },
@@ -1477,10 +1673,6 @@
             "value": 1
         },
         {
-            "text": "VIC",
-            "value": 3
-        },
-        {
             "text": "ADVANCEMENT",
             "value": 1
         },
@@ -1498,10 +1690,6 @@
         },
         {
             "text": "LEADING",
-            "value": 1
-        },
-        {
-            "text": "WAY",
             "value": 1
         },
         {
@@ -2221,10 +2409,6 @@
             "value": 1
         },
         {
-            "text": "DELICIOUS",
-            "value": 1
-        },
-        {
             "text": "HEALTHY",
             "value": 1
         },
@@ -2242,10 +2426,6 @@
         },
         {
             "text": "PLEASURE",
-            "value": 1
-        },
-        {
-            "text": "EVENING",
             "value": 1
         },
         {
@@ -2306,7 +2486,7 @@
         },
         {
             "text": "RECENT",
-            "value": 2
+            "value": 1
         },
         {
             "text": "MONSTER",
@@ -2395,10 +2575,6 @@
         {
             "text": "BUNCH",
             "value": 1
-        },
-        {
-            "text": "ART",
-            "value": 4
         },
         {
             "text": "NOTORIOUS",
@@ -2495,10 +2671,6 @@
         {
             "text": "CATCHING",
             "value": 2
-        },
-        {
-            "text": "HAPPY",
-            "value": 1
         },
         {
             "text": "MEMORIES",
@@ -2810,10 +2982,6 @@
         },
         {
             "text": "SCPHOTOZ",
-            "value": 1
-        },
-        {
-            "text": "FEDERATION",
             "value": 1
         },
         {
@@ -3173,10 +3341,6 @@
             "value": 1
         },
         {
-            "text": "HOLDER",
-            "value": 1
-        },
-        {
             "text": "JEWELLERY",
             "value": 1
         },
@@ -3286,74 +3450,6 @@
         },
         {
             "text": "DARKNESS",
-            "value": 1
-        },
-        {
-            "text": "WISHING",
-            "value": 1
-        },
-        {
-            "text": "HAPPINESS",
-            "value": 1
-        },
-        {
-            "text": "WORLD",
-            "value": 1
-        },
-        {
-            "text": "MAGNIFICENT",
-            "value": 1
-        },
-        {
-            "text": "DWARF",
-            "value": 1
-        },
-        {
-            "text": "SCOTT'S",
-            "value": 1
-        },
-        {
-            "text": "PINE",
-            "value": 1
-        },
-        {
-            "text": "YEARLY",
-            "value": 1
-        },
-        {
-            "text": "MAINTENANCE",
-            "value": 1
-        },
-        {
-            "text": "REPOST",
-            "value": 1
-        },
-        {
-            "text": "TEEITUPSCREENPRINTING",
-            "value": 1
-        },
-        {
-            "text": "CREWNECK",
-            "value": 1
-        },
-        {
-            "text": "SWEATS",
-            "value": 1
-        },
-        {
-            "text": "ALMIGHTY",
-            "value": 1
-        },
-        {
-            "text": "SKETCH",
-            "value": 1
-        },
-        {
-            "text": "LOGO",
-            "value": 1
-        },
-        {
-            "text": "SITE",
             "value": 1
         }
     ]

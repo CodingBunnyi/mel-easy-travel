@@ -242,7 +242,7 @@
         },
         {
             "text": "LYGON",
-            "value": 2
+            "value": 1
         },
         {
             "text": "BAGS",
@@ -410,22 +410,6 @@
         },
         {
             "text": "DOC",
-            "value": 1
-        },
-        {
-            "text": "ULTRA",
-            "value": 1
-        },
-        {
-            "text": "ELEGANT",
-            "value": 1
-        },
-        {
-            "text": "FORMER",
-            "value": 1
-        },
-        {
-            "text": "WAREHOUSE",
             "value": 1
         }
     ]

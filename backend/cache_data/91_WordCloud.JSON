@@ -1,6 +1,70 @@
 {
     "word_freq": [
         {
+            "text": "LOOKING",
+            "value": 3
+        },
+        {
+            "text": "SCORE",
+            "value": 2
+        },
+        {
+            "text": "JOB",
+            "value": 12
+        },
+        {
+            "text": "MASTERCARD",
+            "value": 3
+        },
+        {
+            "text": "LUCK",
+            "value": 1
+        },
+        {
+            "text": "LINK",
+            "value": 6
+        },
+        {
+            "text": "DESCRIPTION",
+            "value": 1
+        },
+        {
+            "text": "INFORMATION",
+            "value": 1
+        },
+        {
+            "text": "APPLY",
+            "value": 5
+        },
+        {
+            "text": "SENIOR",
+            "value": 5
+        },
+        {
+            "text": "MANAGING",
+            "value": 2
+        },
+        {
+            "text": "CONSULTANT",
+            "value": 4
+        },
+        {
+            "text": "ADVISORS",
+            "value": 2
+        },
+        {
+            "text": "CLIENT",
+            "value": 2
+        },
+        {
+            "text": "SERVICES",
+            "value": 2
+        },
+        {
+            "text": "VIC",
+            "value": 11
+        },
+        {
             "text": "TOLD",
             "value": 1
         },
@@ -30,7 +94,7 @@
         },
         {
             "text": "MELBOURNE",
-            "value": 14
+            "value": 13
         },
         {
             "text": "HOUR",
@@ -113,10 +177,6 @@
             "value": 1
         },
         {
-            "text": "VIC",
-            "value": 11
-        },
-        {
             "text": "DANY",
             "value": 1
         },
@@ -154,7 +214,7 @@
         },
         {
             "text": "VICTORIA",
-            "value": 2
+            "value": 1
         },
         {
             "text": "WANT",
@@ -165,28 +225,20 @@
             "value": 1
         },
         {
-            "text": "JOB",
-            "value": 11
-        },
-        {
             "text": "LIKE",
             "value": 5
         },
         {
-            "text": "SENIOR",
-            "value": 5
-        },
-        {
             "text": "NETWORK",
-            "value": 2
+            "value": 1
         },
         {
             "text": "OPERATIONS",
-            "value": 2
+            "value": 1
         },
         {
             "text": "ENGINEER",
-            "value": 4
+            "value": 3
         },
         {
             "text": "TECHNOLOGIES",
@@ -234,7 +286,7 @@
         },
         {
             "text": "HIRING",
-            "value": 2
+            "value": 1
         },
         {
             "text": "MANAGER",
@@ -243,10 +295,6 @@
         {
             "text": "NERVOUS",
             "value": 1
-        },
-        {
-            "text": "APPLY",
-            "value": 5
         },
         {
             "text": "CLOUD",
@@ -289,10 +337,6 @@
             "value": 2
         },
         {
-            "text": "LINK",
-            "value": 5
-        },
-        {
             "text": "INFO",
             "value": 1
         },
@@ -325,10 +369,6 @@
             "value": 1
         },
         {
-            "text": "MASTERCARD",
-            "value": 2
-        },
-        {
             "text": "STRIVE",
             "value": 1
         },
@@ -349,10 +389,6 @@
             "value": 1
         },
         {
-            "text": "LOOKING",
-            "value": 2
-        },
-        {
             "text": "COMPANY",
             "value": 1
         },
@@ -370,26 +406,6 @@
         },
         {
             "text": "POSTING",
-            "value": 1
-        },
-        {
-            "text": "MANAGING",
-            "value": 1
-        },
-        {
-            "text": "CONSULTANT",
-            "value": 3
-        },
-        {
-            "text": "ADVISORS",
-            "value": 1
-        },
-        {
-            "text": "CLIENT",
-            "value": 1
-        },
-        {
-            "text": "SERVICES",
             "value": 1
         },
         {
@@ -562,7 +578,7 @@
         },
         {
             "text": "PEOPLE",
-            "value": 3
+            "value": 1
         },
         {
             "text": "ENTREPRENEURIAL",
@@ -626,7 +642,7 @@
         },
         {
             "text": "BEST",
-            "value": 2
+            "value": 1
         },
         {
             "text": "COFFE",
@@ -677,10 +693,6 @@
             "value": 1
         },
         {
-            "text": "SCORE",
-            "value": 1
-        },
-        {
             "text": "PRODUCT",
             "value": 1
         },
@@ -714,42 +726,6 @@
         },
         {
             "text": "GOONESS",
-            "value": 1
-        },
-        {
-            "text": "TORI'S",
-            "value": 1
-        },
-        {
-            "text": "SMART",
-            "value": 1
-        },
-        {
-            "text": "SUPERB",
-            "value": 1
-        },
-        {
-            "text": "TECHNOLOGY",
-            "value": 1
-        },
-        {
-            "text": "CURRENTLY",
-            "value": 1
-        },
-        {
-            "text": "FEATURED",
-            "value": 1
-        },
-        {
-            "text": "TODAY",
-            "value": 1
-        },
-        {
-            "text": "LAST",
-            "value": 1
-        },
-        {
-            "text": "NIGHT",
             "value": 1
         }
     ]

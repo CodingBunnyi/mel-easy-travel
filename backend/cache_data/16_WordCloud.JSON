@@ -2,7 +2,23 @@
     "word_freq": [
         {
             "text": "PHOTO",
-            "value": 2
+            "value": 3
+        },
+        {
+            "text": "FITZROY",
+            "value": 1
+        },
+        {
+            "text": "SOUTH",
+            "value": 1
+        },
+        {
+            "text": "LOCAL",
+            "value": 1
+        },
+        {
+            "text": "OFFICE",
+            "value": 1
         },
         {
             "text": "COMEDY",

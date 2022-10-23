@@ -1,15 +1,23 @@
 {
     "word_freq": [
         {
+            "text": "SOUTH",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 2
+        },
+        {
+            "text": "VICTORIA",
+            "value": 1
+        },
+        {
             "text": "NAR",
             "value": 1
         },
         {
             "text": "BANGKOK",
-            "value": 1
-        },
-        {
-            "text": "MELBOURNE",
             "value": 1
         },
         {

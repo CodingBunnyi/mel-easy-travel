@@ -1,8 +1,68 @@
 {
     "word_freq": [
         {
-            "text": "FIRST",
+            "text": "PHOTO",
+            "value": 10
+        },
+        {
+            "text": "ART",
             "value": 1
+        },
+        {
+            "text": "CENTRE",
+            "value": 4
+        },
+        {
+            "text": "PLAYHOUSE",
+            "value": 1
+        },
+        {
+            "text": "MAGNIFICENT",
+            "value": 1
+        },
+        {
+            "text": "EVENING",
+            "value": 1
+        },
+        {
+            "text": "LAST",
+            "value": 3
+        },
+        {
+            "text": "NIGHT",
+            "value": 4
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 13
+        },
+        {
+            "text": "SOULFUL",
+            "value": 1
+        },
+        {
+            "text": "DELIGHTFUL",
+            "value": 1
+        },
+        {
+            "text": "WATCH",
+            "value": 3
+        },
+        {
+            "text": "FAN",
+            "value": 1
+        },
+        {
+            "text": "SINCE",
+            "value": 1
+        },
+        {
+            "text": "FIRST",
+            "value": 2
+        },
+        {
+            "text": "TIME",
+            "value": 2
         },
         {
             "text": "SAW",
@@ -49,10 +109,6 @@
             "value": 1
         },
         {
-            "text": "PHOTO",
-            "value": 9
-        },
-        {
             "text": "COURTESY",
             "value": 1
         },
@@ -95,14 +151,6 @@
         {
             "text": "ARTS",
             "value": 1
-        },
-        {
-            "text": "CENTRE",
-            "value": 3
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 12
         },
         {
             "text": "ROW",
@@ -149,10 +197,6 @@
             "value": 1
         },
         {
-            "text": "LAST",
-            "value": 2
-        },
-        {
             "text": "THURSDAY",
             "value": 1
         },
@@ -171,10 +215,6 @@
         {
             "text": "EVE",
             "value": 1
-        },
-        {
-            "text": "NIGHT",
-            "value": 2
         },
         {
             "text": "LIGHTS",
@@ -493,10 +533,6 @@
             "value": 1
         },
         {
-            "text": "TIME",
-            "value": 1
-        },
-        {
             "text": "CELEBRATING",
             "value": 1
         },
@@ -542,10 +578,6 @@
         },
         {
             "text": "BLACKBURN",
-            "value": 1
-        },
-        {
-            "text": "WATCH",
             "value": 1
         },
         {

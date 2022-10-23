@@ -1,3 +1,12 @@
 {
-    "word_freq": []
+    "word_freq": [
+        {
+            "text": "READY",
+            "value": 1
+        },
+        {
+            "text": "USED",
+            "value": 1
+        }
+    ]
 }

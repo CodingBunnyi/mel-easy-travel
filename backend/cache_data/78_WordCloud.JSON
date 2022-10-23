@@ -1,8 +1,148 @@
 {
     "word_freq": [
         {
+            "text": "PHOTO",
+            "value": 9
+        },
+        {
+            "text": "ART",
+            "value": 1
+        },
+        {
+            "text": "CENTRE",
+            "value": 4
+        },
+        {
+            "text": "PLAYHOUSE",
+            "value": 1
+        },
+        {
+            "text": "MORNING",
+            "value": 3
+        },
+        {
+            "text": "EVERYONE",
+            "value": 1
+        },
+        {
+            "text": "WOKE",
+            "value": 1
+        },
+        {
+            "text": "LESS",
+            "value": 1
+        },
+        {
+            "text": "HOURS",
+            "value": 1
+        },
+        {
+            "text": "REMAINING",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 1
+        },
+        {
+            "text": "GAME",
+            "value": 1
+        },
+        {
+            "text": "SKY",
+            "value": 2
+        },
+        {
+            "text": "LOOKS",
+            "value": 2
+        },
+        {
+            "text": "MUCH",
+            "value": 2
+        },
+        {
+            "text": "BETTER",
+            "value": 1
+        },
+        {
+            "text": "PAST",
+            "value": 1
+        },
+        {
+            "text": "LIKE",
+            "value": 2
+        },
+        {
+            "text": "HARDLY",
+            "value": 1
+        },
+        {
+            "text": "GONNA",
+            "value": 1
+        },
+        {
+            "text": "RAIN",
+            "value": 4
+        },
+        {
+            "text": "TODAY",
+            "value": 3
+        },
+        {
+            "text": "YEAH",
+            "value": 1
+        },
+        {
+            "text": "HAPPENING",
+            "value": 1
+        },
+        {
+            "text": "MAGNIFICENT",
+            "value": 1
+        },
+        {
+            "text": "EVENING",
+            "value": 1
+        },
+        {
+            "text": "LAST",
+            "value": 3
+        },
+        {
+            "text": "NIGHT",
+            "value": 4
+        },
+        {
             "text": "MELBOURNE",
-            "value": 14
+            "value": 15
+        },
+        {
+            "text": "SOULFUL",
+            "value": 1
+        },
+        {
+            "text": "DELIGHTFUL",
+            "value": 1
+        },
+        {
+            "text": "WATCH",
+            "value": 2
+        },
+        {
+            "text": "FAN",
+            "value": 1
+        },
+        {
+            "text": "SINCE",
+            "value": 1
+        },
+        {
+            "text": "FIRST",
+            "value": 2
+        },
+        {
+            "text": "TIME",
+            "value": 2
         },
         {
             "text": "GROUND",
@@ -46,10 +186,6 @@
         },
         {
             "text": "PRAYER",
-            "value": 1
-        },
-        {
-            "text": "FIRST",
             "value": 1
         },
         {
@@ -97,10 +233,6 @@
             "value": 1
         },
         {
-            "text": "PHOTO",
-            "value": 8
-        },
-        {
             "text": "COURTESY",
             "value": 1
         },
@@ -143,10 +275,6 @@
         {
             "text": "ARTS",
             "value": 1
-        },
-        {
-            "text": "CENTRE",
-            "value": 3
         },
         {
             "text": "ROW",
@@ -213,16 +341,8 @@
             "value": 2
         },
         {
-            "text": "SKY",
-            "value": 1
-        },
-        {
             "text": "DECK",
             "value": 1
-        },
-        {
-            "text": "LAST",
-            "value": 2
         },
         {
             "text": "THURSDAY",
@@ -239,10 +359,6 @@
         {
             "text": "25AM",
             "value": 1
-        },
-        {
-            "text": "MORNING",
-            "value": 2
         },
         {
             "text": "RAINING",
@@ -297,10 +413,6 @@
             "value": 1
         },
         {
-            "text": "RAIN",
-            "value": 3
-        },
-        {
             "text": "7PM",
             "value": 1
         },
@@ -331,10 +443,6 @@
         {
             "text": "EVE",
             "value": 1
-        },
-        {
-            "text": "NIGHT",
-            "value": 2
         },
         {
             "text": "LIGHTS",
@@ -459,10 +567,6 @@
         {
             "text": "THROBBING",
             "value": 1
-        },
-        {
-            "text": "TODAY",
-            "value": 2
         },
         {
             "text": "BRIGGS",
@@ -661,10 +765,6 @@
             "value": 1
         },
         {
-            "text": "LIKE",
-            "value": 1
-        },
-        {
             "text": "HAPPY",
             "value": 1
         },
@@ -725,10 +825,6 @@
             "value": 1
         },
         {
-            "text": "TIME",
-            "value": 1
-        },
-        {
             "text": "CELEBRATING",
             "value": 1
         },
@@ -758,10 +854,6 @@
         },
         {
             "text": "SUN",
-            "value": 1
-        },
-        {
-            "text": "MUCH",
             "value": 1
         },
         {

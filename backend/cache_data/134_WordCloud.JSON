@@ -1,16 +1,112 @@
 {
     "word_freq": [
         {
+            "text": "PSYCHEDELIC",
+            "value": 1
+        },
+        {
+            "text": "PANORAMA",
+            "value": 2
+        },
+        {
+            "text": "TOOK",
+            "value": 1
+        },
+        {
+            "text": "CONCERT",
+            "value": 1
+        },
+        {
+            "text": "PHOTO",
+            "value": 8
+        },
+        {
+            "text": "ART",
+            "value": 1
+        },
+        {
+            "text": "CENTRE",
+            "value": 4
+        },
+        {
+            "text": "PLAYHOUSE",
+            "value": 1
+        },
+        {
+            "text": "PRINCES",
+            "value": 1
+        },
+        {
+            "text": "BRIDGE",
+            "value": 1
+        },
+        {
+            "text": "TRIPPING",
+            "value": 1
+        },
+        {
+            "text": "LIGHT",
+            "value": 3
+        },
+        {
+            "text": "FANTASTIC",
+            "value": 2
+        },
+        {
+            "text": "ROD",
+            "value": 2
+        },
+        {
+            "text": "LAVER",
+            "value": 2
+        },
+        {
+            "text": "ARENA",
+            "value": 2
+        },
+        {
+            "text": "FEDERATION",
+            "value": 2
+        },
+        {
+            "text": "SQUARE",
+            "value": 3
+        },
+        {
+            "text": "MAGNIFICENT",
+            "value": 1
+        },
+        {
+            "text": "EVENING",
+            "value": 1
+        },
+        {
+            "text": "LAST",
+            "value": 3
+        },
+        {
+            "text": "NIGHT",
+            "value": 2
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 6
+        },
+        {
+            "text": "SOULFUL",
+            "value": 1
+        },
+        {
+            "text": "WAITING",
+            "value": 1
+        },
+        {
             "text": "TAME",
             "value": 1
         },
         {
             "text": "IMPALA",
             "value": 1
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 5
         },
         {
             "text": "TAKE",
@@ -73,14 +169,6 @@
             "value": 1
         },
         {
-            "text": "FANTASTIC",
-            "value": 1
-        },
-        {
-            "text": "PHOTO",
-            "value": 5
-        },
-        {
             "text": "COURTESY",
             "value": 1
         },
@@ -129,10 +217,6 @@
             "value": 2
         },
         {
-            "text": "CENTRE",
-            "value": 3
-        },
-        {
             "text": "ROW",
             "value": 1
         },
@@ -163,14 +247,6 @@
         {
             "text": "LECTURE",
             "value": 2
-        },
-        {
-            "text": "LAST",
-            "value": 2
-        },
-        {
-            "text": "NIGHT",
-            "value": 1
         },
         {
             "text": "LISTENING",
@@ -215,10 +291,6 @@
         {
             "text": "CREDIT",
             "value": 1
-        },
-        {
-            "text": "LIGHT",
-            "value": 2
         },
         {
             "text": "PHOTOGRAPHY",
@@ -945,10 +1017,6 @@
             "value": 1
         },
         {
-            "text": "SQUARE",
-            "value": 2
-        },
-        {
             "text": "THINK",
             "value": 1
         },
@@ -973,10 +1041,6 @@
             "value": 1
         },
         {
-            "text": "FEDERATION",
-            "value": 1
-        },
-        {
             "text": "BOXING",
             "value": 1
         },
@@ -991,18 +1055,6 @@
         {
             "text": "WORLD",
             "value": 3
-        },
-        {
-            "text": "ROD",
-            "value": 1
-        },
-        {
-            "text": "LAVER",
-            "value": 1
-        },
-        {
-            "text": "ARENA",
-            "value": 1
         },
         {
             "text": "MAYBE",
@@ -1030,7 +1082,7 @@
         },
         {
             "text": "FIGHT",
-            "value": 5
+            "value": 3
         },
         {
             "text": "SHOWING",
@@ -1050,7 +1102,7 @@
         },
         {
             "text": "HANEY",
-            "value": 2
+            "value": 1
         },
         {
             "text": "KAMBOSOS",
@@ -1086,74 +1138,6 @@
         },
         {
             "text": "WINTER",
-            "value": 1
-        },
-        {
-            "text": "FATFREDDYSDROPNZ",
-            "value": 1
-        },
-        {
-            "text": "ROCKING",
-            "value": 1
-        },
-        {
-            "text": "BOWL",
-            "value": 2
-        },
-        {
-            "text": "SIDNEY",
-            "value": 1
-        },
-        {
-            "text": "MYER",
-            "value": 1
-        },
-        {
-            "text": "MUSIC",
-            "value": 1
-        },
-        {
-            "text": "GO",
-            "value": 1
-        },
-        {
-            "text": "LEAST",
-            "value": 1
-        },
-        {
-            "text": "WEAR",
-            "value": 1
-        },
-        {
-            "text": "BEANIE",
-            "value": 1
-        },
-        {
-            "text": "PUFFER",
-            "value": 1
-        },
-        {
-            "text": "JACKET",
-            "value": 1
-        },
-        {
-            "text": "ABSOLUTE",
-            "value": 1
-        },
-        {
-            "text": "CRACKER",
-            "value": 1
-        },
-        {
-            "text": "ATMOSPHERE",
-            "value": 1
-        },
-        {
-            "text": "KAMBOSIS",
-            "value": 1
-        },
-        {
-            "text": "TIME",
             "value": 1
         }
     ]

@@ -1,6 +1,30 @@
 {
     "word_freq": [
         {
+            "text": "BETTER",
+            "value": 1
+        },
+        {
+            "text": "LUCK",
+            "value": 1
+        },
+        {
+            "text": "NEXT",
+            "value": 1
+        },
+        {
+            "text": "TIME",
+            "value": 4
+        },
+        {
+            "text": "AAMI",
+            "value": 3
+        },
+        {
+            "text": "PARK",
+            "value": 3
+        },
+        {
             "text": "GOALS",
             "value": 2
         },
@@ -33,10 +57,6 @@
             "value": 1
         },
         {
-            "text": "TIME",
-            "value": 3
-        },
-        {
             "text": "POSSESION",
             "value": 2
         },
@@ -63,14 +83,6 @@
         {
             "text": "NUMBER",
             "value": 1
-        },
-        {
-            "text": "AAMI",
-            "value": 2
-        },
-        {
-            "text": "PARK",
-            "value": 2
         },
         {
             "text": "PICTURE",

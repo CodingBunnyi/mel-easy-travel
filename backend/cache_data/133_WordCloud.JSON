@@ -1,6 +1,102 @@
 {
     "word_freq": [
         {
+            "text": "PHOTO",
+            "value": 21
+        },
+        {
+            "text": "ART",
+            "value": 1
+        },
+        {
+            "text": "CENTRE",
+            "value": 6
+        },
+        {
+            "text": "PLAYHOUSE",
+            "value": 1
+        },
+        {
+            "text": "DELICIOUS",
+            "value": 1
+        },
+        {
+            "text": "MEALS",
+            "value": 1
+        },
+        {
+            "text": "EVER",
+            "value": 1
+        },
+        {
+            "text": "WAY",
+            "value": 2
+        },
+        {
+            "text": "OPERA",
+            "value": 1
+        },
+        {
+            "text": "FLORA",
+            "value": 1
+        },
+        {
+            "text": "INDIAN",
+            "value": 1
+        },
+        {
+            "text": "RESTAURANT",
+            "value": 2
+        },
+        {
+            "text": "BRUNETTI",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 14
+        },
+        {
+            "text": "VIC",
+            "value": 3
+        },
+        {
+            "text": "PRINCES",
+            "value": 1
+        },
+        {
+            "text": "BRIDGE",
+            "value": 1
+        },
+        {
+            "text": "FEDERATION",
+            "value": 2
+        },
+        {
+            "text": "SQUARE",
+            "value": 4
+        },
+        {
+            "text": "MAGNIFICENT",
+            "value": 1
+        },
+        {
+            "text": "EVENING",
+            "value": 2
+        },
+        {
+            "text": "LAST",
+            "value": 4
+        },
+        {
+            "text": "NIGHT",
+            "value": 4
+        },
+        {
+            "text": "SOULFUL",
+            "value": 1
+        },
+        {
             "text": "WOW",
             "value": 1
         },
@@ -69,10 +165,6 @@
             "value": 1
         },
         {
-            "text": "PHOTO",
-            "value": 18
-        },
-        {
             "text": "COURTESY",
             "value": 1
         },
@@ -117,10 +209,6 @@
             "value": 1
         },
         {
-            "text": "NIGHT",
-            "value": 3
-        },
-        {
             "text": "TRES",
             "value": 1
         },
@@ -137,20 +225,8 @@
             "value": 1
         },
         {
-            "text": "RESTAURANT",
-            "value": 1
-        },
-        {
             "text": "ARTS",
             "value": 2
-        },
-        {
-            "text": "CENTRE",
-            "value": 5
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 12
         },
         {
             "text": "ROW",
@@ -209,10 +285,6 @@
             "value": 6
         },
         {
-            "text": "SQUARE",
-            "value": 3
-        },
-        {
             "text": "COMING",
             "value": 1
         },
@@ -259,10 +331,6 @@
         {
             "text": "LECTURE",
             "value": 2
-        },
-        {
-            "text": "LAST",
-            "value": 3
         },
         {
             "text": "LISTENING",
@@ -733,10 +801,6 @@
             "value": 1
         },
         {
-            "text": "VIC",
-            "value": 2
-        },
-        {
             "text": "ADVANCEMENT",
             "value": 1
         },
@@ -754,10 +818,6 @@
         },
         {
             "text": "LEADING",
-            "value": 1
-        },
-        {
-            "text": "WAY",
             "value": 1
         },
         {
@@ -1261,10 +1321,6 @@
             "value": 1
         },
         {
-            "text": "EVENING",
-            "value": 1
-        },
-        {
             "text": "VL15",
             "value": 1
         },
@@ -1478,10 +1534,6 @@
         },
         {
             "text": "7PM",
-            "value": 1
-        },
-        {
-            "text": "FEDERATION",
             "value": 1
         },
         {

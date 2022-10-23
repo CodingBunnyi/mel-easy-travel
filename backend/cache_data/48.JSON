@@ -1,5 +1,5 @@
 {
-    "count": 21,
+    "count": 20,
     "data": [
         {
             "tid": 1583714824793763840,
@@ -344,22 +344,6 @@
             "place_type": "city",
             "longitude": 144.96745,
             "latitude": -37.7993,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581452175649054720,
-            "uid": 14820495,
-            "author": "Chris Rodda",
-            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
-            "time": "2022-10-16 01:09:15 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "Ultra-elegant former warehouse, #LygonSt #Carlton @ Lygon Street https://t.co/rKG0i4jriE",
-            "clean_text": "Ultra elegant former warehouse Lygon Street",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.96677634,
-            "latitude": -37.80153833,
             "photo_urls": []
         }
     ]

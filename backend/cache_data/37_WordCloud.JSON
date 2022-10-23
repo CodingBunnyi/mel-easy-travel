@@ -42,7 +42,7 @@
         },
         {
             "text": "TONIGHT",
-            "value": 4
+            "value": 3
         },
         {
             "text": "SHOWTIME",
@@ -98,7 +98,7 @@
         },
         {
             "text": "MELBOURNE",
-            "value": 11
+            "value": 9
         },
         {
             "text": "TABLE",
@@ -410,7 +410,7 @@
         },
         {
             "text": "PHOTO",
-            "value": 9
+            "value": 8
         },
         {
             "text": "BOTTOM",
@@ -554,19 +554,19 @@
         },
         {
             "text": "CONVENTION",
-            "value": 5
+            "value": 3
         },
         {
             "text": "EXHIBITION",
-            "value": 5
+            "value": 3
         },
         {
             "text": "CENTRE",
-            "value": 5
+            "value": 3
         },
         {
             "text": "MCEC",
-            "value": 5
+            "value": 3
         },
         {
             "text": "GRASSY",
@@ -1850,10 +1850,6 @@
         },
         {
             "text": "IG",
-            "value": 1
-        },
-        {
-            "text": "TICKETS",
             "value": 1
         }
     ]

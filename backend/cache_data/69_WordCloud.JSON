@@ -1,6 +1,62 @@
 {
     "word_freq": [
         {
+            "text": "HILBY",
+            "value": 1
+        },
+        {
+            "text": "EXPLAINING",
+            "value": 1
+        },
+        {
+            "text": "SOMETHING",
+            "value": 1
+        },
+        {
+            "text": "BRUNCH",
+            "value": 2
+        },
+        {
+            "text": "PERHAPS",
+            "value": 1
+        },
+        {
+            "text": "SIZE",
+            "value": 1
+        },
+        {
+            "text": "CHICKEN",
+            "value": 2
+        },
+        {
+            "text": "WAFFLES",
+            "value": 1
+        },
+        {
+            "text": "ARCHIE'S",
+            "value": 2
+        },
+        {
+            "text": "PHOTO",
+            "value": 3
+        },
+        {
+            "text": "FITZROY",
+            "value": 1
+        },
+        {
+            "text": "SOUTH",
+            "value": 3
+        },
+        {
+            "text": "LOCAL",
+            "value": 1
+        },
+        {
+            "text": "OFFICE",
+            "value": 1
+        },
+        {
             "text": "RUSTY'S",
             "value": 1
         },
@@ -27,10 +83,6 @@
         {
             "text": "VIC",
             "value": 1
-        },
-        {
-            "text": "PHOTO",
-            "value": 2
         },
         {
             "text": "NORTHSIDE",
@@ -233,10 +285,6 @@
             "value": 1
         },
         {
-            "text": "SOUTH",
-            "value": 2
-        },
-        {
             "text": "JOHNSTON",
             "value": 2
         },
@@ -258,14 +306,6 @@
         },
         {
             "text": "SHAKSHUKA",
-            "value": 1
-        },
-        {
-            "text": "BRUNCH",
-            "value": 1
-        },
-        {
-            "text": "ARCHIE'S",
             "value": 1
         },
         {
@@ -374,10 +414,6 @@
         },
         {
             "text": "TRINITY",
-            "value": 1
-        },
-        {
-            "text": "CHICKEN",
             "value": 1
         },
         {

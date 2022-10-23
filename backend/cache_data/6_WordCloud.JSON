@@ -1,6 +1,122 @@
 {
     "word_freq": [
         {
+            "text": "LUNCHTIME",
+            "value": 1
+        },
+        {
+            "text": "MEETING",
+            "value": 1
+        },
+        {
+            "text": "PALATABLE",
+            "value": 1
+        },
+        {
+            "text": "PROVISION",
+            "value": 1
+        },
+        {
+            "text": "DELICIOUS",
+            "value": 1
+        },
+        {
+            "text": "MUSHROOM",
+            "value": 1
+        },
+        {
+            "text": "PIES",
+            "value": 1
+        },
+        {
+            "text": "EVER",
+            "value": 1
+        },
+        {
+            "text": "RMIT",
+            "value": 2
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 17
+        },
+        {
+            "text": "CITY",
+            "value": 3
+        },
+        {
+            "text": "CAMPUS",
+            "value": 2
+        },
+        {
+            "text": "DETAILS",
+            "value": 1
+        },
+        {
+            "text": "NAS",
+            "value": 1
+        },
+        {
+            "text": "INCLUDING",
+            "value": 1
+        },
+        {
+            "text": "REFERENCE",
+            "value": 1
+        },
+        {
+            "text": "GRIFFINS",
+            "value": 1
+        },
+        {
+            "text": "CAPITOL",
+            "value": 1
+        },
+        {
+            "text": "THEATRE",
+            "value": 5
+        },
+        {
+            "text": "PLUS",
+            "value": 1
+        },
+        {
+            "text": "WORKING",
+            "value": 1
+        },
+        {
+            "text": "BREKKIE",
+            "value": 1
+        },
+        {
+            "text": "00AM",
+            "value": 1
+        },
+        {
+            "text": "OVERCAST",
+            "value": 1
+        },
+        {
+            "text": "MORNING",
+            "value": 1
+        },
+        {
+            "text": "FAR",
+            "value": 1
+        },
+        {
+            "text": "RAIN",
+            "value": 1
+        },
+        {
+            "text": "EXPECTED",
+            "value": 1
+        },
+        {
+            "text": "TODAY",
+            "value": 3
+        },
+        {
             "text": "TOLD",
             "value": 2
         },
@@ -33,14 +149,6 @@
             "value": 2
         },
         {
-            "text": "THEATRE",
-            "value": 4
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 16
-        },
-        {
             "text": "ABSOLUTELY",
             "value": 1
         },
@@ -63,10 +171,6 @@
         {
             "text": "VIC",
             "value": 7
-        },
-        {
-            "text": "TODAY",
-            "value": 2
         },
         {
             "text": "COMRADES",
@@ -167,10 +271,6 @@
         {
             "text": "BEST",
             "value": 2
-        },
-        {
-            "text": "CITY",
-            "value": 4
         },
         {
             "text": "CREATORS",
@@ -378,7 +478,7 @@
         },
         {
             "text": "NEW",
-            "value": 2
+            "value": 1
         },
         {
             "text": "GAS",
@@ -410,7 +510,7 @@
         },
         {
             "text": "MUCH",
-            "value": 2
+            "value": 1
         },
         {
             "text": "FUN",
@@ -630,82 +730,6 @@
         },
         {
             "text": "LANE",
-            "value": 1
-        },
-        {
-            "text": "OPENING",
-            "value": 1
-        },
-        {
-            "text": "BRUNSWICK",
-            "value": 1
-        },
-        {
-            "text": "VISITED",
-            "value": 1
-        },
-        {
-            "text": "FINAL",
-            "value": 1
-        },
-        {
-            "text": "STAGES",
-            "value": 1
-        },
-        {
-            "text": "SET",
-            "value": 1
-        },
-        {
-            "text": "DECAL",
-            "value": 1
-        },
-        {
-            "text": "RMIT",
-            "value": 2
-        },
-        {
-            "text": "CAMPUS",
-            "value": 2
-        },
-        {
-            "text": "DIRTY",
-            "value": 1
-        },
-        {
-            "text": "LAUNDRY",
-            "value": 1
-        },
-        {
-            "text": "DISPLAY",
-            "value": 1
-        },
-        {
-            "text": "WIP",
-            "value": 1
-        },
-        {
-            "text": "PARTICULARLY",
-            "value": 1
-        },
-        {
-            "text": "LIKE",
-            "value": 1
-        },
-        {
-            "text": "CYANOTYPE",
-            "value": 1
-        },
-        {
-            "text": "PHOTOGRAM",
-            "value": 1
-        },
-        {
-            "text": "TITLE",
-            "value": 1
-        },
-        {
-            "text": "FLAGS",
             "value": 1
         }
     ]

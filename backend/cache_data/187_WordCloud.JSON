@@ -1,6 +1,90 @@
 {
     "word_freq": [
         {
+            "text": "DELICIOUS",
+            "value": 1
+        },
+        {
+            "text": "MEALS",
+            "value": 1
+        },
+        {
+            "text": "EVER",
+            "value": 1
+        },
+        {
+            "text": "WAY",
+            "value": 1
+        },
+        {
+            "text": "OPERA",
+            "value": 1
+        },
+        {
+            "text": "FLORA",
+            "value": 1
+        },
+        {
+            "text": "INDIAN",
+            "value": 1
+        },
+        {
+            "text": "RESTAURANT",
+            "value": 2
+        },
+        {
+            "text": "FAIRY",
+            "value": 1
+        },
+        {
+            "text": "PER",
+            "value": 1
+        },
+        {
+            "text": "BIG",
+            "value": 1
+        },
+        {
+            "text": "NIGHT",
+            "value": 3
+        },
+        {
+            "text": "TE",
+            "value": 1
+        },
+        {
+            "text": "EXTRA",
+            "value": 1
+        },
+        {
+            "text": "AMOS",
+            "value": 1
+        },
+        {
+            "text": "KMTZR1",
+            "value": 1
+        },
+        {
+            "text": "JOINT",
+            "value": 1
+        },
+        {
+            "text": "BAR",
+            "value": 1
+        },
+        {
+            "text": "BRUNETTI",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 14
+        },
+        {
+            "text": "VIC",
+            "value": 1
+        },
+        {
             "text": "LOVE",
             "value": 2
         },
@@ -19,10 +103,6 @@
         {
             "text": "AUSTRALIA",
             "value": 6
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 13
         },
         {
             "text": "VICTORIA",
@@ -110,10 +190,6 @@
         },
         {
             "text": "LANGHAM",
-            "value": 2
-        },
-        {
-            "text": "NIGHT",
             "value": 2
         },
         {
@@ -618,10 +694,6 @@
         },
         {
             "text": "HOTEL'S",
-            "value": 1
-        },
-        {
-            "text": "RESTAURANT",
             "value": 1
         },
         {

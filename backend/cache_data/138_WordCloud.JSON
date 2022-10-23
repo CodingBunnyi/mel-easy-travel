@@ -1,6 +1,66 @@
 {
     "word_freq": [
         {
+            "text": "MCG",
+            "value": 7
+        },
+        {
+            "text": "STADIUM",
+            "value": 1
+        },
+        {
+            "text": "NIGHT",
+            "value": 1
+        },
+        {
+            "text": "TIME",
+            "value": 2
+        },
+        {
+            "text": "COUNTING",
+            "value": 1
+        },
+        {
+            "text": "HOURS",
+            "value": 1
+        },
+        {
+            "text": "BIGGEST",
+            "value": 1
+        },
+        {
+            "text": "MATCH",
+            "value": 3
+        },
+        {
+            "text": "TOURNAMENT",
+            "value": 1
+        },
+        {
+            "text": "PAKISTAN",
+            "value": 6
+        },
+        {
+            "text": "ZINDABAD",
+            "value": 1
+        },
+        {
+            "text": "MAY",
+            "value": 1
+        },
+        {
+            "text": "BEST",
+            "value": 2
+        },
+        {
+            "text": "TEAM",
+            "value": 2
+        },
+        {
+            "text": "WIN",
+            "value": 1
+        },
+        {
             "text": "GOOD",
             "value": 3
         },
@@ -65,10 +125,6 @@
             "value": 1
         },
         {
-            "text": "MCG",
-            "value": 6
-        },
-        {
             "text": "VIRAT",
             "value": 2
         },
@@ -115,10 +171,6 @@
         {
             "text": "GAME",
             "value": 4
-        },
-        {
-            "text": "PAKISTAN",
-            "value": 5
         },
         {
             "text": "HARDIK",
@@ -309,10 +361,6 @@
             "value": 2
         },
         {
-            "text": "MATCH",
-            "value": 2
-        },
-        {
             "text": "GETTING",
             "value": 2
         },
@@ -322,10 +370,6 @@
         },
         {
             "text": "HIGH",
-            "value": 1
-        },
-        {
-            "text": "TIME",
             "value": 1
         },
         {
@@ -677,10 +721,6 @@
             "value": 1
         },
         {
-            "text": "BEST",
-            "value": 1
-        },
-        {
             "text": "NEWS",
             "value": 1
         },
@@ -782,10 +822,6 @@
         },
         {
             "text": "ATTENDED",
-            "value": 1
-        },
-        {
-            "text": "TEAM",
             "value": 1
         },
         {

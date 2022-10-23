@@ -1,6 +1,38 @@
 {
     "word_freq": [
         {
+            "text": "BETTER",
+            "value": 1
+        },
+        {
+            "text": "LUCK",
+            "value": 1
+        },
+        {
+            "text": "NEXT",
+            "value": 1
+        },
+        {
+            "text": "TIME",
+            "value": 5
+        },
+        {
+            "text": "AAMI",
+            "value": 4
+        },
+        {
+            "text": "PARK",
+            "value": 4
+        },
+        {
+            "text": "GREATEST",
+            "value": 1
+        },
+        {
+            "text": "BACKHANDS",
+            "value": 1
+        },
+        {
             "text": "GOALS",
             "value": 2
         },
@@ -31,10 +63,6 @@
         {
             "text": "BRILLANTE",
             "value": 1
-        },
-        {
-            "text": "TIME",
-            "value": 3
         },
         {
             "text": "POSSESION",
@@ -99,14 +127,6 @@
         {
             "text": "NUMBER",
             "value": 1
-        },
-        {
-            "text": "AAMI",
-            "value": 3
-        },
-        {
-            "text": "PARK",
-            "value": 3
         },
         {
             "text": "PICTURE",

@@ -1,8 +1,348 @@
 {
     "word_freq": [
         {
+            "text": "PHOTO",
+            "value": 3607
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 5635
+        },
+        {
+            "text": "VICTORIA",
+            "value": 4170
+        },
+        {
+            "text": "AUSTRALIA",
+            "value": 4294
+        },
+        {
+            "text": "LOOKING",
+            "value": 159
+        },
+        {
+            "text": "SCORE",
+            "value": 56
+        },
+        {
+            "text": "JOB",
+            "value": 504
+        },
+        {
+            "text": "MASTERCARD",
+            "value": 84
+        },
+        {
+            "text": "LUCK",
+            "value": 43
+        },
+        {
+            "text": "LINK",
+            "value": 429
+        },
+        {
+            "text": "DESCRIPTION",
+            "value": 28
+        },
+        {
+            "text": "INFORMATION",
+            "value": 30
+        },
+        {
+            "text": "APPLY",
+            "value": 282
+        },
+        {
+            "text": "SENIOR",
+            "value": 140
+        },
+        {
+            "text": "MANAGING",
+            "value": 56
+        },
+        {
+            "text": "CONSULTANT",
+            "value": 112
+        },
+        {
+            "text": "ADVISORS",
+            "value": 56
+        },
+        {
+            "text": "CLIENT",
+            "value": 56
+        },
+        {
+            "text": "SERVICES",
+            "value": 78
+        },
+        {
+            "text": "VIC",
+            "value": 907
+        },
+        {
+            "text": "BACCHUS",
+            "value": 22
+        },
+        {
+            "text": "MARSH",
+            "value": 22
+        },
+        {
+            "text": "HOPEFULLY",
+            "value": 22
+        },
+        {
+            "text": "LOLS",
+            "value": 22
+        },
+        {
+            "text": "REMIND",
+            "value": 22
+        },
+        {
+            "text": "HANDS",
+            "value": 31
+        },
+        {
+            "text": "STEERING",
+            "value": 22
+        },
+        {
+            "text": "WHEEL",
+            "value": 22
+        },
+        {
+            "text": "LMAO",
+            "value": 22
+        },
+        {
+            "text": "DELICIOUS",
+            "value": 68
+        },
+        {
+            "text": "MEALS",
+            "value": 30
+        },
+        {
+            "text": "EVER",
+            "value": 46
+        },
+        {
+            "text": "WAY",
+            "value": 155
+        },
+        {
+            "text": "OPERA",
+            "value": 30
+        },
+        {
+            "text": "FLORA",
+            "value": 30
+        },
+        {
+            "text": "INDIAN",
+            "value": 62
+        },
+        {
+            "text": "RESTAURANT",
+            "value": 94
+        },
+        {
+            "text": "COMES",
+            "value": 88
+        },
+        {
+            "text": "RAIN",
+            "value": 124
+        },
+        {
+            "text": "FAIRY",
+            "value": 29
+        },
+        {
+            "text": "PER",
+            "value": 29
+        },
+        {
+            "text": "BIG",
+            "value": 186
+        },
+        {
+            "text": "NIGHT",
+            "value": 322
+        },
+        {
+            "text": "TE",
+            "value": 29
+        },
+        {
+            "text": "EXTRA",
+            "value": 29
+        },
+        {
+            "text": "AMOS",
+            "value": 29
+        },
+        {
+            "text": "KMTZR1",
+            "value": 29
+        },
+        {
+            "text": "JOINT",
+            "value": 58
+        },
+        {
+            "text": "BAR",
+            "value": 173
+        },
+        {
+            "text": "BRUNETTI",
+            "value": 27
+        },
+        {
+            "text": "LOVE",
+            "value": 160
+        },
+        {
+            "text": "MINI",
+            "value": 22
+        },
+        {
+            "text": "PLANT",
+            "value": 22
+        },
+        {
+            "text": "HOLDER",
+            "value": 44
+        },
+        {
+            "text": "HOLE",
+            "value": 22
+        },
+        {
+            "text": "BOTTOM",
+            "value": 33
+        },
+        {
+            "text": "DRAINAGE",
+            "value": 22
+        },
+        {
+            "text": "HAPPY",
+            "value": 77
+        },
+        {
+            "text": "FEDERATION",
+            "value": 60
+        },
+        {
+            "text": "SQUARE",
+            "value": 123
+        },
+        {
+            "text": "CAREER",
+            "value": 56
+        },
+        {
+            "text": "TIP",
+            "value": 28
+        },
+        {
+            "text": "LANDING",
+            "value": 28
+        },
+        {
+            "text": "JOBS",
+            "value": 112
+        },
+        {
+            "text": "LIKE",
+            "value": 323
+        },
+        {
+            "text": "PART",
+            "value": 144
+        },
+        {
+            "text": "TIME",
+            "value": 293
+        },
+        {
+            "text": "SORTER",
+            "value": 56
+        },
+        {
+            "text": "GO",
+            "value": 111
+        },
+        {
+            "text": "INFORMATIONAL",
+            "value": 56
+        },
+        {
+            "text": "INTERVIEWS",
+            "value": 28
+        },
+        {
+            "text": "BEST",
+            "value": 229
+        },
+        {
+            "text": "MEETING",
+            "value": 200
+        },
+        {
+            "text": "HIRING",
+            "value": 140
+        },
+        {
+            "text": "MANAGER",
+            "value": 84
+        },
+        {
+            "text": "ASK",
+            "value": 50
+        },
+        {
+            "text": "00AM",
+            "value": 30
+        },
+        {
+            "text": "OVERCAST",
+            "value": 30
+        },
+        {
+            "text": "MORNING",
+            "value": 147
+        },
+        {
+            "text": "FAR",
+            "value": 52
+        },
+        {
+            "text": "EXPECTED",
+            "value": 55
+        },
+        {
+            "text": "TODAY",
+            "value": 347
+        },
+        {
+            "text": "SATURDAY",
+            "value": 107
+        },
+        {
+            "text": "NIGHTS",
+            "value": 22
+        },
+        {
+            "text": "TIGHTS",
+            "value": 22
+        },
+        {
             "text": "FIRST",
-            "value": 153
+            "value": 178
         },
         {
             "text": "MIRROR",
@@ -10,7 +350,7 @@
         },
         {
             "text": "LESS",
-            "value": 78
+            "value": 91
         },
         {
             "text": "BOII",
@@ -33,20 +373,12 @@
             "value": 22
         },
         {
-            "text": "FAR",
-            "value": 22
-        },
-        {
             "text": "WE'LL",
             "value": 22
         },
         {
             "text": "SEE",
             "value": 366
-        },
-        {
-            "text": "TIME",
-            "value": 224
         },
         {
             "text": "GOES",
@@ -63,18 +395,6 @@
         {
             "text": "35MM",
             "value": 22
-        },
-        {
-            "text": "MELBOURNE",
-            "value": 5509
-        },
-        {
-            "text": "VICTORIA",
-            "value": 4087
-        },
-        {
-            "text": "AUSTRALIA",
-            "value": 4189
         },
         {
             "text": "SUPREME",
@@ -153,10 +473,6 @@
             "value": 119
         },
         {
-            "text": "PHOTO",
-            "value": 3453
-        },
-        {
             "text": "BELIEVE",
             "value": 22
         },
@@ -166,7 +482,7 @@
         },
         {
             "text": "MIND",
-            "value": 68
+            "value": 58
         },
         {
             "text": "FEELING",
@@ -178,7 +494,7 @@
         },
         {
             "text": "SEXY",
-            "value": 66
+            "value": 44
         },
         {
             "text": "GOOD",
@@ -186,15 +502,11 @@
         },
         {
             "text": "BETTER",
-            "value": 64
+            "value": 82
         },
         {
             "text": "MUCH",
-            "value": 78
-        },
-        {
-            "text": "LIKE",
-            "value": 298
+            "value": 75
         },
         {
             "text": "STYLE",
@@ -213,24 +525,12 @@
             "value": 83
         },
         {
-            "text": "BAR",
-            "value": 144
-        },
-        {
             "text": "CUT",
             "value": 32
         },
         {
             "text": "SOUVO",
             "value": 32
-        },
-        {
-            "text": "SATURDAY",
-            "value": 85
-        },
-        {
-            "text": "NIGHT",
-            "value": 254
         },
         {
             "text": "TRES",
@@ -245,20 +545,12 @@
             "value": 23
         },
         {
-            "text": "RESTAURANT",
-            "value": 64
-        },
-        {
             "text": "IRONY",
             "value": 24
         },
         {
             "text": "LIMPED",
             "value": 24
-        },
-        {
-            "text": "WAY",
-            "value": 97
         },
         {
             "text": "HOUR",
@@ -306,7 +598,7 @@
         },
         {
             "text": "FAN",
-            "value": 34
+            "value": 59
         },
         {
             "text": "GYPSYTALESPODCAST",
@@ -425,14 +717,6 @@
             "value": 80
         },
         {
-            "text": "JOB",
-            "value": 476
-        },
-        {
-            "text": "VIC",
-            "value": 848
-        },
-        {
             "text": "MEDIA",
             "value": 99
         },
@@ -442,7 +726,7 @@
         },
         {
             "text": "RIGHT",
-            "value": 114
+            "value": 131
         },
         {
             "text": "COLLINS",
@@ -526,7 +810,7 @@
         },
         {
             "text": "CONCERT",
-            "value": 90
+            "value": 99
         },
         {
             "text": "MAGICAL",
@@ -542,7 +826,7 @@
         },
         {
             "text": "LAST",
-            "value": 260
+            "value": 264
         },
         {
             "text": "INSPIRING",
@@ -562,7 +846,7 @@
         },
         {
             "text": "THING",
-            "value": 80
+            "value": 70
         },
         {
             "text": "JACEOWEN",
@@ -581,20 +865,16 @@
             "value": 72
         },
         {
-            "text": "SENIOR",
-            "value": 140
-        },
-        {
             "text": "NETWORK",
-            "value": 56
+            "value": 28
         },
         {
             "text": "OPERATIONS",
-            "value": 56
+            "value": 28
         },
         {
             "text": "ENGINEER",
-            "value": 112
+            "value": 84
         },
         {
             "text": "TECHNOLOGIES",
@@ -637,20 +917,8 @@
             "value": 28
         },
         {
-            "text": "HIRING",
-            "value": 140
-        },
-        {
-            "text": "MANAGER",
-            "value": 56
-        },
-        {
-            "text": "BEST",
-            "value": 220
-        },
-        {
             "text": "CITY",
-            "value": 278
+            "value": 262
         },
         {
             "text": "CREATORS",
@@ -671,10 +939,6 @@
         {
             "text": "NERVOUS",
             "value": 38
-        },
-        {
-            "text": "APPLY",
-            "value": 282
         },
         {
             "text": "CLOUD",
@@ -702,7 +966,7 @@
         },
         {
             "text": "MATCH",
-            "value": 74
+            "value": 84
         },
         {
             "text": "MIGHT",
@@ -715,10 +979,6 @@
         {
             "text": "VALUE",
             "value": 56
-        },
-        {
-            "text": "LINK",
-            "value": 384
         },
         {
             "text": "INFO",
@@ -757,10 +1017,6 @@
             "value": 24
         },
         {
-            "text": "GO",
-            "value": 92
-        },
-        {
             "text": "BRRR",
             "value": 22
         },
@@ -774,7 +1030,7 @@
         },
         {
             "text": "NEW",
-            "value": 252
+            "value": 236
         },
         {
             "text": "FEATURES",
@@ -882,7 +1138,7 @@
         },
         {
             "text": "EVENING",
-            "value": 77
+            "value": 110
         },
         {
             "text": "KELVIN",
@@ -922,7 +1178,7 @@
         },
         {
             "text": "THEATRE",
-            "value": 144
+            "value": 160
         },
         {
             "text": "CAMBODIA",
@@ -965,20 +1221,12 @@
             "value": 22
         },
         {
-            "text": "BIG",
-            "value": 144
-        },
-        {
             "text": "ACOUSTIC",
             "value": 22
         },
         {
             "text": "SHED",
             "value": 22
-        },
-        {
-            "text": "SQUARE",
-            "value": 93
         },
         {
             "text": "COMING",
@@ -1034,7 +1282,7 @@
         },
         {
             "text": "DETAILS",
-            "value": 50
+            "value": 66
         },
         {
             "text": "STOREPERSON",
@@ -1170,11 +1418,11 @@
         },
         {
             "text": "ROAD",
-            "value": 49
+            "value": 47
         },
         {
             "text": "TRIP",
-            "value": 166
+            "value": 161
         },
         {
             "text": "CAPTION",
@@ -1182,15 +1430,15 @@
         },
         {
             "text": "EXHIBITION",
-            "value": 133
+            "value": 109
         },
         {
             "text": "LANES",
-            "value": 138
+            "value": 140
         },
         {
             "text": "CLOSED",
-            "value": 172
+            "value": 170
         },
         {
             "text": "SOUTHBOUND",
@@ -1202,7 +1450,7 @@
         },
         {
             "text": "LANE",
-            "value": 135
+            "value": 139
         },
         {
             "text": "BLOCKED",
@@ -1262,7 +1510,7 @@
         },
         {
             "text": "CENTRE",
-            "value": 244
+            "value": 253
         },
         {
             "text": "CBD",
@@ -1298,7 +1546,7 @@
         },
         {
             "text": "LIGHT",
-            "value": 56
+            "value": 64
         },
         {
             "text": "PHOTOGRAPHY",
@@ -1325,10 +1573,6 @@
             "value": 22
         },
         {
-            "text": "MASTERCARD",
-            "value": 56
-        },
-        {
             "text": "STRIVE",
             "value": 28
         },
@@ -1349,10 +1593,6 @@
             "value": 28
         },
         {
-            "text": "LOOKING",
-            "value": 131
-        },
-        {
             "text": "COMPANY",
             "value": 56
         },
@@ -1370,26 +1610,6 @@
         },
         {
             "text": "POSTING",
-            "value": 50
-        },
-        {
-            "text": "MANAGING",
-            "value": 28
-        },
-        {
-            "text": "CONSULTANT",
-            "value": 84
-        },
-        {
-            "text": "ADVISORS",
-            "value": 28
-        },
-        {
-            "text": "CLIENT",
-            "value": 28
-        },
-        {
-            "text": "SERVICES",
             "value": 50
         },
         {
@@ -1438,11 +1658,11 @@
         },
         {
             "text": "TEAM",
-            "value": 214
+            "value": 219
         },
         {
             "text": "OPENING",
-            "value": 44
+            "value": 28
         },
         {
             "text": "BOON",
@@ -1462,7 +1682,7 @@
         },
         {
             "text": "CAPITOL",
-            "value": 48
+            "value": 64
         },
         {
             "text": "DELIVER",
@@ -1509,10 +1729,6 @@
             "value": 22
         },
         {
-            "text": "INDIAN",
-            "value": 32
-        },
-        {
             "text": "MULTI",
             "value": 22
         },
@@ -1554,7 +1770,7 @@
         },
         {
             "text": "TONIGHT",
-            "value": 212
+            "value": 200
         },
         {
             "text": "SPEAKS",
@@ -1582,7 +1798,7 @@
         },
         {
             "text": "COVID",
-            "value": 36
+            "value": 26
         },
         {
             "text": "PANDEMIC",
@@ -1590,7 +1806,7 @@
         },
         {
             "text": "FEATURED",
-            "value": 50
+            "value": 22
         },
         {
             "text": "SPEAKING",
@@ -1661,10 +1877,6 @@
             "value": 66
         },
         {
-            "text": "MEETING",
-            "value": 128
-        },
-        {
             "text": "RELEASE",
             "value": 68
         },
@@ -1717,19 +1929,11 @@
             "value": 28
         },
         {
-            "text": "LOVE",
-            "value": 160
-        },
-        {
             "text": "LEARN",
             "value": 40
         },
         {
             "text": "CONSTANTLY",
-            "value": 28
-        },
-        {
-            "text": "CAREER",
             "value": 28
         },
         {
@@ -1835,10 +2039,6 @@
         {
             "text": "HEAR",
             "value": 56
-        },
-        {
-            "text": "JOBS",
-            "value": 84
         },
         {
             "text": "SOON",
@@ -2037,10 +2237,6 @@
             "value": 32
         },
         {
-            "text": "DELICIOUS",
-            "value": 22
-        },
-        {
             "text": "HEALTHY",
             "value": 31
         },
@@ -2086,7 +2282,7 @@
         },
         {
             "text": "INCLUDING",
-            "value": 30
+            "value": 46
         },
         {
             "text": "ACCOUNT",
@@ -2125,16 +2321,12 @@
             "value": 22
         },
         {
-            "text": "MORNING",
-            "value": 104
-        },
-        {
             "text": "OFFICE",
-            "value": 28
+            "value": 37
         },
         {
             "text": "HOURS",
-            "value": 22
+            "value": 45
         },
         {
             "text": "FORGOT",
@@ -2146,15 +2338,11 @@
         },
         {
             "text": "RECENT",
-            "value": 59
+            "value": 37
         },
         {
             "text": "MONSTER",
             "value": 55
-        },
-        {
-            "text": "PART",
-            "value": 116
         },
         {
             "text": "SERIES",
@@ -2238,7 +2426,7 @@
         },
         {
             "text": "ART",
-            "value": 88
+            "value": 121
         },
         {
             "text": "NOTORIOUS",
@@ -2322,7 +2510,7 @@
         },
         {
             "text": "PEOPLE",
-            "value": 189
+            "value": 132
         },
         {
             "text": "ENTREPRENEURIAL",
@@ -2389,10 +2577,6 @@
             "value": 46
         },
         {
-            "text": "HAPPY",
-            "value": 55
-        },
-        {
             "text": "MEMORIES",
             "value": 44
         },
@@ -2422,7 +2606,7 @@
         },
         {
             "text": "GOLD",
-            "value": 27
+            "value": 22
         },
         {
             "text": "FLAKE",
@@ -2446,7 +2630,7 @@
         },
         {
             "text": "FINAL",
-            "value": 38
+            "value": 22
         },
         {
             "text": "COAT",
@@ -2535,10 +2719,6 @@
         {
             "text": "CALL",
             "value": 22
-        },
-        {
-            "text": "TODAY",
-            "value": 332
         },
         {
             "text": "FREE",
@@ -2675,14 +2855,6 @@
         {
             "text": "SCPHOTOZ",
             "value": 22
-        },
-        {
-            "text": "FEDERATION",
-            "value": 30
-        },
-        {
-            "text": "SORTER",
-            "value": 28
         },
         {
             "text": "SHOW",
@@ -2843,10 +3015,6 @@
         {
             "text": "SHY",
             "value": 41
-        },
-        {
-            "text": "SCORE",
-            "value": 28
         },
         {
             "text": "PRODUCT",
@@ -3034,7 +3202,7 @@
         },
         {
             "text": "TICKETS",
-            "value": 34
+            "value": 22
         },
         {
             "text": "WATCHED",
@@ -3103,10 +3271,6 @@
         {
             "text": "CUTE",
             "value": 28
-        },
-        {
-            "text": "HOLDER",
-            "value": 22
         },
         {
             "text": "JEWELLERY",
@@ -3198,7 +3362,7 @@
         },
         {
             "text": "CAKE",
-            "value": 36
+            "value": 26
         },
         {
             "text": "BABIES",
@@ -3234,7 +3398,7 @@
         },
         {
             "text": "READY",
-            "value": 74
+            "value": 77
         },
         {
             "text": "COCKY",
@@ -3254,94 +3418,6 @@
         },
         {
             "text": "DARKNESS",
-            "value": 22
-        },
-        {
-            "text": "TORI'S",
-            "value": 26
-        },
-        {
-            "text": "WISHING",
-            "value": 22
-        },
-        {
-            "text": "HAPPINESS",
-            "value": 22
-        },
-        {
-            "text": "WORLD",
-            "value": 71
-        },
-        {
-            "text": "MAGNIFICENT",
-            "value": 22
-        },
-        {
-            "text": "DWARF",
-            "value": 22
-        },
-        {
-            "text": "SCOTT'S",
-            "value": 22
-        },
-        {
-            "text": "PINE",
-            "value": 22
-        },
-        {
-            "text": "YEARLY",
-            "value": 22
-        },
-        {
-            "text": "MAINTENANCE",
-            "value": 22
-        },
-        {
-            "text": "SMART",
-            "value": 28
-        },
-        {
-            "text": "SUPERB",
-            "value": 33
-        },
-        {
-            "text": "TECHNOLOGY",
-            "value": 28
-        },
-        {
-            "text": "CURRENTLY",
-            "value": 38
-        },
-        {
-            "text": "REPOST",
-            "value": 22
-        },
-        {
-            "text": "TEEITUPSCREENPRINTING",
-            "value": 22
-        },
-        {
-            "text": "CREWNECK",
-            "value": 22
-        },
-        {
-            "text": "SWEATS",
-            "value": 22
-        },
-        {
-            "text": "ALMIGHTY",
-            "value": 22
-        },
-        {
-            "text": "SKETCH",
-            "value": 22
-        },
-        {
-            "text": "LOGO",
-            "value": 22
-        },
-        {
-            "text": "SITE",
             "value": 22
         },
         {
@@ -3493,6 +3569,58 @@
             "value": 21
         },
         {
+            "text": "LUNCHTIME",
+            "value": 16
+        },
+        {
+            "text": "PALATABLE",
+            "value": 16
+        },
+        {
+            "text": "PROVISION",
+            "value": 16
+        },
+        {
+            "text": "MUSHROOM",
+            "value": 16
+        },
+        {
+            "text": "PIES",
+            "value": 16
+        },
+        {
+            "text": "RMIT",
+            "value": 32
+        },
+        {
+            "text": "CAMPUS",
+            "value": 43
+        },
+        {
+            "text": "NAS",
+            "value": 16
+        },
+        {
+            "text": "REFERENCE",
+            "value": 16
+        },
+        {
+            "text": "GRIFFINS",
+            "value": 16
+        },
+        {
+            "text": "PLUS",
+            "value": 16
+        },
+        {
+            "text": "WORKING",
+            "value": 73
+        },
+        {
+            "text": "BREKKIE",
+            "value": 16
+        },
+        {
             "text": "STATE",
             "value": 77
         },
@@ -3587,70 +3715,6 @@
         {
             "text": "BANK",
             "value": 15
-        },
-        {
-            "text": "BRUNSWICK",
-            "value": 16
-        },
-        {
-            "text": "VISITED",
-            "value": 16
-        },
-        {
-            "text": "STAGES",
-            "value": 16
-        },
-        {
-            "text": "SET",
-            "value": 80
-        },
-        {
-            "text": "DECAL",
-            "value": 16
-        },
-        {
-            "text": "RMIT",
-            "value": 32
-        },
-        {
-            "text": "CAMPUS",
-            "value": 43
-        },
-        {
-            "text": "DIRTY",
-            "value": 16
-        },
-        {
-            "text": "LAUNDRY",
-            "value": 16
-        },
-        {
-            "text": "DISPLAY",
-            "value": 16
-        },
-        {
-            "text": "WIP",
-            "value": 16
-        },
-        {
-            "text": "PARTICULARLY",
-            "value": 23
-        },
-        {
-            "text": "CYANOTYPE",
-            "value": 16
-        },
-        {
-            "text": "PHOTOGRAM",
-            "value": 16
-        },
-        {
-            "text": "TITLE",
-            "value": 25
-        },
-        {
-            "text": "FLAGS",
-            "value": 16
         },
         {
             "text": "COMRADES",
@@ -3762,7 +3826,7 @@
         },
         {
             "text": "WATCH",
-            "value": 51
+            "value": 101
         },
         {
             "text": "SX",
@@ -3778,7 +3842,7 @@
         },
         {
             "text": "STADIUM",
-            "value": 7
+            "value": 17
         },
         {
             "text": "BUSINESSES",
@@ -3833,10 +3897,6 @@
             "value": 168
         },
         {
-            "text": "BOTTOM",
-            "value": 11
-        },
-        {
             "text": "END",
             "value": 19
         },
@@ -3862,7 +3922,7 @@
         },
         {
             "text": "WEST",
-            "value": 41
+            "value": 40
         },
         {
             "text": "SIDE",
@@ -3914,7 +3974,7 @@
         },
         {
             "text": "COFFEE",
-            "value": 48
+            "value": 29
         },
         {
             "text": "MACHINE",
@@ -4045,10 +4105,6 @@
             "value": 10
         },
         {
-            "text": "WORKING",
-            "value": 57
-        },
-        {
             "text": "TEAMS",
             "value": 27
         },
@@ -4162,7 +4218,7 @@
         },
         {
             "text": "REALLY",
-            "value": 25
+            "value": 15
         },
         {
             "text": "LET'S",
@@ -4202,7 +4258,7 @@
         },
         {
             "text": "WAITING",
-            "value": 11
+            "value": 20
         },
         {
             "text": "INTERESTING",
@@ -4282,7 +4338,7 @@
         },
         {
             "text": "CASE",
-            "value": 21
+            "value": 11
         },
         {
             "text": "PAKISTANI",
@@ -4314,7 +4370,7 @@
         },
         {
             "text": "LEFT",
-            "value": 58
+            "value": 59
         },
         {
             "text": "PEEL",
@@ -4458,7 +4514,7 @@
         },
         {
             "text": "ABSOLUTE",
-            "value": 33
+            "value": 24
         },
         {
             "text": "HERO",
@@ -4489,26 +4545,6 @@
             "value": 10
         },
         {
-            "text": "ULTRA",
-            "value": 29
-        },
-        {
-            "text": "ELEGANT",
-            "value": 17
-        },
-        {
-            "text": "FORMER",
-            "value": 17
-        },
-        {
-            "text": "WAREHOUSE",
-            "value": 17
-        },
-        {
-            "text": "LYGON",
-            "value": 46
-        },
-        {
             "text": "SPIEGELTENT",
             "value": 9
         },
@@ -4527,6 +4563,54 @@
         {
             "text": "GROCERY",
             "value": 10
+        },
+        {
+            "text": "HILBY",
+            "value": 5
+        },
+        {
+            "text": "EXPLAINING",
+            "value": 5
+        },
+        {
+            "text": "SOMETHING",
+            "value": 12
+        },
+        {
+            "text": "BRUNCH",
+            "value": 19
+        },
+        {
+            "text": "PERHAPS",
+            "value": 10
+        },
+        {
+            "text": "SIZE",
+            "value": 5
+        },
+        {
+            "text": "CHICKEN",
+            "value": 7
+        },
+        {
+            "text": "WAFFLES",
+            "value": 5
+        },
+        {
+            "text": "ARCHIE'S",
+            "value": 10
+        },
+        {
+            "text": "FITZROY",
+            "value": 9
+        },
+        {
+            "text": "SOUTH",
+            "value": 23
+        },
+        {
+            "text": "LOCAL",
+            "value": 35
         },
         {
             "text": "RUSTY'S",
@@ -4609,10 +4693,6 @@
             "value": 29
         },
         {
-            "text": "JOINT",
-            "value": 29
-        },
-        {
             "text": "DIVISION",
             "value": 29
         },
@@ -4626,7 +4706,7 @@
         },
         {
             "text": "ORDER",
-            "value": 29
+            "value": 46
         },
         {
             "text": "SUPERSTAR",
@@ -4697,15 +4777,11 @@
             "value": 5
         },
         {
-            "text": "SHAKSHUKA",
+            "text": "SUPERB",
             "value": 5
         },
         {
-            "text": "BRUNCH",
-            "value": 14
-        },
-        {
-            "text": "ARCHIE'S",
+            "text": "SHAKSHUKA",
             "value": 5
         },
         {
@@ -4743,6 +4819,10 @@
         {
             "text": "BARS",
             "value": 6
+        },
+        {
+            "text": "WORLD",
+            "value": 49
         },
         {
             "text": "ROBOT",
@@ -4798,7 +4878,7 @@
         },
         {
             "text": "USING",
-            "value": 24
+            "value": 26
         },
         {
             "text": "SUNDAYS",
@@ -4815,6 +4895,34 @@
         {
             "text": "AGILEAUS2022",
             "value": 12
+        },
+        {
+            "text": "PLAYHOUSE",
+            "value": 33
+        },
+        {
+            "text": "PRINCES",
+            "value": 48
+        },
+        {
+            "text": "BRIDGE",
+            "value": 28
+        },
+        {
+            "text": "MAGNIFICENT",
+            "value": 33
+        },
+        {
+            "text": "SOULFUL",
+            "value": 33
+        },
+        {
+            "text": "DELIGHTFUL",
+            "value": 25
+        },
+        {
+            "text": "SINCE",
+            "value": 35
         },
         {
             "text": "SAW",
@@ -4850,7 +4958,7 @@
         },
         {
             "text": "FANTASTIC",
-            "value": 33
+            "value": 41
         },
         {
             "text": "ARTSHUB",
@@ -4902,7 +5010,7 @@
         },
         {
             "text": "SKY",
-            "value": 30
+            "value": 43
         },
         {
             "text": "DECK",
@@ -5029,10 +5137,6 @@
             "value": 88
         },
         {
-            "text": "ASK",
-            "value": 22
-        },
-        {
             "text": "WHATEVER",
             "value": 22
         },
@@ -5073,12 +5177,8 @@
             "value": 22
         },
         {
-            "text": "COMES",
-            "value": 44
-        },
-        {
             "text": "NEXT",
-            "value": 55
+            "value": 60
         },
         {
             "text": "FRAMEWORK",
@@ -5237,6 +5337,10 @@
             "value": 44
         },
         {
+            "text": "SET",
+            "value": 64
+        },
+        {
             "text": "TREATIES",
             "value": 44
         },
@@ -5253,12 +5357,8 @@
             "value": 66
         },
         {
-            "text": "LOCAL",
-            "value": 22
-        },
-        {
             "text": "LEVEL",
-            "value": 27
+            "value": 22
         },
         {
             "text": "DESIGNED",
@@ -5418,7 +5518,7 @@
         },
         {
             "text": "PAST",
-            "value": 46
+            "value": 59
         },
         {
             "text": "SIGNING",
@@ -5462,7 +5562,7 @@
         },
         {
             "text": "BIGGEST",
-            "value": 22
+            "value": 32
         },
         {
             "text": "CHANGE",
@@ -5602,11 +5702,15 @@
         },
         {
             "text": "TOOK",
-            "value": 16
+            "value": 25
         },
         {
             "text": "SPIRITUAL",
             "value": 16
+        },
+        {
+            "text": "LYGON",
+            "value": 29
         },
         {
             "text": "ALERT",
@@ -5662,7 +5766,7 @@
         },
         {
             "text": "WIN",
-            "value": 30
+            "value": 42
         },
         {
             "text": "HEARTATTACK",
@@ -5742,39 +5846,35 @@
         },
         {
             "text": "APPLE",
-            "value": 14
+            "value": 4
         },
         {
             "text": "CRUMBLE",
-            "value": 14
+            "value": 4
         },
         {
             "text": "SEEM",
-            "value": 14
+            "value": 4
         },
         {
             "text": "ITALIAN",
-            "value": 28
+            "value": 8
         },
         {
             "text": "DEFINITELY",
-            "value": 14
+            "value": 4
         },
         {
             "text": "FEWER",
-            "value": 14
+            "value": 4
         },
         {
             "text": "WAITERS",
-            "value": 14
-        },
-        {
-            "text": "PERHAPS",
-            "value": 15
+            "value": 4
         },
         {
             "text": "DOC",
-            "value": 14
+            "value": 4
         },
         {
             "text": "COOL",
@@ -5837,10 +5937,6 @@
             "value": 39
         },
         {
-            "text": "EXPECTED",
-            "value": 25
-        },
-        {
             "text": "FINALS",
             "value": 15
         },
@@ -5857,44 +5953,44 @@
             "value": 15
         },
         {
-            "text": "BATHROOM",
-            "value": 10
+            "text": "BREAKFAST",
+            "value": 4
         },
         {
-            "text": "TRANSFORMATION",
-            "value": 5
+            "text": "CHAMPIONS",
+            "value": 4
+        },
+        {
+            "text": "FOLK",
+            "value": 4
         },
         {
             "text": "KENSINGTON",
-            "value": 7
+            "value": 4
         },
         {
-            "text": "CARD",
-            "value": 9
+            "text": "PRE",
+            "value": 29
         },
         {
-            "text": "DVA",
-            "value": 5
+            "text": "BABY",
+            "value": 17
         },
         {
-            "text": "CLIENTS",
-            "value": 5
+            "text": "ALBUM",
+            "value": 17
         },
         {
-            "text": "HAZARDS",
-            "value": 5
+            "text": "DEC",
+            "value": 17
         },
         {
-            "text": "DELIVERED",
-            "value": 5
+            "text": "ONBOARD",
+            "value": 17
         },
         {
-            "text": "FULL",
-            "value": 66
-        },
-        {
-            "text": "SATISFACTION",
-            "value": 5
+            "text": "FOLKS",
+            "value": 17
         },
         {
             "text": "NAR",
@@ -5911,10 +6007,6 @@
         {
             "text": "VIETNAM",
             "value": 1
-        },
-        {
-            "text": "SOUTH",
-            "value": 10
         },
         {
             "text": "BEAST",
@@ -5945,6 +6037,10 @@
             "value": 7
         },
         {
+            "text": "PARTICULARLY",
+            "value": 7
+        },
+        {
             "text": "FAST",
             "value": 7
         },
@@ -5971,10 +6067,6 @@
         {
             "text": "ADMINISTRATION",
             "value": 16
-        },
-        {
-            "text": "SOMETHING",
-            "value": 7
         },
         {
             "text": "ASSIGNMENTS",
@@ -6097,10 +6189,6 @@
             "value": 12
         },
         {
-            "text": "PRE",
-            "value": 12
-        },
-        {
             "text": "DIABETES",
             "value": 24
         },
@@ -6170,7 +6258,7 @@
         },
         {
             "text": "JAMES",
-            "value": 12
+            "value": 14
         },
         {
             "text": "AWARD",
@@ -6202,7 +6290,7 @@
         },
         {
             "text": "ARENA",
-            "value": 61
+            "value": 69
         },
         {
             "text": "CONTEST",
@@ -6330,14 +6418,18 @@
         },
         {
             "text": "CONVENTION",
-            "value": 60
+            "value": 36
         },
         {
             "text": "MCEC",
-            "value": 60
+            "value": 36
         },
         {
             "text": "EXCELLENT",
+            "value": 12
+        },
+        {
+            "text": "ULTRA",
             "value": 12
         },
         {
@@ -6566,7 +6658,7 @@
         },
         {
             "text": "FAT",
-            "value": 12
+            "value": 14
         },
         {
             "text": "INDIANS",
@@ -6607,6 +6699,10 @@
         {
             "text": "SESSION",
             "value": 32
+        },
+        {
+            "text": "FULL",
+            "value": 61
         },
         {
             "text": "PAPER",
@@ -6762,7 +6858,7 @@
         },
         {
             "text": "GAME",
-            "value": 73
+            "value": 86
         },
         {
             "text": "DEV",
@@ -7050,7 +7146,7 @@
         },
         {
             "text": "EVERYONE",
-            "value": 14
+            "value": 27
         },
         {
             "text": "GRAYNICOLLS",
@@ -7069,12 +7165,8 @@
             "value": 4
         },
         {
-            "text": "PRINCES",
-            "value": 20
-        },
-        {
             "text": "PARK",
-            "value": 62
+            "value": 67
         },
         {
             "text": "IPHONE",
@@ -7083,6 +7175,34 @@
         {
             "text": "PRO",
             "value": 8
+        },
+        {
+            "text": "CARS",
+            "value": 2
+        },
+        {
+            "text": "STOP",
+            "value": 2
+        },
+        {
+            "text": "FUCKING",
+            "value": 15
+        },
+        {
+            "text": "CYCLE",
+            "value": 2
+        },
+        {
+            "text": "OVERTAKING",
+            "value": 2
+        },
+        {
+            "text": "DELIBERATELY",
+            "value": 2
+        },
+        {
+            "text": "GEOTAGGED",
+            "value": 2
         },
         {
             "text": "THAILAND",
@@ -7161,6 +7281,34 @@
             "value": 4
         },
         {
+            "text": "WOKE",
+            "value": 13
+        },
+        {
+            "text": "REMAINING",
+            "value": 13
+        },
+        {
+            "text": "LOOKS",
+            "value": 26
+        },
+        {
+            "text": "HARDLY",
+            "value": 13
+        },
+        {
+            "text": "GONNA",
+            "value": 13
+        },
+        {
+            "text": "YEAH",
+            "value": 13
+        },
+        {
+            "text": "HAPPENING",
+            "value": 13
+        },
+        {
             "text": "GROUND",
             "value": 23
         },
@@ -7174,7 +7322,7 @@
         },
         {
             "text": "PAKISTAN",
-            "value": 76
+            "value": 86
         },
         {
             "text": "T20",
@@ -7227,10 +7375,6 @@
         {
             "text": "CHANCE",
             "value": 23
-        },
-        {
-            "text": "RAIN",
-            "value": 59
         },
         {
             "text": "10PM",
@@ -7381,36 +7525,8 @@
             "value": 9
         },
         {
-            "text": "FUCKING",
-            "value": 13
-        },
-        {
             "text": "DEBI",
             "value": 13
-        },
-        {
-            "text": "FATFREDDYSDROPNZ",
-            "value": 19
-        },
-        {
-            "text": "ROCKING",
-            "value": 19
-        },
-        {
-            "text": "BOWL",
-            "value": 38
-        },
-        {
-            "text": "SIDNEY",
-            "value": 19
-        },
-        {
-            "text": "MYER",
-            "value": 19
-        },
-        {
-            "text": "MUSIC",
-            "value": 19
         },
         {
             "text": "HORSEPOWER",
@@ -7546,7 +7662,7 @@
         },
         {
             "text": "PSYCHEDELIC",
-            "value": 1
+            "value": 10
         },
         {
             "text": "COMPOUNDS",
@@ -7757,10 +7873,6 @@
             "value": 2
         },
         {
-            "text": "INFORMATION",
-            "value": 2
-        },
-        {
             "text": "RATHER",
             "value": 3
         },
@@ -7817,12 +7929,24 @@
             "value": 13
         },
         {
+            "text": "CHEWING",
+            "value": 2
+        },
+        {
+            "text": "ANAMOE'S",
+            "value": 2
+        },
+        {
+            "text": "CUMMINGS",
+            "value": 2
+        },
+        {
             "text": "FLEMINGTON",
-            "value": 7
+            "value": 9
         },
         {
             "text": "RACECOURSE",
-            "value": 6
+            "value": 8
         },
         {
             "text": "MARIBYRNONG",
@@ -7909,10 +8033,6 @@
             "value": 2
         },
         {
-            "text": "CHICKEN",
-            "value": 2
-        },
-        {
             "text": "MUSHROOMS",
             "value": 2
         },
@@ -7957,7 +8077,27 @@
             "value": 10
         },
         {
-            "text": "LUCK",
+            "text": "AAMI",
+            "value": 19
+        },
+        {
+            "text": "MCG",
+            "value": 70
+        },
+        {
+            "text": "COUNTING",
+            "value": 10
+        },
+        {
+            "text": "TOURNAMENT",
+            "value": 10
+        },
+        {
+            "text": "ZINDABAD",
+            "value": 10
+        },
+        {
+            "text": "MAY",
             "value": 10
         },
         {
@@ -7979,10 +8119,6 @@
         {
             "text": "NATION",
             "value": 10
-        },
-        {
-            "text": "MCG",
-            "value": 60
         },
         {
             "text": "VIRAT",
@@ -8061,10 +8197,6 @@
             "value": 10
         },
         {
-            "text": "SINCE",
-            "value": 10
-        },
-        {
             "text": "DERBY",
             "value": 5
         },
@@ -8103,10 +8235,6 @@
         {
             "text": "NUMBER",
             "value": 5
-        },
-        {
-            "text": "AAMI",
-            "value": 14
         },
         {
             "text": "PRACTICING",
@@ -8295,6 +8423,10 @@
         {
             "text": "STRUCK",
             "value": 20
+        },
+        {
+            "text": "CURRENTLY",
+            "value": 10
         },
         {
             "text": "ASYMPTOMATIC",
@@ -8525,6 +8657,30 @@
             "value": 5
         },
         {
+            "text": "PANORAMA",
+            "value": 18
+        },
+        {
+            "text": "GREATEST",
+            "value": 10
+        },
+        {
+            "text": "BACKHANDS",
+            "value": 10
+        },
+        {
+            "text": "TRIPPING",
+            "value": 8
+        },
+        {
+            "text": "ROD",
+            "value": 17
+        },
+        {
+            "text": "LAVER",
+            "value": 17
+        },
+        {
             "text": "TAME",
             "value": 9
         },
@@ -8581,23 +8737,11 @@
             "value": 9
         },
         {
-            "text": "ROD",
-            "value": 9
-        },
-        {
-            "text": "LAVER",
-            "value": 9
-        },
-        {
             "text": "FIGHT",
-            "value": 45
+            "value": 27
         },
         {
             "text": "SHAKE",
-            "value": 9
-        },
-        {
-            "text": "HANDS",
             "value": 9
         },
         {
@@ -8606,10 +8750,14 @@
         },
         {
             "text": "HANEY",
-            "value": 18
+            "value": 9
         },
         {
             "text": "KAMBOSOS",
+            "value": 9
+        },
+        {
+            "text": "TITLE",
             "value": 9
         },
         {
@@ -8629,38 +8777,6 @@
             "value": 10
         },
         {
-            "text": "LEAST",
-            "value": 9
-        },
-        {
-            "text": "WEAR",
-            "value": 9
-        },
-        {
-            "text": "BEANIE",
-            "value": 9
-        },
-        {
-            "text": "PUFFER",
-            "value": 9
-        },
-        {
-            "text": "JACKET",
-            "value": 9
-        },
-        {
-            "text": "CRACKER",
-            "value": 9
-        },
-        {
-            "text": "ATMOSPHERE",
-            "value": 9
-        },
-        {
-            "text": "KAMBOSIS",
-            "value": 9
-        },
-        {
             "text": "BURNLEY",
             "value": 11
         },
@@ -8670,11 +8786,11 @@
         },
         {
             "text": "M1",
-            "value": 39
+            "value": 40
         },
         {
             "text": "INBOUND",
-            "value": 35
+            "value": 36
         },
         {
             "text": "ENTRANCE",
@@ -8682,11 +8798,11 @@
         },
         {
             "text": "GATE",
-            "value": 27
+            "value": 28
         },
         {
             "text": "FWY",
-            "value": 25
+            "value": 26
         },
         {
             "text": "MONTAGUE",
@@ -8702,11 +8818,11 @@
         },
         {
             "text": "PORT",
-            "value": 15
+            "value": 16
         },
         {
             "text": "CITYBOUND",
-            "value": 4
+            "value": 5
         },
         {
             "text": "NEAR",
@@ -8877,6 +8993,10 @@
             "value": 12
         },
         {
+            "text": "CARD",
+            "value": 4
+        },
+        {
             "text": "BRILLANTE",
             "value": 4
         },
@@ -8918,11 +9038,11 @@
         },
         {
             "text": "RD",
-            "value": 6
+            "value": 4
         },
         {
             "text": "DIRECTIONS",
-            "value": 4
+            "value": 2
         },
         {
             "text": "NEWMARKET",
@@ -8941,20 +9061,16 @@
             "value": 1
         },
         {
+            "text": "USED",
+            "value": 3
+        },
+        {
             "text": "REALISE",
             "value": 1
         },
         {
             "text": "SUIT",
             "value": 1
-        },
-        {
-            "text": "STRETCH",
-            "value": 2
-        },
-        {
-            "text": "DYNON",
-            "value": 2
         },
         {
             "text": "DAILY",

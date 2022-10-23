@@ -2,6 +2,38 @@
     "count": 29,
     "data": [
         {
+            "tid": 1583964642623488000,
+            "uid": 14820495,
+            "author": "Chris Rodda",
+            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
+            "time": "2022-10-22 23:32:54 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Lunchtime meeting made palatable by provision of the most delicious mushroom pies ever #BlackTruffleCatering #B100 #RMIT @ RMIT Melbourne City campus https://t.co/sByOSMQU80",
+            "clean_text": "Lunchtime meeting made palatable by provision of the most delicious mushroom pies ever RMIT Melbourne City campus",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.963,
+            "latitude": -37.8078,
+            "photo_urls": []
+        },
+        {
+            "tid": 1583964223427969024,
+            "uid": 14820495,
+            "author": "Chris Rodda",
+            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
+            "time": "2022-10-22 23:31:14 +0000",
+            "like_no": 0,
+            "language": "en",
+            "text": "Details from #RMIT NAS (including a reference to the Griffins’ Capitol Theatre) plus a working brekkie at #PearsonAndMurphy #latergram @ RMIT Melbourne City campus https://t.co/LG6Lb79SiZ",
+            "clean_text": "Details from NAS including a reference to the Griffins Capitol Theatre plus a working brekkie at RMIT Melbourne City campus",
+            "place_name": "Melbourne, Victoria",
+            "place_type": "city",
+            "longitude": 144.963,
+            "latitude": -37.8078,
+            "photo_urls": []
+        },
+        {
             "tid": 1583779196442415104,
             "uid": 2754391176,
             "author": "Lukas Parker",
@@ -457,38 +489,6 @@
             "place_type": "city",
             "longitude": 144.96756,
             "latitude": -37.80889,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581450171245658114,
-            "uid": 14820495,
-            "author": "Chris Rodda",
-            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
-            "time": "2022-10-16 01:01:17 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "After the opening of the Brunswick #PlaceLab I visited the new city one, in the final stages of set-up, #B94 #RMIT You can do so much with a decal… @ RMIT Melbourne City campus https://t.co/86BUDoNZBv",
-            "clean_text": "After the opening of the Brunswick I visited the new city one in the final stages of set up You can do so much with a decal RMIT Melbourne City campus",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.963,
-            "latitude": -37.8078,
-            "photo_urls": []
-        },
-        {
-            "tid": 1581449721415368705,
-            "uid": 14820495,
-            "author": "Chris Rodda",
-            "user_img": "https://pbs.twimg.com/profile_images/472902482444554240/iVYLgQ36_normal.jpeg",
-            "time": "2022-10-16 00:59:30 +0000",
-            "like_no": 0,
-            "language": "en",
-            "text": "‘Dirty Laundry’ display (WIP) at #RMIT #B94 - I particularly like the cyanotype photogram title flags! @ RMIT Melbourne City campus https://t.co/2KCa3NTysG",
-            "clean_text": "Dirty Laundry display WIP at I particularly like the cyanotype photogram title flags RMIT Melbourne City campus",
-            "place_name": "Melbourne, Victoria",
-            "place_type": "city",
-            "longitude": 144.963,
-            "latitude": -37.8078,
             "photo_urls": []
         }
     ]

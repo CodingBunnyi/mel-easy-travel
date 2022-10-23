@@ -58,7 +58,7 @@
         },
         {
             "text": "LYGON",
-            "value": 4
+            "value": 3
         },
         {
             "text": "CARLTON",
@@ -514,86 +514,6 @@
         },
         {
             "text": "BAR",
-            "value": 1
-        },
-        {
-            "text": "COFFEE",
-            "value": 1
-        },
-        {
-            "text": "CASE",
-            "value": 1
-        },
-        {
-            "text": "APPLE",
-            "value": 1
-        },
-        {
-            "text": "CRUMBLE",
-            "value": 1
-        },
-        {
-            "text": "CAKE",
-            "value": 1
-        },
-        {
-            "text": "SEEM",
-            "value": 1
-        },
-        {
-            "text": "REALLY",
-            "value": 1
-        },
-        {
-            "text": "ITALIAN",
-            "value": 2
-        },
-        {
-            "text": "MIND",
-            "value": 1
-        },
-        {
-            "text": "DEFINITELY",
-            "value": 1
-        },
-        {
-            "text": "FEWER",
-            "value": 1
-        },
-        {
-            "text": "WAITERS",
-            "value": 1
-        },
-        {
-            "text": "PERHAPS",
-            "value": 1
-        },
-        {
-            "text": "COVID",
-            "value": 1
-        },
-        {
-            "text": "THING",
-            "value": 1
-        },
-        {
-            "text": "DOC",
-            "value": 1
-        },
-        {
-            "text": "ULTRA",
-            "value": 1
-        },
-        {
-            "text": "ELEGANT",
-            "value": 1
-        },
-        {
-            "text": "FORMER",
-            "value": 1
-        },
-        {
-            "text": "WAREHOUSE",
             "value": 1
         }
     ]

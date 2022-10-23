@@ -1,6 +1,82 @@
 {
     "word_freq": [
         {
+            "text": "PSYCHEDELIC",
+            "value": 1
+        },
+        {
+            "text": "PANORAMA",
+            "value": 2
+        },
+        {
+            "text": "TOOK",
+            "value": 1
+        },
+        {
+            "text": "CONCERT",
+            "value": 1
+        },
+        {
+            "text": "BETTER",
+            "value": 1
+        },
+        {
+            "text": "LUCK",
+            "value": 1
+        },
+        {
+            "text": "NEXT",
+            "value": 1
+        },
+        {
+            "text": "TIME",
+            "value": 5
+        },
+        {
+            "text": "AAMI",
+            "value": 4
+        },
+        {
+            "text": "PARK",
+            "value": 4
+        },
+        {
+            "text": "GREATEST",
+            "value": 1
+        },
+        {
+            "text": "BACKHANDS",
+            "value": 1
+        },
+        {
+            "text": "TRIPPING",
+            "value": 1
+        },
+        {
+            "text": "LIGHT",
+            "value": 1
+        },
+        {
+            "text": "FANTASTIC",
+            "value": 1
+        },
+        {
+            "text": "ROD",
+            "value": 2
+        },
+        {
+            "text": "LAVER",
+            "value": 2
+        },
+        {
+            "text": "ARENA",
+            "value": 6
+        },
+        {
+            "text": "WAITING",
+            "value": 1
+        },
+        {
             "text": "TAME",
             "value": 1
         },
@@ -43,10 +119,6 @@
         {
             "text": "BRILLANTE",
             "value": 1
-        },
-        {
-            "text": "TIME",
-            "value": 4
         },
         {
             "text": "POSSESION",
@@ -113,10 +185,6 @@
             "value": 4
         },
         {
-            "text": "ARENA",
-            "value": 5
-        },
-        {
             "text": "VIC",
             "value": 2
         },
@@ -127,14 +195,6 @@
         {
             "text": "NUMBER",
             "value": 1
-        },
-        {
-            "text": "AAMI",
-            "value": 3
-        },
-        {
-            "text": "PARK",
-            "value": 3
         },
         {
             "text": "PICTURE",
@@ -293,14 +353,6 @@
             "value": 3
         },
         {
-            "text": "ROD",
-            "value": 1
-        },
-        {
-            "text": "LAVER",
-            "value": 1
-        },
-        {
             "text": "WEATHER",
             "value": 1
         },
@@ -382,7 +434,7 @@
         },
         {
             "text": "FIGHT",
-            "value": 5
+            "value": 3
         },
         {
             "text": "SHOWING",
@@ -422,7 +474,7 @@
         },
         {
             "text": "HANEY",
-            "value": 2
+            "value": 1
         },
         {
             "text": "KAMBOSOS",
@@ -450,70 +502,6 @@
         },
         {
             "text": "POINT",
-            "value": 1
-        },
-        {
-            "text": "FATFREDDYSDROPNZ",
-            "value": 1
-        },
-        {
-            "text": "ROCKING",
-            "value": 1
-        },
-        {
-            "text": "BOWL",
-            "value": 2
-        },
-        {
-            "text": "SIDNEY",
-            "value": 1
-        },
-        {
-            "text": "MYER",
-            "value": 1
-        },
-        {
-            "text": "MUSIC",
-            "value": 1
-        },
-        {
-            "text": "GO",
-            "value": 1
-        },
-        {
-            "text": "LEAST",
-            "value": 1
-        },
-        {
-            "text": "WEAR",
-            "value": 1
-        },
-        {
-            "text": "BEANIE",
-            "value": 1
-        },
-        {
-            "text": "PUFFER",
-            "value": 1
-        },
-        {
-            "text": "JACKET",
-            "value": 1
-        },
-        {
-            "text": "ABSOLUTE",
-            "value": 1
-        },
-        {
-            "text": "CRACKER",
-            "value": 1
-        },
-        {
-            "text": "ATMOSPHERE",
-            "value": 1
-        },
-        {
-            "text": "KAMBOSIS",
             "value": 1
         }
     ]

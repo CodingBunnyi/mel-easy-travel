@@ -1,6 +1,26 @@
 {
     "word_freq": [
         {
+            "text": "PHOTO",
+            "value": 5
+        },
+        {
+            "text": "FITZROY",
+            "value": 1
+        },
+        {
+            "text": "SOUTH",
+            "value": 1
+        },
+        {
+            "text": "LOCAL",
+            "value": 1
+        },
+        {
+            "text": "OFFICE",
+            "value": 1
+        },
+        {
             "text": "TOLD",
             "value": 1
         },
@@ -15,10 +35,6 @@
         {
             "text": "LINE",
             "value": 1
-        },
-        {
-            "text": "PHOTO",
-            "value": 4
         },
         {
             "text": "COMEDY",

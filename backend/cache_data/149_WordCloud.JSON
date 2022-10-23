@@ -1,6 +1,18 @@
 {
     "word_freq": [
         {
+            "text": "SOUTH",
+            "value": 1
+        },
+        {
+            "text": "MELBOURNE",
+            "value": 5
+        },
+        {
+            "text": "VICTORIA",
+            "value": 2
+        },
+        {
             "text": "HORSEPOWER",
             "value": 1
         },
@@ -33,10 +45,6 @@
             "value": 1
         },
         {
-            "text": "MELBOURNE",
-            "value": 4
-        },
-        {
             "text": "SEASONS",
             "value": 1
         },
@@ -50,10 +58,6 @@
         },
         {
             "text": "HOTEL",
-            "value": 1
-        },
-        {
-            "text": "VICTORIA",
             "value": 1
         },
         {
