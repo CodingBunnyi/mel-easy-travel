@@ -19,7 +19,8 @@ Important thing: The project is only used for the University of Melbourne GEOM90
 
 In the project directory, you can run:
 
-> 1. Use `npm install` to install packages for frontend server
+> 1. Use `npm install` to install packages for frontend server <br>
+> If you have any dependency issue when install packages, you can try `npm install --save --legacy-peer-deps` 
 > 2. Use `npm start` to start frontend server
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   
