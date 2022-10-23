@@ -31,7 +31,7 @@ const DataPage = () => (
                   </Avatar>
                 </ListItemAvatar>
 
-                <ListItemText primary="Weather Data API" secondary="https://openweathermap.org/" />
+                <ListItemText style={ {'word-wrap': 'break-word'} } primary="Weather Data API" secondary="https://openweathermap.org/" />
               </ListItemButton>
             </a>
 
@@ -43,7 +43,7 @@ const DataPage = () => (
                   </Avatar>
                 </ListItemAvatar>
 
-                <ListItemText primary="Metro Routes" secondary="http://localhost:3000/data/BusMetroRoutes.json"/>
+                <ListItemText style={ {'word-wrap': 'break-word'} } primary="Metro Routes" secondary="http://localhost:3000/data/BusMetroRoutes.json"/>
               </ListItemButton>
             </a>
 
@@ -55,7 +55,7 @@ const DataPage = () => (
                   </Avatar>
                 </ListItemAvatar>
 
-                <ListItemText primary="Bus Regional Routes" secondary="http://localhost:3000/data/BusRegionalRoutes.json"/>
+                <ListItemText style={ {'word-wrap': 'break-word'} } primary="Bus Regional Routes" secondary="http://localhost:3000/data/BusRegionalRoutes.json"/>
               </ListItemButton>
             </a>
 
@@ -67,7 +67,7 @@ const DataPage = () => (
                   </Avatar>
                 </ListItemAvatar>
 
-                <ListItemText primary="Melbourne Bicycle Routes" secondary="http://localhost:3000/data/MelbourneBicycleRoutesMGA.json"/>
+                <ListItemText style={ {'word-wrap': 'break-word'} } primary="Melbourne Bicycle Routes" secondary="http://localhost:3000/data/MelbourneBicycleRoutesMGA.json"/>
               </ListItemButton>
             </a>
 
@@ -79,7 +79,7 @@ const DataPage = () => (
                   </Avatar>
                 </ListItemAvatar>
 
-                <ListItemText primary="Wind Speed Description" secondary="http://localhost:3000/data/wind-speed-description.json"/>
+                <ListItemText style={ {'word-wrap': 'break-word'} } primary="Wind Speed Description" secondary="http://localhost:3000/data/wind-speed-description.json"/>
               </ListItemButton>
             </a>
 
@@ -91,7 +91,7 @@ const DataPage = () => (
                   </Avatar>
                 </ListItemAvatar>
 
-                <ListItemText primary="Twitter Data Api" secondary="https://developer.twitter.com/en/docs/twitter-api"/>
+                <ListItemText style={ {'word-wrap': 'break-word'} } primary="Twitter Data Api" secondary="https://developer.twitter.com/en/docs/twitter-api"/>
               </ListItemButton>
             </a>
 
@@ -103,7 +103,7 @@ const DataPage = () => (
                   </Avatar>
                 </ListItemAvatar>
 
-                <ListItemText primary="Point of Interest" secondary="http://localhost:3000/data/Melbourne_POIs_MGA.json"/>
+                <ListItemText style={ {'word-wrap': 'break-word'} } primary="Point of Interest" secondary="http://localhost:3000/data/Melbourne_POIs_MGA.json"/>
               </ListItemButton>
             </a>
 
@@ -115,7 +115,7 @@ const DataPage = () => (
                   </Avatar>
                 </ListItemAvatar>
 
-                <ListItemText primary="Restaurant" secondary="http://localhost:3000/data/restaurant.json"/>
+                <ListItemText style={ {'word-wrap': 'break-word'} } primary="Restaurant" secondary="http://localhost:3000/data/restaurant.json"/>
               </ListItemButton>
             </a>
 
