@@ -1,8 +1,21 @@
 # Getting Started with MelEasy
+Project github: [https://github.com/CodingBunnyi/mel-easy-travel](https://github.com/CodingBunnyi/mel-easy-travel).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Important thing: The project is only used for the University of Melbourne GEOM90007 Assignment 3 (Group 67) 2022 semester 2.
+
+**Collaborator**:<br>
+
+[CodingBunnyi](https://github.com/CodingBunnyi): Yuhan Qian 1244574 [**yuhqian1@student.unimelb.edu.au**](mailto:yuhqian1@student.unimelb.edu.au)<br>
+
+[chcc3](https://github.com/chcc3): Cheng Chen 1161885 [**cheng.chen6@student.unimelb.edu.au**](mailto:pshangguan@student.unimelb.edu.au)<br>
+
+[onennine](https://github.com/onennine): Xiaoxi Zhang 1226240 [**xiaoxzhang2@student.unimelb.edu.au**](mailto:pshangguan@student.unimelb.edu.au)
+
+[pshangg](https://github.com/pshanggu): Peicong Shangguan 1222843 [**pshangguan@student.unimelb.edu.au**](mailto:pshangguan@student.unimelb.edu.au) 
 
 ## Run frontend
+> Make sure you have node.js installed<br>
+> node.js installation page: [https://nodejs.org/en/](https://nodejs.org/en/)
 
 In the project directory, you can run:
 
@@ -29,7 +42,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 > update cached data (This may take 10-15 min depend on the network condition)
 
 
-* ### Unix or Mac-OS user:
+* ### Mac-OS user:
 > 1. Open CMD at the backend folder which include the `requirements.txt` file:<br>
 > `cd backend`
 > 2. Create a python virtual environment at the backend folder: <br>
