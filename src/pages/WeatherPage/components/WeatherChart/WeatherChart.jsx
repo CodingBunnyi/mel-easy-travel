@@ -58,7 +58,7 @@ const WeatherChart = ({ weatherData, weatherLoading }) => {
       </Typography>
 
       {weatherLoading ? <LoadingBox /> : 
-      <ResponsiveContainer  width='100%' >
+      <ResponsiveContainer  width='100%' height={ 250 }>
         <ComposedChart height={ 250 } data={ getData() }
           margin={ { top: 0, right: 0, left: 0, bottom: 0 } }
         >
